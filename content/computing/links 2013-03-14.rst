@@ -1,0 +1,31 @@
+links 2013-03-14
+================
+
+:date: 2013-03-14
+:tags: Python, GNOME, non-Debian, non-FLOSS, links
+
+
+* each feature release of Python comes with a great amount of changes,
+  but I was particularly impressed by `those of 3.2`_;
+  the latest such release `isn't too shabby either`_
+
+* the all-important factor of success in business... `luck`_
+
+* one interesting way of measuring Python 3 adoption is download numbers:
+  `0.8 million out of a total of 2 million`_
+
+* another sad case of Ubuntu diverging from GNOME...
+  `Online Accounts`_ (`via`_);
+  as the author of that quality post says, they may have good reasons for this;
+  but to on the surface, it just looks bad
+
+* `a detailed defense`_ on the choice of technology for Stack Exchange chat
+
+
+.. _a detailed defense: http://meta.stackoverflow.com/a/67891/147166
+.. _isn't too shabby either: http://docs.python.org/3/whatsnew/3.3
+.. _those of 3.2: http://docs.python.org/3/whatsnew/3.2
+.. _via: http://blog.yorba.org/jim/2013/02/the-garden-of-the-forking-paths.html
+.. _Online Accounts: http://debarshiray.wordpress.com/2012/10/06/goa-why-it-is-the-way-it-is/
+.. _0.8 million out of a total of 2 million: http://blog.briancurtin.com/posts/the-year-of-the-snake.html
+.. _luck: http://blog.kowalczyk.info/article/ahcj/Easy-vs-probable-or-how-to-make-money-with-softw.html

@@ -1,0 +1,29 @@
+links 2011-05-17
+================
+
+:date: 2011-05-17
+:tags: humor, links
+
+
+
+-  One ought to have deep respect for all medical personnel, especially
+   considering `the lengths they are willing to go to in order to save a
+   life`_; The article displays superb writing as well. (`via`_)
+
+-  `Amazing works of art`_ by perhaps the world's best street artist, Banksy.
+
+-  Motion Twin IS `a company to work 'for'`_; the French tranlation is
+   not perfect but is close enough to help make sense of the inspiring
+   story.
+
+-  `delicious humor`_
+
+-  `nice humor regarding names`_
+
+
+.. _`Amazing works of art`: http://www.banksy.co.uk/menu.html
+.. _the lengths they are willing to go to in order to save a life: http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande
+.. _via: http://www.joelonsoftware.com/items/2008/01/22.html
+.. _a company to work 'for': http://translate.google.fr/translate?js=n&prev=_t&hl=fr&ie=UTF-8&layout=2&eotf=1&sl=fr&tl=en&u=http://fr.techcrunch.com/2008/08/14/fr-motion-twin-createurs-de-labrutefr-une-startup-pas-comme-les-autres-interview/
+.. _delicious humor: http://hezmatt.org/~mpalmer/blog/general/how_to_frustrate_your_train_driver.html
+.. _nice humor regarding names: http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/

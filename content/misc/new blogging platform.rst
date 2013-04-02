@@ -1,0 +1,19 @@
+new blogging platform
+=====================
+
+:date: 2010-06-02
+:tags: blogging
+
+
+
+Blogger's post editor is so bad that I've been promising myself to move
+elsewhere for quite a while. I checked on `Super User`_ what their
+recommendations are and they pointed mostly to Wordpress (which I found
+too ugly) but someone there also pointed to `Tumblr`_, which I never
+heard of before. It really is more than a blogging platform (which was
+all I was actually looking for), and it does look good except for the
+fact that I miss the sidebar functionality which allows me to place
+things like favorite blogs, favorite posts, etc.
+
+.. _Super User: http://superuser.com
+.. _Tumblr: http://tumblr.com

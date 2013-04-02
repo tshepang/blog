@@ -1,0 +1,26 @@
+links 2012-05-17
+================
+
+:date: 2012-05-17
+:tags: links
+
+
+
+-  `The rate of Linux kernel development is seriously impressive`_
+
+-  `A very detailed look at the hard tradeoffs between portability and
+   innovation`_
+
+-  `Why bundle stuff in one library instead of a few`_
+
+-  `From humble beginnings to extreme success`_
+
+-  Joel Spolsky is a wonderful writer, and has great humor. Check `his
+   (very successful) attempt`_ at making an oft-boring task of reading a
+   tutorial fun. Check especially his reference to one obscure tv actor.
+
+.. _The rate of Linux kernel development is seriously impressive: http://go.linuxfoundation.org/who-writes-linux-2012
+.. _A very detailed look at the hard tradeoffs between portability and innovation: http://lwn.net/Articles/429597/
+.. _Why bundle stuff in one library instead of a few: http://mail.gnome.org/archives/gtk-devel-list/2007-November/msg00032.html
+.. _From humble beginnings to extreme success: http://lists.debian.org/debian-devel/2011/04/msg00711.html
+.. _his (very successful) attempt: http://hginit.com/04.html

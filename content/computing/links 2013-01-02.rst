@@ -1,0 +1,37 @@
+links 2013-01-02
+================
+
+:date: 2013-01-02
+:tags: Python, non-Python, links
+
+
+
+-  Go language looks good for web apps:
+
+   -  `comparison with Python`_
+   -  `evaluation after writing some important apps`_
+   -  `combines elegance of Python with speed of C/C++`_
+
+-  The Python import system can be `a scary beast`_.
+
+-  I appreciate this `summary of the differences`_ between upstream
+   kernel and one included in Debian; would be nice to get more of this,
+   and also on other major software included in Debian
+
+-  The `highest-voted answer`_ I ever gave on `Stack Exchange`_.
+
+-  `benefits of systemd`_ according to an Arch Linux developer; one
+   thing I appreciate is that this was written by someone other than
+   `systemd project leader`_, a controversial figure
+
+.. _comparison with Python: http://blog.kowalczyk.info/article/4dep/Go-vs-Python-for-a-simple-web-server.html
+.. _evaluation after writing some important apps: http://blog.kowalczyk.info/article/uvw2/Thoughts-on-Go-after-writing-3-websites.html
+.. _combines elegance of Python with speed of C/C++: http://tech.t9i.in/2013/01/why-program-in-go/
+.. _a scary beast: http://python-notes.boredomandlaziness.org/en/latest/python_concepts/import_traps.html
+.. _summary of the differences: http://womble.decadent.org.uk/blog/whats-in-the-linux-kernel-for-debian-70-wheezy-part-1.html
+.. _part 2: http://womble.decadent.org.uk/blog/whats-in-the-linux-kernel-for-debian-70-wheezy-part-2.html
+.. _part 3: http://womble.decadent.org.uk/blog/whats-in-the-linux-kernel-for-debian-70-wheezy-part-3.html
+.. _highest-voted answer: http://superuser.com/a/236605/34953
+.. _Stack Exchange: http://stackexchange.com/
+.. _benefits of systemd: https://bbs.archlinux.org/viewtopic.php?pid=1149530#p1149530
+.. _systemd project leader: http://tshepang.net/developer-of-note-lennart-poettering

@@ -1,0 +1,86 @@
+favorite Pelican themes
+=======================
+
+:date: 2013-03-17
+:tags: blogging
+
+
+
+I don't like the default `Pelican`_ theme, ``notmyidea``:
+
+* It is decent, but the post metadata feels cramped where its placed.
+* The is no visible link to tags, nevermind a tag cloud (which is handy).
+* I just don't like the general look.
+
+So, I had a look at the others:
+
+
+`Just Read`_
+------------
+
+- [**win**] elegant and simple design (**my favorite of all**)
+- [**win**] displays pages as a list, all but the newest one in the view
+- Categories are 2nd-class citizens: they aren't shown on the index page
+- bullets are done wrong: the bulleted text is not indented
+- on post view, there is no distinction between Tags and Categories
+- too much border space on code snippets (**pre** tag?)
+- background for code snippets is not distinctive
+
+
+`tuxlite_tbs`_
+--------------
+
+- [**win**] clean and simple design: nice menubar and sidebars
+- tags aren't shown along-aside posts
+
+
+`Mockingbird`_
+--------------
+
+- [**win**] very nice and clean design
+- no bullets (WTF!)
+- no Categories
+- hyperlinks not clear (WTF!)
+- date on Archives looks like shit
+- background for code snippets is not distinctive
+
+
+`neat`_
+-------
+
+- [**win**] the look is different; it feels calm
+- [**win**] the 'moving title' effect is distracting
+- Archives look like shit (but easy to change)
+- I want my Categories shown more prominently (e.g. on menu bar)
+
+
+`Chunk`_
+--------
+
+- [**win**] a trendy look
+- oversised text, especially blog title
+- background for code snippets is not distinctive
+- Archives look like shit
+
+
+`Bootstrap 2`_
+--------------
+
+- [**win**] the Menu bar is unbeatable
+
+- the general look is too busy:
+
+  + the Categories and Tags on the right must go
+  + who wants snippets on posts
+  + showing Categoy and Tag on main views
+
+- separate tag cloud page missing
+- line length too long
+
+.. _Mockingbird: https://github.com/wrl/pelican-mockingbird
+.. _neat: https://github.com/byk/pelican-neat
+.. _Bootstrap 2: https://github.com/getpelican/pelican-themes/tree/master/bootstrap2
+.. _Pelican: http://docs.getpelican.com/en/latest/
+.. _Just Read: https://github.com/getpelican/pelican-themes/tree/master/Just-Read
+.. _tuxlite_tbs: https://github.com/getpelican/pelican-themes/tree/master/tuxlite_tbs
+.. _Chunk: https://github.com/tbunnyman/pelican-chunk

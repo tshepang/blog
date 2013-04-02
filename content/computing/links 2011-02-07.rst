@@ -1,0 +1,26 @@
+links 2011-02-07
+================
+
+:date: 2011-02-07
+:tags: links, Python
+
+
+
+-  `The Law of Leaky Abstractions`_
+
+-  `Open Source Contribution Etiquette`_
+
+-  `a gentle intro`_ to Unix processes, and the Python `subprocess
+   module`_
+
+-  `How does one make Java ignore the number of spaces in a string when
+   splitting?`_
+
+-  `on the importance of decent documentation`_ – a great post
+
+.. _The Law of Leaky Abstractions: http://www.joelonsoftware.com/articles/LeakyAbstractions.html
+.. _Open Source Contribution Etiquette: http://tirania.org/blog/archive/2010/Dec-31.html
+.. _a gentle intro: http://jimmyg.org/blog/2009/working-with-python-subprocess.html
+.. _subprocess module: http://docs.python.org/library/subprocess
+.. _How does one make Java ignore the number of spaces in a string when splitting?: http://stackoverflow.com/q/4861803/321731
+.. _on the importance of decent documentation: http://lukeplant.me.uk/blog/posts/docs-or-it-doesnt-exist/

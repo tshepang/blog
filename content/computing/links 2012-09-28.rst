@@ -1,0 +1,26 @@
+links 2012-09-28
+================
+
+:tags: links
+:date: 2012-09-28
+
+
+
+-  `A look at the high fragmentation of programming languages`_
+
+-  `a sad case`_ where management is warry of quality code
+
+-  `What happens after loading the Linux kernel image into RAM`_
+
+-  `Development process for putting hardware support in Linux-based
+   systems`_
+
+-  `Why choose N9 (Meego) over anything Android and iPhone`_ (`and why
+   not`_)
+
+.. _A look at the high fragmentation of programming languages: http://stackoverflow.com/a/2116517/321731
+.. _a sad case: http://insanecoding.blogspot.com/2009/11/they-actually-want-bad-code.html
+.. _What happens after loading the Linux kernel image into RAM: http://unix.stackexchange.com/q/5117/688
+.. _Development process for putting hardware support in Linux-based systems: http://unix.stackexchange.com/q/5117/688
+.. _Why choose N9 (Meego) over anything Android and iPhone: http://www.kryogenix.org/days/2012/03/04/my-new-phone-2012-edition
+.. _and why not: http://www.kryogenix.org/days/2012/08/03/me-and-the-nokia-n9

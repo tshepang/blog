@@ -1,0 +1,24 @@
+links 2011-01-17
+================
+
+:date: 2011-01-17
+:tags: links
+
+
+
+-  `a wealth of info on 'kill -9'`_
+
+-  `the best comparison of vi and emacs I've seen yet`_
+
+-  `the complexity of programming language benchmarking`_
+
+-  `high profile FLOSS developers employed by Google`_
+
+-  Not that I go around looking for them, but I have never seen such
+   `detailed criticism`_ of a programming language.
+
+.. _a wealth of info on 'kill -9': http://unix.stackexchange.com/q/5642/688
+.. _the best comparison of vi and emacs I've seen yet: http://unix.stackexchange.com/a/1010/688
+.. _the complexity of programming language benchmarking: http://slott-softwarearchitect.blogspot.com/2011/01/java-php-python-which-is-faster-in.html
+.. _high profile FLOSS developers employed by Google: http://www.pixelbeat.org/misc/google_stars.html
+.. _detailed criticism: http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/

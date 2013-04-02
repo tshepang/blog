@@ -1,0 +1,33 @@
+links 2012-10-23
+================
+
+:tags: links
+:date: 2012-10-23
+
+
+
+-  I did not expect `this question of mine`_ to be loved so much. In
+   fact, I thought it would see some resistance, due to so many
+   Python-related threading/multiprocessing questions on Stack Overflow,
+   such that it might be closed as a duplicate.
+
+-  `This blog post`_ makes me wanna contribute to LibreOffice, which is
+   made even more appealing by fact that I'm using the language a lot
+   `at work`_.
+
+-  It is a sad fact that for large Python codebases, the pain of porting
+   to Python 3 is quite high. Here's `an example for Twisted`_.
+
+-  I am a fan of `argparse`_, but `this specific CLI parsing library`_
+   takes the opposite direction... you write what the help info should
+   look like, then the parsing info gets generated from that docstring
+
+-  `great web app design advice`_
+
+.. _this question of mine: http://stackoverflow.com/q/11942654/321731
+.. _This blog post: http://people.gnome.org/~michael/blog/2012-08-08-libreoffice-3-6-0.html
+.. _at work: http://tshepang.net/me-got-meself-another-coding-job
+.. _an example for Twisted: http://vperic.blogspot.com/2012/08/bootstrapping-trial-in-python-3.html
+.. _argparse: http://docs.python.org/dev/library/argparse.html
+.. _this specific CLI parsing library: https://github.com/docopt/docopt
+.. _great web app design advice: http://www.codinghorror.com/blog/2012/10/judging-websites.html

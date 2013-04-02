@@ -1,0 +1,23 @@
+links 2013-04-01
+================
+
+:date: 2013-04-01
+:tags: GNOME, Python, links
+
+
+- `a video`_ on the awesome Disqus commenting system
+
+- Python logging `is easier`_ than I thought!
+
+- `LibreOffice progress`_ is quite impressive.
+
+- `pros of text over video`_
+
+-  `going from simple to complex in teaching/learning programming`_
+
+
+.. _going from simple to complex in teaching/learning programming: http://www.boredomandlaziness.org/2011/08/scripting-languages-and-suitable.html
+.. _a video: http://pycon.blip.tv/file/4880330/
+.. _is easier: http://docs.python.org/release/2.6.6/library/logging#basic-example
+.. _LibreOffice progress: http://people.gnome.org/~michael/blog/2011-06-03-libreoffice-3-4-0.html
+.. _pros of text over video: http://journal.dedasys.com/2011/07/25/why-i-prefer-text-to-video

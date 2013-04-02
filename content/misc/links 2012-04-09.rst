@@ -1,0 +1,34 @@
+links 2012-04-09
+================
+
+:date: 2012-04-09
+:tags: links
+
+
+
+-  `What You'll Wish You'd Known`_ is one the best essays I've read yet;
+   it basically is advice for people still in high school. Beware though
+   that the writer, Paul Graham, is very bold person. He makes a lot of
+   assertions, without much in the way of backing it all up. Sure he's
+   well-read and experienced, but it appears he relies a lot on his
+   intuitions. Inaccurate as it may be, this essay has a lot of insight
+   and is very encouraging (e.g. don't underestimate your abilities).
+
+-  `a nice objection`_ to `loud noise`_
+
+-  `the (un)greatness of Bell Labs`_
+
+-  `On Parenthood`_ - incredible write-up on the joys of having a
+   child... this isn't material I normally read, but I felt compelled
+   considering my admiration for the writer, a famous software
+   developer; it almost makes me look forward to my first
+
+-  `an impressive criticism of anti-abortionists`_ (`via`_)
+
+.. _What You'll Wish You'd Known: http://paulgraham.com/hs.html
+.. _a nice objection: http://www.mothercityliving.co.za/do-you-have-talents/#comment-21944
+.. _loud noise: http://www.mothercityliving.co.za/do-you-have-talents/#comment-21943
+.. _the (un)greatness of Bell Labs: http://gizmodo.com/5691604/how-ma-bell-shelved-the-future-for-60-years
+.. _On Parenthood: http://www.codinghorror.com/blog/2011/10/on-parenthood.html
+.. _an impressive criticism of anti-abortionists: http://reason.com/archives/2004/12/22/is-heaven-populated-chiefly-by
+.. _via: http://commonsenseatheism.com/?p=8955#comment-43867
