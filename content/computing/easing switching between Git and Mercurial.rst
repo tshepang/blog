@@ -7,19 +7,15 @@ easing switching between Git and Mercurial
 
 
 For a long time I've been meaning to write a script that eases switching
-between the top 2 DVCS systems, Mercurial and Git. You, each chance I
+between the only VCS systems I use, Mercurial and Git. Each chance I
 get, I use Mercurial (e.g. personal stuff), and use Git when I don't
-have much of a choice (e.g. FLOSS, work). That is, I use both quite a
-lot, and very often I find myself running commands for one while on
-another's repository. I then decided to ease the pain: `source code`_.
+have much of a choice (e.g. FLOSS and work). That is, I use both quite a
+lot, and too often I find myself running commands for one while on
+another's repository.
 
-This makes my life so much easier, since I no longer have to care where
-I'm at, at least for the most common commands.
-
-I also happen to be a bash alias junkie. I have close to 200, though I
-tend to forget that many exists as time passes. Anyways, you will notice
-that the above script just prints out the command, so I run those from
-my aliases:
+I then decided to ease the pain my creating `a script`__ which checks which
+VCS system I'm on, and displays the relevant command.
+Here are the relevant aliases:
 
 .. code-block:: sh
 
@@ -32,6 +28,18 @@ my aliases:
     alias vc='$(python ~/projects/utils/vcs.py --commit)'
     alias vo='$(python ~/projects/utils/vcs.py --checkout)'
 
-I am pleased with self.
+Displaying the output instead of running them directly from the script
+gives me the flexibility of adding to the command, for example:
 
-.. _source code: https://bitbucket.org/tshepang/scripts/src/tip/vcs.py
+.. code-block:: sh
+
+    # committing
+    vc 'describe the change'
+    # checking history of a file
+    vl README
+
+This makes my life so much easier, since I no longer have to care where
+I'm at, at least for the most common of commands. I am pleased with self.
+
+
+__ https://bitbucket.org/tshepang/scripts/src/tip/vcs.py
