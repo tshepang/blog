@@ -5,7 +5,7 @@ links 2013-04-05
 :tags: GNOME, Python, non-Python, links
 
 
-* I don't care much for C#, but `this 'negative' book review`__
+- I don't care much for C#, but `this 'negative' book review`__
   by `a luminary`__ in the .NET community is worthy.
 
 - `a video`__ on the awesome Disqus commenting system
