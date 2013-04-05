@@ -13,13 +13,10 @@ exposes the unsettling horrors of China's Cultural Revolution. I
 strongly suspect that the exposure it got was to due to the then-brave
 touch of homosexuality.
 
-Even worse and less interesting is what the best movie critic, `Jonathan
-Rosenbaum`_, felt to be the best mainland Chinese movie ever, Platform.
+Even worse and less interesting is what the great `Jonathan Rosenbaum`__
+felt to be the best mainland Chinese movie ever, Platform.
 It turned out to lack any interesting characters and story. It's a
 fucking mystery that anyone liked (or made) it.
 
-[**sidenote**] It so happens that Chen Kaige has even `worse on
-offer`_.
 
-.. _Jonathan Rosenbaum: http://tshepang.net/best-movie-critic-jonathan-rosenbaum
-.. _worse on offer: http://tshepang.net/recent-movies-2009-10-23
+__ http://tshepang.net/best-movie-critic-jonathan-rosenbaum
