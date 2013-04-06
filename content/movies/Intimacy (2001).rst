@@ -11,11 +11,11 @@ guy he is cheating with is an extremely annoying ass who nearly tells on
 her, not because he is moral, but because he is jealous. The character
 is unbearable, and so is the performance. Another annoying character is
 the delinquent friend, whose sole purpose must have been just that... to
-annoy me. Another unpleasant character, though the only that seems the
-most sensible, is the strange bar man, perhaps because I could not
+annoy me. Another unpleasant character, though the only that seems
+sensible, is the strange bar man, perhaps because I could not
 figure him out. He just feels so arbitrary, as does that delinquent
 friend. One performance I enjoyed most was that of `Timothy Spall`_. It
-was likely the first ever I saw him (I saw this movie first time several
+was likely the first time I ever saw him (I saw this movie first time several
 years ago), which is something that instantly earned him my respect.
 
 The writers did quite well in terms of character development here, but
