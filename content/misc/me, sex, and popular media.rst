@@ -32,7 +32,7 @@ works, is pure paradise. It's gorgeous. The title character and mom, for
 example, don't mind fucking. No one hesitates offering sex, and
 especially Cherry herself.
 
-.. _Vicky Cristina Barcelona: http://tshepang.net/vicky-cristina-barcelona-2008
-.. _Spread: http://tshepang.net/spread-2009
+.. _Vicky Cristina Barcelona: http://movies.tshepang.net/vicky-cristina-barcelona-2008
+.. _Spread: http://movies.tshepang.net/spread-2009
 .. _Threesome: http://en.wikipedia.org/wiki/Threesome_(film)
 .. _Cherry: http://tshepang.net/me-loves-cherry-poptart

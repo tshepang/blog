@@ -16,6 +16,6 @@ engaging conversation.
 .. _South Africa: http://en.wikipedia.org/wiki/South_Africa
 .. _Python: http://tshepang.net/tag/python
 .. _Debian: http://tshepang.net/tag/debian
-.. _movies: http://tshepang.net/movies
+.. _movies: http://movies.tshepang.net
 .. _spend too much time on the web: http://tshepang.net/where-i-live-on-the-web
 .. _music: http://tshepang.net/tag/music

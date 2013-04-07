@@ -15,4 +15,5 @@ though, and I guess deliberately pointless.
 I was inspired to watch this due the director, who later on made the
 weird and wonderful `Seven Psychopaths`_.
 
-.. _Seven Psychopaths: http://tshepang.net/seven-psychopaths-2012
+
+.. _Seven Psychopaths: http://movies.tshepang.net/seven-psychopaths-2012
