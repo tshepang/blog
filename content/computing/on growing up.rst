@@ -11,9 +11,11 @@ on growing up
     "--no-faassen" was naturally added too. Later we decided to grow up
     and renamed it to "-O2", and now "-Ojit".
 
-From `a summary of 10 years of PyPy history`_. Amazing energy and
-intellectual prowess the project participants possess,
-and `a very respectable project`_ at that.
+    -- `a summary of 10 years of PyPy history`__
 
-.. _a summary of 10 years of PyPy history: http://morepypy.blogspot.com/2013/02/10-years-of-pypy.html
-.. _a very respectable project: http://tshepang.net/great-praise-for-the-rpython-translation-toolchain
+Amazing energy and intellectual prowess the project participants possess,
+and `a very respectable project`__ at that.
+
+
+__ http://morepypy.blogspot.com/2013/02/10-years-of-pypy.html
+__ http://tshepang.net/great-praise-for-the-rpython-translation-toolchain

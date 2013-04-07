@@ -10,8 +10,11 @@ great praise for the RPython translation toolchain
     thoroughly uninteresting. RPython is different. It's the most
     interesting thing I've seen in well over a decade.
 
-From an incredibly detailed `blog post`_ on the adventures of building a
-language VM on the legendary `RPython toolchain`_.
+    -- `Fast Enough VMs in Fast Enough Time`__
 
-.. _blog post: http://tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time
-.. _RPython toolchain: http://doc.pypy.org/en/latest/translation.html
+The highly-detailed article is about the adventures of building
+a language VM using the `RPython toolchain`__.
+
+
+__ http://tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time
+__ RPython toolchain: http://doc.pypy.org/en/latest/translation.html

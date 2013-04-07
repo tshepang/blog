@@ -6,8 +6,8 @@ being friendly towards customers
 
 
 
-I just a read a very interesting post on how to gain market share, but
-what prompted me to blog it is the following snippet which states the
+I just a read `a very interesting post`__ on how to gain market share,
+and what prompted me to post is the following snippet which states the
 advantages of being friendly towards customers:
 
     ...It reminds me of independent booksellers, who said "why should I
@@ -26,6 +26,9 @@ advantages of being friendly towards customers:
     cheaper prices, it closed because Barnes and Nobles had *more human
     beings in the building*.
 
-Why I like it is that I used to frequent some local book/magazine
-franchise whose merchandise I liked but just couldn't afford. That made
-the experience uncomfortable, the risk of being told to leave.
+I used to frequent some local book/magazine franchise whose merchandise
+I liked but just couldn't afford.
+That made the experience uncomfortable, the risk of being told to leave.
+
+
+__ http://www.joelonsoftware.com/articles/fog0000000052.html

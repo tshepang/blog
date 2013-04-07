@@ -17,6 +17,7 @@ on taste and morality
     error, I would be interfering with the liberty of others for no good
     reason.
 
-Alonzo Fyfe on why `those condemning homosexuality suck donkey cock`_.
+    -- Homosexuality__.
 
-.. _those condemning homosexuality suck donkey cock: http://atheistethicist.blogspot.com/2005/11/homosexuality.html
+
+__ http://atheistethicist.blogspot.com/2005/11/homosexuality.html

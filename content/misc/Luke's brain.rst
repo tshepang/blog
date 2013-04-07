@@ -11,8 +11,11 @@ Luke's brain
     morally right or wrong or rational. My brain evolved to eat and
     fuck.
 
-The `fabulous`_ Luke Muehlhauser, on `a post regarding`_... just check
-it out. It's quite fun to read.
+    -- `In Defense of Radical Value Pluralism`__
 
-.. _fabulous: http://tshepang.net/common-sense-atheism-rocks
-.. _a post regarding: http://commonsenseatheism.com/?p=12106
+Another gem by the fabulous__ Luke Muehlhauser.
+The post is a fun read; check it out.
+
+
+__ http://commonsenseatheism.com/?p=12106
+__ http://tshepang.net/common-sense-atheism-rocks

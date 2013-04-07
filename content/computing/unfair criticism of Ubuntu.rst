@@ -15,6 +15,6 @@ unfair criticism of Ubuntu
     articles on how rPath is taking advantage of free software
     developers.
 
-`In Defence of Ubuntu`_
+    -- `In defence of Ubuntu`__
 
-.. _In Defence of Ubuntu: http://lwn.net/Articles/294542/
+__ http://lwn.net/Articles/294542/

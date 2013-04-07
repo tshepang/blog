@@ -2,7 +2,7 @@ nice review of 'Perl Best Practices'
 ====================================
 
 :date: 2010-07-20
-:tags: non-Python, quote
+:tags: non-Python, quote, humor
 
 ..
 
@@ -14,7 +14,8 @@ nice review of 'Perl Best Practices'
     sackcloth and ashes, sworn to atone for my sins and to walk the
     straight and narrow [path] from now on.
 
-From a `short review`_ on the book 'Perl Best Practices'. I'm a sucker
-for religious allegories.
+    -- source__
 
-.. _short review: http://www.oreillynet.com/cs/catalog/view/cs_msg/79971
+I'm a sucker for humorous religious allegories.
+
+__ http://www.oreillynet.com/cs/catalog/view/cs_msg/79971

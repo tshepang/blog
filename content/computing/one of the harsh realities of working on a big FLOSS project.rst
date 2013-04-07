@@ -12,6 +12,7 @@ one of the harsh realities of working on a big FLOSS project
     a quick jab is more effective, then those quick jabs become the
     efficient process.
 
-(`source`_)
+    -- source__
 
-.. _source: http://lwn.net/Articles/501855/
+
+__ http://lwn.net/Articles/501855/

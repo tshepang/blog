@@ -13,6 +13,7 @@ when a FLOSS project gets real big
     Torvalds, and, eventually the mainline—if they get accepted at each
     step along the way.
 
-(`source`_)
+    -- source__
 
-.. _source: http://lwn.net/Articles/499952/
+
+__ http://lwn.net/Articles/499952/

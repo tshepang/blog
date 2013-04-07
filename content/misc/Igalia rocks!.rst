@@ -10,8 +10,12 @@ Igalia rocks!
     stages: from employee to pre-partner and finally to partner, a
     co-owner of the company.
 
-Just `one of the things`_ that make `Igalia`_ a very attractive
-employer.
+    -- source__
 
-.. _one of the things: http://www.igalia.com/about-us/internal-responsibility
-.. _Igalia: http://www.igalia.com/
+Just one of the things that make Igalia__ a very attractive employer...
+just a step away from being `a proper worker coop`__.
+
+
+__ http://www.igalia.com/about-us/internal-responsibility
+__ http://www.igalia.com/
+__ http://www.software.coop/info/coopdev.html/

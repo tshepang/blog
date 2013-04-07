@@ -15,8 +15,11 @@ the need for quality in healthcare
     complexity—and a test of whether such complexity can, in fact, be
     humanly mastered.
 
-That's some scary shit. Read `the whole article`_ to get the context
-(i.e. the heroic work involved in saving that girl's life). It's a great
-read.
+    -- `The Checklist`__
 
-.. _the whole article: http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande
+That's some scary shit. Read the whole article to get the context
+(i.e. the heroic work involved in saving that girl's life).
+It's a great read.
+
+
+__ http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande?currentPage=all

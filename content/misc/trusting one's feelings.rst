@@ -11,7 +11,6 @@ trusting one's feelings
     be given any weight unless I could put a solid foundation of reason
     underneath them.
 
-`Alonzo Fyfe`_ on `why he rejected moral theories competing with his`_.
+    -- `Reflections on Rejected Moral Theories`__
 
-.. _Alonzo Fyfe: http://atheistethicist.blogspot.com
-.. _why he rejected moral theories competing with his: http://atheistethicist.blogspot.com/2008/03/reflections-on-rejected-moral-theories.html
+__ http://atheistethicist.blogspot.com/2008/03/reflections-on-rejected-moral-theories.html

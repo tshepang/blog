@@ -9,9 +9,10 @@ on voting
     "Voting" reminds me too much of situations where people who don't do
     anything get to say what they want others to do.
 
-The great Guido van Rossum (creator of `Python programming language`_)
-`when replying`_ to some requests to have people vote on a Python
-project roadmap.
+    -- source__
 
-.. _Python programming language: http://en.wikipedia.org/wiki/Python_(programming_language)
-.. _when replying: http://mail.python.org/pipermail/python-dev/2011-March/108902.html
+`Guido van Rossum`__ on a proposed Python project roadmap.
+
+
+__ http://mail.python.org/pipermail/python-dev/2011-March/108902.html
+__ http://en.wikipedia.org/wiki/Guido_van_Rossum
