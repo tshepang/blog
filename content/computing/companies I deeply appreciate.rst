@@ -25,8 +25,9 @@ companies I deeply appreciate
    for a wide array of topics. They have succeeded specifically in one
    topic, programming, in a form of `Stack Overflow`_.
 
--  Bitbucket_ offers gratis hosting for public software projects,
-   which is a great thing, but not special since there are others offering
+-  Atlassian_ offers Bitbucket_,
+   a gratis hosting service for public software projects;
+   this is a great thing, but not special since there are others offering
    the same, most notably GitHub_.
    What makes it special is that it also offers gratis hosting
    for unlimited private repositories.
@@ -34,6 +35,7 @@ companies I deeply appreciate
    I feel like the world is a wonderful place... I am grateful.
 
 
+.. _Atlassian: http://www.atlassian.com
 .. _Bitbucket: https://bitbucket.org
 .. _GitHub: https://github.com
 .. _Red Hat: http://en.wikipedia.org/wiki/Red_Hat
