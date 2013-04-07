@@ -21,6 +21,6 @@ links 2012-02-01
 
 .. _"A prayer to the programming gods": http://lukeplant.me.uk/blog/posts/a-prayer-to-the-programming-gods/
 .. _A bit of Zope history, how it rocked, and how it sucked: http://plope.com/Members/chrism/in_defense_of_zope_libraries
-.. _Pyramid: http://tshepang.net/project-of-note-pyramid
+.. _Pyramid: http://docs.pylonsproject.org/en/latest/docs/pyramid.html
 .. _A scathing read regarding incompencies of developers: http://jpos.org/blog/2010/06/technology-xy/
 .. _a funny way of expressing the frustrations of waiting too long to get help: http://lists.mplayerhq.hu/pipermail/mplayer-users/2005-November/056854.html
