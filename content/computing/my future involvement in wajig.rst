@@ -49,4 +49,4 @@ And over 700 commits later, I am glad.
 .. _Tracker project: http://projects.gnome.org/tracker/
 .. _optcomplete: http://furius.ca/optcomplete/
 .. _argparse: http://docs.python.org/dev/library/argparse
-.. _its tag: http://tshepang.net/tag/wajig
+.. _its tag: http://tshepang.net/tag/wajig/
