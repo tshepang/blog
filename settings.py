@@ -40,7 +40,7 @@ theme = {
             {'name': 'misc', 'link': '/misc/'},
             {'name': 'computing', 'link': '/computing/'},
             {'name': 'arts', 'link': '/arts/'},
-            {'name': 'movies blog', 'link': 'http://tshepang.net/movies/'},
+            {'name': 'movie blog', 'link': 'http://tshepang.net/movies/'},
             {'name': '| key-posts |', 'link': '/key-posts'},
             {'name': '| about-me |', 'link': '/about-me'},
         ]
