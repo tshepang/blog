@@ -44,7 +44,11 @@ def main():
         filename = '{} {}.rst'.format(args.title, today)
     else:
         filename = '{}.rst'.format(args.title)
-    filename = os.path.join('~/projects/blog/content', args.category, filename)
+
+    if args.category == 'movies':
+        filename = os.path.join('~/projects/blog-movies/content/movies', filename)
+    else:
+        filename = os.path.join('~/projects/blog/content', args.category, filename)
     filename = os.path.expanduser(filename)
 
     if os.path.exists(filename):
