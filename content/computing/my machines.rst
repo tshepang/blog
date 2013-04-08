@@ -2,6 +2,7 @@ my machines
 ===========
 
 :date: 2008-09-26
+:tags: hardware
 
 
 
@@ -39,7 +40,7 @@ I should note the other systems I use at work:
    that we need at work uses it. It's also the system where I do
    software/programming study and miscellaneous reading on since it's
    the only system at work I have exclusive access to.
-   [`expansion/update`_]
+   [`expansion/update`__]
 
 I've neglected to mention the other 2 systems I'm not interested in,
 which I use at work for some work tasks, both Windows-based (and going
@@ -54,4 +55,4 @@ Windows XP, 1 dual-booting with Windows Vista (the Core 2 laptop), and 2
 only one with internet access is the desktop HP system at work actually,
 mainly because web-access in SA isn't nearly as affordable as I'd like.
 
-.. _expansion/update: http://tshepang.net/favorite-laptop
+__ http://tshepang.net/favorite-laptop

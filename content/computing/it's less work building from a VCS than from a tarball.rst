@@ -2,6 +2,7 @@ it's less work building from a VCS than from a tarball
 ======================================================
 
 :date: 2010-11-20
+:tags: untagged
 
 
 
@@ -15,7 +16,7 @@ tarball:
 6. navigate to the extracted directory (using the shell)
 7. and finally... ``$  ./configure && make && sudo make install``
 
-`VCS`_:
+VCS__:
 
 1. find the website
 2. find clone link
@@ -25,7 +26,5 @@ tarball:
 
 So, that's 2 extra steps for going the tarball way.
 
-[**sidenote**] Other issues (specialised build systems, risks, ...)
-are beyond the scope of this blog post.
 
-.. _VCS: http://en.wikipedia.org/wiki/Revision_control
+__ http://en.wikipedia.org/wiki/Revision_control

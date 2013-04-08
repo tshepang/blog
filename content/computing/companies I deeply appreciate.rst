@@ -1,6 +1,9 @@
 companies I deeply appreciate
 =============================
 
+:date: 2013-04-07
+:tags: untagged
+
 
 -  `Red Hat`_ contributes more to `FLOSS`_ than any other company,
    employing hundreds of developers to work full-time on it.

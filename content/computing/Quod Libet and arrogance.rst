@@ -2,14 +2,16 @@ Quod Libet and arrogance
 ========================
 
 :date: 2007-08-19
+:tags: untagged
 
 
 
 I've just seen, for the first time in memory, a concept of arrogant
-design stated `publicly`_, a concept that previously existed only in my
-mind. This concept was brought up by my experiences with `Quod Libet`_,
-the most advanced audio player I've ever come across. It unfortunately
-doesn't conform to some common standards:
+design stated publicly_,
+a concept whose awareness previously existed only in my mind.
+This concept was brought up by my experiences with `Quod Libet`_,
+my favorite audio player.
+It unfortunately doesn't conform to some common standards:
 
 -  I can't open a song directly from a file manager (Nautilus) requiring
    me to open the application itself first, as if it's the standard
@@ -27,6 +29,7 @@ design is arrogant too, though I don't think so. Scribes is just
 excellent and I don't see the need for another editor, except if it had
 code 'folding' and started-up faster than the current Scribes' 10
 seconds. [**update**: such `a replacement`_ was eventually discovered!]
+
 
 .. _publicly: http://mystilleef.blogspot.com/2006/12/031-coming-soon-to-distro-near-you.html#c4991460165173246170
 .. _Quod Libet: http://code.google.com/p/quodlibet/

@@ -2,10 +2,11 @@
 ==========================================
 
 :date: 2012-04-03
+:tags: quote
 
 
 
-Reading `the article`_ today reinforced my view that Joel Spolsky is
+Reading `the article`__ today reinforced my view that Joel Spolsky is
 among the best bloggers on the topic of software development. Here he
 discusses a few strategies on finding excellent developers, and my
 favorite moment is when he mentions how hard he spoils interns in NYC:
@@ -20,4 +21,4 @@ favorite moment is when he mentions how hard he spoils interns in NYC:
 The article is of course a lot deeper than that, and goes to show the
 deep passion this guy has for excellence in the field.
 
-.. _the article: http://www.joelonsoftware.com/articles/FindingGreatDevelopers.html
+__ http://www.joelonsoftware.com/articles/FindingGreatDevelopers.html

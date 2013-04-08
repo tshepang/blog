@@ -2,6 +2,7 @@ favorite laptop
 ===============
 
 :date: 2008-10-18
+:tags: hardware
 
 
 
@@ -13,6 +14,7 @@ adequate for the modest tasks I throw at it; and its only set-back is
 the placement of the 3 USB ports - at the back. It's a pity that I'll
 have to leave it behind since `I'm changing jobs`_. I also use an external
 USB mouse, which also enhances the experience. [`update`_]
+
 
 .. _`I'm changing jobs`: http://tshepang.net/me-got-meself-a-coding-job
 .. _I previously mentioned: http://tshepang.net/my-machines

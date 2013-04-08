@@ -2,6 +2,9 @@ projects with excellent documentation
 =====================================
 
 
+:date: 2013-03-17
+:tags: untagged
+
 
 Here is a list of projects whose documentation I found to be
 highly-detailed and well-written:
