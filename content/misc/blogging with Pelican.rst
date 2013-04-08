@@ -21,7 +21,7 @@ Tags, Categories, and Pages (for non-bloggy stuff like a CV or About Me file).
 As for my blog, its tree structure looks like this::
 
     build/...
-    pages/{about-me.md, key-posts.md}
+    pages/{about-me.rst, key-posts.rst}
     posts/{arts/, computing/, misc/, movies/}
     CNAME
     fabfile.py
