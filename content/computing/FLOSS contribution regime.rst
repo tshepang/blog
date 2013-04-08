@@ -2,7 +2,7 @@ FLOSS contribution regime
 =========================
 
 :date: 2013-04-08
-:tags: untagged
+:tags: Python
 
 
 Late December last year, I had much time on my hands, given the holidays.
