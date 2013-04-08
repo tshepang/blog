@@ -15,15 +15,10 @@ and the number of issues with the docs ensured that I didn't run out of
 stuff do. At some point I decided that, if I can help it,
 I should not let a day pass without submitting at least one patch,
 and at another point, I thought, why don't I keep this regime for a
-100 days in a row (inspiration_)? [#]_
+100 days in a row (inspiration_)?
 
-Anyways, I am writing this post to celebrate my 100th day at this practice!
-I promised myself that this is the minimum I would do before I would start
-slacking:
-
-* `day 1 patch`__
-* `day 100 patch`__
-
+Anyways, I am writing this post to celebrate my 100th day at this practice
+(`day 1`__, `day 100`__)! [#]_
 
 How did this benefit me:
 
