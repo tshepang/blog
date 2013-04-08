@@ -1,7 +1,7 @@
 blogging with Pelican
 =====================
 
-:date: 2013-03-18
+:date: 2013-04-08
 :tags: blogging
 
 
