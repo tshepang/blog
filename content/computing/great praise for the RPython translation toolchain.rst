@@ -17,4 +17,4 @@ a language VM using the `RPython toolchain`__.
 
 
 __ http://tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time
-__ RPython toolchain: http://doc.pypy.org/en/latest/translation.html
+__ http://doc.pypy.org/en/latest/translation.html
