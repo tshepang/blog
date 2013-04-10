@@ -3,8 +3,8 @@ favorite FLOSS
 
 
 
-For a piece of `FLOSS`_ (free/libre and open source software) to be
-here, it has to both be personally useful and I have to like it a lot:
+For a piece of `FLOSS`_ (free/libre and open source software) to be here,
+it has to both be personally useful and I have to like it a lot:
 
 **backup:** `rdiff-backup`_
 
@@ -27,9 +27,8 @@ OpenSSH
 
 **web browser**: Chrome/Chromium
 
-**unreleased and highly anticipated**: HURD
-
 **non-FLOSS:** `Disqus`_, `Gmail`_, `Stack Exchange`_, `Bitbucket`_
+
 
 .. _FLOSS: http://en.wikipedia.org/wiki/Free_and_open-source_software
 .. _rdiff-backup: http://tshepang.net/project-of-note-rdiff-backup
