@@ -2,7 +2,7 @@ project of note: Sudo
 =====================
 
 :date: 2011-01-18
-:tags: project-of-note
+:tags: project-of-note, quote
 
 
 
@@ -25,6 +25,7 @@ And some of the more advanced benefits:
     complete access to the system, one hands out only the amount of
     access that is required for the task.
 
-(`source`_)
+    -- source__
 
-.. _source: http://ask.debian.net/questions/4cac81ff19ce953ad306ccab/answers/4cac8a1719ce953ad306dbf0
+
+__ http://ask.debian.net/questions/4cac81ff19ce953ad306ccab/answers/4cac8a1719ce953ad306dbf0
