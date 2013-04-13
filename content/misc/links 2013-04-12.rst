@@ -6,7 +6,7 @@ links 2013-04-12
 
 
 * `a nice post`__ on why static blog generation rocks;
-    much better (and more detailed) than mine__
+  much better (and more detailed) than mine__
 
 * `the fallacy of fast growth`__
 
