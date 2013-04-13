@@ -5,7 +5,9 @@ looking at liquidluck themes
 :tags: blogging
 
 
-Following are demos of all liquidluck themes I could find:
+Following are demos of all liquidluck themes I could find,
+all running `this source`__,
+but each slightly modified to change theme name (``settings.py``).
 
 * moment__ (the default theme, which is used on this blog)
 
@@ -38,6 +40,8 @@ Following are demos of all liquidluck themes I could find:
 
 * bootstrap__: broken__
 
+
+__ https://bitbucket.org/tshepang/blog/src
 
 __ https://github.com/lepture/liquidluck-theme-moment
 
