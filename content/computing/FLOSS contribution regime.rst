@@ -17,7 +17,7 @@ I should not let a day pass without submitting at least one patch,
 and at another point, I thought, why don't I keep this regime for a
 100 days in a row (inspiration_)?
 
-Anyways, I am writing this post to celebrate my 100th day at this practice
+Anyways, I am writing this post to celebrate my 100th day since starting
 (`day 1`__, `day 100`__)! [#]_
 
 How did this benefit me:
@@ -37,8 +37,8 @@ What's next:
 * Perhaps CPython may use my help too. Lots of code/doc bugs need fixing.
 
 
-.. [#] Well, there was just one day, if memory serves well, where I didn't
-   achieve this goal, but I made up for it by doing at least 2 the next day.
+.. [#] Note that I didn't quite achive the 100-days-in-a-row thing;
+   I skipped maybe 3 days, for one reason or another.
 
 __ https://github.com/Pylons/pyramid/pull/748
 __ https://github.com/Pylons/pyramid/pull/980
