@@ -5,8 +5,9 @@ looking at liquidluck themes
 :tags: blogging
 
 
-Following are demos of all liquidluck themes I could find,
-none of which are as good as `the default`__ (which is used on this blog):
+Following are demos of all liquidluck themes I could find:
+
+* moment__ (the default theme, which is used on this blog)
 
 * reveal__ (demo__)
 
