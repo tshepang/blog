@@ -1,5 +1,5 @@
-an nicer-sounding word than 'propaganda'
-========================================
+a nicer-sounding word than 'propaganda'
+=======================================
 
 :date: 2013-04-12
 :tags: quote
