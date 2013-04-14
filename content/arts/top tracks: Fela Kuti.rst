@@ -29,6 +29,7 @@ top tracks: Fela Kuti
 -  **Just Like That** (*Beast of No Nation* - 1989)
 -  **Pansa Pansa** (*Underground System* - 1992)
 -  **Eko Ile** (*Afrodisiac* - 1973)
+-  **Alu Jon Jonki Jon** (*Afrodisiac* - 1973)
 -  **Black Man's Cry** (*Live!* - 1971)
 -  **Water No Get Enemy** (*Expensive Shit* - 1975)
 -  **Zombie** (*Zombie* - 1978)
