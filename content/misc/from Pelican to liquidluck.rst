@@ -33,16 +33,16 @@ why `Pelican`_ rocks
 why Pelican rocks not
 ---------------------
 
-- The default theme simply didn't fit my tastes, and `the 1 theme that
-  I actually liked the most`_ gets 2nd-class treatment:
+The default theme simply didn't fit my tastes, and `the 1 theme that
+I actually liked the most`_ gets 2nd-class treatment:
 
-  + it hardly gets updates/maintenance, so lags behind
-  + it's also a bit buggy, and I had to carry some patches (and submitted
-    some)
+- it hardly gets updates/maintenance, so lags behind
+- it's also a bit buggy, and I had to carry some patches (and submitted
+  some)
 
-  None of the other themes are satisfactory either,
-  as you can see on the above-mentioned post.
-  I spent way too long fiddling with them, and just couldn't be happy.
+None of the other themes are satisfactory either,
+as you can see on the above-mentioned post.
+I spent way too long fiddling with them, and just couldn't be happy.
 
 why liquidluck
 --------------
