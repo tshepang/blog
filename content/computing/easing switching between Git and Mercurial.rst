@@ -27,6 +27,7 @@ Here are the relevant aliases:
     alias vu='$(python ~/projects/utils/vcs.py --pull)'
     alias vc='$(python ~/projects/utils/vcs.py --commit)'
     alias vo='$(python ~/projects/utils/vcs.py --checkout)'
+    alias vr='$(python ~/projects/utils/vcs.py --revert)'
 
 Displaying the output instead of running them directly from the script
 gives me the flexibility of adding to the command, for example:
