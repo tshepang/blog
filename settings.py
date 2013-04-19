@@ -69,6 +69,7 @@ writer = {
         "liquidluck.writers.core.CategoryFeedWriter",
         "liquidluck.writers.core.TagWriter",
         "liquidluck.writers.core.TagCloudWriter",
+        #"liquidluck.writers.contrib.TagJSONWriter",
     ],
 }
 

@@ -67,10 +67,11 @@ issues
 
 - There is no visible way, at least for the default theme, to subscribe
   to RSS feeds of individual Categories.
-- The text is a bit blurry with the default theme, while the other
-  theme that is available, named `Octopress`_, is just too ugly to use.
-- Background color for `<code>` text is too unusual, and results in an
-  ugly look. Does not fit the general general them, so should be grey really,
+- The text is a bit blurry with the default theme,
+  and none of `the other ones`_ are close to good-enough for my liking.
+- Background color for `<code>` text is too unusual,
+  and results in an ugly look.
+  It does not fit with the general general theme, so should be grey really,
   which would match with that of `<pre>` text.
 
 
@@ -82,5 +83,5 @@ issues
 .. _this script: https://bitbucket.org/tshepang/blog/src/tip/custom.py
 .. _the post on how I used Pelican: http://tshepang.net/blogging-with-pelican
 .. _the sources: https://bitbucket.org/tshepang/blog/src
-.. _Octopress: https://github.com/lepture/liquidluck-theme-octopress
 .. _what I love about static website generators: http://tshepang.net/what-me-loves-about-static-website-generation
+.. _the other ones: http://tshepang.net/looking-at-liquidluck-themes
