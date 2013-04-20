@@ -6,22 +6,21 @@ developer of note: Martyn Russell
 
 
 
-So, what's the criteria I use to regard someone as *developer of the
-moment*? I need a news item that would trigger that. That means there's
-a heck of a lot of developers I respect that haven't pitched in this
-`series`_. One of those developers is `Tracker`_'s release manager,
-Martyn Russell, until now of course.
-
-So, what triggered this honor? His work on `Tracker Needle`_, Tracker's
-future (and so far unreleased) GUI search tool, to replace the
-inadequate Tracker Search Tool. I've taken a look, and the design is
-pretty modern (check the video he gives in his `announcement`_).
+Martyn Russell is Tracker_'s release manager,
+and being a fan of the project since the early pre-1.0 days,
+I have quite familiar with his work.
+But what triggered this honor is his work on `Tracker Needle`_
+(written in Vala), Tracker's new GUI search tool,
+to replace the inadequate Tracker Search Tool (written in C).
+I've taken a look, and the design is pretty modern
+(check the video he gives in his announcement_).
 
 But Martyn has of course done `far more`_ for Tracker, and does a pretty
-damn good job managing the release (basically, Tracker's Guido van
-Rossum). One thing he did outside of Tracker that I'm aware of is the
+damn good job managing the release.
+One thing he did outside of Tracker that I'm aware of is the
 re-design the http://gtk.org page, giving it a very modern look (which
-it desperately needed). He rocks hard!
+it desperately needed).
+
 
 .. _series: http://tshepang.net/tag/developer-of-note
 .. _Tracker: http://projects.gnome.org/tracker/
