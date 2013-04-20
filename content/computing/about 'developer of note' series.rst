@@ -1,7 +1,6 @@
 about 'developer of note' series
 ================================
 
-:date: 2013-04-20
 :tags: developer-of-note
 
 
