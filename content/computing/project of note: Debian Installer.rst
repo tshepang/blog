@@ -13,9 +13,7 @@ re-installed my Debian system and I don't really see how much harder it
 is to use than Ubuntu's (except that it's far uglier, so I guess that
 also makes it intimidating).
 
-What triggered this post is my reading of
-`an excellent interview of Colin Watson`_, who did great work on that project,
-and had this to say about it:
+What triggered this post is the following titbit:
 
     d-i [Debian Installer] is the very first thing many of our users
     see, and has a huge range of uses, from simple desktop installs to
@@ -24,9 +22,11 @@ and had this to say about it:
     to trundle along without actually very much serious refactoring for
     the best part of five years now.
 
-It also happens to be a rock-solid tool (actually a set of tools),
-and its great reliability gets admiration from me on each install
-(and I've done dozens, with not one instance of data loss).
+    -- `an interview of Colin Watson`__
+
+In addition, this tool (or rather, a set of tools) also happens to be
+rock-solid tool, and its great reliability gets admiration from me on
+each install (and I've done dozens, with not one instance of data loss).
 
 
 __ http://raphaelhertzog.com/2010/11/25/people-behind-debian-colin-watson/
