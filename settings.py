@@ -17,7 +17,6 @@ config = {
     'permalink': '{{clean_title}}',
     'perpage': 1000,
     'feedcount': 1000,
-    'relative_url': False,
     'timezone': '+02:00',
 }
 
