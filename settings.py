@@ -30,8 +30,6 @@ author = {
     }
 }
 
-
-# theme variables are defined by theme creator
 theme = {
     'vars': {
         'disqus': 'tshepanglogs',
