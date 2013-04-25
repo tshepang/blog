@@ -9,7 +9,7 @@ errors resulting from setting named pipes to be non-blocking
 Using C, I have been writing to named pipes in a non-blocking
 way and have been getting a whole bunch of EAGAIN errors.
 I have spent way too long on the web trying to find out why,
-and bumped onto `this excellent answer`_.
+and bumped onto `this excellent answer`__.
 Looking at the manpage, I see that this would give the same value as
 EWOULDBLOCK, which is a far more meaningful name in this case.
 
