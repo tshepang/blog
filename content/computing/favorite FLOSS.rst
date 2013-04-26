@@ -13,7 +13,7 @@ it has to both be personally useful and I have to like it a lot:
 **development**: Python
 
 **misc utilities:** grep, `Sudo`_, `reprepro`_, Lsof, less, Meld,
-Uptimed, top, [Tracker][], Ex Falso, wajig, GNOME system monitor applet,
+Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
 `xfrun4`_, coreutils (wc, tail), `linkchecker`_, `Iotop`_, `man`_,
 OpenSSH
 
@@ -30,6 +30,7 @@ OpenSSH
 **non-FLOSS:** `Disqus`_, `Gmail`_, `Stack Exchange`_, `Bitbucket`_
 
 
+.. _Tracker: http://projects.gnome.org/tracker
 .. _FLOSS: http://en.wikipedia.org/wiki/Free_and_open-source_software
 .. _rdiff-backup: http://tshepang.net/project-of-note-rdiff-backup
 .. _GNOME: http://www.gnome.org
