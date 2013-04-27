@@ -2,7 +2,6 @@ projects with excellent documentation
 =====================================
 
 
-:date: 2013-03-17
 :tags: untagged
 
 
