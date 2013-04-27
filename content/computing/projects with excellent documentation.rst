@@ -7,20 +7,29 @@ projects with excellent documentation
 
 
 Here is a list of projects whose documentation I found to be
-highly-detailed and well-written:
+highly-detailed and well-written.
+
+
+big
+---
 
 -  `CPython`_ - I used to appreciate this more before I got closely
    involved, noticing warts here and there, and therefore taking it for
    granted.
 
--  The `introductory tutorial of GNU Emacs`_ (looks a lot better when
-   run from within Emacs), is written in a very gentle and careful way;
-   it's among the best tutorials I've seen.
-
 -  `valgrind`_ - its docs properly represent its status as among the most
    respected of FLOSS projects
 
 -  `sqlite3`_ - quite extensive, especially for an embeddable DBMS
+
+
+small
+-----
+
+-  The `introductory tutorial of GNU Emacs`_ (looks a lot better when
+   run from within Emacs), is written in a very gentle and careful way;
+   it's among the best tutorials I've seen.
+
 
 -  `Suds`_ - multiple, well-written examples
 
