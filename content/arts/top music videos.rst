@@ -6,8 +6,7 @@ top music videos
 
 
 Excellence in the track concerned contributes to the magnificence
-of its video. All videos listed below are videos of favourite
-songs of mine:
+of its video. I'm a fan of nearly all the following tracks:
 
 #. **Next Movement** (The Roots)
    The odd positions that our stars take and the overall beauty of it
