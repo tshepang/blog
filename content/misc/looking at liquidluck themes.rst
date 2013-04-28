@@ -11,6 +11,8 @@ but each slightly modified to change theme name (``settings.py``).
 
 * moment__ (the default theme, which is used on this blog)
 
+* responsive__ (demo__)
+
 * reveal__ (demo__)
 
 * thegrey__ (demo__)
@@ -44,6 +46,9 @@ but each slightly modified to change theme name (``settings.py``).
 __ https://bitbucket.org/tshepang/blog/src
 
 __ https://github.com/lepture/liquidluck-theme-moment
+
+__ https://github.com/bingdian/liquidluck-theme-responsive
+__ http://demo-responsive.tshepang.net
 
 __ https://github.com/popomore/liquidluck-theme-reveal
 __ http://demo-reveal.tshepang.net
