@@ -8,10 +8,12 @@ greatest culprits:
 
 **planets**: `Debian`_, `GNOME`_, `Python`_
 
-**Python**: `python-dev`_, `python-ideas`_
+**Python**: `python-dev`_, `python-ideas`_, GitHub_
 
-**Stack Exchange sites**: `Stack Exchange sites`_ (`my profile`_)
+**Stack Exchange**: `Stack Exchange sites`_ (`my profile`_)
 
+
+.. _GitHub: https://github.com/tshepang
 .. _Debian: http://planet.debian.org/
 .. _GNOME: http://planet.gnome.org/
 .. _Python: http://planet.python.org/
