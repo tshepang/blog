@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 $ python blog-post.py 'Fight Club (1999)' movies --tags 2000-movies masterpiece
 $ cat "~/projects/blog/posts/movies/Fight Club (1999).rst"
