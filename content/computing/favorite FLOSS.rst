@@ -10,7 +10,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **desktop**: `GNOME`_
 
-**development**: Python
+**development**: Python, git-cola_
 
 **misc utilities:** grep, `Sudo`_, `reprepro`_, Lsof, less, Meld,
 Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
@@ -30,6 +30,7 @@ OpenSSH
 **non-FLOSS:** `Disqus`_, `Gmail`_, `Stack Exchange`_, `Bitbucket`_
 
 
+.. _git-cola: http://tshepang.net/project-of-note-git-cola
 .. _Tracker: http://projects.gnome.org/tracker
 .. _FLOSS: http://en.wikipedia.org/wiki/Free_and_open-source_software
 .. _rdiff-backup: http://tshepang.net/project-of-note-rdiff-backup
