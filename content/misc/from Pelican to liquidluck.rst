@@ -60,13 +60,22 @@ issues
 - There is no visible way, at least for the default theme, to subscribe
   to RSS feeds of individual Categories.
 - The text is a bit blurry/faint with the default theme,
-  and none of `the other ones`_ are close to good-enough for my liking.
+  and none of `the other ones`_ are close to good-enough for my liking,
+  all but the promising one named responsive_.
+  It got 2 issues so far (see `live demo`_):
+
+  + Date is displayed at the bottom of a post...
+    why make user scroll that far before presenting such a key piece of info.
+  + There is no link anywhere allowing to visit Home.
+
 - Background color for ``<code>`` text is too unusual,
   and results in an ugly look.
   It does not fit with the general general theme, so should be grey really,
   which would match with that of ``<pre>`` text.
 
 
+.. _live demo: http://demo-responsive.tshepang.net
+.. _responsive: https://github.com/bingdian/liquidluck-theme-responsive
 .. _Pelican: http://pelican.readthedocs.org
 .. _blogofile: http://blogofile.com
 .. _unlike tinkerer: https://bitbucket.org/vladris/tinkerer/issue/41
