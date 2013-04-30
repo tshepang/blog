@@ -14,7 +14,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **misc utilities:** grep, `Sudo`_, `reprepro`_, Lsof, less, Meld,
 Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
-`xfrun4`_, coreutils (wc, tail), `linkchecker`_, `Iotop`_, `man`_,
+`xfrun4`_, coreutils (wc, tail), `LinkChecker`_, `Iotop`_, `man`_,
 OpenSSH
 
 **spreadsheet:** gnumeric
