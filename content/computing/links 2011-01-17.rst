@@ -14,8 +14,8 @@ links 2011-01-17
 
 -  `high profile FLOSS developers employed by Google`_
 
--  Not that I go around looking for them, but I have never seen such
-   `detailed criticism`_ of a programming language.
+-  I have never seen such `detailed criticism`_ of a programming language.
+
 
 .. _a wealth of info on 'kill -9': http://unix.stackexchange.com/q/5642/688
 .. _the best comparison of vi and emacs I've seen yet: http://unix.stackexchange.com/a/1010/688
