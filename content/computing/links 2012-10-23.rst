@@ -19,15 +19,15 @@ links 2012-10-23
    to Python 3 is quite high. Here's `an example for Twisted`_.
 
 -  I am a fan of `argparse`_, but `this specific CLI parsing library`_
-   takes the opposite direction... you write what the help info should
-   look like, then the parsing info gets generated from that docstring
+   takes an interesting direction.
 
 -  `great web app design advice`_
+
 
 .. _this question of mine: http://stackoverflow.com/q/11942654/321731
 .. _This blog post: http://people.gnome.org/~michael/blog/2012-08-08-libreoffice-3-6-0.html
 .. _at work: http://tshepang.net/me-got-meself-another-coding-job
 .. _an example for Twisted: http://vperic.blogspot.com/2012/08/bootstrapping-trial-in-python-3.html
-.. _argparse: http://docs.python.org/dev/library/argparse.html
+.. _argparse: http://docs.python.org/dev/library/argparse
 .. _this specific CLI parsing library: https://github.com/docopt/docopt
 .. _great web app design advice: http://www.codinghorror.com/blog/2012/10/judging-websites.html
