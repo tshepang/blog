@@ -13,6 +13,13 @@ highly-detailed and well-written.
 big
 ===
 
+- The `introductory tutorial of GNU Emacs`_ (looks a lot better when
+  run from within Emacs), is written in a very gentle and careful way;
+  it's among the best tutorials I've seen.  Same applies to `the Emacs
+  manual`__, which I'm tempted to call the best I've read yet. It
+  really, really goes into painstaking detail, and seems to have been
+  written by professional technical writers.
+
 - `CPython`_ - I used to appreciate this more before I got closely
   involved, noticing warts here and there, and therefore taking it for
   granted.
@@ -25,11 +32,6 @@ big
 
 small
 =====
-
-- The `introductory tutorial of GNU Emacs`_ (looks a lot better when
-  run from within Emacs), is written in a very gentle and careful way;
-  it's among the best tutorials I've seen.
-
 
 - `Suds`_ - multiple, well-written examples
 
@@ -49,3 +51,4 @@ really looked yet.
 .. _valgrind: http://valgrind.org/docs/manual/index.html
 .. _sqlite3: http://www.sqlite.org/docs.html
 .. _Django's: https://docs.djangoproject.com
+.. _the Emacs manual: http://www.gnu.org/software/emacs/manual/html_node/emacs
