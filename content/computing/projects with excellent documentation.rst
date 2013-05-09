@@ -1,5 +1,6 @@
-projects with excellent documentation
-=====================================
+=======================================
+ projects with excellent documentation
+=======================================
 
 
 :tags: untagged
@@ -10,35 +11,36 @@ highly-detailed and well-written.
 
 
 big
----
+===
 
--  `CPython`_ - I used to appreciate this more before I got closely
-   involved, noticing warts here and there, and therefore taking it for
-   granted.
+- `CPython`_ - I used to appreciate this more before I got closely
+  involved, noticing warts here and there, and therefore taking it for
+  granted.
 
--  `valgrind`_ - its docs properly represent its status as among the most
-   respected of FLOSS projects
+- `valgrind`_ - its docs properly represent its status as among the most
+  respected of FLOSS projects
 
--  `sqlite3`_ - quite extensive, especially for an embeddable DBMS
+- `sqlite3`_ - quite extensive, especially for an embeddable DBMS
 
 
 small
------
+=====
 
--  The `introductory tutorial of GNU Emacs`_ (looks a lot better when
-   run from within Emacs), is written in a very gentle and careful way;
-   it's among the best tutorials I've seen.
+- The `introductory tutorial of GNU Emacs`_ (looks a lot better when
+  run from within Emacs), is written in a very gentle and careful way;
+  it's among the best tutorials I've seen.
 
 
--  `Suds`_ - multiple, well-written examples
+- `Suds`_ - multiple, well-written examples
 
--  `rdiff-backup usage examples`_ - much smaller than the others listed
-   here, but nevertheless deserves mention because it's both gentle and
-   thorough
+- `rdiff-backup usage examples`_ - much smaller than the others listed
+  here, but nevertheless deserves mention because it's both gentle and
+  thorough
 
 
 As a sidenote, I've heard great things about `Django's`_, but haven't
 really looked yet.
+
 
 .. _CPython: http://docs.python.org
 .. _introductory tutorial of GNU Emacs: http://cmgm.stanford.edu/classes/unix/emacs.html
