@@ -10,7 +10,7 @@ highly-detailed and well-written.
 
 
 big
-===
+---
 
 - The `introductory tutorial of GNU Emacs`_ (looks a lot better when
   run from within Emacs), is written in a very gentle and careful way;
@@ -30,7 +30,7 @@ big
 
 
 small
-=====
+-----
 
 - `Suds`_ - multiple, well-written examples
 
