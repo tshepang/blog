@@ -1,6 +1,5 @@
-=======================================
- projects with excellent documentation
-=======================================
+projects with excellent documentation
+=====================================
 
 
 :tags: untagged
