@@ -17,7 +17,7 @@ allows you to keep typing without caring about line breaks, for they
 get automatically get applied for you. Am very sure that this feature
 exists elsewhere, but I actually never used it.
 
-Related to that is `the *fill-paragraph* command`__, which is invoked via
+Related to that is the `fill-paragraph`__ command, which is invoked via
 the Alt+q shortcut (M-q) in Emacs speak. What it does is reformat the
 paragraph as if it was typed while in Auto Fill Mode. Is gorgeous!
 
