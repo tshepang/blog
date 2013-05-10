@@ -1,5 +1,5 @@
 import os
-from fabric.api import local, task, settings
+from fabric.api import local, task, settings, hide
 
 OUTPUTDIR = os.path.join(os.path.expanduser("~/tmp"), 'blog')
 
@@ -14,7 +14,7 @@ def build():
 def push():
     local('cd {} && git add . && git commit -am "build" '
           '&& git push origin master'.format(OUTPUTDIR))
-    with settings(warn_only=True):
+    with settings(hide('warnings'), warn_only=True):
         local('hg push')
 
 
