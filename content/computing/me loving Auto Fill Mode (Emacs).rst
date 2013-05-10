@@ -5,12 +5,13 @@ me loving Auto Fill Mode (Emacs)
 :tags: untagged
 
 
-For the past 3 weeks, I have been learning Emacs, something I've been
-meaning to do for years now. I decided to do it seriously (not skip a
-day, sometimes hours at a time), and am really liking it. It's a very
-well-designed application with a great amount of polish, far more than
-anything I've seen yet (I've used Vim, Geany, Scribes, and Eclipse).
-It also helps that the documentation is so `well-written`__.
+For the past 2 weeks or so, I have been learning Emacs, something I've
+been meaning to do for years now. I decided to do it seriously (not
+skip a day, sometimes hours at a time), and am really liking it. It's
+a very well-designed application with a great amount of polish, far
+more than anything I've seen yet (I've used Vim, Geany, Scribes, and
+Eclipse).  It also helps that the documentation is so
+`well-written`__.
 
 So far, my single most favorite feature is `Auto Fill Mode`__, which
 allows you to keep typing without caring about line breaks, for they
