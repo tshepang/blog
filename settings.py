@@ -30,6 +30,7 @@ author = {
 }
 
 theme = {
+    'theme': 'moment',
     'vars': {
         'disqus': 'tshepanglogs',
         'analytics': 'UA-16685250-3',
