@@ -6,19 +6,19 @@ links 2013-05-11
 
 
 
-* `my first GitHub follower`__; at this time,
-  she is following 140 others, so maybe I not so specialness
+* `My first GitHub follower`__; at this time,
+  she is following 140 others, so maybe I not so specialness.
 
 * `Python interpreter finally gets tab completion by default`__;
   to see wide use, this will have to wait for 3.4 release,
-  `which will only arrive early 2014`__
+  `which will only arrive early 2014`__.
 
 * I submitted `my first bug report for Emacs`__,
   perhaps my first ever to a pure GNU project;
   I say this because GNOME claims to be one, but it's really only by name.
 
-* `excellent guide on improving Python performance`__;
-  it's written with PyPy in mind, but has excellent generic advice
+* `Excellent guide on improving Python performance`__;
+  it's written with PyPy in mind, but has excellent generic advice.
 
 * I enjoyed `this podcast`__ where Jeff Atwood talks about his new
   project, Discourse__.
