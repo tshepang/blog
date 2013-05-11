@@ -3,7 +3,7 @@ top sites
 
 
 
-**atheism**: `Common Sense Atheism`_ (**now dead**)
+**atheism**: `Common Sense Atheism`_ (*now dead*)
 
 **atheist writing**: `Pharyngula`_
 
