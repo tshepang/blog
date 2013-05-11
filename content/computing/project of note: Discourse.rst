@@ -6,7 +6,7 @@ project of note: Discourse
 
 
 
-`The announcement` by project lead, Jeff Atwood, sold me. This is one
+`The announcement`__ by project lead, Jeff Atwood, sold me. This is one
 rather incredible guy, a game changer of sorts, most notable for
 helping create what is likely `the most important programming resource
 on the web`__. So whenever he goes and creates something else, I
