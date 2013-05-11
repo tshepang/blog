@@ -20,7 +20,7 @@ links 2013-05-11
 * `excellent guide on improving Python performance`__;
   it's written with PyPy in mind, but has excellent generic advice
 
-* I enjoyed `this podcast`__ where Jeff Spolsky talks about his new
+* I enjoyed `this podcast`__ where Jeff Atwood talks about his new
   project, Discourse__.
 
 
