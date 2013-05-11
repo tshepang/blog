@@ -16,5 +16,5 @@ things, like `GTK+`_ and `GLib API`_.
 
 .. _Tracker: http://projects.gnome.org/tracker/
 .. _Google Desktop: http://en.wikipedia.org/wiki/Google_Desktop
-.. _GTK+: http://developer.gnome.org/gtk3/stable/
+.. _GTK+: http://developer.gnome.org/gtk2/stable/
 .. _GLib API: http://developer.gnome.org/glib/stable/
