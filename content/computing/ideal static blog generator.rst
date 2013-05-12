@@ -33,8 +33,6 @@ missed:
 
 * Tags should be displayed on each post.
 
-  - bonus: Categories too
-
 * A visible Atom/RSS feed icon please.
 
 
