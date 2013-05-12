@@ -24,8 +24,8 @@ missed:
 
 * An option to have clean urls (i.e. trailing ``.html`` removed).
 
-* Date-based directory structure should not be mandatory, `which is
-  the case with Tinkerer`__.
+* Date-based directory structure should not be mandatory (`unlike with
+  Tinkerer`__).
 
 * Inline literals and literal blocks (for code) should be
   distinguished by background colour; using different fonts is not
