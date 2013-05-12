@@ -12,7 +12,7 @@ missed:
   Python (I is a fanboy).
 
 * Landing page should not display blog content; an exception is if
-  this is limited to the latest post (which `Just Read`_ theme of
+  this is limited to the latest post (which `Just Read`__ theme of
   Pelican__ does nicely).
 
 * Categories should be determined by directory into which a post is
