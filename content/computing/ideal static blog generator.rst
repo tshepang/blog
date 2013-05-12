@@ -16,7 +16,7 @@ missed:
   Pelican__ does nicely).
 
 * Categories should be determined by directory into which a post is
-  placed (if Category is not explicitly specified).
+  placed if not explicitly specified (in file metadata section).
 
 * Ability to determine post date from file mtime.
 
