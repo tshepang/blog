@@ -11,9 +11,13 @@ missed:
 * reStructuredText__ support is mandatory, and so is being written in
   Python (I is a fanboy).
 
-* Landing page should not display blog content; an exception is if
-  this is limited to the latest post (which `Just Read`__ theme of
-  Pelican__ does nicely).
+* 3 alternatives possibilities for the Landing Page:
+
+  - The latest post should be displayed in its entirety, and the rest
+    displayed in an Archive view below (so one can quickly search all
+    blog Titles without leaving that page).
+  - It should be an About Page.
+  - It should present Archive View.
 
 * Categories should be determined by directory into which a post is
   placed if not explicitly specified (in file metadata section).
@@ -37,6 +41,4 @@ missed:
 
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-__ https://github.com/getpelican/pelican-themes/tree/master/Just-Read
-__ http://blog.getpelican.com/
 __ https://bitbucket.org/vladris/tinkerer/issue/41
