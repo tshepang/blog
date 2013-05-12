@@ -14,8 +14,8 @@ missed:
 * 3 alternatives possibilities for the Landing Page:
 
   - The latest post should be displayed in its entirety, and the rest
-    displayed in an Archive view below (so one can quickly search all
-    blog Titles without leaving that page).
+    displayed in an Archive view below it (so one can quickly search
+    all post Titles without leaving that page).
   - It should be an About Page.
   - It should present Archive View.
 
