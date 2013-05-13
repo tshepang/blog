@@ -11,7 +11,7 @@ missed:
 * reStructuredText__ support is mandatory, and so is being written in
   Python (I is a fanboy).
 
-* 3 alternatives possibilities for the Landing Page:
+* 3 alternatives for the Landing Page:
 
   - The latest post should be displayed in its entirety, and the rest
     displayed in an Archive view below it (so one can quickly search
