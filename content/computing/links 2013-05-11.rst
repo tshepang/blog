@@ -6,8 +6,8 @@ links 2013-05-11
 
 
 
-* `My first GitHub follower`__; at this time,
-  she is following 140 others, so maybe I not so specialness.
+* `My first GitHub follower`__; at this time, he is following 140
+  others, so maybe I not so specialness.
 
 * `Python interpreter finally gets tab completion by default`__;
   to see wide use, this will have to wait for 3.4 release,
