@@ -1,5 +1,5 @@
-* A blog post is started with running new-post.py;
-  look at the script's ``-h`` command-line option.
+* A blog post is started with running the script, ``new-post.py``;
+  look at script's ``--help`` command-line option.
 
 * The blog is built by running ``fab`` in this directory;
   it runs ``liquidluck build`` and then pushes the results
