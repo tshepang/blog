@@ -6,7 +6,7 @@ BioShock
 
 
 
-I enjoyed a `negative review of BioShock`_ partly because everything
+I enjoyed a `negative review of BioShock`__ partly because everything
 else I've read so far was full of praise, and partly because,
 immersive as it is, really is overrated. For one, I couldn't believe
 that I was restricted to basically one environment, and I got so lost
@@ -26,4 +26,4 @@ could be as exploration tools to unfamiliar worlds.  Note that I've
 lived through such an experience with the vastly underrated *Conflict:
 Desert Storm*.
 
-.. _negative review of *BioShock*: http://www.wired.com/gamelife/2008/02/ken-levine-how
+__ http://www.wired.com/gamelife/2008/02/ken-levine-how
