@@ -2,7 +2,7 @@ Argument from Beauty
 ====================
 
 :date: 2010-08-30
-:tags: atheism
+:tags: atheism, humor
 
 
 
