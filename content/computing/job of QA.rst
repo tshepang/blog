@@ -4,7 +4,7 @@ job of QA
 :date: 2013-05-18
 :tags: quote, non-Debian
 
-:
+..
 
     ... the job of QA is to determine whether things are working as
     intended, not to decide what the intentions should be.
