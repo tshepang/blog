@@ -70,7 +70,8 @@ def main():
                 f.write(':tags: {}\n'.format(', '.join(args.tags)))
             f.write('\n\n\n')
 
-    command = 'editor "{}"'.format(filename)
+    command = '{} "{}"'.format(os.environ.get('EDITOR', 'editor'),
+                               filename)
     command = shlex.split(command)
     subprocess.call(command)
 
