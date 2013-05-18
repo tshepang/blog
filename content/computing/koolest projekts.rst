@@ -11,7 +11,7 @@ These are what I find to be the most exciting projects, today:
 * PyPy__
 
   It's been alive for over 10 years, but it's still generally
-  considered among the most of all Python projects.
+  considered among the most exciting of all Python projects.
 
 * Discourse__ (project_of_note__)
 
