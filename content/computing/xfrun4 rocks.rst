@@ -3,14 +3,13 @@ xfrun4 rocks
 
 :date: 2010-05-10
 :tags: GNOME, non-GNOME
-:updated: 2013-05-25
 
 
 
 The one desktop environment I live in is GNOME, which also happens to be
 my favorite too. It's got quite a lot of things that can be better of
 course and one of them is its run dialog. I once bumped into
-that run dialog of XFCE4__ and have used it since I discovered it `years
+that run dialog of `Xfce 4`__ and have used it since I discovered it `years
 ago`__. What I like about it is, unlike GNOME's, it doesn't auto-complete
 using a large list of possible commands (presumably on the shell's PATH)
 but rather a smaller list consisting of commands I have actually run
