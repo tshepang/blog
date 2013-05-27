@@ -23,7 +23,7 @@ Some stuff I might work on in future:
 --------------
 
 Here's the work I did in the past working on wajig, have a look at
-`its tag`_. Off the top of my head:
+`its tag`__. Off the top of my head:
 
 - improved, simplied packaging
 - port to Python 3
