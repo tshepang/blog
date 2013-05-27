@@ -1,5 +1,5 @@
-my future involvement in wajig
-==============================
+my current plans for wajig
+==========================
 
 :date: 2013-05-27
 :tags: wajig, Python, Tracker
@@ -19,6 +19,9 @@ Some stuff I might work on in future:
   project`__), but was never quite confident. It's very likely that I
   won't work on this... too much work.
 
+But ultimately, I would love for the standard Debian packaging tools
+to get the the point where they make wajig irrelvant. After all, wajig
+was created to be a wrapper that helps ease the mess.
 
 --------------
 
