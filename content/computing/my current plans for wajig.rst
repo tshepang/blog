@@ -1,7 +1,6 @@
 my current plans for wajig
 ==========================
 
-:date: 2013-05-27
 :tags: wajig, Python, Tracker
 
 
