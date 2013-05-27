@@ -23,12 +23,11 @@ indicator that someone actually cared about the feature.
 That motivated me to fix it,
 and I ensured that the fix was in before Debian 7 freeze.
 
-This project is my greatest contribution for this upcoming Debian release,
-and although `I do not intend to spend much time on it in future`__,
-it will not hurt much to fix a bug here and there.
+This work is my greatest contribution for this upcoming Debian
+release.
 
 
 .. _Reuben Thomas: http://rrt.sc3d.org/
 .. _update: http://tshepang.net/debian-7-will-release-with-wajig-273
 .. _did complain about this: http://bugs.debian.org/670687
-__ http://tshepang.net/my-future-involvement-in-wajig
+

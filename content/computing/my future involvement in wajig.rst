@@ -1,35 +1,28 @@
 my future involvement in wajig
 ==============================
 
-:date: 2012-04-11
+:date: 2013-05-27
 :tags: wajig, Python, Tracker
 
 
 
-After releasing `version 2.5`_, I don't intend spending much more time
-in wajig. I want to learn `CPython`_ code in earnest, you know fixing
-bugs, improving documentation, increasing test coverage. I've already
-started with that, and some of my work has been committed, but am not
-satisfied yet. There's still a few bugs I want to work, blog posts to
-read, videos to watch... I suspect doing this is one good way towards
-being a decent developer.
+Some stuff I might work on in future:
 
-This doesn't mean I will abandon wajig of course. It means I intend to
-keep it on maintenance mode (i.e. fixing bugs). I will even work on an
-odd feature request (there aren't many of those). But one thing I might
-work on:
+-  I want to start using argcomplete__ at some point, a more dynamic
+   shell completion tool, replacing the current hand-rolled solution.
+   I find shell programming hard, and argcomplete, which is inspired
+   by optcomplete__ is a brilliant workaround.
 
--  someone asked me to restore gjig, the GUI tool that I removed from
-   wajig some releases ago; this will be an opportunity to learn GTK+
-   again; I did a bit of it, even contributing patches (`Tracker
-   project`_), but was never quite confident
--  whenever someone ports `optcomplete`_ to `argparse`_, I gonna put it
-   in wajig; I find shell programming hard, and optcomplete is a
-   brilliant workaround
+-  Someone asked me to restore gjig, the GUI tool that `I removed from
+   wajig`__ some releases ago. This will be an opportunity to learn GTK+
+   again. I did a bit of it, even contributing patches (`Tracker
+   project`__), but was never quite confident. It's very likely that I
+   won't work on this... too much work.
+
 
 --------------
 
-For the work I did in the past working on wajig, have a look at `its
+Here's the work I did in the past working on wajig, have a look at `its
 tag`_. Off the top of my head:
 
 -  improved, simplied packaging
@@ -44,9 +37,9 @@ tag`_. Off the top of my head:
 
 And over 700 commits later, I am glad.
 
-.. _version 2.5: http://tshepang.net/wajig-25-released
-.. _CPython: http://doc.python.org/devguide
-.. _Tracker project: http://projects.gnome.org/tracker/
-.. _optcomplete: http://furius.ca/optcomplete/
-.. _argparse: http://docs.python.org/dev/library/argparse
-.. _its tag: http://tshepang.net/tag/wajig/
+
+__ https://github.com/kislyuk/argcomplete
+__ http://furius.ca/optcomplete/
+__ http://tshepang.net/wajig-21-released
+__ http://projects.gnome.org/tracker/
+__ http://tshepang.net/tag/wajig/
