@@ -12,8 +12,7 @@ all he does, especially since `he does it in his free time`_. He also
 tends to be quite stern, which is extra kool since he does it while
 displaying `great depth of knowledge`_ and `maturity`_.
 Also, his great work has been
-`officially recognized by the Python Software Foundation`_,
-and deservedly so.
+`officially recognized by the Python Software Foundation`_.
 
 The first work that prompted this recognition as `developer of note`_
 is the proposal, `PEP 413`_. The idea is that the Python standard library
