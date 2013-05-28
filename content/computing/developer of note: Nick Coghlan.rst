@@ -50,3 +50,4 @@ to be a great champion in pushing for progress on that front.
 .. _PEP 407: http://www.python.org/dev/peps/pep-0407
 .. _the heavy discussion: http://mail.python.org/pipermail/python-dev/2012-February/116832.html
 .. _the changes made by Nick: http://hg.python.org/peps/rev/8a6e3b28dbef
+.. _PEP 432: http://www.python.org/dev/peps/pep-0432
