@@ -23,7 +23,7 @@ favoring the opposite.  The PEP (Python Enhancement Proposal) is quite
 thorough, and is partly in opposition to the earlier `PEP 407`_, which
 proposes that all of CPython (the language and its stdlib) should
 release faster.  Nick Coghlan outlines the disadvantages with that
-apporach in PEP 413 as well.
+approach in PEP 413 as well.
 
 He also builds and maintains a collection of notes known simply as
 `Nick Coghlan's Python Notes`_. There is much wisdom there (complete
