@@ -7,33 +7,31 @@ developer of note: Nick Coghlan
 
 
 This is easily among the most active of all core CPython developers.
-His productivity is ridiculous, and I seriously wonder how he manages to do
-all he does, especially since `he does it in his free time`_. He also
-tends to be quite stern, which is extra kool since he does it while
-displaying `great depth of knowledge`_ and `maturity`_.
-Also, his great work has been
-`officially recognized by the Python Software Foundation`_.
+His productivity is ridiculous, and I seriously wonder how he manages
+to do all he does, especially since `he does it in his free time`_. He
+also tends to be quite stern, which is extra kool since he does it
+while displaying `great depth of knowledge`_ and `maturity`_.  Also,
+his great work has been `officially recognized by the Python Software
+Foundation`_.
 
 The first work that prompted this recognition as `developer of note`_
-is the proposal, `PEP 413`_. The idea is that the Python standard library
-(stdlib) should release at a quicker rate than the Python language itself.
-This is a nice balance between two camps:
-those favoring *stability* over quicker availability of features, and
-those favoring the opposite.
-The PEP (Python Enhancement Proposal) is quite thorough,
-and is partly in opposition to the earlier `PEP 407`_, which proposes
-that all of CPython (the language and its stdlib) should release faster.
-Nick Coghlan outlines the disadvantages with that apporach in PEP 413 as
-well.
+is the proposal, `PEP 413`_. The idea is that the Python standard
+library (stdlib) should release at a quicker rate than the Python
+language itself.  This is a nice balance between two camps: those
+favoring *stability* over quicker availability of features, and those
+favoring the opposite.  The PEP (Python Enhancement Proposal) is quite
+thorough, and is partly in opposition to the earlier `PEP 407`_, which
+proposes that all of CPython (the language and its stdlib) should
+release faster.  Nick Coghlan outlines the disadvantages with that
+apporach in PEP 413 as well.
 
 He also builds and maintains a collection of notes known simply as
-`Nick Coghlan's Python Notes`_. There is much wisdom there
-(complete with good and clear writing),
-favorite of which is the just-updated
-`Incremental Plans to Improve Python Packaging`_,
-a thorough write-up on the history, current state, and future plans
-regarding the story of packaging (and installation) in the Python ecosystem.
-He also happens to be a great champion in pushing for progress on that front.
+`Nick Coghlan's Python Notes`_. There is much wisdom there (complete
+with good and clear writing), favorite of which is the just-updated
+`Incremental Plans to Improve Python Packaging`_, a thorough write-up
+on the history, current state, and future plans regarding the story of
+packaging (and installation) in the Python ecosystem.  He also happens
+to be a great champion in pushing for progress on that front.
 
 
 .. _maturity: http://hg.python.org/peps/rev/8a6e3b28dbef
