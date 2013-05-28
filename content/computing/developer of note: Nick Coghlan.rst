@@ -27,7 +27,7 @@ approach in PEP 413 as well.
 
 He also builds and maintains a collection of notes known simply as
 `Nick Coghlan's Python Notes`_. There is much wisdom there (complete
-with good and clear writing), favorite of which is the just-updated
+with high quality clear writing), favorite of which is the just-updated
 `Incremental Plans to Improve Python Packaging`_, a thorough write-up
 on the history, current state, and future plans regarding the story of
 packaging (and installation) in the Python ecosystem.  He also happens
