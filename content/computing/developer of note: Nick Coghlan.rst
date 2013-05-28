@@ -30,7 +30,7 @@ was more like he playing a devil's advocate, as it later transpired)
 is `PEP 432`_. There, he happens to expose his deep knowledge on
 CPython internals, and is also incredibly-detailed.
 
-He also builds and maintains a collection of notes known simply as
+Nick also builds and maintains a collection of notes known simply as
 `Nick Coghlan's Python Notes`_. There is much wisdom there (complete
 with high quality clear writing), favorite of which is the just-updated
 `Incremental Plans to Improve Python Packaging`_, a thorough write-up
