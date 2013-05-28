@@ -10,7 +10,7 @@ I nid tu rilex
    I have an unrealistic expectation of myself. I fail to meet that
    expectation. This makes me feel guilty and stressed.
 
-   -- `Russ Allbery yearning to be a better person`__
+   -- from `an excellent article` by Russ Allbery, a Debian Developer
 
 I need to take this advice seriously... I need to relax a bit.
 
