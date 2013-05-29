@@ -1,7 +1,6 @@
 superstar projects, and associated implementation languages
 ===========================================================
 
-:date: 2013-05-11
 :tags: untagged
 
 
@@ -35,6 +34,7 @@ Java
 Python
 ------
 
+* Youtube (non-FLOSS)
 * Disqus (non-FLOSS)
 * Django
 * Mercurial
