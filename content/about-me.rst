@@ -17,8 +17,8 @@ also love music__, as well as engaging conversation.
 
 __ http://en.wikipedia.org/wiki/South_Africa
 __ http://tshepang.net/tag/python
-__ http://tshepang.net/tag/debian
 __ http://tshepang.net/tag/wajig
+__ http://tshepang.net/tag/debian
 __ http://movies.tshepang.net
 __ http://tshepang.net/where-i-live-on-the-web
 __ http://tshepang.net/tag/music
