@@ -3,8 +3,6 @@ top sites
 
 
 
-**atheism**: `Common Sense Atheism`_ (now dead)
-
 **atheist writing**: `Pharyngula`_
 
 **Linux-related news**: `LWN`_
@@ -15,7 +13,7 @@ top sites
 
 **HTML5**: `diveintohtml5`_
 
-.. _Common Sense Atheism: http://commonsenseatheism.com/
+
 .. _Pharyngula: http://scienceblogs.com/pharyngula/
 .. _LWN: http://lwn.net/
 .. _Less Wrong: http://lesswrong.com/
