@@ -7,7 +7,6 @@ key posts
 **general**
 
 -  `top sites`_
--  `top links`_
 -  `where I live on the web`_
 
 **software**
@@ -24,7 +23,6 @@ key posts
 
 
 .. _top sites: http://tshepang.net/top-sites
-.. _top links: http://tshepang.net/top-links
 .. _where I live on the web: http://tshepang.net/where-i-live-on-the-web
 
 .. _project-of-note series: http://tshepang.net/tag/project-of-note
