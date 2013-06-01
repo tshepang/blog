@@ -4,18 +4,21 @@ about me
 :tags: page
 
 
+
 -  Tshepang Lekhonkhobe
 -  tshepang@gmail.com
--  Gauteng province, `South Africa`_
+-  Gauteng province, `South Africa`__
 
-I do software development (me loves `Python`_) for a living and for fun.
-My OS of choice is `Debian`_, I watch perhaps too many `movies`_, and I
-`spend too much time on the web`_. I also love `music`_, as well as
-engaging conversation.
+I do software development (me loves Python__) for a living and as a
+hobby (examples__). My OS of choice is Debian__, I watch perhaps too
+many movies__, and I `spend perhaps too much time on the web`__. I
+also love music__, as well as engaging conversation.
 
-.. _South Africa: http://en.wikipedia.org/wiki/South_Africa
-.. _Python: http://tshepang.net/tag/python
-.. _Debian: http://tshepang.net/tag/debian
-.. _movies: http://movies.tshepang.net
-.. _spend too much time on the web: http://tshepang.net/where-i-live-on-the-web
-.. _music: http://tshepang.net/tag/music
+
+__ http://en.wikipedia.org/wiki/South_Africa
+__ http://tshepang.net/tag/python
+__ http://tshepang.net/tag/debian
+__ http://tshepang.net/tag/wajig
+__ http://movies.tshepang.net
+__ http://tshepang.net/where-i-live-on-the-web
+__ http://tshepang.net/tag/music
