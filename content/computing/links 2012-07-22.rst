@@ -6,25 +6,24 @@ links 2012-07-22
 
 
 
--  great points on `the limitations of Planet Python`_, my main source
-   of news on Python-related stuff
+- Great points on `the limitations of Planet Python`_, my main source
+  of news on Python-related stuff.
 
--  people tend to oppose radical change and then later on admit that
-   change wasn't that bad; in `this one case`_, an apology was even
-   given
+- People tend to oppose radical change and then later on admit that
+  change wasn't that bad; in `this one case`_, an apology was even
+  given.
 
--  `great article`_ on how Python neither passes arguments by reference
-   nor value
+- A `great explanation`_ on how whether or not Python passes arguments
+  by reference value.
 
--  if anyone ever complains, "oh, now I have to fill my hard drive by
-   having to pull all of that Mono shit", she should be read `this blog
-   post`_; also applies to me, `a non-so-pragmattic fundamentalist
-   dreamer`_
+- If anyone ever complains, "oh, now I have to fill my hard drive by
+  having to pull all of that Mono shit", she should be forced to read
+  `this blog post`_; also applies to me at times.
 
--  am working on giving a product of ours ability to speak Socket CAN,
-   and I really appreciate its `official documentation`_ on it, which is
-   well-written and thorough; one more reason to be grateful of the
-   Linux kernel project
+- am working on giving a product of ours ability to speak Socket CAN,
+  and I really appreciate its `official documentation`_ on it, which
+  is well-written and thorough; one more reason to be grateful of the
+  Linux kernel project
 
 .. _the limitations of Planet Python: http://rhodesmill.org/brandon/2012/reading-planet-python/
 .. _this one case: http://www.earth.li/~noodles/blog/2012/05/6-months-of-gnome-shell.html
