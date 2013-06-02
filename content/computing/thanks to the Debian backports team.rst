@@ -20,7 +20,7 @@ anyway since I know that it has improved desktop responsiveness. I was
 pleasantly surprised to find that it fixed the above two problems.
 Loveliness.
 
-On another note, I found that **Mercurial** 1.8 also has a backport.
+On another note, I found that Mercurial 1.8 also has a backport.
 This is great news because I have repositories I created with that
 version and the format is incompatible with Squeeze's 1.6.
 
