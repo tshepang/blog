@@ -2,7 +2,7 @@ me likes subprocess.DEVNULL
 ===========================
 
 :date: 2013-04-11
-:tags: Python
+:tags: Python, VCS
 
 
 If you want to run an external process from within Python,

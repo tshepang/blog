@@ -2,7 +2,7 @@ thanks to the Debian backports team
 ===================================
 
 :date: 2011-07-14
-:tags: Debian
+:tags: Debian, VCS
 
 
 

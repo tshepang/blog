@@ -2,7 +2,7 @@ easing switching between Git and Mercurial
 ==========================================
 
 :date: 2013-02-16
-:tags: Python
+:tags: Python, VCS
 
 
 

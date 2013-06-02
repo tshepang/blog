@@ -2,7 +2,7 @@ me loving the Kiln Harmony concept
 ==================================
 
 :date: 2013-04-03
-:tags: non-FLOSS
+:tags: non-FLOSS, VCS
 
 
 I tend to work a lot with both Git and Mercurial,

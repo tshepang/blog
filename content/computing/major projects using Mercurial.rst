@@ -2,7 +2,7 @@ major projects using Mercurial
 ==============================
 
 :date: 2013-06-02
-:tags: untagged
+:tags: VCS
 
 
 

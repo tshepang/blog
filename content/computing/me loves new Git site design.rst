@@ -2,7 +2,7 @@ me loves new Git site design
 ============================
 
 :date: 2012-05-16
-:tags: untagged
+:tags: VCS
 
 
 
