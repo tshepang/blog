@@ -6,19 +6,20 @@ links 2012-04-12
 
 
 
--  `Books Programmers Don't Really Read`_
+- `Books Programmers Don't Really Read`__
 
--  `avoid being too concise`_ – a Python example
+- `avoid being too concise`__ – a Python example
 
--  `excellent review of a book that uses Python to teach kids
-   programming`_
+- `excellent review of a book that uses Python to teach kids
+  programming`__
 
--  `mailing lists are less than ideal for debate/extended discussion`_
+- `mailing lists are less than ideal for debate/extended discussion`__
 
--  `a nice guide on packaging (small) Python projects`_
+- `a nice guide on packaging (small) Python projects`__
 
-.. _Books Programmers Don't Really Read: http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html
-.. _avoid being too concise: http://www.b-list.org/weblog/2006/oct/28/python-tips-dont-be-too-concise/
-.. _excellent review of a book that uses Python to teach kids programming: http://inventwithpython.com/blog/2010/09/27/i-want-to-teach-my-kid-how-to-program/
-.. _mailing lists are less than ideal for debate/extended discussion: http://tech.blog.aknin.name/2010/05/29/mailing-list-debates-considered-harmful/
-.. _a nice guide on packaging (small) Python projects: http://www.kennethreitz.com/repository-structure-and-python.html
+
+__ http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html
+__ http://www.b-list.org/weblog/2006/oct/28/python-tips-dont-be-too-concise/
+__ http://inventwithpython.com/blog/2010/09/27/i-want-to-teach-my-kid-how-to-program/
+__ http://tech.blog.aknin.name/2010/05/29/mailing-list-debates-considered-harmful/
+__ http://www.kennethreitz.com/repository-structure-and-python.html
