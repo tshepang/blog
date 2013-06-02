@@ -16,9 +16,6 @@ links 2012-07-22
 - A `great explanation`_ on how whether or not Python passes arguments
   by reference value.
 
-- If anyone ever complains, "oh, now I have to fill my hard drive by
-  having to pull all of that Mono shit", she should be forced to read
-  `this blog post`_; also applies to me at times.
 
 - am working on giving a product of ours ability to speak Socket CAN,
   and I really appreciate its `official documentation`_ on it, which
