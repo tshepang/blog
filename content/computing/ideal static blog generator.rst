@@ -1,7 +1,7 @@
 ideal static blog generator
 ===========================
 
-:date: 2013-05-12
+:date: 2013-06-02
 :tags: blogging
 
 
