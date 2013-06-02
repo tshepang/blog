@@ -35,10 +35,16 @@ missed:
   distinguished by background colour; using different fonts is not
   good enough.
 
-* Tags should be displayed on each post.
+* Tags (and maybe Categories) should be displayed on each post.
 
-* A visible Atom/RSS feed icon please.
+* An feed icon that is visible from landing page (and maybe Category
+  pages).
+
+* Blogofile has a strange requirement of having `post headers be YAML
+  format`__. Maybe there's a good reason, but I want my generator to
+  not require anything special in file contents.
 
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 __ https://bitbucket.org/vladris/tinkerer/issue/41
+__ http://docs.blogofile.com/en/latest/posts.html
