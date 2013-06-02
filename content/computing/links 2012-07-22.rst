@@ -13,18 +13,18 @@ links 2012-07-22
   change wasn't that bad; in `this one case`_, an apology was even
   given.
 
-- A `great explanation`_ on how whether or not Python passes arguments
-  by reference value.
+- A `great explanation`__ to the question *Does Python pass by
+  reference or pass by value?*
 
-
-- am working on giving a product of ours ability to speak Socket CAN,
+- Am working on giving a product of ours ability to speak Socket CAN,
   and I really appreciate its `official documentation`_ on it, which
-  is well-written and thorough; one more reason to be grateful of the
-  Linux kernel project
+  is quite well-written and thorough (but assumes prior knowledge of
+  working sockets); one more reason to be grateful of the Linux kernel
+  project.
+
 
 .. _the limitations of Planet Python: http://rhodesmill.org/brandon/2012/reading-planet-python/
 .. _this one case: http://www.earth.li/~noodles/blog/2012/05/6-months-of-gnome-shell.html
-.. _great article: http://me.veekun.com/blog/2012/05/23/python-faq-passing/
-.. _this blog post: http://apebox.org/wordpress/rants/416/
+__ http://me.veekun.com/blog/2012/05/23/python-faq-passing/
 .. _a non-so-pragmattic fundamentalist dreamer: http://tshepang.net/floss-pipedreams
 .. _official documentation: http://www.kernel.org/doc/Documentation/networking/can.txt
