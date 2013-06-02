@@ -79,4 +79,4 @@ further reading
 .. _shell injection: http://en.wikipedia.org/wiki/Shell_injection#Shell_injection
 .. _a gentle tutorial: http://jimmyg.org/blog/2009/working-with-python-subprocess.html
 .. _the official doc for the Popen.communicate() method: http://docs.python.org/library/subprocess.html#subprocess.Popen.communicate
-.. _a great explanation: http://diveintopython3.ep.io/strings.html
+.. _a great explanation: http://diveintopython3.net/strings.html
