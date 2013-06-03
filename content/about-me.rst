@@ -15,7 +15,7 @@ Python__. My OS of choice is Debian__, I watch perhaps too many
 movies__, and I `spend perhaps too much time on the web`__. I also
 love music__, as well as engaging conversation.
 
----
+----
 
 The sources for this blog can be found `on Bitbucket`__.
 
