@@ -28,7 +28,8 @@ equivalent of ``testing`` and ``unstable``.
 
 Another command that I sometimes run, though less frequently, is::
 
-    reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang /var/cache/apt/archives/*deb
+    reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang \
+    /var/cache/apt/archives/*deb
 
 This one is used to help keep the repository fresh. Check out `this
 post`_ for an explanation.
