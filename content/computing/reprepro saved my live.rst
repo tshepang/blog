@@ -10,9 +10,9 @@ Much of this is obsolete: I no longer build my own Debian packages.
 
 --------------
 
-That's a joke title, but `that fabulous tool`_ nearly did helped me a
-lot. Since I do my own package builds, all I need do is run the
-following after a build:
+That's a joke title, but `that fabulous tool`_ really did help me a
+lot. When doing package builds, all I need to run is the following
+after a build:
 
 .. code-block:: sh
 
