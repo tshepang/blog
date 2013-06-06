@@ -11,9 +11,10 @@ about me
 
 I do software development `for a living`__ and as a hobby
 (examples__). My favorite ecosystem (and language) is that of
-Python__. My OS of choice is Debian__, I watch perhaps too many
-movies__, and I `spend perhaps too much time on the web`__. I also
-love music__, as well as engaging conversation.
+Python__, and my OS of choice is Debian__.
+
+I watch perhaps too many movies__, and I `spend perhaps too much time
+on the web`__. I also love music__, as well as engaging conversation.
 
 ----
 
