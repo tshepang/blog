@@ -19,9 +19,9 @@ Every once in a while, I run this command::
     /var/cache/apt/archives/*deb
 
 What it does is add packages that are stored by the Debian package
-management system, and add it to the custom repository. That ensures
-that I only keep packages that matter to me for any later re-install, or
-perhaps an install into another machine.
+management system (located in ``/var/cache/apt/archives``) to the
+custom repository (located in ``~/.custom_repo``). That ensures that I
+only keep packages that matter to me for any later install.
 
 Note that ``tshepang`` is the name of the repository. It's an unofficial
 equivalent of ``testing`` and ``unstable``.
