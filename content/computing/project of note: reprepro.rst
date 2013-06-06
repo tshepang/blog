@@ -15,7 +15,8 @@ I ever install.
 
 Every once in a while, I run this command::
 
-    reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang /var/cache/apt/archives/*deb
+    reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang \
+    /var/cache/apt/archives/*deb
 
 What it does is add packages that are stored by the Debian package
 management system, and add it to the custom repository. That ensures
