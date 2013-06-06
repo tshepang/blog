@@ -36,17 +36,14 @@ post`_ for an explanation.
 
 Even less frequently, it happens that some package files are no longer
 referenced (i.e. not found in ``Package.gz``) for some reason. Here's
-handy command to display them:
-
-::
+handy command to display them::
 
     reprepro --basedir ~/.custom_repo dumpunreferenced
 
-And here's another that actually gets rid of them:
-
-::
+And here's another that actually gets rid of them::
 
     reprepro --basedir ~/.custom_repo deleteunreferenced
+
 
 .. _reprepro: http://mirrorer.alioth.debian.org/
 .. _twice: http://tshepang.net/reprepro-saved-my-live
