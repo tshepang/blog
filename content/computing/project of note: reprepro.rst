@@ -26,7 +26,7 @@ only keep packages that matter to me for any later install.
 Note that ``tshepang`` is the name of the repository. It's an unofficial
 equivalent of ``testing`` and ``unstable``.
 
-Another command that I sometimes run, though less frequently is::
+Another command that I sometimes run, though less frequently, is::
 
     reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang /var/cache/apt/archives/*deb
 
