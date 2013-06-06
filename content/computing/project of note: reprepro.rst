@@ -15,7 +15,7 @@ I ever install.
 
 Every once in a while, I run this command::
 
-    reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang \
+    $ reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang \
     /var/cache/apt/archives/*deb
 
 What it does is add packages that are stored by the Debian package
@@ -28,7 +28,7 @@ equivalent of ``testing`` and ``unstable``.
 
 Another command that I sometimes run, though less frequently, is::
 
-    reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang \
+    $ reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang \
     /var/cache/apt/archives/*deb
 
 This one is used to help keep the repository fresh. Check out `this
@@ -38,11 +38,11 @@ Even less frequently, it happens that some package files are no longer
 referenced (i.e. not found in ``Package.gz``) for some reason. Here's
 handy command to display them::
 
-    reprepro --basedir ~/.custom_repo dumpunreferenced
+    $ reprepro --basedir ~/.custom_repo dumpunreferenced
 
 And here's another that actually gets rid of them::
 
-    reprepro --basedir ~/.custom_repo deleteunreferenced
+    $ reprepro --basedir ~/.custom_repo deleteunreferenced
 
 
 .. _reprepro: http://mirrorer.alioth.debian.org/
