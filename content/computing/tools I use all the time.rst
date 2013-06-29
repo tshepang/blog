@@ -1,7 +1,6 @@
 tools I use all the time
 ========================
 
-:date: 2013-04-30
 :tags: untagged
 
 
