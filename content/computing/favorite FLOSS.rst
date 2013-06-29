@@ -10,7 +10,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **desktop**: `GNOME`_
 
-**development**: Python, git-cola_
+**development**: Python, Emacs, git-cola_
 
 **misc utilities:** grep, `Sudo`_, `reprepro`_, Lsof, less, Meld,
 Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
