@@ -4,15 +4,18 @@ about 'developer of note' series
 :tags: developer-of-note
 
 
-I respect a lot of software developers,
-but many of those are not going to have an entru in this series.
-So, here's the criteria I use to regard someone as `developer of the note`__:
+I respect a lot of software developers, but many of those are not
+going to have an entry in this series, and not because they are lesser
+in my eyes.
+
+Here's the criteria I use to regard someone as `developer of the
+note`__:
 
 * I need a news item that would trigger a post.
   Thing is, if you write about someone,
   you actually need to have some content (duh!),
   and saying "Guide van Rossum rocks for creating Python, and am grateful!"
-  is simply not enough, hence a need a for a trigger.
+  is simply not enough, hence a need for a trigger.
   In fact, I used to call this series *developer of the moment*,
   but at some point felt that the new name is more fitting,
   especially since a few of these honorable developers actually generated
