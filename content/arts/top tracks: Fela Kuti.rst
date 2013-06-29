@@ -41,7 +41,8 @@ top tracks: Fela Kuti
 honorable mention
 -----------------
 
--  **Why Black Man Dey Suffer** (*Why Black Man Dey Suffer* - 1971):
+- **Why Black Man Dey Suffer** (*Why Black Man Dey Suffer* - 1971):
+
       Not in the above lists because it gets spoiled by the vocals about halfway
       through. The instruments are incredible, and almost the only saving
       grace of the song, but they start to sound repetitive several minutes
