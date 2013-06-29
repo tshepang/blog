@@ -10,7 +10,8 @@ For those I like a lot, see `this list`__.
 
 * Debian: my primary OS, and also my favorite
 * Emacs: general text editor
-* Vim: I use this at work, except on my workstation
+* Vim: it happens to be installed on a lot of systems at work, but I
+  only rarely use it on my workstation
 
 * GNOME: primary Desktop Environment
 
