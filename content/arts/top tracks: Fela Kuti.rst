@@ -48,3 +48,6 @@ honorable mention
       grace of the song, but they start to sound repetitive several minutes
       in. The beginning parts of the song, including its vocals, would earn
       this one a msterpiece had the rest been kept at that level.
+
+- **Trouble Sleep Yanga Wake Am** (*Roforofo Fight* - 1972)
+
