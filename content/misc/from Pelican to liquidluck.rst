@@ -7,9 +7,9 @@ from Pelican to liquidluck
 
 **notes**:
 
-- I have a separate post on `what I love about static website generators`_.
 - This post was first published on **2012-07-05**,
   which is shortly after I started using `liquidluck`_.
+- I have a separate post on `what I love about static website generators`_.
 
 
 why `Pelican`_ rocks
