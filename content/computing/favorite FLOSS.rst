@@ -1,6 +1,7 @@
 favorite FLOSS
 ==============
 
+:tags: untagged
 
 
 For a piece of `FLOSS`_ (free/libre and open source software) to be here,
