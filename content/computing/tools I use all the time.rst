@@ -10,8 +10,8 @@ wing are tools I use all the time, but am not necessarily loving.
 For those I like a lot, see `this list`__.
 
 * Debian: my primary OS, and also my favorite
-* Vim: main programming text editor
-* Geany: general text editor
+* Emacs: general text editor
+* Vim: I use this at work, except on my workstation
 
 * GNOME: primary Desktop Environment
 
