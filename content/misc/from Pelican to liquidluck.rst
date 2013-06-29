@@ -1,7 +1,7 @@
 from Pelican to liquidluck
 ==========================
 
-:date: 2013-03-20
+:date: 2013-06-29
 :tags: blogging
 
 
@@ -72,6 +72,21 @@ issues
   and results in an ugly look.
   It does not fit with the general general theme, so should be grey really,
   which would match with that of ``<pre>`` text.
+  If fixed it myself with the following change::
+
+    diff --git a/liquidluck/_themes/default/static/style.css b/liquidluck/_themes/default/static/style.css
+    index e90de80..94fa7e8 100644
+    --- a/liquidluck/_themes/default/static/style.css
+    +++ b/liquidluck/_themes/default/static/style.css
+    @@ -112,7 +112,7 @@ pre {
+         border-radius: 3px;
+     }
+     code, tt {
+    -    background-color: #fee9cc;
+    +    background-color: #eee;
+         color: rgba(0, 0, 0, 0.75);
+         padding: 1px 3px;
+         font-size: 12px;
 
 
 .. _live demo: http://demo-responsive.tshepang.net
