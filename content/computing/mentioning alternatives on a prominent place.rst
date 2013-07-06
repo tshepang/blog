@@ -1,7 +1,7 @@
 mentioning alternatives on a prominent place
 ============================================
 
-:date: 2013-06-02
+:date: 2013-07-06
 :tags: untagged
 :public: false
 
@@ -17,5 +17,9 @@ page, and here's a few of those who do it:
 
 * LinkChecker__
 
+* Liferea__
+
+
 __ http://ltib.org/home-intro
 __ http://wummel.github.io/linkchecker
+__ http://lzone.de/liferea
