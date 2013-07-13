@@ -1,7 +1,6 @@
 major projects using Mercurial
 ==============================
 
-:date: 2013-06-02
 :tags: VCS
 
 
@@ -9,8 +8,7 @@ major projects using Mercurial
 Mercurial is the only version control system that I actually like, and
 I do celebrate each time I see a project use it. So, here I list the
 most notable projects I am aware of that do, which also gives me hope
-that it isn't being suffocated too much by Git. I ordered them by my
-some rough mix popularity and importance:
+that it isn't being suffocated too much by Git:
 
 * Firefox__, on top 3 of all desktop web browsers (number of users)
 
@@ -26,6 +24,9 @@ some rough mix popularity and importance:
 * PyPy__, likely the most exciting development in the entire Python
   ecosystem
 
+* `Stack Exchange`__ (proprietary), a family of Q&A sites which are,
+  in my opinion, the best yet
+
 
 __ http://hg.mozilla.org/mozilla-central
 __ http://hg.python.org/cpython
@@ -33,3 +34,4 @@ __ http://selenic.com/hg
 __ http://hg.openjdk.java.net
 __ https://bitbucket.org/birkenfeld/sphinx
 __ https://bitbucket.org/pypy/pypy
+__ http://stackexchange.com
