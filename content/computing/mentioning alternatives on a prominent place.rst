@@ -1,7 +1,6 @@
 mentioning alternatives on a prominent place
 ============================================
 
-:date: 2013-07-06
 :tags: untagged
 :public: false
 
@@ -19,7 +18,10 @@ page, and here's a few of those who do it:
 
 * Liferea__
 
+* Gittip__ (project README file)
+
 
 __ http://ltib.org/home-intro
 __ http://wummel.github.io/linkchecker
 __ http://lzone.de/liferea
+__ https://github.com/gittip/www.gittip.com/blob/master/README.md
