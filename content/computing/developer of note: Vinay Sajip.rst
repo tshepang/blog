@@ -13,7 +13,7 @@ also the documentation surrounding it (`example`_). It's all the more
 impressive that he continuously blogs about various ways to use the
 module, and maintains `a bunch of nuggets on advanced usage`_.
 
-One early event that brought attention to the guy, and perhaps the first
+One early event, which is likely the first
 time I noticed him, is the time when he rebutted some apparently
 inaccurate claims against the module, at which he responded in a
 `highly-detailed post`_, the sort that lent credence to the module. This
