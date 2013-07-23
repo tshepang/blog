@@ -19,5 +19,4 @@ challenges facing Python from other languages
 source__
 
 
-__ http://lwn.net/Articles/557811
-
+__ http://lwn.net/Articles/558172
