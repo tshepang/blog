@@ -11,7 +11,7 @@ this is done on a promiment page. Here's a few of those who do it:
 
 * `Linux Target Image Builder (LTIB)`__
 
-* LinkChecker__
+* LinkChecker__ (linked from landing page)
 
 * Liferea__
 
@@ -21,7 +21,7 @@ this is done on a promiment page. Here's a few of those who do it:
 
 
 __ http://ltib.org/home-intro
-__ http://wummel.github.io/linkchecker
+__ http://wummel.github.io/linkchecker/other.html
 __ http://lzone.de/liferea
 __ https://github.com/gittip/www.gittip.com/blob/master/README.md
 __ http://pythonhosted.org/vcs/alternatives.html
