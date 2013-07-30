@@ -15,11 +15,10 @@ links 2012-04-12
 
 - `mailing lists are less than ideal for debate/extended discussion`__
 
-- `a nice guide on packaging (small) Python projects`__
 
 
 __ http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html
 __ http://www.b-list.org/weblog/2006/oct/28/python-tips-dont-be-too-concise/
 __ http://inventwithpython.com/blog/2010/09/27/i-want-to-teach-my-kid-how-to-program/
 __ http://tech.blog.aknin.name/2010/05/29/mailing-list-debates-considered-harmful/
-__ http://www.kennethreitz.com/repository-structure-and-python.html
+
