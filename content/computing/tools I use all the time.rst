@@ -27,6 +27,7 @@ For those I like a lot, see `this list`__.
 * GNU toolchain (GCC, make, GLibC, ...)
 * VLC
 * Git
+* Mercurial
 
 
 __ http://tshepang.net/favorite-floss
