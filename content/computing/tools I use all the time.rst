@@ -24,13 +24,13 @@ For those I like a lot, see `this list`__.
 * Liferea__: would not be using this had it not been for Google Reader
   shutdown, but am glad they did cuz I like the tool, ugly and unkool
   as it is
-* Evince: PDF reading
+* Evince: I would love to get a PDF reader with better navigation
 * Quod Libet: audio player
 * Thunderbird: I prefer Evolution, but it gave me some issues I don't remember
 * GNU toolchain (GCC, make, GLibC, ...)
-* VLC
-* Git
-* Mercurial
+* VLC: ugly interface, solid application
+* Git: do I have a choice?
+* Mercurial: my favorite
 
 
 __ http://tshepang.net/favorite-floss
