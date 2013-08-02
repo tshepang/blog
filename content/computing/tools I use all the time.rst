@@ -33,7 +33,11 @@ For those I like a lot, see `this list`__.
 * **Mercurial**: my favorite
 * **Google Chrome**: I occasionally drop into Firefox when I
   experience issues
+* Meld__: the most excellent diff tool I've used yet
+* git-cola: `why me loves it`__
 
 
 __ http://tshepang.net/favorite-floss
 __ http://lzone.de/liferea
+__ http://meldmerge.org
+__ http://tshepang.net/project-of-note-git-cola
