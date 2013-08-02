@@ -31,6 +31,8 @@ For those I like a lot, see `this list`__.
 * **VLC**: ugly interface, solid application
 * **Git**: do I have a choice?
 * **Mercurial**: my favorite
+* **Google Chrome**: I occasionally drop into Firefox when I
+  experience issues
 
 
 __ http://tshepang.net/favorite-floss
