@@ -21,6 +21,9 @@ For those I like a lot, see `this list`__.
   - nautilus
   - file-roller
 
+* Liferea__: would not be using this had it not been for Google Reader
+  shutdown, but am glad they did cuz I like the tool, ugly and unkool
+  as it is
 * Evince: PDF reading
 * Quod Libet: audio player
 * Thunderbird: I prefer Evolution, but it gave me some issues I don't remember
@@ -31,3 +34,4 @@ For those I like a lot, see `this list`__.
 
 
 __ http://tshepang.net/favorite-floss
+__ http://lzone.de/liferea
