@@ -12,11 +12,11 @@ ecosystem. I honor it much for it is a really powerful system, and I
 have come to appreciate it a lot recently, with my work on documentation
 of software that falls under the Pylons project.
 
-It is a pity that the markup is not as simple as the more popular
-`Markdown`_, but maybe that was out of necessity, since it is far more
-advanced: it was initially built as a replacement for the tools that
-build CPython documentation, which is quite extensive and needs lots of
-rails.
+It is a pity that the markup is not as simple as that of the more
+popular `Markdown`_, but maybe that was out of necessity, since it is
+far more advanced: it was initially built as a replacement for the
+tools that build CPython documentation, which is quite extensive and
+needs lots of rails.
 
 --------------
 
@@ -26,12 +26,13 @@ include code snippets directly from files, instead of doing the
 copy-paste dance, avoiding duplication and rot. This feature is known as
 `literalinclude`_.
 
-Another feature I recently worked is `intersphinx_mapping`_. What it
-does it allow one to generate references in reST as if those reference
-were local. For example, if you wanted to generate to CPython ``open()``
-built-in function, you would need only specify it as ``:func:open``.
-This is as opposed to finding the actual link and specifying it
-normally.
+Another feature I recently worked with is `intersphinx_mapping`_. What
+it does it allow one to generate references in reST as if those
+reference were local. For example, if you wanted to generate a link to
+the CPython ``open()`` built-in function, you would need only specify
+it as ``:func:open``.  This is as opposed to finding the actual link
+and specifying it normally.
+
 
 .. _Sphinx: http://sphinx-doc.org/
 .. _reStructuredText: http://en.wikipedia.org/wiki/ReStructuredText
