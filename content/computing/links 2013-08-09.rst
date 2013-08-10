@@ -1,0 +1,25 @@
+links 2013-08-09
+================
+
+:date: 2013-08-09
+:tags: links
+
+
+
+* `some of the challenges of maintaining a popular FLOSS project`__ (via__)
+
+* `great summary of current status of Gittip`__
+
+* `what it would take to build a general purpose search engine`__
+
+* `lots of impressive activity around Libreoffice`__
+
+* `How A Web Design Goes Straight To Hell`__ - nice humor
+
+
+__ https://github.com/jashkenas/coffee-script/issues/2864#issuecomment-15159370
+__ http://www.binpress.com/blog/2013/04/14/open-source-cannot-live-on-donations-alone
+__ https://medium.com/building-gittip/bb770ab13101
+__ https://news.ycombinator.com/item?id=5916687
+__ http://blog.documentfoundation.org/2013/07/22/getting-close-to-libreoffice-4-1
+__ http://theoatmeal.com/comics/design_hell
