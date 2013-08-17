@@ -1,7 +1,7 @@
 from Pelican to liquidluck
 ==========================
 
-:date: 2013-06-29
+:date: 2013-08-17
 :tags: blogging
 
 
@@ -25,7 +25,6 @@ why `Pelican`_ rocks
      (unlike blogofile)
   -  titles are allowed to have any character (unlike blogofile)
   -  there is an option to provide clean urls... remove trailing ``.html``
-     (`unlike nikola <https://github.com/ralsina/nikola/issues/291>`__)
 
 - Does not force one into having ugly date-based filesystem structure
   (`unlike tinkerer`_)
