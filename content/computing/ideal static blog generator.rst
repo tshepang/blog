@@ -37,7 +37,7 @@ missed:
 
 * Tags (and maybe Categories) should be displayed on each post.
 
-* An feed icon that is visible from the main page (and maybe Category
+* A feed icon that is visible from the main page (and maybe Category
   pages).
 
 * Blogofile has a strange requirement of having `post headers be YAML
