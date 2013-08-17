@@ -11,7 +11,7 @@ this is done on a promiment page. Here's a few of those who do it:
 
 * `Linux Target Image Builder (LTIB)`__
 
-* LinkChecker__ (linked from landing page)
+* LinkChecker__ (linked from main page)
 
 * Liferea__
 

@@ -11,7 +11,7 @@ missed:
 * reStructuredText__ support is mandatory, and so is being written in
   Python (I is a fanboy).
 
-* 3 alternatives for the Landing Page:
+* 3 alternatives for the main page:
 
   - The latest post should be displayed in its entirety, and the rest
     displayed in an Archive view below it (so one can quickly search
@@ -37,7 +37,7 @@ missed:
 
 * Tags (and maybe Categories) should be displayed on each post.
 
-* An feed icon that is visible from landing page (and maybe Category
+* An feed icon that is visible from the main page (and maybe Category
   pages).
 
 * Blogofile has a strange requirement of having `post headers be YAML
