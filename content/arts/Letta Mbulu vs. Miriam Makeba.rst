@@ -1,7 +1,7 @@
 Letta Mbulu vs. Miriam Makeba
 =============================
 
-:date: 2011-01-14
+:date: 2013-08-25
 :tags: music
 
 
