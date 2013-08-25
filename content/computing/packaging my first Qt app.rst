@@ -12,13 +12,13 @@ packaging my first Qt app
   - `Ubuntu Packaging Guide`__
 
   - `Create Ubuntu DEB package from a Qt application`__ (marked as
-    deprecated, probably is favor of the official guide above)
+    deprecated, probably in favor of the official guide above)
 
   - Debian Packaging Tutorial (from Debian package,
     ``packaging-tutorial``)
 
 * **hour 2-3**: Reading the Debian Packaging Tutorial which led me to
-  reading ``dpkg-source` manpage, ``dh_make``, and modifying the
+  reading ``dpkg-source`` manpage, ``dh_make``, and modifying the
   resulting ``debian/`` directory contents
 
 * **hour 4-6**: Struggling to kill the lintian complaint,
