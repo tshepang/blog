@@ -19,7 +19,7 @@ top tracks: Fela Kuti
 -  **Shakara** (*Shakara* - 1972)
 -  **Gentleman** (*Gentleman* - 1973)
 
-10 excellent works
+12 excellent works
 ------------------
 
 -  **Egbe Mi O** (*Fela's London Scene* - 1970)
