@@ -12,8 +12,8 @@ superior.
 **Miriam Makeba**:
 
 -  3 masterpieces (*Gauteng*; *A Luta Continua*; *Welela*)
--  4 excellent works (*Mam Ndiyalila*; *Meet Me At the River*; *Goodbye
-   Poverty*; *Jolinkomo*)
+-  5 excellent works (*Mam Ndiyalila*; *Meet Me At the River*; *Goodbye
+   Poverty*; *Jolinkomo*, *Olili*)
 
 **Letta Mbulu**:
 

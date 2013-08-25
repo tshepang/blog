@@ -14,7 +14,7 @@ created with the help of `a simple point system`__.
 -  `Salif Keita`__, 14
 -  `Bob Marley`__, 13
 -  `Fugees`__, 12
--  `Miriam Makeba`__, 10
+-  `Miriam Makeba`__, 11
 -  `The Roots`__, 10
 
 --------------
