@@ -5,6 +5,10 @@ packaging my first Qt app
 :tags: Debian, non-Python
 
 
+Someone asked me to try get some KDE package into Debian. I estimated
+that it would take me around 10 hours to get it into good enough shape
+before asking some Debian Developer to upload it for me. Here goes
+some rough estimates:
 
 * **hour 1**: Find documentation on the subject; I got three after a
   quick search:
