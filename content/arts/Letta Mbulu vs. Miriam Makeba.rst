@@ -22,7 +22,7 @@ superior.
 -  6 excellent works (*Music In the Air*; *Ndi-Phendule*; *Buza*;
    *I Need Your Love*; *Maru a pula*; *Kube*)
 
-My `simple point system`_ gives Makeba 10 points and Mbuli gets a
+My `simple point system`_ gives Makeba 11 points and Mbuli gets a
 whooping 15. That's a scary number since it would mean `she's superior
 to Salif Keita`_ and just a point below Burning Spear! This I should
 revisit!
