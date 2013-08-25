@@ -33,6 +33,9 @@ packaging my first Qt app
   a clean chroot (pbuilder). This was with the help of Debian New
   Maintainers' Guide, again.
 
+The resulting package now lives at
+https://bitbucket.org/tshepang/ksig/src.
+
 
 __ http://developer.ubuntu.com/packaging/html
 __ https://wiki.ubuntu.com/PackagingGuideDeprecated/QtApplication
