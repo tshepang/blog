@@ -38,9 +38,11 @@ some rough estimates:
   Maintainers' Guide, again.
 
 The resulting package now lives at
-https://bitbucket.org/tshepang/ksig/src.
+https://bitbucket.org/tshepang/ksig/src. The changes I made, the
+actual packaging work, are in `this directory`__.
 
 
 __ http://developer.ubuntu.com/packaging/html
 __ https://wiki.ubuntu.com/PackagingGuideDeprecated/QtApplication
 __ http://www.debian.org/doc/manuals/maint-guide
+__ https://bitbucket.org/tshepang/ksig/src/ba388ea40c035340a5fccda1ced99e1bcfae94a3/debian
