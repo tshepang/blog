@@ -19,7 +19,7 @@ packaging my first Qt app
 
 * **hour 2-3**: Reading the Debian Packaging Tutorial which led me to
   reading ``dpkg-source`` manpage, ``dh_make``, and modifying the
-  resulting ``debian/`` directory contents
+  resulting ``debian/`` directory contents.
 
 * **hour 4-6**: Struggling to kill the lintian complaint,
   ``binary-without-manpage``. I went as far as reading the source code
