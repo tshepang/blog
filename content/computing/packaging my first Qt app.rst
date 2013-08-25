@@ -22,14 +22,14 @@ some rough estimates:
     ``packaging-tutorial``)
 
 * **hour 2-3**: Reading the Debian Packaging Tutorial which led me to
-  reading ``dpkg-source`` manpage, ``dh_make``, and modifying the
-  resulting ``debian/`` directory contents.
+  reading ``dpkg-source`` manpage, using ``dh_make`` to create a
+  ``debian/`` skeleton, and modifying the contents of that directory.
 
 * **hour 4-6**: Struggling to kill the lintian complaint,
   ``binary-without-manpage``. I went as far as reading the source code
   (Perl) that performs the check, but that didn't help much. I could
   have saved hours by looking at the `Debian New Maintainers' Guide`__
-  earlier. Also added ``export LDFLAGS=-Wl,-z,relro`` to
+  earlier. I also added ``export LDFLAGS=-Wl,-z,relro`` to
   ``debian/rules`` file to kill ``hardening-no-relro`` lintian
   warning.
 
