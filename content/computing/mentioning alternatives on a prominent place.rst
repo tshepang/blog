@@ -11,17 +11,20 @@ this is done on a promiment page. Here's a few of those who do it:
 
 * `Linux Target Image Builder (LTIB)`__
 
-* LinkChecker__ (linked from main page)
-
 * Liferea__
+
+* vnStat__
+
+* LinkChecker__ (linked from main page)
 
 * Gittip__ (project README file)
 
-* vcs__ (a section in the official documentation)
+* vcs__ (a top-level section in the official documentation)
 
 
-__ http://ltib.org/home-intro
-__ http://wummel.github.io/linkchecker/other.html
+__ http://ltib.org
 __ http://lzone.de/liferea
+__ http://humdi.net/vnstat
+__ http://wummel.github.io/linkchecker/other.html
 __ https://github.com/gittip/www.gittip.com/blob/master/README.md
 __ http://pythonhosted.org/vcs/alternatives.html
