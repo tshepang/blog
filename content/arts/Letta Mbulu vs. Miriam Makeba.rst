@@ -13,7 +13,7 @@ superior.
 
 -  3 masterpieces (*Gauteng*; *A Luta Continua*; *Welela*)
 -  5 excellent works (*Mam Ndiyalila*; *Meet Me At the River*; *Goodbye
-   Poverty*; *Jolinkomo*, *Olili*)
+   Poverty*; *Jolinkomo*; *Olili*)
 
 **Letta Mbulu**:
 
