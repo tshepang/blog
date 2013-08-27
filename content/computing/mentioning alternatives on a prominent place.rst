@@ -2,7 +2,7 @@ mentioning alternatives on a prominent place
 ============================================
 
 :tags: untagged
-:date: 2013-07-28
+:date: 2013-08-27
 
 
 It's an honorable thing to mention alternative and/or competing
