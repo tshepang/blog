@@ -37,10 +37,10 @@ some rough estimates:
   a clean chroot (pbuilder). This was with the help of Debian New
   Maintainers' Guide, again.
 
-* **hour 9**: Reading Debian `wiki page on Hardening `__ let me simplify my
-  packaging further... removing the need to specify hardening flags
-  explicitly (commit__). I also read details of getting a package
-  uploaded, with the help of DebianMentorsFaq__.
+* **hour 9**: Reading Debian `wiki page on Hardening `__ let me
+  simplify my packaging further... removing the need to specify
+  hardening flags explicitly (commit__). I also read details of
+  getting a package uploaded, with the help of DebianMentorsFaq__.
 
 The resulting package now lives at
 https://bitbucket.org/tshepang/ksig/src. The changes I made, the
