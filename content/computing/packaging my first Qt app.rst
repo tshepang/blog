@@ -1,7 +1,7 @@
 packaging my first Qt app
 =========================
 
-:date: 2013-08-25
+:date: 2013-08-27
 :tags: Debian, non-Python
 
 
