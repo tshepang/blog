@@ -37,7 +37,7 @@ some rough estimates:
   a clean chroot (pbuilder). This was with the help of Debian New
   Maintainers' Guide, again.
 
-* **hour 9**: Reading `Debian wiki Hardening`__ let me simplify my
+* **hour 9**: Reading Debian `wiki page on Hardening `__ let me simplify my
   packaging further... removing the need to specify hardening flags
   explicitly (commit__). I also read details of getting a package
   uploaded, with the help of DebianMentorsFaq__.
