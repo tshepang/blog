@@ -37,10 +37,10 @@ some rough estimates:
   a clean chroot (pbuilder). This was with the help of Debian New
   Maintainers' Guide, again.
 
-* **hour 9**: Reading `Debian wiki page on Hardening`__ let me
+* **hour 9-10**: Reading `Debian wiki page on Hardening`__ let me
   simplify my packaging further... removing the need to specify
-  hardening flags explicitly (commit__). I also read details of
-  getting a package uploaded, with the help of DebianMentorsFaq__.
+  hardening flags explicitly (commit__). I also uploaded the package
+  `to mentors.debian.net`__, with the help of DebianMentorsFaq__.
 
 The resulting package now lives at
 https://bitbucket.org/tshepang/ksig/src. The changes I made, the
@@ -52,5 +52,6 @@ __ https://wiki.ubuntu.com/PackagingGuideDeprecated/QtApplication
 __ http://www.debian.org/doc/manuals/maint-guide
 __ https://wiki.debian.org/Hardening
 __ https://bitbucket.org/tshepang/ksig/commits/f4c7b60157b79847f918e3d8b24a74e6c5bec929
+__ http://mentors.debian.net/package/ksig
 __ https://wiki.debian.org/DebianMentorsFaq
 __ https://bitbucket.org/tshepang/ksig/src/f4c7b60157b79847f918e3d8b24a74e6c5bec929/debian
