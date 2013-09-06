@@ -1,5 +1,5 @@
-Person of Interest - S2E16
-==========================
+Person of Interest - Season 2 Episode 16
+========================================
 
 :date: 2013-09-06
 :tags: tv, very-good
