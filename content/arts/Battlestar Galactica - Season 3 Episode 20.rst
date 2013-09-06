@@ -20,7 +20,7 @@ seen in my tv/movie-watching history. The performance matches as well,
 and that's interesting because the performer/character combination is
 among the least interesting in the series.
 
-As a sidenote, I find this Season to be the best in the series (there's
+As a sidenote, I find this Season to be the best (in a series of
 four), because it covers more interesting events (the capturing of the
 humans, the resistance, their eventual rescue, and a lot more, best of
 which was the trial of course).
