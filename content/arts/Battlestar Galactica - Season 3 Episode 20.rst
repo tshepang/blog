@@ -13,7 +13,7 @@ mention this one gem:
 
 The very last episode of the Season mainly focuses on the trial of one
 former president who is accused of treason due to surrendering to the
-cylons (a species created by human) as well as giving them official
+cylons (a species created by humans) as well as giving them official
 approval to execute dozens of people. The defence given by an assistant
 lawyer is a masterpiece, and would match well with any court thing I've
 seen in my tv/movie-watching history. The performance matches as well,
