@@ -29,6 +29,6 @@ __ http://hg.python.org/cpython/rev/d5ef330bac50
 __ http://www.python.org/dev/peps/pep-0429
 __ http://debbugs.gnu.org/cgi/bugreport.cgi?bug=14355
 __ http://www.pypy.org/performance.html
-__ http://thechangelog.com/086
+__ http://thechangelog.com/86
 __ http://www.discourse.org
 
