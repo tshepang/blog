@@ -16,7 +16,7 @@ why `Pelican`_ rocks
 --------------------
 
 - It has categories
-  (`unlike nikola <https://github.com/ralsina/nikola/issues/163>`_)
+  (`unlike nikola <https://github.com/getnikola/nikola/issues/163>`_)
 
 - Post metadata:
 

@@ -12,7 +12,7 @@ def build():
 
 @task
 def push():
-    local('cd {} && git add . && git commit -am "build" '
+    local('cd {} && git add --all && git commit -am "build" '
           '&& git push origin master'.format(OUTPUTDIR))
     with settings(hide('warnings'), warn_only=True):
         local('hg push')
