@@ -23,9 +23,6 @@ big
   involved, noticing warts here and there, and therefore taking it for
   granted.
 
-- `valgrind`_ - its docs properly represent its status as among the most
-  respected of FLOSS projects
-
 - `sqlite3`_ - quite extensive, especially for an embeddable DBMS
 
 
@@ -47,7 +44,6 @@ really looked yet.
 .. _introductory tutorial of GNU Emacs: http://cmgm.stanford.edu/classes/unix/emacs.html
 .. _Suds: https://fedorahosted.org/suds/wiki/Documentation
 .. _rdiff-backup usage examples: http://www.nongnu.org/rdiff-backup/examples.html
-.. _valgrind: http://valgrind.org/docs/manual/index.html
 .. _sqlite3: http://www.sqlite.org/docs.html
 .. _Django's: https://docs.djangoproject.com
 .. _the Emacs manual: http://www.gnu.org/software/emacs/manual/html_node/emacs
