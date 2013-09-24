@@ -13,7 +13,9 @@ going to explore its other functionality... calculating the cost of
 each line of code in the CPU. This is useful when tuning programs for
 performance.
 
-Here example code::
+Here example code:
+
+.. code-block:: c
 
   #include <string.h>
   #include <errno.h>
