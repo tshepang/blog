@@ -13,7 +13,8 @@ going to explore its other functionality... calculating the cost of
 each line of code in the CPU. This is useful when tuning programs for
 performance.
 
-Here example code:
+Following is example code; it accepts 2 arguments, a filename and
+content it will write to that file:
 
 .. code-block:: c
 
