@@ -1,7 +1,7 @@
 project of note: Valgrind
 =========================
 
-:date: 2013-09-24
+:date: 2013-09-25
 :tags: project-of-note, non-Python
 
 
