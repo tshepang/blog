@@ -18,6 +18,7 @@ CATEGORY_URL = '{slug}'
 CATEGORY_SAVE_AS = CATEGORY_URL
 TAG_URL = 'tag/{slug}'
 AUTHOR_SAVE_AS = False
+AUTHORS_SAVE_AS = False
 TIMEZONE = 'Africa/Johannesburg'
 AUTHOR = 'Tshepang Lekhonkhobe'
 DISQUS_SITENAME = 'tshepanglogs'
