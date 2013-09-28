@@ -2,5 +2,4 @@
   look at script's ``--help`` command-line option.
 
 * The blog is built by running ``fab`` in this directory;
-  it runs ``liquidluck build`` and then pushes the results
-  to GitHub, so they can be served using GitHub Pages.
+  it builds the blog and then pushes the results to GitHub Pages.
