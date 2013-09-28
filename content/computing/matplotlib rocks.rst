@@ -16,7 +16,7 @@ Have a look at this code:
    pyplot.plot(x_axis, random.sample(range(10), 10))
    pyplot.show()
 
-.. figure:: images/matplotlib-1.png
+.. image:: images/matplotlib-1.png
 
 You will notice that there's 2 graphs drawn over the same axis, nothing
 special. What I really loved about matplotlib is that I did not need to
@@ -44,7 +44,7 @@ Here's goes:
 
 If I provide 3 as command line argument, I get his:
 
-.. figure:: images/matplotlib-2.png
+.. image:: images/matplotlib-2.png
 
 This feature left me pleasantly surprised.
 
