@@ -61,6 +61,7 @@ So, I had a look at the others:
 - oversized text, especially blog title
 - background for code snippets is not distinctive
 - Archives look like shit
+- ignores Twitter setting
 
 
 `Bootstrap 2`_
