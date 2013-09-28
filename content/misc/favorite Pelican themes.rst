@@ -9,7 +9,7 @@ favorite Pelican themes
 I don't like the default `Pelican`_ theme, ``notmyidea``:
 
 * It is decent, but the post metadata feels cramped where its placed.
-* The is no visible link to tags, nevermind a tag cloud (which is handy).
+* The is no visible link to tags, never-mind a tag cloud (which is handy).
 * I just don't like the general look.
 
 So, I had a look at the others:
@@ -21,7 +21,7 @@ So, I had a look at the others:
 - [**win**] elegant and simple design (**my favorite of all**)
 - [**win**] displays pages as a list, all but the newest one in the view
 - Categories are 2nd-class citizens: they aren't shown on the index page
-- bullets are done wrong: the bulleted text is not indented
+- bullets are done wrong: the bullet-ed text is not indented
 - on post view, there is no distinction between Tags and Categories
 - too much border space on code snippets (**pre** tag?)
 - background for code snippets is not distinctive
@@ -30,7 +30,7 @@ So, I had a look at the others:
 `tuxlite_tbs`_
 --------------
 
-- [**win**] clean and simple design: nice menubar and sidebars
+- [**win**] clean and simple design: nice menu-bar and sidebars
 - tags aren't shown along-aside posts
 
 
@@ -58,7 +58,7 @@ So, I had a look at the others:
 --------
 
 - [**win**] a trendy look
-- oversised text, especially blog title
+- oversized text, especially blog title
 - background for code snippets is not distinctive
 - Archives look like shit
 
@@ -72,7 +72,7 @@ So, I had a look at the others:
 
   + the Categories and Tags on the right must go
   + who wants snippets on posts
-  + showing Categoy and Tag on main views
+  + showing Category and Tag on main views
 
 - separate tag cloud page missing
 - line length too long
