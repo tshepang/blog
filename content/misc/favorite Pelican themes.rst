@@ -14,6 +14,17 @@ I don't like the default `Pelican`_ theme, ``notmyidea``:
 
 So, I had a look at the others:
 
+monospace_
+----------
+
+- [**win**] simple and elegant design
+- [**win**] me loving the Archives view
+- Categories are not shown in a prominent place (e.g. menu bar)
+- no Tags on individual Posts
+- no Categories on individual Posts
+- ignores Twitter setting
+- Post titles are capitalised (minor issue)
+
 
 `Just Read`_
 ------------
@@ -89,3 +100,4 @@ So, I had a look at the others:
 .. _Just Read: https://github.com/getpelican/pelican-themes/tree/master/Just-Read
 .. _tuxlite_tbs: https://github.com/getpelican/pelican-themes/tree/master/tuxlite_tbs
 .. _Chunk: https://github.com/tbunnyman/pelican-chunk
+.. _monospace: https://github.com/getpelican/pelican-themes/tree/master/monospace
