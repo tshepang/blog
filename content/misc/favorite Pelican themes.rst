@@ -18,6 +18,7 @@ monospace_
 ----------
 
 - [**win**] simple and elegant design
+- [**win**] displays pages as a list, all but the newest one in the view
 - [**win**] me loving the Archives view
 - Categories are not shown in a prominent place (e.g. menu bar)
 - no Tags on individual Posts
