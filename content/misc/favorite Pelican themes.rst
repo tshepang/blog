@@ -49,9 +49,13 @@ So, I had a look at the others:
 -------
 
 - [**win**] the look is different; it feels calm
-- [**win**] the 'moving title' effect is distracting
-- Archives look like shit (but easy to change)
-- I want my Categories shown more prominently (e.g. on menu bar)
+- Archives view is not ideal, though it's not in a prominent location
+- Categories are not shown in a prominent (e.g. on menu bar)
+- when `custom fields
+  <https://github.com/byk/pelican-neat#configuration-options>`_ are
+  not specified, they are handled in a naive manner
+
+  .. image:: images/neat.png
 
 
 `Chunk`_
