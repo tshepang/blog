@@ -3,70 +3,22 @@
 
 import os
 
-site = {
-    'name': 'Tshepang logs',
-    'url': 'http://tshepang.net',
-}
-
-output = os.path.expanduser('~/tmp/blog')
-config = {
-    'source': 'content',
-    'output': output,
-    'static': os.path.join(output, 'static'),
-    'static_prefix': '/static/',
-    'permalink': '{{clean_title}}',
-    'perpage': 1000,
-    'feedcount': 1000,
-    'timezone': '+02:00',
-}
-
-author = {
-    'default': 'tshepang',
-    'vars': {
-        'tshepang': {
-            'name': 'Tshepang Lekhonkhobe',
-        }
-    }
-}
-
-theme = {
-    'theme': 'moment',
-    'vars': {
-        'disqus': 'tshepanglogs',
-        'analytics': 'UA-16685250-3',
-        'navigation': [
-            {'name': 'misc', 'link': '/misc/'},
-            {'name': 'computing', 'link': '/computing/'},
-            {'name': 'arts', 'link': '/arts/'},
-            {'name': '| key-posts |', 'link': '/key-posts'},
-            {'name': '| about-me |', 'link': '/about-me'},
-        ]
-    }
-}
-
-reader = {
-    'active': [
-        'custom.MyReader',
-    ],
-    'vars': {
-        'post_class': 'custom.MyPost',
-    }
-}
-
-writer = {
-    "active": [
-        "liquidluck.writers.core.PostWriter",
-        "liquidluck.writers.core.PageWriter",
-        "liquidluck.writers.core.ArchiveWriter",
-        "liquidluck.writers.core.ArchiveFeedWriter",
-        "liquidluck.writers.core.FileWriter",
-        "liquidluck.writers.core.StaticWriter",
-        "liquidluck.writers.core.YearWriter",
-        "liquidluck.writers.core.CategoryWriter",
-        "liquidluck.writers.core.CategoryFeedWriter",
-        "liquidluck.writers.core.TagWriter",
-        "liquidluck.writers.core.TagCloudWriter",
-        #"liquidluck.writers.contrib.TagJSONWriter",
-    ],
-}
-
+SITENAME = 'Tshepang logs'
+SITEURL = 'http://tshepang.net'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+DEFAULT_DATE = 'fs'
+PATH = 'content/'
+SUMMARY_MAX_LENGTH = 0
+THEME = 'notmyidea'
+OUTPUT_PATH = os.path.expanduser('~/tmp/blog')
+ARTICLE_URL = '{slug}'
+PAGE_URL = '{slug}'
+CATEGORY_URL = '{slug}'
+TAG_URL = 'tag/{slug}'
+AUTHOR_SAVE_AS = False
+TIMEZONE = 'Africa/Johannesburg'
+AUTHOR = 'Tshepang Lekhonkhobe'
+DISQUS_SITENAME = 'tshepanglogs'
+GOOGLE_ANALYTICS = 'UA-16685250-3'
+TWITTER_USERNAME = 'tshepang_dev'
+STATIC_PATHS = ['images', 'CNAME']

@@ -7,7 +7,7 @@ OUTPUTDIR = os.path.join(os.path.expanduser("~/tmp"), 'blog')
 @task(alias='make')
 def build():
     local('rm -fr {}/*'.format(OUTPUTDIR))
-    local('liquidluck build')
+    local('pelican --settings settings.py')
 
 
 @task
