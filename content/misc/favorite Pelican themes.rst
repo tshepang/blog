@@ -53,7 +53,7 @@ So, I had a look at the others:
 - Categories are not shown in a prominent place (e.g. on menu bar)
 - when `custom fields
   <https://github.com/byk/pelican-neat#configuration-options>`_ are
-  not specified, they are handled in a naive manner
+  not specified, they are handled in a naive manner:
 
   .. image:: images/neat.png
 
