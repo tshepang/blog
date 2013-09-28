@@ -50,7 +50,7 @@ So, I had a look at the others:
 
 - [**win**] the look is different; it feels calm
 - Archives view is not ideal, though it's not in a prominent location
-- Categories are not shown in a prominent (e.g. on menu bar)
+- Categories are not shown in a prominent place (e.g. on menu bar)
 - when `custom fields
   <https://github.com/byk/pelican-neat#configuration-options>`_ are
   not specified, they are handled in a naive manner
