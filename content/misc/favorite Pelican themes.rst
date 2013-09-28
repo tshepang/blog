@@ -38,11 +38,11 @@ So, I had a look at the others:
 --------------
 
 - [**win**] very nice and clean design
-- no bullets (WTF!)
-- no Categories
-- hyperlinks not clear (WTF!)
 - date on Archives looks like shit
 - background for code snippets is not distinctive
+- Categories only visible on individual Posts
+- ignores Twitter setting
+- does not support Disqus
 
 
 `neat`_
