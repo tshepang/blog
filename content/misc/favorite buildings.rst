@@ -1,7 +1,7 @@
 favorite buildings
 ==================
 
-:date: 2013-06-03
+:date: 2013-09-30
 :tags: untagged
 :status: draft
 
@@ -19,7 +19,7 @@ favorite buildings
 
 * `Willis Tower`__ (was Sears Tower)
 
-  - long-time tallest buildings
+  - long-time tallest building (a wonder of my teenage years, and beyond)
   - icon of Chicago skyline
 
 
