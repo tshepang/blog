@@ -24,16 +24,16 @@ search feature, which got me excited.
 
 It has some issues though:
 
-* hyperlinks are not visible enough
+* `hyperlinks are not visible enough`__
 * not the prettiest of them
 * ignores Twitter setting
 * Feeds not supported
-* there is a claim that there are 0 Comments even when there are some:
+* `there is a claim that there are 0 Comments even when there are some`__:
 
   .. image:: images/elegant.png
 
-* text in bullets goes beyond bullet boundary when it overflows onto
-  the next line:
+* `text in bullets goes beyond bullet boundary when it overflows onto
+  the next line`__:
 
   .. image:: images/elegant-overflow.png
 
@@ -130,6 +130,9 @@ monospace_
 - line length too long
 
 
+__ https://github.com/talha131/pelican-elegant/issues/5
+__ https://github.com/talha131/pelican-elegant/issues/4
+__ https://github.com/talha131/pelican-elegant/issues/3
 __ https://github.com/getpelican/pelican-themes/issues/152
 .. _Mockingbird: https://github.com/wrl/pelican-mockingbird
 .. _neat: https://github.com/byk/pelican-neat
