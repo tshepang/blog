@@ -27,4 +27,4 @@ note`__:
   the sort of feeling that nearly drains me in tears ("so sensitive").
 
 
-__ http://tshepang.net/tag/developer-of-note
+__ http://tshepang.net/tags#developer-of-note-ref

@@ -25,8 +25,8 @@ key posts
 .. _top sites: http://tshepang.net/top-sites
 .. _where I live on the web: http://tshepang.net/where-i-live-on-the-web
 
-.. _project-of-note series: http://tshepang.net/tag/project-of-note
-.. _developer-of-note series: http://tshepang.net/tag/developer-of-note
+.. _project-of-note series: http://tshepang.net/tags#project-of-note-ref
+.. _developer-of-note series: http://tshepang.net/tags#developer-of-note-ref
 .. _favorite tools: http://tshepang.net/favorite-floss
 
 .. _top tracks: http://tshepang.net/top-music-tracks

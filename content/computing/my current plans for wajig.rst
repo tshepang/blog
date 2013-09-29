@@ -45,4 +45,4 @@ __ https://github.com/kislyuk/argcomplete
 __ http://furius.ca/optcomplete/
 __ http://tshepang.net/wajig-21-released
 __ http://projects.gnome.org/tracker/
-__ http://tshepang.net/tag/wajig
+__ http://tshepang.net/tags#wajig-ref

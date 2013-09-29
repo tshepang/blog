@@ -45,7 +45,7 @@ to be a great champion in pushing for progress on that front.
 .. _he does it in his free time: http://mail.python.org/pipermail/python-ideas/2012-February/014139.html
 .. _great depth of knowledge: http://mail.python.org/pipermail/python-ideas/2012-February/013835.html
 .. _officially recognized by the Python Software Foundation: http://www.python.org/community/awards/psf-awards/#september-2011
-.. _developer of note: http://tshepang.net/tag/developer-of-note
+.. _developer of note: http://tshepang.net/tags#developer-of-note-ref
 .. _PEP 413: http://www.python.org/dev/peps/pep-0413/
 .. _PEP 407: http://www.python.org/dev/peps/pep-0407
 .. _the heavy discussion: http://mail.python.org/pipermail/python-dev/2012-February/116832.html

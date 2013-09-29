@@ -22,7 +22,7 @@ re-design the http://gtk.org page, giving it a very modern look (which
 it desperately needed).
 
 
-.. _series: http://tshepang.net/tag/developer-of-note
+.. _series: http://tshepang.net/tags#developer-of-note-ref
 .. _Tracker: http://projects.gnome.org/tracker/
 .. _Tracker Needle: http://blogs.gnome.org/mr/2010/09/08/tracker-needle/
 .. _announcement: http://blogs.gnome.org/mr/2010/09/08/tracker-needle/
