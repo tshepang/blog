@@ -23,7 +23,7 @@ the most innovative one I've seen yet. It has some issues though:
 
 * hyperlinks are not visible enough
 * not the prettiest of them
-- ignores Twitter setting
+* ignores Twitter setting
 * there is a claim that there are 0 Comments even when there are some:
 
   .. image:: images/elegant.png
