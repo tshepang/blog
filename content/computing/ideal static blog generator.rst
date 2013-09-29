@@ -1,7 +1,7 @@
 ideal static blog generator
 ===========================
 
-:date: 2013-06-02
+:date: 2013-09-29
 :tags: blogging
 
 
@@ -24,7 +24,7 @@ missed:
 
 * Ability to determine post date from file mtime.
 
-* Post Date should always precede post content.
+* Post Date should never be placed at the bottom of a Post.
 
 * An option to have clean urls (i.e. trailing ``.html`` removed).
 
