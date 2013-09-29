@@ -9,7 +9,7 @@ Following are demos of all liquidluck themes I could find,
 all running `this source`__,
 but each slightly modified to change theme name (``settings.py``).
 
-* moment__ (the default theme, which is used on this blog)
+* moment__ (the default theme; demo__)
 
 * responsive__ (demo__)
 
@@ -46,6 +46,7 @@ but each slightly modified to change theme name (``settings.py``).
 __ https://bitbucket.org/tshepang/blog/src
 
 __ https://github.com/lepture/liquidluck-theme-moment
+__ http://demo-moment.tshepang.net
 
 __ https://github.com/bingdian/liquidluck-theme-responsive
 __ http://demo-responsive.tshepang.net
