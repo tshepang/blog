@@ -26,7 +26,7 @@ series so far (I can think of a few which were superior), nor was this
 the first time such a break from normal routine occur (there were some
 in the earlier episodes of the season), but it felt fresh enough to be
 worth a mention in this blog of mine. What added to the excitement is
-that it was the first time in the series that a so-called Relevant[#]
+that it was the first time in the series that a so-called Relevant [#]_
 crime prevention was showed.
 
 .. [#] This means *relevant* to (U.S.) national security. This is as
