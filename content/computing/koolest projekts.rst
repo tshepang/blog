@@ -2,7 +2,7 @@ koolest projekts
 ================
 
 :date: 2013-05-15
-:tags: Python,, non-Python
+:tags: Python, non-Python
 
 
 
