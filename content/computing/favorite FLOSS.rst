@@ -2,6 +2,7 @@ favorite FLOSS
 ==============
 
 :tags: untagged
+:date: 2013-06-29
 
 
 For a piece of `FLOSS`_ (free/libre and open source software) to be here,
