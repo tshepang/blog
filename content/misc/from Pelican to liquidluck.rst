@@ -95,7 +95,7 @@ issues
 .. _unlike tinkerer: https://bitbucket.org/vladris/tinkerer/issue/41
 .. _the other themes weren't so satisfactory: http://tshepang.net/favorite-pelican-themes
 .. _liquidluck: http://liquidluck.readthedocs.org
-.. _this script: https://bitbucket.org/tshepang/blog/src/1602cdf8
+.. _this script: https://bitbucket.org/tshepang/blog/src/1602cdf8/custom.py
 .. _what I love about static website generators: http://tshepang.net/what-me-loves-about-static-website-generation
 .. _the other ones: http://tshepang.net/looking-at-liquidluck-themes
 .. _the developer: http://lepture.com
