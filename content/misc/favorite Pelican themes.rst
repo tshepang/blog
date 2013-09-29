@@ -1,7 +1,7 @@
 favorite Pelican themes
 =======================
 
-:date: 2013-03-17
+:date: 2013-09-29
 :tags: blogging
 
 
