@@ -14,6 +14,19 @@ I don't like the default `Pelican`_ theme, ``notmyidea``:
 
 So, I had a look at the others:
 
+
+gum_
+----
+
+I was impressed enough that I was strongly considering settling for
+this one, despite the following issues:
+
+* no Tags on individual Posts
+* no Categories on individual Posts
+
+But, `it doesn't display bullets`__. I expect this was just an oversight.
+
+
 monospace_
 ----------
 
@@ -94,6 +107,8 @@ monospace_
 - separate tag cloud page missing
 - line length too long
 
+
+__ https://github.com/getpelican/pelican-themes/issues/152
 .. _Mockingbird: https://github.com/wrl/pelican-mockingbird
 .. _neat: https://github.com/byk/pelican-neat
 .. _Bootstrap 2: https://github.com/getpelican/pelican-themes/tree/master/bootstrap2
