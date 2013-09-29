@@ -23,8 +23,7 @@ note`__:
 
 * The more obvious requirement is that the developer need to have done
   some thing that I truly appreciate.
-  At times, I fail to put into words just how much,
-  the sort of feeling that nearly drains me in tears ("so sensitive").
+  At times, I fail to put into words just how much.
 
 
 __ http://tshepang.net/tags#developer-of-note-ref
