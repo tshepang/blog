@@ -27,6 +27,7 @@ It has some issues though:
 * hyperlinks are not visible enough
 * not the prettiest of them
 * ignores Twitter setting
+* Feeds not supported
 * there is a claim that there are 0 Comments even when there are some:
 
   .. image:: images/elegant.png
