@@ -3,6 +3,7 @@ projects with excellent documentation
 
 
 :tags: untagged
+:date: 2013-09-23
 
 
 Here is a list of projects whose documentation I found to be
