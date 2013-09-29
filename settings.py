@@ -24,8 +24,13 @@ GOOGLE_ANALYTICS = 'UA-16685250-3'
 TWITTER_USERNAME = 'tshepang_dev'
 STATIC_PATHS = ['images', 'CNAME']
 
-# specific to Elegant theme
+# specific to Elegant theme:
+# http://oncrashreboot.com/elegant-a-clean-theme-for-pelican-with-search-feature
 PLUGIN_PATH = '../pelican-plugins'
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives',
                      'search', '404'))
+TAG_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+
