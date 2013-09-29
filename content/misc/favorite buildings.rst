@@ -3,7 +3,6 @@ favorite buildings
 
 :date: 2013-09-30
 :tags: untagged
-:status: draft
 
 
 
@@ -21,6 +20,13 @@ favorite buildings
 
   - long-time tallest building (a wonder of my teenage years, and beyond)
   - icon of Chicago skyline
+
+----
+
+The WTC Twin Towers would be here if they were still standing. At the
+time of their destruction, I admired more than any other buildings on
+the planet. Together with Statue of Liberty, they were they greatest
+structures in all of New York City.
 
 
 __ http://en.wikipedia.org/wiki/Burj_Khalifa
