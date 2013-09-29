@@ -23,3 +23,9 @@ DISQUS_SITENAME = 'tshepanglogs'
 GOOGLE_ANALYTICS = 'UA-16685250-3'
 TWITTER_USERNAME = 'tshepang_dev'
 STATIC_PATHS = ['images', 'CNAME']
+
+# specific to Elegant theme
+PLUGIN_PATH = '../pelican-plugins'
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search']
+DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives',
+                     'search', '404'))

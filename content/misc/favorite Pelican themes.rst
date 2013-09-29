@@ -19,7 +19,10 @@ Elegant_
 --------
 
 That it is the least static-like of all themes I've seen yet, this is
-the most innovative one I've seen yet. It has some issues though:
+the most innovative one I've seen yet. One of my favorite features the
+search feature, which got me excited.
+
+It has some issues though:
 
 * hyperlinks are not visible enough
 * not the prettiest of them
