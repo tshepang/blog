@@ -15,6 +15,24 @@ I don't like the default `Pelican`_ theme, ``notmyidea``:
 So, I had a look at the others:
 
 
+Elegant_
+--------
+
+That it is the least static-like of all themes I've seen yet, this is
+the most innovative one I've seen yet. It has some issues though:
+
+* hyperlinks are not visible enough
+* not the prettiest of them
+- ignores Twitter setting
+* there is a claim that there are 0 Comments even when there are some:
+
+  .. image:: images/elegant.png
+
+* text in bullets goes beyond bullet boundary when it overflows onto
+  the next line:
+
+  .. image:: images/elegant-overflow.png
+
 gum_
 ----
 
@@ -117,3 +135,4 @@ __ https://github.com/getpelican/pelican-themes/issues/152
 .. _tuxlite_tbs: https://github.com/getpelican/pelican-themes/tree/master/tuxlite_tbs
 .. _Chunk: https://github.com/tbunnyman/pelican-chunk
 .. _monospace: https://github.com/getpelican/pelican-themes/tree/master/monospace
+.. _Elegant: https://github.com/talha131/pelican-elegant
