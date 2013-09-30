@@ -1,7 +1,7 @@
 blogging with Pelican
 =====================
 
-:date: 2013-04-08
+:date: 2013-09-30
 :tags: blogging
 
 
@@ -10,6 +10,8 @@ blogging with Pelican
 - I have a separate post on `what I love about static website generators`_.
 - This post was first published on **2012-05-20**,
   which is before `I started using liquidluck`_, a competing tool.
+- And then I moved back **2013-09-29** due to development inactivity
+  of liquidluck.
 
 
 `Pelican`_ is a static blog generator;
@@ -22,10 +24,11 @@ As for my blog, its tree structure looks like this::
 
     build/...
     pages/{about-me.rst, key-posts.rst}
-    posts/{arts/, computing/, misc/, movies/}
+    posts/{arts/, computing/, misc/}
     CNAME
     fabfile.py
     new-post.py
+    README.rst
     settings.py
 
 -  The ``build`` directory is where the output of the build process is
@@ -52,6 +55,8 @@ As for my blog, its tree structure looks like this::
 -  The `settings.py`_ file contains Pelican configuration.
    It should be somewhat mostly self-explanatory, but for those things that
    aren't so obvious, do consult the documentation.
+
+-  README.rst_ has some basic instructions, as well as repository license.
 
 Now as for the post itself, you need metadata to go with it.
 This is stuff like title, date, and tags.
@@ -92,7 +97,8 @@ Within a minute, the blog will be updated.
 .. _supposed to make text look better: http://static.mintchaos.com/projects/typogrify/
 .. _publicly visible in Bitbucket: https://bitbucket.org/tshepang/blog
 .. _fabric: http://fabfile.org
-.. _fabfile.py: https://bitbucket.org/tshepang/blog-pelican/src/tip/fabfile.py
-.. _settings.py: https://bitbucket.org/tshepang/blog-pelican/src/tip/settings.py
-.. _a script: https://bitbucket.org/tshepang/blog-pelican/src/tip/new-post.py
+.. _fabfile.py: https://bitbucket.org/tshepang/blog/src/tip/fabfile.py
+.. _settings.py: https://bitbucket.org/tshepang/blog/src/tip/settings.py
+.. _README.rst: https://bitbucket.org/tshepang/blog/src/tip/README.rst
+.. _a script: https://bitbucket.org/tshepang/blog/src/tip/new-post.py
 .. _what I love about static website generators: http://tshepang.net/what-me-loves-about-static-website-generation 
