@@ -22,11 +22,13 @@ That it is the least static-like of all themes I've seen yet, this is
 the most innovative one I've seen yet. One of my favorite features the
 search feature, which got me excited.
 
-It has some issues though:
+It has some issues though (`to be fixed at some point`__):
 
-* not the prettiest of them
 * ignores Twitter setting
 * Feeds not supported
+
+It's also not the prettiest of themes, but it will have to do, at
+least for now.
 
 gum_
 ----
@@ -121,6 +123,7 @@ monospace_
 - line length too long
 
 
+__ http://tshepang.net/favorite-pelican-themes#comment-1064640476
 __ https://github.com/getpelican/pelican-themes/issues/152
 .. _Mockingbird: https://github.com/wrl/pelican-mockingbird
 .. _neat: https://github.com/byk/pelican-neat
