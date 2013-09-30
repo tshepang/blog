@@ -24,8 +24,8 @@ The sources for this blog can be found `on Bitbucket`__.
 __ http://en.wikipedia.org/wiki/South_Africa
 __ http://eiq.co.za
 __ http://tshepang.net/tags#wajig-ref
-__ http://tshepang.net/tags#python-ref
-__ http://tshepang.net/tags#debian-ref
+__ http://tshepang.net/tags#Python-ref
+__ http://tshepang.net/tags#Debian-ref
 __ http://movies.tshepang.net
 __ http://tshepang.net/where-i-live-on-the-web
 __ http://tshepang.net/tags#music
