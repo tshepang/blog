@@ -72,7 +72,7 @@ This is the metadata, and also the beginning of the file::
 The script also opens the file in my favorite editor,
 so I can start adding content.
 
-When I'm done and happy with my latest changes,
+When I'm done with the changes,
 I ensure I'm in the root directory of my blog, commit
 (``hg commit --message 'new post'``) and run::
 
