@@ -78,8 +78,8 @@ I ensure I'm in the root directory of my blog, commit
 
     $ fab
 
-That's a fabric_ command the uses the instructions found in ``fabfile.py``.
-It builds the site, and then pushes is to GitHub Pages.
+That's a fabric_ command that uses the instructions found in ``fabfile.py``.
+It builds the site, and then pushes it to GitHub Pages.
 It also pushes the sources to Bitbucket.
 Within a minute, the blog will be updated.
 
