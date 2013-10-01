@@ -17,6 +17,7 @@ Following is example code; it accepts 2 arguments, a filename and
 content it will write to that file:
 
 .. code-block:: c
+   :linenos:
 
   #include <string.h>
   #include <errno.h>
