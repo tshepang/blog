@@ -10,6 +10,7 @@ I came across `a tutorial`_ that showes how to implement a simple cat in
 Perl. I've modified their example for the sake of simplicity:
 
 .. code-block:: perl
+   :linenos:
 
     sub cat {
         foreach my $filename (@_) {
@@ -27,6 +28,7 @@ will display those files as if you ran ``cat file``.
 I decided to see how the Python example would look like:
 
 .. code-block:: python
+   :linenos:
 
     import sys
     def cat(files):
