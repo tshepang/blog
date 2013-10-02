@@ -2,7 +2,7 @@ favorite FLOSS
 ==============
 
 :tags: untagged
-:date: 2013-06-29
+:date: 2013-10-02
 
 
 For a piece of `FLOSS`_ (free/libre and open source software) to be here,
@@ -17,7 +17,7 @@ it has to both be personally useful and I have to like it a lot:
 **misc utilities:** grep, `Sudo`_, `reprepro`_, Lsof, less, Meld,
 Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
 `xfrun4`_, coreutils (wc, tail), `LinkChecker`_, `Iotop`_, `man`_,
-OpenSSH
+OpenSSH, vnstat_
 
 **spreadsheet:** gnumeric
 
@@ -48,3 +48,4 @@ OpenSSH
 .. _Gmail: http://mail.google.com/mail
 .. _Stack Exchange: http://stackexchange.com
 .. _Bitbucket: http://bitbucket.org
+.. _vnstat: http://humdi.net/vnstat
