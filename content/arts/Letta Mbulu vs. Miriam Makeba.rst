@@ -22,9 +22,9 @@ superior.
 -  6 excellent works (*Music In the Air*; *Ndi-Phendule*; *Buza*;
    *I Need Your Love*; *Maru a pula*; *Kube*)
 
-My `simple point system`_ gives Makeba 11 points and Mbuli gets a
+My `simple rating system`__ gives Makeba 11 points and Mbuli gets a
 whooping 15. That's a scary number since it would mean `she's superior
-to Salif Keita`_ and just a point below Burning Spear! This I should
+to Salif Keita`__ and just a point below Burning Spear! This I should
 revisit!
 
 [**sidenote**] Oh, and I'm sure there's a lot of Miriam's work that I
@@ -34,5 +34,5 @@ the question "who's the greatest female South African musician?". That's
 the answer that I also once had until I savoured much of Letta Mbulu's
 work and walked away amazed.
 
-.. _simple point system: http://tshepang.net/simple-point-system-for-rating-music
-.. _she's superior to Salif Keita: http://tshepang.net/top-musicians
+__ http://tshepang.net/simple-rating-system-for-music
+__ http://tshepang.net/top-musicians
