@@ -15,7 +15,6 @@ links 2011-05-17
 -  `nice humor regarding names`_
 
 
-.. _via: http://www.joelonsoftware.com/items/2008/01/22.html
 .. _a company to work 'for': http://translate.google.fr/translate?js=n&prev=_t&hl=fr&ie=UTF-8&layout=2&eotf=1&sl=fr&tl=en&u=http://fr.techcrunch.com/2008/08/14/fr-motion-twin-createurs-de-labrutefr-une-startup-pas-comme-les-autres-interview/
 .. _delicious humor: http://hezmatt.org/~mpalmer/blog/general/how_to_frustrate_your_train_driver.html
 .. _nice humor regarding names: http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
