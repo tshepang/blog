@@ -5,18 +5,18 @@ favorite FLOSS
 :date: 2013-10-02
 
 
-For a piece of `FLOSS`_ (free/libre and open source software) to be here,
+For a piece of FLOSS_ (free/libre and open source software) to be here,
 it has to both be personally useful and I have to like it a lot:
 
-**backup:** `rdiff-backup`_
+**backup:** rdiff-backup_
 
-**desktop**: `GNOME`_
+**desktop**: GNOME_
 
 **development**: Python, Emacs, git-cola_
 
-**misc utilities:** grep, `Sudo`_, `reprepro`_, Lsof, less, Meld,
+**misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
 Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
-`xfrun4`_, coreutils (wc, tail), `LinkChecker`_, `Iotop`_, `man`_,
+xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_
 
 **spreadsheet:** gnumeric
@@ -25,11 +25,11 @@ OpenSSH, vnstat_
 
 **virtualisation**: VirtualBox
 
-**version control system**: `Mercurial`_
+**version control system**: Mercurial_
 
 **web browser**: Chrome/Chromium
 
-**non-FLOSS:** `Disqus`_, `Gmail`_, `Stack Exchange`_, `Bitbucket`_
+**non-FLOSS:** Disqus_, Gmail_, `Stack Exchange`_, Bitbucket_
 
 
 .. _git-cola: http://tshepang.net/project-of-note-git-cola
