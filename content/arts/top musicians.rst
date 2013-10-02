@@ -7,7 +7,7 @@ top musicians
 
 
 The best musicians in history,
-created with the help of `a simple point system`__.
+a list created with the help of `a simple point system`__.
 
 -  `Fela Kuti`__, 27
 -  `Burning Spear`__, 18
