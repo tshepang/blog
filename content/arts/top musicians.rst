@@ -7,7 +7,7 @@ top musicians
 
 
 The best musicians in history,
-a list created with the help of `a simple point system`__.
+a list created with the help of `a simple rating system`__.
 
 -  `Fela Kuti`__, 27
 -  `Burning Spear`__, 18
@@ -27,7 +27,7 @@ mighty Bob, and that was based on just my thinking without actually
 making a list of tracks. Intuition isn't always reliable.
 
 
-__ http://tshepang.net/simple-point-system-for-rating-music
+__ http://tshepang.net/simple-rating-system-for-music
 __ http://tshepang.net/top-tracks-fela-kuti
 __ http://tshepang.net/top-tracks-burning-spear
 __ http://tshepang.net/letta-mbulu-vs-miriam-makeba

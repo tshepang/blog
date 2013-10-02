@@ -1,5 +1,5 @@
-simple point system for rating music
-====================================
+simple rating system for music
+==============================
 
 :date: 2011-01-14
 :tags: music
