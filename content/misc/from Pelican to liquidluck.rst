@@ -1,7 +1,7 @@
 from Pelican to liquidluck
 ==========================
 
-:date: 2013-08-17
+:date: 2013-10-03
 :tags: blogging
 
 
@@ -9,7 +9,25 @@ from Pelican to liquidluck
 
 - This post was first published on **2012-07-05**,
   which is shortly after I started using `liquidluck`_.
-- I have a separate post on `what I love about static website generators`_.
+- I have since moved back to Pelican on **2013-09-29**, with `Elegant
+  theme`__. Reason: is slow development of liquidluck (e.g. author `is
+  busy with other projects`__, and is doing `some large changes to
+  liquidluck in a branch`__). There is also `a backlog of doc
+  improvements`__ I submitted, which are not even acknowledged. Do not
+  consider this a complaint... the author in fact gave me more than I
+  gave him... a nice piece of software. In fact, I might go back at
+  some point, and will keep maintaining `live demos of the various
+  liquidluck themes`__. Meanwhile, Pelican is likely the most
+  actively-developed static site generator in the Python ecosystem.
+- I have a separate post on `what I love about static website generators`__.
+
+
+__ http://oncrashreboot.com/elegant-a-clean-theme-for-pelican-with-search-feature.html
+__ https://github.com/lepture/liquidluck/issues/101
+__ https://github.com/lepture/liquidluck/issues/104#issuecomment-22825084
+__ https://github.com/lepture/liquidluck/issues/created_by/tshepang?sort=updated&state=open
+__ http://tshepang.net/looking-at-liquidluck-themes
+__ http://tshepang.net/what-me-loves-about-static-website-generation
 
 
 why `Pelican`_ rocks
@@ -94,8 +112,7 @@ issues
 .. _blogofile: http://blogofile.com
 .. _unlike tinkerer: https://bitbucket.org/vladris/tinkerer/issue/41
 .. _the other themes weren't so satisfactory: http://tshepang.net/favorite-pelican-themes
-.. _liquidluck: http://liquidluck.readthedocs.org
 .. _this script: https://bitbucket.org/tshepang/blog/src/1602cdf8/custom.py
-.. _what I love about static website generators: http://tshepang.net/what-me-loves-about-static-website-generation
 .. _the other ones: http://tshepang.net/looking-at-liquidluck-themes
 .. _the developer: http://lepture.com
+.. _liquidluck: http://liquidluck.readthedocs.org
