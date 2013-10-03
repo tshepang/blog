@@ -35,9 +35,11 @@ __ http://tshepang.net/tags#Python-ref
 __ http://tshepang.net/tags#Debian-ref
 __ http://movies.tshepang.net
 __ http://tshepang.net/where-i-live-on-the-web
+
 __ https://github.com/tshepang
-__ https://bitbucket.org/tshepang/blog
 __ https://bitbucket.org/tshepang
 __ http://stackexchange.com/users/125744/tshepang
 __ https://www.gittip.com/tshepang
 __ https://twitter.com/tshepang_dev
+
+__ https://bitbucket.org/tshepang/blog
