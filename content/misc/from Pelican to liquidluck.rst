@@ -11,8 +11,8 @@ from Pelican to liquidluck
   which is shortly after I started using liquidluck_.
 - I have since moved back to Pelican on **2013-09-29**, with `Elegant
   theme`__. Reason: is slow development of liquidluck (e.g. author `is
-  busy with other projects`__, and is doing `some large changes to
-  liquidluck in a branch`__). There is also `a backlog of doc
+  busy with other projects`__, though he is doing `some large changes to
+  in a branch`_ which I assume is not ready _). There is also `a backlog of doc
   improvements`__ I submitted, which are not even acknowledged. Do not
   consider this a complaint... the author in fact gave me more than I
   gave him... a nice piece of software. In fact, I might go back at
