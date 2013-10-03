@@ -19,7 +19,7 @@ on the web`__.
 Among my profiles on the web:
 
 * GitHub__ and Bitbucket__ (software)
-* `Stack Exchange`__ (Q&A)
+* `Stack Exchange`__ (help)
 * Gittip__ (funding)
 * Twitter__ (social)
 
