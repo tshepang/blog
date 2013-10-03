@@ -18,7 +18,8 @@ from Pelican to liquidluck
   complaint... the author in fact gave me more than I gave him... a
   nice piece of software. In fact, I might go back at some point, and
   will keep maintaining `live demos of the various liquidluck
-  themes`__. Meanwhile, Pelican is likely the most actively-developed
+  themes`__. Also, `my movie blog`__ is also still built with
+  liquidluck. Meanwhile, Pelican is likely the most actively-developed
   static site generator in the Python ecosystem.
 - I have a separate post on `what I love about static website generators`__.
 
@@ -28,6 +29,7 @@ __ https://github.com/lepture/liquidluck/issues/101
 __ https://github.com/lepture/liquidluck/issues/104#issuecomment-22825084
 __ https://github.com/lepture/liquidluck/issues/created_by/tshepang?sort=updated&state=open
 __ http://tshepang.net/looking-at-liquidluck-themes
+__ http://movies.tshepang.net
 __ http://tshepang.net/what-me-loves-about-static-website-generation
 
 
