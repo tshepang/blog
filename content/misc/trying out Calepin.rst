@@ -7,8 +7,8 @@ trying out Calepin
 
 
 **update**: The lack of reliability, worst of which was constant
-unavailability of my blog lead me to move on, this time to `Pelican`_,
-and hosted by `GitHub Pages`_. `Here's the setup`_.
+unavailability of my blog, led me to move on. This time it's `Pelican`_,
+hosted by `GitHub Pages`_. `Here's the setup`_.
 
 --------------
 
