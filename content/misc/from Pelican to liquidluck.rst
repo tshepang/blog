@@ -8,7 +8,7 @@ from Pelican to liquidluck
 **notes**:
 
 - This post was first published on **2012-07-05**,
-  which is shortly after I started using `liquidluck`_.
+  which is shortly after I started using liquidluck_.
 - I have since moved back to Pelican on **2013-09-29**, with `Elegant
   theme`__. Reason: is slow development of liquidluck (e.g. author `is
   busy with other projects`__, and is doing `some large changes to
@@ -38,7 +38,7 @@ why `Pelican`_ rocks
 
 - Post metadata:
 
-  -  if Date is not specified, file mtime is used (unlike `blogofile`_)
+  -  if Date is not specified, file mtime is used (unlike blogofile_)
   -  if Category is not specified, parent directory name is used
      (unlike blogofile)
   -  titles are allowed to have any character (unlike blogofile)
@@ -59,7 +59,7 @@ I spent way too long fiddling with them, and just couldn't be happy.
 why liquidluck
 --------------
 
-So I have moved to `liquidluck`_,
+So I have moved to liquidluck_,
 and am hoping I will not be 'forced' to move again.
 It's way too much work, and it took multiple messages between me and
 `the developer`_ of this sleek new static site generator just to get it
