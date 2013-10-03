@@ -10,7 +10,7 @@ about me
 -  Gauteng province, `South Africa`__
 
 I do software development `for a living`__ and as a hobby
-(examples__). My favorite ecosystem (and language) is that of
+(examples__). My favorite language (and ecosystem) is
 Python__, and my OS of choice is Debian__.
 
 I watch perhaps too many movies__, and I `spend perhaps too much time
