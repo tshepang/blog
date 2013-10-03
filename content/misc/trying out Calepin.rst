@@ -7,14 +7,14 @@ trying out Calepin
 
 
 **update**: The lack of reliability, worst of which was constant
-unavailability of my blog, led me to move on. This time it's `Pelican`_,
+unavailability of my blog, led me to move on. This time it's Pelican_,
 hosted by `GitHub Pages`_. `Here's the setup`_.
 
 --------------
 
 I've been meaning to move my blog(s) away from Posterous, due to its UI
 problems and ridiculously-slow page loads. I finally did it with the
-help of `Calepin`_, which itself has a bunch of problems, which is
+help of Calepin_, which itself has a bunch of problems, which is
 forgiveable given that it's a Beta product:
 
 -  The presentation is way too simple/plain, and doesn't provide a way
