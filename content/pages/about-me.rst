@@ -16,6 +16,13 @@ Python__, and my OS of choice is Debian__.
 I watch perhaps too many movies__, and I `spend perhaps too much time
 on the web`__. I also love music__, as well as engaging conversation.
 
+Among my profiles on the web:
+
+* GitHub__ and Bitbucket__ (software)
+* `Stack Exchange`__ (Q&A)
+* Gittip__ (funding)
+* Twitter__ (social)
+
 ----
 
 The sources for this blog can be found `on Bitbucket`__.
@@ -30,3 +37,8 @@ __ http://movies.tshepang.net
 __ http://tshepang.net/where-i-live-on-the-web
 __ http://tshepang.net/tags#music
 __ https://bitbucket.org/tshepang/blog
+__ https://github.com/tshepang
+__ https://bitbucket.org/tshepang
+__ http://stackexchange.com/users/125744/tshepang
+__ https://www.gittip.com/tshepang
+__ https://twitter.com/tshepang_dev
