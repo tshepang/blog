@@ -14,7 +14,7 @@ I do software development `for a living`__ and as a hobby
 Python__, and my OS of choice is Debian__.
 
 I watch perhaps too many movies__, and I `spend perhaps too much time
-on the web`__. I also love music__, as well as engaging conversation.
+on the web`__.
 
 Among my profiles on the web:
 
@@ -35,7 +35,6 @@ __ http://tshepang.net/tags#Python-ref
 __ http://tshepang.net/tags#Debian-ref
 __ http://movies.tshepang.net
 __ http://tshepang.net/where-i-live-on-the-web
-__ http://tshepang.net/tags#music
 __ https://bitbucket.org/tshepang/blog
 __ https://github.com/tshepang
 __ https://bitbucket.org/tshepang
