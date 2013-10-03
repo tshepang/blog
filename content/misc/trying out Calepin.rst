@@ -42,4 +42,4 @@ In the interest of balance, here's `what attracted me`_.
 .. _GitHub Pages: http://pages.github.com
 .. _Here's the setup: http://tshepang.net/blogging-with-pelican
 .. _Calepin: http://calepin.co/
-.. _what attracted me: http://tshepang.net/what-me-loves-about-static-website-generation 
+.. _what attracted me: http://tshepang.net/what-me-loves-about-static-website-generation
