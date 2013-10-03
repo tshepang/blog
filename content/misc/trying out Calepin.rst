@@ -15,7 +15,7 @@ hosted by `GitHub Pages`_. `Here's the setup`_.
 I've been meaning to move my blog(s) away from Posterous, due to its UI
 problems and ridiculously-slow page loads. I finally did it with the
 help of Calepin_, which itself has a bunch of problems. These are
-forgiveable since it's a Beta product:
+forgivable since it's a Beta product:
 
 -  The presentation is way too simple/plain, and doesn't provide a way
    to customise it.
