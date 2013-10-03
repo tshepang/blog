@@ -35,7 +35,7 @@ forgiveable since it's a Beta product:
 Despite all these problems, it will have to do for now, until I find
 another host, and maybe this time I will have to spend some cash.
 
-In the interest of balance, here's `what attracted me`.
+In the interest of balance, here's `what attracted me`_.
 
 
 .. _Pelican: http://pelican.notmyidea.org
