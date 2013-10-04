@@ -18,9 +18,7 @@ from Pelican to liquidluck
   author in fact gave me more than I gave him... a nice piece of
   software. In fact, I might go back at some point, and will keep
   maintaining `live demos of the various liquidluck themes`__. Also,
-  `my movie blog`__ is also still built with liquidluck. Meanwhile,
-  Pelican is likely the most actively-developed static site generator
-  in the Python ecosystem.
+  `my movie blog`__ is also still built with liquidluck.
 - I have a separate post on `what I love about static website generators`__.
 
 
