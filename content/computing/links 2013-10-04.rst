@@ -18,7 +18,7 @@ links 2013-10-04
   polished than the latter, both in terms of video editing, and how
   presentable the presentation is.
 
-* `Great kudos for (the great) Guido van Rossum`__
+* `great kudos for (the great) Guido van Rossum`__
 
 * `Falsehoods Programmers Believe About Names`__ - interesting
 
