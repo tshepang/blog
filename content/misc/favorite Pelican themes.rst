@@ -25,7 +25,7 @@ search feature, which got me excited.
 It has some issues though (`to be fixed at some point`__):
 
 * ignores Twitter setting
-* Feeds not supported
+* RSS feeds are supported, but the icons aren't made visible
 
 It's also not the prettiest of themes, but it will have to do, at
 least for now.
