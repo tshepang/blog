@@ -30,6 +30,7 @@ PLUGIN_PATH = '../pelican-plugins'
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives',
                      'search', '404'))
+STATIC_PATHS.append('theme/images')
 TAG_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
