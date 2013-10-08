@@ -133,4 +133,4 @@ __ https://github.com/getpelican/pelican-themes/issues/152
 .. _tuxlite_tbs: https://github.com/getpelican/pelican-themes/tree/master/tuxlite_tbs
 .. _Chunk: https://github.com/tbunnyman/pelican-chunk
 .. _monospace: https://github.com/getpelican/pelican-themes/tree/master/monospace
-.. _Elegant: https://github.com/talha131/pelican-elegant
+.. _Elegant: http://oncrashreboot.com/pelican-elegant
