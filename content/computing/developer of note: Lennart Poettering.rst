@@ -11,14 +11,14 @@ community, collecting admirers and detracters along the way since he
 does not appear afraid of voicing controversial thoughts, or even
 express arrogance.
 
-`I first heard of him`_ through a project that was to revolutionise Unix
-audio, `PulseAudio`_. Using it was not really the best of experiences
+`I first heard of him`__ through a project that was to revolutionise Unix
+audio, PulseAudio__. Using it was not really the best of experiences
 (it consumed too much CPU time, which wasn't a good trade-off given I
 didn't need any of its advanced features),
 but it may well have just been the way Debian configured it at the time.
 
 Later on, he started work on an init system that was to replace
-exisiting ones on Linux-based systems, known as `systemd`_. This is
+exisiting ones on Linux-based systems, known as systemd__. This is
 among the FLOSS projects that did genuinely excite me, and for years I
 was waiting for it to be Debian default. Sadly, too many issues were
 raised, including the refusal of Lennart to support non-Linux systems,
@@ -32,6 +32,6 @@ in his projects, portraying great talent while at it, as well managing to market
 his projects very well, at least in my eyes.
 
 
-.. _I first heard of him: http://mail.gnome.org/archives/desktop-devel-list/2007-October/msg00136.html
-.. _PulseAudio: http://en.wikipedia.org/wiki/PulseAudio
-.. _systemd: http://tshepang.net/project-of-note-systemd
+__ http://mail.gnome.org/archives/desktop-devel-list/2007-October/msg00136.html
+__ http://en.wikipedia.org/wiki/PulseAudio
+__ http://tshepang.net/project-of-note-systemd
