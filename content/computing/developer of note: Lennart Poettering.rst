@@ -27,8 +27,8 @@ way beyond being just a traditional init system, worrying many.
 
 Regardless of the controversy, the fact that Lennart was able to shake
 up the FLOSS world with two major projects like this makes him among the
-great developers on the planet. He also really put a lot of effort
-in his projects, portraying great talent while at, as well managing to market
+great developers on the planet. He also really puts a lot of effort
+in his projects, portraying great talent while at it, as well managing to market
 his projects very well, at least in my eyes.
 
 
