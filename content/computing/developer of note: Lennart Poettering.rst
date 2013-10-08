@@ -13,8 +13,8 @@ express arrogance.
 
 `I first heard of him`_ through a project that was to revolutionise Unix
 audio, `PulseAudio`_. Using it was not really the best of experiences
-(I don't yet need any of its advanced features,
-and it consumed too many CPU cybles),
+(it consumed too much CPU time, which wasn't a good trade-off given I
+didn't need any of its advanced features),
 but it may well have just been the way Debian configured it at the time.
 
 Later on, he started work on an init system that was to replace
