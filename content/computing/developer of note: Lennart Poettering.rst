@@ -19,7 +19,7 @@ but it may well have just been the way Debian configured it at the time.
 
 Later on, he started work on an init system that was to replace
 exisiting ones on Linux-based systems, known as `systemd`_. This is
-among a few FLOSS projects that did genuinely excite me, and for years I
+among the FLOSS projects that did genuinely excite me, and for years I
 was waiting for it to be Debian default. Sadly, too many issues were
 raised, including the refusal of Lennart to support non-Linux systems,
 as well as having 'too many features',
