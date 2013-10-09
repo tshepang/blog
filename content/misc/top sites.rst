@@ -1,7 +1,7 @@
 top sites
 =========
 
-:tags: untagged
+:tags: list
 :date: 2013-06-01
 
 

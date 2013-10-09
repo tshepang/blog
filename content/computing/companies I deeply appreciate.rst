@@ -2,7 +2,7 @@ companies I deeply appreciate
 =============================
 
 :date: 2013-04-07
-:tags: untagged
+:tags: list
 
 
 -  `Red Hat`_ contributes more to `FLOSS`_ than any other company,

@@ -2,7 +2,7 @@ favorite buildings
 ==================
 
 :date: 2013-09-30
-:tags: untagged
+:tags: list
 
 
 

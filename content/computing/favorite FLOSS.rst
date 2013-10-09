@@ -1,7 +1,7 @@
 favorite FLOSS
 ==============
 
-:tags: untagged
+:tags: list
 :date: 2013-10-02
 
 
