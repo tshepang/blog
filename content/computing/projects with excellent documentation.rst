@@ -22,9 +22,12 @@ big
 
 - `CPython`_ - I used to appreciate this more before I got closely
   involved, noticing warts here and there, and therefore taking it for
-  granted.
+  granted. (`a good example`__)
 
 - `sqlite3`_ - quite extensive, especially for an embeddable DBMS
+
+
+__ http://docs.python.org/3/library/collections
 
 
 small
