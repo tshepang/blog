@@ -20,9 +20,9 @@ big
   really, really goes into painstaking detail, and seems to have been
   written by professional technical writers.
 
-- `CPython`_ - I used to appreciate this more before I got closely
-  involved, noticing warts here and there, and therefore taking it for
-  granted. (`a good example`__)
+- `CPython`_ - this is quite massive, so although quality is generally
+  high, it varies depending on where you are; `an example of
+  excellence`__
 
 - `sqlite3`_ - quite extensive, especially for an embeddable DBMS
 
