@@ -2,7 +2,7 @@ favorite FLOSS
 ==============
 
 :tags: list
-:date: 2013-10-02
+:date: 2013-10-10
 
 
 For a piece of FLOSS_ (free/libre and open source software) to be here,
