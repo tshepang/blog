@@ -17,7 +17,7 @@ it has to both be personally useful and I have to like it a lot:
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
 Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
 xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
-OpenSSH, vnstat_
+OpenSSH, vnstat_, tmux_
 
 **spreadsheet:** gnumeric
 
@@ -49,3 +49,4 @@ OpenSSH, vnstat_
 .. _Stack Exchange: http://stackexchange.com
 .. _Bitbucket: http://bitbucket.org
 .. _vnstat: http://humdi.net/vnstat
+.. _tmux: http://tmux.sourceforge.net
