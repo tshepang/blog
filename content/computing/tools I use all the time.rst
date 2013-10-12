@@ -6,7 +6,7 @@ tools I use all the time
 
 
 
-Following are tools I use all the time, but am not necessarily loving.
+Following are tools I use a lot, but am not necessarily loving.
 For those I like a lot, see `this list`__.
 
 * **Debian**: my primary OS, and also my favorite
