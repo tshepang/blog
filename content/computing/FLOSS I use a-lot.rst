@@ -13,6 +13,10 @@ __ http://tshepang.net/favorite-floss
 
 * **Debian**: my primary OS, and also my favorite
 
+  - **wajig**: `I also develop and maintain it`__
+
+__ http://tshepang.net/tags#wajig-ref
+
 * **GNOME**: primary Desktop Environment
 
   - gnome-panel
