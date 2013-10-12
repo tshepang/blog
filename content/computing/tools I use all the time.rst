@@ -26,7 +26,8 @@ For those I like a lot, see `this list`__.
   as it is
 * **Evince**: I would love to get a PDF reader with better navigation
 * **Quod Libet**: audio player
-* **Thunderbird**: I prefer Evolution, but it gave me some issues I don't remember
+* **Thunderbird**: I prefer Evolution, but it gave me some issues I
+  don't remember
 * **GNU toolchain** (GCC, make, GLibC, ...)
 * **VLC**: ugly interface, solid application
 * **Git**: do I have a choice?
