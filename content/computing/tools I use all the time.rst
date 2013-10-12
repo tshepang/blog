@@ -2,7 +2,7 @@ tools I use all the time
 ========================
 
 :tags: list
-:date: 2013-10-02
+:date: 2013-10-12
 
 
 
@@ -37,6 +37,7 @@ For those I like a lot, see `this list`__.
 * Meld__: the most excellent diff tool I've used yet
 * git-cola: `why me loves it`__
 * tmux__
+* Transmission__: the only torrent client I ever used
 
 
 __ http://tshepang.net/favorite-floss
@@ -44,3 +45,4 @@ __ http://lzone.de/liferea
 __ http://meldmerge.org
 __ http://tshepang.net/project-of-note-git-cola
 __ http://tmux.sourceforge.net
+__ http://www.transmissionbt.com
