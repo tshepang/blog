@@ -33,7 +33,7 @@ __ http://tshepang.net/favorite-floss
   - **GNU toolchain** (GCC, make, GLibC, ...)
   - **Git**: as if I had a choice... work and open source
   - **Mercurial**: my favorite
-  - **Meld**__: the most excellent diff tool I've used yet
+  - **Meld**\__: the most excellent diff tool I've used yet
 
 __ http://tshepang.net/project-of-note-git-cola
 __ http://meldmerge.org
@@ -50,13 +50,13 @@ __ http://meldmerge.org
     experience issues, as well as for testing
   - **Gnumeric**: it's faster than LibreOffice spreadsheet, and has
     superior search interface
-  - **Liferea**__: would not be using this had it not been for Google Reader
+  - **Liferea**\__: would not be using this had it not been for Google Reader
     shutdown, but am glad they did cuz I like the tool, ugly and unkool
     as it is
   - **Thunderbird**: I prefer Evolution, but it gave me some issues I
     don't remember
-  - **tmux**__
-  - **Transmission**__: the only torrent client I ever used
+  - **tmux**\__
+  - **Transmission**\__: the only torrent client I ever used
 
 
 __ http://lzone.de/liferea
