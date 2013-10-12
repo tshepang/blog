@@ -45,5 +45,5 @@ nice to have a machine accesible from anywhere on the web.
 
 __ http://tshepang.net/tags.html#blogging-ref
 __ http://pages.github.com
-__ https://www.digitalocean.com
+__ https://www.digitalocean.com/?refcode=25b4887810cc
 __ http://thechangelog.com/107
