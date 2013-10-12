@@ -53,6 +53,7 @@ __ http://meldmerge.org
   - Liferea__: would not be using this had it not been for Google Reader
     shutdown, but am glad they did cuz I like the tool, ugly and unkool
     as it is
+  - **OpenSSH**: duh!
   - **Thunderbird**: I prefer Evolution, but it gave me some issues I
     don't remember
   - tmux__
