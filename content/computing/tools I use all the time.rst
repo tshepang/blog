@@ -9,9 +9,9 @@ FLOSS I use a-lot
 Following are tools I use a lot, but am not necessarily loving.
 For those I like a lot, see `this list`__.
 
+__ http://tshepang.net/favorite-floss
+
 * **Debian**: my primary OS, and also my favorite
-* **Emacs**: general text editor
-* **Vim**: it happens to be installed on a lot of systems at work
 
 * **GNOME**: primary Desktop Environment
 
@@ -21,28 +21,44 @@ For those I like a lot, see `this list`__.
   - nautilus
   - file-roller
 
-* Liferea__: would not be using this had it not been for Google Reader
-  shutdown, but am glad they did cuz I like the tool, ugly and unkool
-  as it is
-* **Evince**: I would love to get a PDF reader with better navigation
-* **Quod Libet**: audio player
-* **Thunderbird**: I prefer Evolution, but it gave me some issues I
-  don't remember
-* **GNU toolchain** (GCC, make, GLibC, ...)
-* **VLC**: ugly interface, solid application
-* **Git**: do I have a choice?
-* **Mercurial**: my favorite
-* **Google Chrome**: I occasionally drop into Firefox when I
-  experience issues
-* Meld__: the most excellent diff tool I've used yet
-* git-cola: `why me loves it`__
-* tmux__
-* Transmission__: the only torrent client I ever used
+* editors
 
+  - **Emacs**: my favorite
+  - **Vim**: it happens to be installed on a lot of systems at work,
+    and I do like it some
 
-__ http://tshepang.net/favorite-floss
-__ http://lzone.de/liferea
-__ http://meldmerge.org
+* software development
+
+  - **git-cola**: `why me loves it`__
+  - **GNU toolchain** (GCC, make, GLibC, ...)
+  - **Git**: as if I had a choice... work and open source
+  - **Mercurial**: my favorite
+  - **Meld__**: the most excellent diff tool I've used yet
+
 __ http://tshepang.net/project-of-note-git-cola
+__ http://meldmerge.org
+
+* entertainment
+
+  - **Quod Libet**: audio player
+  - **VLC**: ugly interface, solid application
+
+* misc
+
+  - **Evince**: I would love to get a PDF reader with better navigation
+  - **Google Chrome**: I occasionally drop into Firefox when I
+    experience issues, as well as for testing
+  - **Gnumeric**: it's faster than LibreOffice spreadsheet, and has
+    superior search interface
+  - **Liferea__**: would not be using this had it not been for Google Reader
+    shutdown, but am glad they did cuz I like the tool, ugly and unkool
+    as it is
+  - **Thunderbird**: I prefer Evolution, but it gave me some issues I
+    don't remember
+  - **tmux__**
+  - **Transmission__**: the only torrent client I ever used
+
+
+__ http://lzone.de/liferea
 __ http://tmux.sourceforge.net
 __ http://www.transmissionbt.com
