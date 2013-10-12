@@ -15,7 +15,7 @@ __ http://tshepang.net/favorite-floss
 
   - **wajig**: `I also develop and maintain it`__
   - **APT**: a collection of Debian package management tools
-  - **Aptitude**: I mainly use its `search` and `show` subcommands;
+  - **Aptitude**: I mainly use its ``search`` and ``show`` subcommands;
     the equivalent functionality in APT is lesser
 
 __ http://tshepang.net/tags#wajig-ref
