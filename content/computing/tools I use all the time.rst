@@ -11,8 +11,7 @@ For those I like a lot, see `this list`__.
 
 * **Debian**: my primary OS, and also my favorite
 * **Emacs**: general text editor
-* **Vim**: it happens to be installed on a lot of systems at work, but I
-  only rarely use it on my workstation
+* **Vim**: it happens to be installed on a lot of systems at work
 
 * **GNOME**: primary Desktop Environment
 
