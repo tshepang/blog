@@ -12,11 +12,11 @@ framework`_.
 
 ---
 
-What inspired this post (originally published 2013-03-31) is the incredible honor given by the great
-Raymond Hettinger in `one of his PyCon US 2013 talks`_, where he deems
-him "probably the smartest person I have ever met".  Given that there
-isn't a shortage of brilliance in the Python community, that's some
-serious kudos.
+What inspired this post (originally published 2013-03-31) is the
+incredible honor given by the great Raymond Hettinger in `one of his
+PyCon US 2013 talks`_, where he deems him "probably the smartest
+person I have ever met".  Given that there isn't a shortage of
+brilliance in the Python community, that's some serious kudos.
 
 Also, here is what one of speakers at that conferences said:
 
