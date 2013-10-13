@@ -11,7 +11,7 @@ great honors for Donald Knuth
 
     -- source__
 
-Such kudos aren't given everyday.
+Such praise isn't given everyday.
 
 
 __ http://www.softpanorama.org/People/Knuth/index.shtml
