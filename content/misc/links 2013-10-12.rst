@@ -21,7 +21,7 @@ links 2013-10-12
 
 
 __ https://happycstudio.see.me
-__ https://github.com/gittip/www.gittip.com/blob/master/README.md
+__ https://github.com/gittip/www.gittip.com/blob/master/README.md#see-also
 __ http://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml
 __ http://blog.eat24hours.com/how-to-advertise-on-a-porn-website
 __ http://hezmatt.org/~mpalmer/blog/general/how_to_frustrate_your_train_driver.html
