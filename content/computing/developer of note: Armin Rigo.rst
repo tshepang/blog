@@ -10,7 +10,7 @@ the entire Python ecosystem, PyPy__.  He is also credited with doing
 the bulk of the work in building its `legendary RPython translation
 framework`__.
 
----
+----
 
 What inspired this post (originally published 2013-03-31) is the
 incredible honor given by the great Raymond Hettinger in `one of his
