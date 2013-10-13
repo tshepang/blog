@@ -6,8 +6,9 @@ great honors for Donald Knuth
 
 ..
 
-    I would say he is man of a stature similar to the stature of Leonard
-    Euler in mathematics. Such men are not born every century...
+    I would say he is man of a stature similar to the stature of
+    Leonard Euler in mathematics. Such men are not born every
+    century...
 
     -- source__
 
