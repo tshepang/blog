@@ -17,6 +17,7 @@ Have a look at this code:
    pyplot.show()
 
 .. image:: images/matplotlib-1.png
+   :alt: image resulting from running the code above
 
 You will notice that there's 2 graphs drawn over the same axis, nothing
 special. What I really loved about matplotlib is that I did not need to
@@ -45,6 +46,7 @@ Here's goes:
 If I provide 3 as command line argument, I get his:
 
 .. image:: images/matplotlib-2.png
+   :alt: image resulting from running the code above
 
 This feature left me pleasantly surprised.
 

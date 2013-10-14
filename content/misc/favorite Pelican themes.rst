@@ -96,6 +96,7 @@ monospace_
   not specified, they are handled in a naive manner:
 
   .. image:: images/neat.png
+     :alt: naive handling of unspecified custom fields
 
 
 `Chunk`_
