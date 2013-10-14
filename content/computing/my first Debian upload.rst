@@ -29,7 +29,7 @@ Output of my first ever upload to Debian (using dput__)::
 
 And, yeah, that means `I am now Debian Maintainer`__. Other than
 giving me more freedom, this helps reduce the workload on `Dirk
-Eddelbuetel`__, who has been uploading wajig for several years now. He
+Eddelbuettel`__, who has been uploading wajig for several years now. He
 even `became an Advocate`__ for `my application`__.  This process
 started several weeks ago when a Debian Developer named `Tristan
 Seligmann`__ signed my key [#]_.
