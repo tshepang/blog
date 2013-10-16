@@ -29,15 +29,15 @@ Here are the relevant BASH aliases:
 
 .. code-block:: sh
 
-    alias vb='$(python ~/projects/scripts/vcs.py --branch)'
-    alias vd='$(python ~/projects/scripts/vcs.py --diff)'
-    alias vl='$(python ~/projects/scripts/vcs.py --log)'
-    alias vp='$(python ~/projects/scripts/vcs.py --push)'
-    alias vs='$(python ~/projects/scripts/vcs.py --status)'
-    alias vu='$(python ~/projects/scripts/vcs.py --pull)'
-    alias vc='$(python ~/projects/scripts/vcs.py --commit)'
-    alias vo='$(python ~/projects/scripts/vcs.py --checkout)'
-    alias vr='$(python ~/projects/scripts/vcs.py --revert)'
+    alias vb='$(~/projects/scripts/vcs.py --branch)'
+    alias vd='$(~/projects/scripts/vcs.py --diff)'
+    alias vl='$(~/projects/scripts/vcs.py --log)'
+    alias vp='$(~/projects/scripts/vcs.py --push)'
+    alias vs='$(~/projects/scripts/vcs.py --status)'
+    alias vu='$(~/projects/scripts/vcs.py --pull)'
+    alias vc='$(~/projects/scripts/vcs.py --commit)'
+    alias vo='$(~/projects/scripts/vcs.py --checkout)'
+    alias vr='$(~/projects/scripts/vcs.py --revert)'
 
 This makes my life so much easier, since I no longer have to care
 which VCS I'm on, at least for the most common of commands. I am
