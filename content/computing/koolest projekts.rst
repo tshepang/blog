@@ -15,7 +15,7 @@ These are what I find to be the most exciting projects, today:
 
 * Discourse__ (project_of_note__)
 
-* systemd__ (project-of-note__)
+* systemd__
 
   This one has since been `announced in April 2010`__, but I still do
   find it kool. It is sad that it still receives so much unlove from
@@ -30,5 +30,4 @@ __ http://www.discourse.org
 __ http://tshepang.net/project-of-note-discourse
 
 __ http://freedesktop.org/wiki/Software/systemd
-__ http://tshepang.net/project-of-note-systemd
 __ http://0pointer.de/blog/projects/systemd

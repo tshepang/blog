@@ -34,4 +34,4 @@ his projects very well, at least in my eyes.
 
 __ http://mail.gnome.org/archives/desktop-devel-list/2007-October/msg00136.html
 __ http://en.wikipedia.org/wiki/PulseAudio
-__ http://tshepang.net/project-of-note-systemd
+__ http://www.freedesktop.org/wiki/Software/systemd
