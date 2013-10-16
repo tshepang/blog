@@ -63,7 +63,7 @@ __ http://meldmerge.org
   - **OpenSSH**: duh!
   - **Thunderbird**: I prefer Evolution, but it gave me some issues I
     don't remember
-  - tmux__
+  - tmux__: amazingly powerul!
   - Transmission__: the only torrent client I ever used
   - less__: indispensable!
 
