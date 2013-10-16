@@ -42,5 +42,14 @@ gives me the flexibility of adding to the command, for example:
 This makes my life so much easier, since I no longer have to care where
 I'm at, at least for the most common of commands. I am pleased with self.
 
+----
+
+As a sidenote, if you want to cycle between the changesets (Mercurial
+term) or Commits (Git term), use the following search term on your
+pager (tested with less__, which is Debian/Ubuntu default pager)::
+
+  (^changeset)|(^commit)
+
 
 __ https://bitbucket.org/tshepang/scripts/src/tip/vcs.py
+__ http://www.greenwoodsoftware.com/less
