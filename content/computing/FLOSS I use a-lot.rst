@@ -2,7 +2,7 @@ FLOSS I use a-lot
 =================
 
 :tags: list
-:date: 2013-10-12
+:date: 2013-10-16
 
 
 
@@ -65,8 +65,10 @@ __ http://meldmerge.org
     don't remember
   - tmux__
   - Transmission__: the only torrent client I ever used
+  - less__: indispensable!
 
 
 __ http://lzone.de/liferea
 __ http://tmux.sourceforge.net
 __ http://www.transmissionbt.com
+__ http://www.greenwoodsoftware.com/less
