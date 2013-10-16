@@ -13,6 +13,18 @@ one while on another's repository... error.
 
 I then decided to ease the pain my creating `a script`__ which checks which
 VCS system I'm on, and displays the relevant command.
+
+Some examples of usage:
+
+.. code-block:: sh
+
+   $ cd <hg repo>
+   $ ./vcs.py --log
+   hg log --no-merges --patch --stat --verbose
+   $ cd <git repo>
+   $ ./vcs.py --log
+   git log --no-merges --patch --stat
+
 Here are the relevant BASH aliases:
 
 .. code-block:: sh
@@ -26,15 +38,6 @@ Here are the relevant BASH aliases:
     alias vc='$(python ~/projects/scripts/vcs.py --commit)'
     alias vo='$(python ~/projects/scripts/vcs.py --checkout)'
     alias vr='$(python ~/projects/scripts/vcs.py --revert)'
-
-Some examples of usage:
-
-.. code-block:: sh
-
-    # committing
-    vc 'describe the change'
-    # checking history of a file
-    vl README
 
 This makes my life so much easier, since I no longer have to care
 which VCS I'm on, at least for the most common of commands. I am
