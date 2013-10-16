@@ -1,13 +1,12 @@
 easing switching between Git and Mercurial
 ==========================================
 
-:date: 2013-02-16
+:date: 2013-10-16
 :tags: Python, VCS
 
 
 
-For a long time I've been meaning to write a script that eases switching
-between the only VCS systems I use, Mercurial and Git. Each chance I
+Each chance I
 get, I use Mercurial (e.g. personal stuff), and use Git when I don't
 have much of a choice (e.g. FLOSS and work). That is, I use both quite a
 lot, and too often I find myself running commands for one while on
