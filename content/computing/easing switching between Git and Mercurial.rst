@@ -17,15 +17,15 @@ Here are the relevant BASH aliases:
 
 .. code-block:: sh
 
-    alias vb='$(python ~/projects/utils/vcs.py --branch)'
-    alias vd='$(python ~/projects/utils/vcs.py --diff)'
-    alias vl='$(python ~/projects/utils/vcs.py --log)'
-    alias vp='$(python ~/projects/utils/vcs.py --push)'
-    alias vs='$(python ~/projects/utils/vcs.py --status)'
-    alias vu='$(python ~/projects/utils/vcs.py --pull)'
-    alias vc='$(python ~/projects/utils/vcs.py --commit)'
-    alias vo='$(python ~/projects/utils/vcs.py --checkout)'
-    alias vr='$(python ~/projects/utils/vcs.py --revert)'
+    alias vb='$(python ~/projects/scripts/vcs.py --branch)'
+    alias vd='$(python ~/projects/scripts/vcs.py --diff)'
+    alias vl='$(python ~/projects/scripts/vcs.py --log)'
+    alias vp='$(python ~/projects/scripts/vcs.py --push)'
+    alias vs='$(python ~/projects/scripts/vcs.py --status)'
+    alias vu='$(python ~/projects/scripts/vcs.py --pull)'
+    alias vc='$(python ~/projects/scripts/vcs.py --commit)'
+    alias vo='$(python ~/projects/scripts/vcs.py --checkout)'
+    alias vr='$(python ~/projects/scripts/vcs.py --revert)'
 
 Some examples of usage:
 
