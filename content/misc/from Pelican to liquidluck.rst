@@ -22,7 +22,7 @@ from Pelican to liquidluck
 - I have a separate post on `what I love about static website generators`__.
 
 
-__ http://oncrashreboot.com/elegant-a-clean-theme-for-pelican-with-search-feature.html
+__ http://oncrashreboot.com/pelican-elegant
 __ https://github.com/lepture/liquidluck/issues/101
 __ https://github.com/lepture/liquidluck/issues/104#issuecomment-22825084
 __ https://github.com/lepture/liquidluck/issues/created_by/tshepang?sort=updated&state=open
