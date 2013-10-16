@@ -37,8 +37,9 @@ gives me the flexibility of adding to the command, for example:
     # checking history of a file
     vl README
 
-This makes my life so much easier, since I no longer have to care where
-I'm at, at least for the most common of commands. I am pleased with self.
+This makes my life so much easier, since I no longer have to care
+which VCS I'm on, at least for the most common of commands. I am
+pleased with self.
 
 ----
 
