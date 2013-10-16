@@ -13,7 +13,7 @@ one while on another's repository... error.
 
 I then decided to ease the pain my creating `a script`__ which checks which
 VCS system I'm on, and displays the relevant command.
-Here are the relevant aliases:
+Here are the relevant BASH aliases:
 
 .. code-block:: sh
 
