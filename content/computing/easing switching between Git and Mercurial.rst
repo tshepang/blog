@@ -27,8 +27,7 @@ Here are the relevant BASH aliases:
     alias vo='$(python ~/projects/utils/vcs.py --checkout)'
     alias vr='$(python ~/projects/utils/vcs.py --revert)'
 
-Displaying the output instead of running them directly from the script
-gives me the flexibility of adding to the command, for example:
+Some examples of usage:
 
 .. code-block:: sh
 
