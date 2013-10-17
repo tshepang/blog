@@ -6,11 +6,8 @@ project of note: git-cola
 
 
 
-A colleague has since introduced the tool for me, and I use it whenever
-I want to do separate commits for uncommited changes, to avoid having to
-do the unkool ``git add <filename> && git commit`` dance. I also use it
-when I want to commit various hunks separately, and the tool makes that
-task real easy.
+I use this tool mostly when I want to commit various hunks separately;
+it makes that task real easy.
 
 I was recently impressed by its equivalent functionality for the git
 ``--amend`` option. If you click on the **Amend Last Commit** radio
