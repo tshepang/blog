@@ -20,7 +20,7 @@ __ https://lists.debian.org/debian-devel
 
 __ http://planet.python.org/
 __ http://mail.python.org/mailman/listinfo/python-dev
-__ https://github.com/tshepang
+__ https://github.com/tshepang_dev
 
 __ http://stackexchange.com/users/125744/tshepang
 __ https://twitter.com/tshepang
