@@ -1,7 +1,7 @@
 project of note: git-cola
 =========================
 
-:date: 2012-08-17
+:date: 2013-10-17
 :tags: project-of-note
 
 
@@ -9,7 +9,7 @@ project of note: git-cola
 I use this tool mostly when I want to commit various hunks separately;
 it makes that task real easy.
 
-I was recently impressed by its equivalent functionality for the git
+I was impressed by its equivalent functionality for the git
 ``--amend`` option. If you click on the **Amend Last Commit** radio
 button, it actually displays the commit message of that previous commit.
 I was surprised to see it, especially since on clicking that option, I
