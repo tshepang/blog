@@ -28,6 +28,7 @@ STATIC_PATHS = ['images', 'CNAME']
 # http://oncrashreboot.com/elegant-a-clean-theme-for-pelican-with-search-feature
 PLUGIN_PATH = '../pelican-plugins'
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search']
+SITEMAP = {'format': 'xml'}
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives',
                      'search', '404'))
 STATIC_PATHS.append('theme/images')
