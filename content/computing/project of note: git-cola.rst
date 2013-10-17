@@ -25,13 +25,3 @@ without staging it first, instead of just complaining, if offers to
 
 These functionalities are real simple, but they really make for a
 pleasant user experience.
-
---------------
-
-When I checked its Debian PTS page, I got surprised by the glaring lack
-of bug reports, as well as a small number of Debian releases. I found it
-sad when I visited it's `popcon page`_ (which is linked from that PTS
-page), and got surprised by the low number of installations it has by
-Debian users.
-
-.. _popcon page: http://qa.debian.org/popcon.php?package=git-cola
