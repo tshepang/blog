@@ -2,7 +2,7 @@ project of note: git-cola
 =========================
 
 :date: 2013-10-17
-:tags: project-of-note
+:tags: project-of-note, VCS
 
 
 
