@@ -6,7 +6,7 @@ project of note: git-cola
 
 
 
-I use this tool mostly when I want to commit various hunks separately;
+I use `git-cola`__ mostly when I want to commit various hunks separately;
 it makes that task real easy.
 
 I was impressed by its equivalent functionality for the git
@@ -26,3 +26,6 @@ pleasant user experience.
 Pity I haven't seen a tool as easy to use in the land of
 Mercurial. There, I use the command-line ``hg record`` which isn't as
 pleasant.
+
+
+__ http://git-cola.github.io
