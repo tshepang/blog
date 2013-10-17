@@ -22,3 +22,7 @@ without staging it first, instead of just complaining, if offers to
 
 These functionalities are real simple, but they really make for a
 pleasant user experience.
+
+Pity I haven't seen a tool as easy to use in the land of
+Mercurial. There, I use the command-line ``hg record`` which isn't as
+pleasant.
