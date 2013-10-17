@@ -10,7 +10,7 @@ I use `git-cola`__ mostly when I want to commit various hunks separately;
 it makes that task real easy.
 
 I was impressed by its equivalent functionality for the git
-``--amend`` option. If you click on the **Amend Last Commit** radio
+``--amend`` option the first time I saw it. If you click on the **Amend Last Commit** radio
 button, it actually displays the commit message of that previous commit.
 I was surprised to see it, especially since on clicking that option, I
 quickly ran to the command-line to copy that commit message, only to see
