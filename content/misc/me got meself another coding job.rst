@@ -20,8 +20,8 @@ stuff, and I got the vibe that I'd really get challenged.
 
 It's been 3 months now, and my guess was right. I keep getting surprised
 by the levels of smart I encounter regurlarly. These are the sorts of
-people I simply can't match with my lesser brain, but I'm glad to work
-with, since I learn so much.
+people I simply can't match with my lesser brain, but am glad to work
+with, since they teach me so much.
 
 The systems we build are embedded, so I spend most of my time working
 with C and C++, and it tends to be a serious challenge, given that
