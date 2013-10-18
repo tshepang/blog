@@ -9,8 +9,7 @@ me got meself another coding job
 Some years ago, I was totally excited by having `my first job working on
 software`_. I am very grateful for the chance the owner, who interviewed
 me for the position, took on me. I learned an incredible amount of
-stuff, though I didn't enjoy much of it (had to do lots of Java among
-other ugly things).
+stuff.
 
 Some months ago, a friend enticed me to the idea of doing something
 else, giving me contacts for `some company`_ building software and
