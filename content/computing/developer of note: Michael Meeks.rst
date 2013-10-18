@@ -2,7 +2,7 @@ developer of note: Michael Meeks
 ================================
 
 :date: 2012-08-09
-:tags: GNOME, developer-of-note
+:tags: developer-of-note
 
 
 
