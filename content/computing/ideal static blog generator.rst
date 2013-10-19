@@ -1,7 +1,7 @@
 ideal static blog generator
 ===========================
 
-:date: 2013-09-29
+:date: 2013-10-19
 :tags: blogging
 
 
@@ -11,18 +11,20 @@ missed:
 * reStructuredText__ support is mandatory, and so is being written in
   Python (I is a fanboy).
 
-* 3 alternatives for the main page:
+* Ordered by preference:
 
-  - The latest post should be displayed in its entirety, and the rest
-    displayed in an Archive view below it (so one can quickly search
-    all post Titles without leaving that page).
+  - The latest post should be displayed in its entirety, followed by
+    an Archives View (just Post title and date) or a subset
+    (i.e. Recent Posts).
+  - It should be an Archives View (or a subset).
   - It should be an About Page.
-  - It should present Archive View.
 
-* Categories should be determined by directory into which a post is
-  placed if not explicitly specified (in file metadata section).
+* Categories should be determined by directory into which a file (the
+  raw material for a Post) is placed. Specifying this in the metadata
+  section of the file should of course take precedence.
 
-* Publish date should never be placed at the bottom of a Post.
+* Publish date should never be placed at the bottom of a Post. It is
+  too important a piece metadata to treat this way.
 
 * An option to have clean urls (i.e. trailing ``.html`` removed).
 
@@ -30,7 +32,7 @@ missed:
   Tinkerer`__).
 
 * Inline literals and literal blocks (for code) should be
-  distinguished by background colour; using different fonts is not
+  distinguished by background colour; using a different font is just not
   good enough.
 
 * Tags (and maybe Categories) should be displayed on each post.
