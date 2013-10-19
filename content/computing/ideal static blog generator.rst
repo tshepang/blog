@@ -22,7 +22,7 @@ missed:
 * Categories should be determined by directory into which a post is
   placed if not explicitly specified (in file metadata section).
 
-* Post Date should never be placed at the bottom of a Post.
+* Publish date should never be placed at the bottom of a Post.
 
 * An option to have clean urls (i.e. trailing ``.html`` removed).
 
@@ -42,7 +42,7 @@ missed:
   format`__. Maybe there's a good reason, but I want my generator to
   not require anything special in file contents.
 
-* (minor) Ability to determine post date from file mtime
+* (minor) Ability to determine Publish date from file mtime
 
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
