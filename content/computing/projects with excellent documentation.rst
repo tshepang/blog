@@ -48,10 +48,6 @@ small
   documentation`__. It is very well-written and thorough (though it
   assumes prior knowledge of working with Linux sockets).
 
-----
-
-As a sidenote, I've heard great things about Django's__, but haven't
-really looked yet.
 
 
 __ https://fedorahosted.org/suds/wiki/Documentation
@@ -59,4 +55,3 @@ __ http://www.nongnu.org/rdiff-backup/examples.html
 __ http://tshepang.net/me-got-meself-another-coding-job
 __ http://en.wikipedia.org/wiki/Socketcan
 __ http://www.kernel.org/doc/Documentation/networking/can.txt
-__ https://docs.djangoproject.com
