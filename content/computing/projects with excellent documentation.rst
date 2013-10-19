@@ -48,7 +48,7 @@ small
   documentation`__. It is very well-written and thorough (though it
   assumes prior knowledge of working with Linux sockets).
 
----
+----
 
 As a sidenote, I've heard great things about Django's__, but haven't
 really looked yet.
