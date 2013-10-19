@@ -22,8 +22,6 @@ missed:
 * Categories should be determined by directory into which a post is
   placed if not explicitly specified (in file metadata section).
 
-* Ability to determine post date from file mtime.
-
 * Post Date should never be placed at the bottom of a Post.
 
 * An option to have clean urls (i.e. trailing ``.html`` removed).
@@ -43,6 +41,8 @@ missed:
 * Blogofile has a strange requirement of having `post headers be YAML
   format`__. Maybe there's a good reason, but I want my generator to
   not require anything special in file contents.
+
+* (minor) Ability to determine post date from file mtime
 
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
