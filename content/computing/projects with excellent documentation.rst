@@ -3,7 +3,7 @@ projects with excellent documentation
 
 
 :tags: list
-:date: 2013-10-09
+:date: 2013-10-19
 
 
 Here is a list of projects whose documentation I found to be
@@ -43,6 +43,12 @@ small
   here, but nevertheless deserves mention because it's both gentle and
   thorough
 
+- While working on giving a product of ours `at work`__ the ability to
+  speak SocketCAN__, I really appreciated its `official
+  documentation`__. It is very well-written and thorough (though it
+  assumes prior knowledge of working with Linux sockets).
+
+---
 
 As a sidenote, I've heard great things about Django's__, but haven't
 really looked yet.
@@ -51,3 +57,6 @@ really looked yet.
 __ https://fedorahosted.org/suds/wiki/Documentation
 __ http://www.nongnu.org/rdiff-backup/examples.html
 __ https://docs.djangoproject.com
+__ http://tshepang.net/me-got-meself-another-coding-job
+__ http://en.wikipedia.org/wiki/Socketcan
+__ http://www.kernel.org/doc/Documentation/networking/can.txt
