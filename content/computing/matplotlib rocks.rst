@@ -9,7 +9,8 @@ Have a look at this code:
 
 .. sourcecode:: python
 
-   from matplotlib import pyplot import random
+   from matplotlib import pyplot
+   import random
 
    x_axis = range(10)
    pyplot.plot(x_axis, random.sample(range(10), 10))
