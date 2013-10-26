@@ -75,7 +75,7 @@ the ``default`` hg branch::
     sys     0m26.428s
 
 Just for kicks, I decided to check how long building Linux
-would take; for this, I used Linus' latest major release::
+would take; for this, I used latest 'final' release from Linus' git tree::
 
   $ git log -1
   commit 6e4664525b1db28f8c4e1130957f70a94c19213e
