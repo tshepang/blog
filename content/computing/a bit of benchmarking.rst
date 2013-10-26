@@ -24,7 +24,7 @@ Some details for work machine::
    $ cat /proc/cpuinfo | sed --quiet '5p'
    model name      : AMD Phenom(tm) II X4 970 Processor
 
-I ran two benchmarks, both from the latest VCS version of Python, on
+I ran two benchmarks, both from the latest VCS version of CPython, on
 the ``default`` hg branch::
 
   $ hg tip
