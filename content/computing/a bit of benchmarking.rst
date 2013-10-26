@@ -85,7 +85,7 @@ would take; for this, I used latest 'final' release from Linus' git tree::
   Linux 3.11
 
 I also used the default menuconfig settings, and then ran
-``make``. Here goes::
+``make``. Here goes:
 
   Results for home machine::
 
