@@ -11,29 +11,29 @@ machine. Each of these have 4 logical processors (and 8GB of RAM), so
 are sort of comparable. I also added the `DigitalOcean`__ VPS with
 those specs (`currently $80 per month`__) because... why not.
 
+
 Machine Specs
 -------------
 
+Each machine runs Debian testing (codename "jessie"). Following is the
+output of these commands for each machine::
+
+  uname --all
+  cat /proc/cpuinfo | sed --quiet '5p'
+
 Home machine::
 
-   $ uname --all
-   Linux thome 3.11-trunk-amd64 #1 SMP Debian 3.11-1~exp1 (2013-09-12) x86_64 GNU/Linux
-   $ cat /proc/cpuinfo | sed --quiet '5p'
-   model name      : Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
+  Linux thome 3.11-trunk-amd64 #1 SMP Debian 3.11-1~exp1 (2013-09-12) x86_64 GNU/Linux
+  model name      : Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
 
 Work machine::
 
-   $ uname --all
-   Linux twork 3.10-3-amd64 #1 SMP Debian 3.10.11-1 (2013-09-10) x86_64 GNU/Linux
-   $ cat /proc/cpuinfo | sed --quiet '5p'
-   model name      : AMD Phenom(tm) II X4 970 Processor
+  Linux twork 3.10-3-amd64 #1 SMP Debian 3.10.11-1 (2013-09-10) x86_64 GNU/Linux
+  model name      : AMD Phenom(tm) II X4 970 Processor
 
 DigitalOcean VPS::
 
-  $ uname --all
-  Linux tcloud 3.2.0-4-amd64 #1 SMP Debian 3.2.41-2+deb7u2 x86_64
-  GNU/Linux
-  $ cat /proc/cpuinfo | sed --quiet '5p'
+  Linux tcloud 3.11-1-amd64 #1 SMP Debian 3.11.5-1 (2013-10-17) x86_64 GNU/Linux
   model name      : QEMU Virtual CPU version 1.0
 
 
@@ -46,12 +46,14 @@ development branch::
   $ hg identify --id --branch
   b6a1a78818fe default
 
+
 Build
 ^^^^^
 
 Here's the command I used::
 
   make distclean; time (./configure && make --silent --jobs=4)
+
 
 Results
 *******
@@ -70,9 +72,9 @@ Work machine::
 
 VPS::
 
-  real    2m4.855s
-  user    2m36.398s
-  sys     0m15.517s
+  real    2m30.931s
+  user    3m7.272s
+  sys     0m16.592s
 
 Test suite
 ^^^^^^^^^^
@@ -85,26 +87,27 @@ Here's the command I used::
 that is the number logical cores (4 in my case) + 2 (to avoid waiting
 too long for tests which are largely idle)
 
+
 Results
 *******
 
 Home machine::
 
-    real    3m42.571s
-    user    7m13.124s
-    sys     0m33.320s
+  real    3m42.571s
+  user    7m13.124s
+  sys     0m33.320s
 
 Work machine::
 
-    real    2m29.957s
-    user    4m9.052s
-    sys     0m27.364s
+  real    2m29.957s
+  user    4m9.052s
+  sys     0m27.364s
 
 VPS::
 
-    real    2m11.536s
-    user    4m26.837s
-    sys     0m38.546s
+  real    2m19.174s
+  user    5m5.444s
+  sys     0m40.008s
 
 
 Linux kernel build
@@ -120,9 +123,10 @@ for this, I used latest 'final' release from Linus' git tree::
 
   Linux 3.11
 
-Here's the command I used::
+Here's the commands I used::
 
-  make defconfig && time make
+  make distclean && make defconfig && time make
+
 
 Results
 ^^^^^^^
@@ -141,10 +145,9 @@ Work machine::
 
 VPS::
 
-  real    3m34.518s
-  user    12m2.289s
-  sys     1m15.817s
-
+  real    3m41.240s
+  user    12m21.120s
+  sys     1m17.844s
 
 Conclusion
 ----------
