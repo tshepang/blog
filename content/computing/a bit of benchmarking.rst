@@ -28,7 +28,7 @@ Work machine::
    $ cat /proc/cpuinfo | sed --quiet '5p'
    model name      : AMD Phenom(tm) II X4 970 Processor
 
-VPS::
+DigitalOcean VPS::
 
   $ uname --all
   Linux tcloud 3.2.0-4-amd64 #1 SMP Debian 3.2.41-2+deb7u2 x86_64
