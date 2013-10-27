@@ -155,7 +155,7 @@ Conclusion
 My work machine is faster than the DigitalOcean offering of comparable
 specs, and much faster than my home machine, a laptop.
 
-(`detailed explanation the output`__)
+(`detailed explanation of the output`__)
 
 
 __ https://www.digitalocean.com/?refcode=25b4887810cc
