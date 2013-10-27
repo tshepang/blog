@@ -1,81 +1,117 @@
 a bit of benchmarking
 =====================
 
-:date: 2013-10-26
+:date: 2013-10-27
 :tags: Python
 
 
 
 I was curious how my home machine performs compared to my work
 machine. Each of these have 4 logical processors (and 8GB of RAM), so
-are sort of comparable.
+are sort of comparable. I also added the `DigitalOcean`__ VPS with
+those specs (`currently $80 per month`__) because... why not.
 
-Some details for home machine::
+Machine Specs
+-------------
+
+Home machine::
 
    $ uname --all
    Linux thome 3.11-trunk-amd64 #1 SMP Debian 3.11-1~exp1 (2013-09-12) x86_64 GNU/Linux
    $ cat /proc/cpuinfo | sed --quiet '5p'
    model name      : Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
 
-Some details for work machine::
+Work machine::
 
    $ uname --all
    Linux twork 3.10-3-amd64 #1 SMP Debian 3.10.11-1 (2013-09-10) x86_64 GNU/Linux
    $ cat /proc/cpuinfo | sed --quiet '5p'
    model name      : AMD Phenom(tm) II X4 970 Processor
 
-I ran two benchmarks, both from the latest VCS version of CPython, on
-the ``default`` hg branch::
+VPS::
 
-  $ hg tip
-  changeset:   86643:af67cfcd4089
-  tag:         tip
-  user:        Tim Peters <tim@python.org>
-  date:        Fri Oct 25 20:46:51 2013 -0500
-  summary:     Issue #19399: fix sporadic test_subprocess failure.
+  $ uname --all
+  Linux tcloud 3.2.0-4-amd64 #1 SMP Debian 3.2.41-2+deb7u2 x86_64
+  GNU/Linux
+  $ cat /proc/cpuinfo | sed --quiet '5p'
+  model name      : QEMU Virtual CPU version 1.0
 
-* Building the latest VCS version of CPython:
 
-  Command::
+CPython benchmarks
+------------------
 
-    make distclean; time (./configure && make --silent --jobs=4)
+I ran two benchmarks, both from the latest VCS version of CPython,
+development branch::
 
-  Results for home machine::
+  $ hg identify --id --branch
+  b6a1a78818fe default
 
-    real    2m7.223s
-    user    3m24.836s
-    sys     0m9.840s
+Build
+^^^^^
 
-  Results for work machine::
+Here's the command I used::
 
-    real    2m1.802s
-    user    2m24.032s
-    sys     0m12.180s
+  make distclean; time (./configure && make --silent --jobs=4)
 
-* Running the test suite:
+Results
+*******
 
-  Command::
+Home machine::
 
-    time ./python -m test --multiprocess=0
+  real    2m11.687s
+  user    3m18.104s
+  sys     0m9.964s
 
-  **--multiprocess=0** means that there will be 6 tests run in
-  parallel; that is the number logical cores (4 in my case) + 2 (to
-  avoid waiting too long for tests which are largely idle)
+Work machine::
 
-  Results for home machine::
+  real    2m2.707s
+  user    2m24.200s
+  sys     0m12.280s
 
-    real    3m38.528s
-    user    6m47.824s
-    sys     0m30.220s
+VPS::
 
-  Results for work machine::
+  real    2m4.855s
+  user    2m36.398s
+  sys     0m15.517s
 
-    real    2m29.072s
-    user    4m9.856s
-    sys     0m26.428s
+Test suite
+^^^^^^^^^^
 
-Just for kicks, I decided to check how long building Linux
-would take; for this, I used latest 'final' release from Linus' git tree::
+Here's the command I used::
+
+  time ./python -m test --multiprocess=0
+
+**--multiprocess=0** means that there will be 6 tests run in parallel;
+that is the number logical cores (4 in my case) + 2 (to avoid waiting
+too long for tests which are largely idle)
+
+Results
+*******
+
+Home machine::
+
+    real    3m42.571s
+    user    7m13.124s
+    sys     0m33.320s
+
+Work machine::
+
+    real    2m29.957s
+    user    4m9.052s
+    sys     0m27.364s
+
+VPS::
+
+    real    2m11.536s
+    user    4m26.837s
+    sys     0m38.546s
+
+
+Linux kernel build
+------------------
+
+Just for kicks, I decided to check how long building Linux would take;
+for this, I used latest 'final' release from Linus' git tree::
 
   $ git log -1
   commit 6e4664525b1db28f8c4e1130957f70a94c19213e
@@ -84,28 +120,41 @@ would take; for this, I used latest 'final' release from Linus' git tree::
 
   Linux 3.11
 
-I also used the default menuconfig settings, and then ran
-``make``. Here goes:
+Here's the command I used::
 
-  Results for home machine::
+  make defconfig && time make
 
-    real    43m17.624s
-    user    145m25.756s
-    sys     9m9.104s
+Results
+^^^^^^^
 
-  Results for work machine::
+Home machine::
 
-    real    28m16.326s
-    user    65m51.120s
-    sys     5m35.364s
+  real    6m11.622s
+  user    21m2.664s
+  sys     1m15.324s
 
-Note that the results for home machine may be skewed by the fact that
-it kept getting throttled due to overheating. I only noticed this when
-building Linux, which is a far more demanding task.
+Work machine::
 
-----
+  real    2m40.275s
+  user    8m55.624s
+  sys     0m42.860s
 
-`Nice post on the meaning of the output`__
+VPS::
+
+  real    3m34.518s
+  user    12m2.289s
+  sys     1m15.817s
 
 
+Conclusion
+----------
+
+My work machine is faster than the DigitalOcean offering of comparable
+specs, and much faster than my home machine, a laptop.
+
+(`detailed explanation the output`__)
+
+
+__ https://www.digitalocean.com/?refcode=25b4887810cc
+__ https://www.digitalocean.com/pricing
 __ http://stackoverflow.com/a/556411/321731
