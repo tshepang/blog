@@ -25,7 +25,7 @@ SOCIAL = [
     ('Twitter', 'https://twitter.com/tshepang_dev'),
     ('GitHub', 'https://github.org/tshepang'),
     ('Bitbucket', 'https://bibucket.org/tshepang'),
-    ('Email', 'tshepang@gmail.com'),
+    ('Email', 'mailto:tshepang@gmail.com'),
 ]
 TWITTER_USERNAME = 'tshepang_dev'
 STATIC_PATHS = ['images', 'CNAME']
