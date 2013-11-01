@@ -21,6 +21,12 @@ TIMEZONE = 'Africa/Johannesburg'
 AUTHOR = 'Tshepang Lekhonkhobe'
 DISQUS_SITENAME = 'tshepanglogs'
 GOOGLE_ANALYTICS = 'UA-16685250-3'
+SOCIAL = [
+    ('Twitter', 'https://twitter.com/tshepang_dev'),
+    ('GitHub', 'https://github.org/tshepang'),
+    ('Bitbucket', 'https://bibucket.org/tshepang'),
+    ('Email', 'tshepang@gmail.com'),
+]
 TWITTER_USERNAME = 'tshepang_dev'
 STATIC_PATHS = ['images', 'CNAME']
 
