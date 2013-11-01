@@ -22,9 +22,10 @@ AUTHOR = 'Tshepang Lekhonkhobe'
 DISQUS_SITENAME = 'tshepanglogs'
 GOOGLE_ANALYTICS = 'UA-16685250-3'
 SOCIAL = [
-    ('Twitter', 'https://twitter.com/tshepang_dev'),
-    ('GitHub', 'https://github.org/tshepang'),
+    ('Stack Exchange', 'http://stackexchange.com/users/125744/tshepang'),
     ('Bitbucket', 'https://bibucket.org/tshepang'),
+    ('GitHub', 'https://github.org/tshepang'),
+    ('Twitter', 'https://twitter.com/tshepang_dev'),
     ('Email', 'mailto:tshepang@gmail.com'),
 ]
 TWITTER_USERNAME = 'tshepang_dev'
