@@ -27,6 +27,7 @@ SOCIAL = [
     ('GitHub', 'https://github.org/tshepang'),
     ('Twitter', 'https://twitter.com/tshepang_dev'),
     ('Email', 'mailto:tshepang@gmail.com'),
+    ('rss', 'http://tshepang.net/feeds/all.atom.xml'),
 ]
 TWITTER_USERNAME = 'tshepang_dev'
 STATIC_PATHS = ['images', 'CNAME']
