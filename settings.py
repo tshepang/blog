@@ -21,12 +21,13 @@ TIMEZONE = 'Africa/Johannesburg'
 AUTHOR = 'Tshepang Lekhonkhobe'
 DISQUS_SITENAME = 'tshepanglogs'
 GOOGLE_ANALYTICS = 'UA-16685250-3'
+# http://fortawesome.github.io/Font-Awesome/icons/#brand
 SOCIAL = [
     ('stack-exchange', 'http://stackexchange.com/users/125744/tshepang'),
-    ('Bitbucket', 'https://bibucket.org/tshepang'),
-    ('GitHub', 'https://github.org/tshepang'),
-    ('Twitter', 'https://twitter.com/tshepang_dev'),
-    ('Email', 'mailto:tshepang@gmail.com'),
+    ('bitbucket', 'https://bibucket.org/tshepang'),
+    ('gitHub', 'https://github.org/tshepang'),
+    ('twitter', 'https://twitter.com/tshepang_dev'),
+    ('email', 'mailto:tshepang@gmail.com'),
 ]
 TWITTER_USERNAME = 'tshepang_dev'
 STATIC_PATHS = ['images', 'CNAME']
