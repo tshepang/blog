@@ -25,7 +25,7 @@ GOOGLE_ANALYTICS = 'UA-16685250-3'
 SOCIAL = [
     ('stack-exchange', 'http://stackexchange.com/users/125744/tshepang'),
     ('bitbucket', 'https://bibucket.org/tshepang'),
-    ('github', 'https://github.org/tshepang'),
+    ('github', 'https://github.com/tshepang'),
     ('twitter', 'https://twitter.com/tshepang_dev'),
     ('email', 'mailto:tshepang@gmail.com'),
 ]
