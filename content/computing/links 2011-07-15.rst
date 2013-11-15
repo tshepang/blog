@@ -21,5 +21,5 @@ links 2011-07-15
 .. _What's up with MeeGo?: http://bergie.iki.fi/blog/understanding_meego/
 .. _a really good bug report: https://bugs.eclipse.org/bugs/show_bug.cgi?id=340298
 .. _wonderful openness: https://bugs.eclipse.org/bugs/show_bug.cgi?id=340298
-.. _Chromium dictionary Extension: https://chrome.google.com/webstore/detail/mgijmajocgfcbeboacabfgobmjgjcoja
+.. _Chromium dictionary Extension: https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja
 .. _a graph: http://www.pitivi.org/i/history.png
