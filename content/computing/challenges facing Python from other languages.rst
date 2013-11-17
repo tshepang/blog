@@ -3,7 +3,6 @@ challenges facing Python from other languages
 
 :date: 2013-07-23
 :tags: Python
-:status: draft
 
 
 * JavaScript has become a fairly big competitor in the desktop and
