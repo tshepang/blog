@@ -18,9 +18,9 @@ So, I had a look at the others:
 Elegant_
 --------
 
-That it is the least static-like of all themes I've seen yet, this is
-the most innovative one I've seen yet. One of my favorite features the
-search feature, which got me excited.
+This the least static-like of all themes I've seen yet, making it the
+most innovative I've seen yet. The search feature, which sets it apart
+from its competitors, which got me excited.
 
 It has some issues though (`to be fixed at some point`__):
 
