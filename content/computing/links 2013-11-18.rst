@@ -6,8 +6,8 @@ links 2013-11-18
 
 
 
-* `an impressively modest computing (and living) setup`__ - this is by
-  far one the most respected of Debian Developers
+* `an impressively modest computing (and living) setup`__ - this is
+   probably the most respected of Debian Developers
 
 * `a nice explanation`__ of why a specific Creative Commons license
   isn't suitable for Debian (source__)
