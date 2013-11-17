@@ -2,7 +2,7 @@ challenges facing Python from other languages
 =============================================
 
 :date: 2013-07-23
-:tags: Python
+:tags: Python, non-Python
 
 
 The following four points were made in `this article`__:
