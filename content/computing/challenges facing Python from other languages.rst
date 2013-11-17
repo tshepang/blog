@@ -5,6 +5,8 @@ challenges facing Python from other languages
 :tags: Python
 
 
+The following four points were made in `this article`__:
+
 * JavaScript has become a fairly big competitor in the desktop and
   server spaces, and particularly in mobile.
 
@@ -15,7 +17,6 @@ challenges facing Python from other languages
 
 * R's statistical and graphic abilities
 
-source__
 
 
 __ http://lwn.net/Articles/558172
