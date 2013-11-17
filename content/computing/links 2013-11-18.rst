@@ -1,0 +1,29 @@
+links 2013-11-18
+================
+
+:date: 2013-11-18
+:tags: Debian, Python, links
+
+
+
+* `an impressively modest computing (and living) setup`__ - this is by
+  far one the most respected of Debian Developers
+
+* `a nice explanation`__ of why a specific Creative Commons license
+  isn't suitable for Debian (source__)
+
+* since `it's hard to trust any one of the major brand valuators`__, I
+  will have to reply on `an aggregator`__
+
+* `on the limitations of Planet Python`__
+
+* `nice paramiko tutorial`__
+
+
+__ http://joey.hess.usesthis.com
+__ http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=66;att=0;bug=718323
+__ http://bugs.debian.org/718323
+__ http://www.etla.fi/en/columns/worth-brand
+__ http://www.rankingthebrands.com
+__ http://rhodesmill.org/brandon/2012/reading-planet-python
+__ http://jessenoller.com/blog/2009/02/05/ssh-programming-with-paramiko-completely-different
