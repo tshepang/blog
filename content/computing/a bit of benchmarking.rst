@@ -3,6 +3,7 @@ a bit of benchmarking
 
 :date: 2013-10-27
 :tags: Python
+:summary: comparing performance of my laptop and my work machine
 
 
 
