@@ -8,7 +8,6 @@ SITEURL = 'http://tshepang.net'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_DATE = 'fs'
 PATH = 'content/'
-SUMMARY_MAX_LENGTH = 0
 THEME = '../elegant'
 OUTPUT_PATH = os.path.expanduser('~/tmp/blog')
 ARTICLE_URL = '{slug}'
