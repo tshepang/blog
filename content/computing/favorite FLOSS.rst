@@ -2,7 +2,7 @@ favorite FLOSS
 ==============
 
 :tags: list
-:date: 2013-10-10
+:date: 2013-11-26
 
 
 For a piece of FLOSS_ (free/libre and open source software) to be here,
@@ -10,12 +10,12 @@ it has to both be personally useful and I have to like it a lot:
 
 **backup:** rdiff-backup_
 
-**desktop**: GNOME_
+**desktop**: dwm_
 
 **development**: Python, Emacs, git-cola_
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
-Uptimed, top, Tracker_, Ex Falso, wajig, GNOME system monitor applet,
+Uptimed, top, Tracker_, Ex Falso, wajig,
 xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_, tmux_
 
@@ -36,7 +36,7 @@ OpenSSH, vnstat_, tmux_
 .. _Tracker: http://projects.gnome.org/tracker
 .. _FLOSS: http://en.wikipedia.org/wiki/Free_and_open-source_software
 .. _rdiff-backup: http://tshepang.net/project-of-note-rdiff-backup
-.. _GNOME: http://www.gnome.org
+.. _dwm: http://dwm.suckless.org
 .. _Sudo: http://tshepang.net/project-of-note-sudo
 .. _reprepro: http://tshepang.net/project-of-note-reprepro
 .. _xfrun4: http://tshepang.net/xfrun4-rocks

@@ -2,7 +2,7 @@ FLOSS I use a-lot
 =================
 
 :tags: list
-:date: 2013-10-16
+:date: 2013-11-26
 
 
 
@@ -19,14 +19,6 @@ __ http://tshepang.net/favorite-floss
     the equivalent functionality in APT is lesser
 
 __ http://tshepang.net/tags#wajig-ref
-
-* **GNOME**: primary Desktop Environment
-
-  - gnome-panel
-  - gnome-search-tool
-  - gnome-system-monitor
-  - nautilus
-  - file-roller
 
 * editors
 
@@ -66,6 +58,8 @@ __ http://meldmerge.org
   - tmux__: amazingly powerul!
   - Transmission__: the only torrent client I ever used
   - less__: indispensable!
+  - nautilus: favorite GUI file manager
+  - file-roller: nice and simple GUI archive manager
 
 
 __ http://lzone.de/liferea
