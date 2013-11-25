@@ -45,8 +45,8 @@ __ http://meldmerge.org
 * misc
 
   - **Evince**: I would love to get a PDF reader with better navigation
-  - **Google Chrome**: I occasionally drop into Firefox when I
-    experience issues, as well as for testing
+  - **Google Chrome** and **Firefox**: I switch between these
+    equally-good web browsers, but am gravitating towards Firefox
   - **Gnumeric**: it's faster than LibreOffice spreadsheet, and has
     superior search interface
   - Liferea__: would not be using this had it not been for Google Reader
