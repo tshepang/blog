@@ -58,11 +58,12 @@ __ http://meldmerge.org
   - tmux__: amazingly powerul!
   - Transmission__: the only torrent client I ever used
   - less__: indispensable!
-  - nautilus: favorite GUI file manager
-  - file-roller: nice and simple GUI archive manager
+  - Nautilus: favorite GUI file manager
+  - `File Roller`__: nice and simple GUI archive manager
 
 
 __ http://lzone.de/liferea
 __ http://tmux.sourceforge.net
 __ http://www.transmissionbt.com
 __ http://www.greenwoodsoftware.com/less
+__ http://fileroller.sourceforge.net
