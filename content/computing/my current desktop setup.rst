@@ -106,7 +106,7 @@ LightDM UI::
 On selecting the entry labeled ``Custom`` that appears on LightDM,
 and logging in, the following will get executed::
 
-  $ cat ~/.xsesseions
+  $ cat ~/.xsession
   gnome-terminal --hide-menubar \
                  --tab-with-profile=Default \
                  --tab-with-profile=Default \
