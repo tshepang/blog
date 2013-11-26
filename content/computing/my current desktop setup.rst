@@ -82,7 +82,7 @@ wouldn't pull in dozens of packages that I won't use. For example::
 
 
 GNOME philosophy tends towards tight integration, leading to things
-being not as modular as ideal, where we end up with a display ending
+being not as modular as I would like, where we end up with a display ending
 up depending on a Contacts tool and the Bluetooth stack. It may very
 well be just how it was built in Debian, but that also means there
 were build options that allowed such tight coupling in the first
