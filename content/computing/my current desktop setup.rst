@@ -6,7 +6,7 @@ my current desktop setup
 
 
 With recent Debian GNOME updates, something got broken enough that I
-could not login to my account when using GDM. I saw this as a good
+could not login to my account. I saw this as a good
 opportunity to finally try something other than GNOME as my primary
 environment on my home machine. I have before tinkered with other GUI
 environments (XFCE, KDE 3, FluxBox, LXDE, and most recently, Window
