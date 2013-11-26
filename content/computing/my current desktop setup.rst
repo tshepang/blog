@@ -103,7 +103,7 @@ LightDM UI::
     Exec=/etc/X11/Xsession
     Type=XSession
 
-On selecting the entry, labeled ``Custom``, that appears on LightDM,
+On selecting the entry labeled ``Custom`` that appears on LightDM,
 and logging in, the following will get executed::
 
   $ cat ~/.xsesseions
