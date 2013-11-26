@@ -2,7 +2,7 @@ me loving Auto Fill Mode (Emacs)
 ================================
 
 :date: 2013-05-10
-:tags: untagged
+:tags: Emacs
 
 
 For the past 2 weeks or so, I have been learning Emacs, something I've
