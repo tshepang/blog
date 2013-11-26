@@ -89,7 +89,8 @@ were build options that allowed such tight coupling in the first
 place. GDM has served me well for years, but I'm not interested in all
 those tools it brings with.
 
-Anyways, enough with that. Here's how I disable the annoying beep::
+Anyways, enough with that. Here's what I got to disable the annoying
+beep::
 
   $ cat ~/.xinputrc
   set bell-style none
