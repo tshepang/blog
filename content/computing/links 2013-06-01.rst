@@ -22,6 +22,6 @@ links 2013-06-01
 
 __ http://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation
 __ http://www.sqlalchemy.org/blog/2013/05/25/sqlalchemy-migrated-to-git
-__ http://pedrokroger.net/2012/10/using-sphinx-to-write-books
+__ http://pedrokroger.net/using-sphinx-write-technical-books
 __ http://diveintohtml5.info/past.html
 __ http://diveintohtml5.info/video.html
