@@ -26,7 +26,8 @@ favorite buildings
 The WTC Twin Towers would be here if they were still standing. At the
 time of their destruction, I admired them more than any other
 buildings on the planet. Together with the Statue of Liberty, they
-were to me the greatest structures in all of New York City.
+were to me the greatest structures in all of New York City, and
+perhaps the United States.
 
 
 __ http://en.wikipedia.org/wiki/Burj_Khalifa
