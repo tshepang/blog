@@ -2,7 +2,7 @@ projects with excellent documentation
 =====================================
 
 
-:tags: list
+:tags: list, Emacs, Python
 :date: 2013-10-19
 
 

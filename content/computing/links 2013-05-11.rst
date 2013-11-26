@@ -2,7 +2,7 @@ links 2013-05-11
 ================
 
 :date: 2013-05-11
-:tags: Python, GNOME, links
+:tags: Python, GNOME, links, Emacs
 
 
 
