@@ -2,7 +2,7 @@ Quod Libet and arrogance
 ========================
 
 :date: 2007-08-19
-:tags: untagged
+:tags: Scribes, QuodLibet
 
 
 

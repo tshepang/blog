@@ -2,7 +2,7 @@ my first wajig contribution
 ===========================
 
 :date: 2010-07-08
-:tags: wajig
+:tags: wajig, QuodLibet
 
 
 

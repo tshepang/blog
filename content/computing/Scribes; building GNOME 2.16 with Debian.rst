@@ -2,7 +2,7 @@ Scribes; building GNOME 2.16 with Debian
 ========================================
 
 :date: 2007-04-17
-:tags: Debian, GNOME
+:tags: Debian, GNOME, Scribes
 
 
 
