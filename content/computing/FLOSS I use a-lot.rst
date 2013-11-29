@@ -3,6 +3,7 @@ FLOSS I use a-lot
 
 :tags: list
 :date: 2013-11-26
+:disqus_identifer: http://tshepang.net/tools-i-use-all-the-time
 
 
 
