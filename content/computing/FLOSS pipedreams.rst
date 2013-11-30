@@ -4,18 +4,18 @@ FLOSS pipedreams
 :tags: GNOME, Debian, Python, non-FLOSS
 
 
-Within FLOSS_, I do have preferences (e.g. Python over Perl),
-but this post is about my preferences over proprietary alternatives.
+In which I am hoping that FLOSS_ would supplant proprietary
+alternatives:
 
 **3D content creation**:
 Blender_ should be mainstream... used in blockbusters
 
 **desktop**:
-GNOME_ should replace Mac OS X as THE desktop experience,
+GNOME_ (or KDE_) should replace Mac OS X as THE desktop experience,
 and then steal the market
 
 **CRM/ERP**:
-Tryton_ (or OpenERP_) should steal SAP's market share
+Tryton_ should acquire feature-parity with SAP, and then steal the market
 
 **image manipulation**:
 GIMP_ should acquire feature-parity with Photoshop, and then steal the market
@@ -39,8 +39,8 @@ and then steal the market
 .. _PostgreSQL: http://postgresql.org
 .. _GIMP: http://gimp.org
 .. _GNOME: http://gnome.org
+.. _KDE: http://kde.org
 .. _Blender: http://blender.org
-.. _OpenERP: http://openerp.com
 .. _Tryton: http://tryton.org
 .. _NumPy: http://numpy.org
 .. _pandas: http://pandas.pydata.org
