@@ -1,5 +1,5 @@
-FLOSS pipedreams
-================
+FLOSS pipe dreams
+=================
 
 :tags: GNOME, Debian, Python, non-FLOSS
 

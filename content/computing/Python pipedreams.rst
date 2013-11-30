@@ -1,5 +1,5 @@
-Python pipedreams
-=================
+Python pipe dreams
+==================
 
 :date: 2013-04-27
 :tags: Python
