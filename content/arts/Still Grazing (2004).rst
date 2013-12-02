@@ -32,7 +32,7 @@ My favorites from this, the best album by Hugh Masekela:
    Not a very typical song, more like an experiment. Also quite
    sad... it's about economical exploitation.
 
-The only let-down of a track in the whole 11 track is the 10th, **Been
+The only let-down of a track in the whole 11 track album is the 10th, **Been
 Such A Long Time Gone**. You wonder how it slipped in there. The 11th
 track, **Stimela (Coal Train)**, is not the best version of this
 beloved song. It's of mere decent quality. To be fair, it's also not
