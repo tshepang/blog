@@ -1,7 +1,7 @@
 my current desktop setup
 ========================
 
-:date: 2013-11-26
+:date: 2013-12-06
 :tags: GNOME, Debian
 
 
@@ -117,6 +117,7 @@ and logging in, the following will get executed::
   nautilus --no-desktop &
   nm-applet &
   trayer &
+  quodlibet &
 
   xmodmap -e "clear Lock"
   xmodmap -e "keycode 66 = Super_L"
@@ -134,14 +135,15 @@ and logging in, the following will get executed::
 
 Finally, this is what my dwm config changes look like::
 
-    --- a/config.def.h	Tue Nov 26 00:12:27 2013 +0200
-    +++ b/config.def.h	Tue Nov 26 00:12:52 2013 +0200
-    @@ -14,12 +14,16 @@
+    diff -r f973438299b0 config.def.h
+    --- a/config.def.h	Fri Dec 06 01:28:52 2013 +0200
+    +++ b/config.def.h	Fri Dec 06 01:39:40 2013 +0200
+    @@ -14,12 +14,17 @@
      static const Bool topbar            = True;     /* False means bottom bar */
 
      /* tagging */
     -static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
-    +static const char *tags[] = { "web", "files", "terminal", "misc" };
+    +static const char *tags[] = { "web", "files", "terminal", "misc", "music" };
 
      static const Rule rules[] = {
     -	/* class      instance    title       tags mask     isfloating   monitor */
@@ -154,10 +156,11 @@ Finally, this is what my dwm config changes look like::
     +  { "Liferea",         NULL,     NULL,  1 << 3,    False,       -1 },
     +  { "Meld",            NULL,     NULL,  1 << 3,    False,       -1 },
     +  { "trayer",          NULL,     NULL,  1 << 3,    False,       -1 },
+    +  { "Quodlibet",       NULL,     NULL,  1 << 4,    False,       -1 },
      };
 
      /* layout(s) */
-    @@ -35,7 +39,7 @@
+    @@ -35,7 +40,7 @@
      };
 
      /* key definitions */
@@ -166,7 +169,7 @@ Finally, this is what my dwm config changes look like::
      #define TAGKEYS(KEY,TAG) \
             { MODKEY,                       KEY,      view,           {.ui = 1 << TAG} }, \
             { MODKEY|ControlMask,           KEY,      toggleview,     {.ui = 1 << TAG} }, \
-    @@ -47,7 +51,7 @@
+    @@ -47,7 +52,7 @@
 
      /* commands */
      static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
@@ -176,14 +179,12 @@ Finally, this is what my dwm config changes look like::
      static Key keys[] = {
             /* modifier                     key        function        argument */
 
-
-Note that this diff is against the Debian package, versioned **6.0-6**. I
+Note that this diff is against the Debian package (version **6.0-6**). I
 could not change the modifer key with the upstream version of dwm.
 
 You will notice that I'm still using some GNOME packages, specifically
 Nautilus and GNOME Terminal, both of which remain my favorites.
 
-I'm lazy to explain this all, but a web search should help.
 
 
 __ http://dwm.suckless.org
