@@ -1,7 +1,7 @@
 import os
 from fabric.api import local, task, settings, hide
 
-OUTPUTDIR = os.path.join(os.path.expanduser("~/tmp"), 'blog')
+OUTPUTDIR = '.output'
 
 
 @task(alias='make')
