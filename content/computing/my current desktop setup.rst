@@ -190,5 +190,5 @@ Nautilus and GNOME Terminal, both of which remain my favorites.
 
 __ http://dwm.suckless.org
 __ http://www.freedesktop.org/wiki/Software/LightDM
-__ https://bitbucket.org/tshepang/custom/src/tip/config.def.h
 __ https://bitbucket.org/tshepang/custom/src/tip/xsession
+__ https://bitbucket.org/tshepang/custom/src/tip/config.def.h
