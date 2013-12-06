@@ -105,9 +105,8 @@ LightDM UI::
     Type=XSession
 
 On selecting the entry labeled ``Custom`` that appears on LightDM,
-and logging in, the following will get executed::
+and logging in, the following will get executed (`~/.xsession`__)::
 
-  $ cat ~/.xsession
   gnome-terminal --hide-menubar \
                  --tab-with-profile=Default \
                  --tab-with-profile=Default \
@@ -116,7 +115,7 @@ and logging in, the following will get executed::
   firefox &
   nautilus --no-desktop &
   nm-applet &
-  trayer &
+  trayer --edge top --align right --widthtype request --distance 18 &
   quodlibet &
 
   xmodmap -e "clear Lock"
@@ -133,11 +132,12 @@ and logging in, the following will get executed::
 
   exec dwm
 
-Finally, this is what my dwm config changes look like::
 
-    diff -r f973438299b0 config.def.h
-    --- a/config.def.h	Fri Dec 06 01:28:52 2013 +0200
-    +++ b/config.def.h	Fri Dec 06 01:39:40 2013 +0200
+Finally, this is what my dwm config changes look like (`config.def.h`__)::
+
+    diff -r e0ab1aa61eab config.def.h
+    --- a/config.def.h	Fri Dec 06 08:16:40 2013 +0200
+    +++ b/config.def.h	Fri Dec 06 08:18:26 2013 +0200
     @@ -14,12 +14,17 @@
      static const Bool topbar            = True;     /* False means bottom bar */
 
@@ -151,11 +151,11 @@ Finally, this is what my dwm config changes look like::
     -	{ "Iceweasel",  NULL,       NULL,       1 << 8,       False,       -1 },
     +  /* class             instance  title  tags mask  isfloating   monitor */
     +  { "Firefox",         NULL,     NULL,  1 << 0,    False,       -1 },
+    +  { "trayer",          NULL,     NULL,  1 << 0,    False,       -1 },
     +  { "Nautilus",        NULL,     NULL,  1 << 1,    False,       -1 },
     +  { "Gnome-terminal",  NULL,     NULL,  1 << 2,    False,       -1 },
     +  { "Liferea",         NULL,     NULL,  1 << 3,    False,       -1 },
     +  { "Meld",            NULL,     NULL,  1 << 3,    False,       -1 },
-    +  { "trayer",          NULL,     NULL,  1 << 3,    False,       -1 },
     +  { "Quodlibet",       NULL,     NULL,  1 << 4,    False,       -1 },
      };
 
@@ -179,6 +179,7 @@ Finally, this is what my dwm config changes look like::
      static Key keys[] = {
             /* modifier                     key        function        argument */
 
+
 Note that this diff is against the Debian package (version **6.0-6**). I
 could not change the modifer key with the upstream version of dwm.
 
@@ -189,3 +190,5 @@ Nautilus and GNOME Terminal, both of which remain my favorites.
 
 __ http://dwm.suckless.org
 __ http://www.freedesktop.org/wiki/Software/LightDM
+__ https://bitbucket.org/tshepang/custom/src/tip/config.def.h
+__ https://bitbucket.org/tshepang/custom/src/tip/xsession
