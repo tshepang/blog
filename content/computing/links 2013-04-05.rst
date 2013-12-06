@@ -22,4 +22,4 @@ __ http://www.yoda.arachsys.com/csharp/
 __ http://pycon.blip.tv/file/4880330/
 __ http://people.gnome.org/~michael/blog/2011-06-03-libreoffice-3-4-0.html
 __ http://journal.dedasys.com/2011/07/25/why-i-prefer-text-to-video
-__ http://www.boredomandlaziness.org/2011/08/scripting-languages-and-suitable.html
+__ http://www.curiousefficiency.org/posts/2011/08/scripting-languages-and-suitable.html
