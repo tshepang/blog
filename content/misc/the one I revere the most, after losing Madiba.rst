@@ -21,20 +21,32 @@ oppressors). It's not only that, but the fact that the man is
 constantly hailed as an icon of peace, not only in South Africa, but
 worldwide (or so it seems to me).
 
-A combination of all these actually made me wonder if there was anyone
-alive who received greater respect than this figure, and the only one
-that came close was the current Dalai Lama (I should go check out his
-story). Who are the other candidates? There is Noam Chomsky, whose
-intellect and activism I deeply respect, and I actually, after
-watching and listening to some of his political work, considered him
-the most valuable person alive (even while Madiba was still
-alive). Who else? Ummmmm... Desmond Tutu once won a Nobel Peace Prize
-and frequently speaks against injustice, and then... fuck, who else? I
-must go check out the other winners of that most prestigious of awards
-to find some more heroes. For now, I only have those three candidates,
-my favorite being Noam Chomsky, but I do hesitate to name him since I
-am largely ignorant of world events, and may be missing someone more
-significant (bad memory). Chomsky's influence is likely smaller than
-the other two candidates, for example, but being the world's foremost
-Anarchist is quite something, especially given that it's the most
-attractive of all political theories I've yet encountered.
+A combination of these facts actually made me wonder if there was
+anyone alive who received greater respect than this figure, and the
+only one that came close was `the current Dalai Lama`__ (though I know
+very little about him). Who are the other candidates? There is `Noam
+Chomsky`__, whose intellect and activism I deeply respect, and I
+actually, after watching and listening to some of his political work,
+considered him the most valuable person alive (even while Madiba was
+still alive). Who else? Ummmmm... `Desmond Tutu`__ once won a Nobel
+Peace Prize and frequently speaks against injustice, and then... fuck,
+who else? I must go check out the other winners of that most
+prestigious of awards to find some more heroes. For now, I only have
+those three candidates, my favorite being Noam Chomsky.
+
+I do hesitate to name Noam Chomsky since I am largely ignorant of
+world events, and may be missing someone more significant (bad
+memory). Chomsky's influence is likely smaller than the other two
+candidates, for example. But being the world's foremost Anarchist is
+quite something, especially given that it's the most attractive of all
+political theories I've yet encountered.
+
+So, with some reluctance, Noam Chomsky takes the place of Nelson
+Mandela as **the living individual I revere the most**. That there's a
+multitude of those who may be more deserving of this honor should not
+neglect this truth.
+
+
+__ http://en.wikipedia.org/wiki/14th_Dalai_Lama
+__ http://en.wikipedia.org/wiki/Noam_chomsky
+__ http://en.wikipedia.org/wiki/Desmond_Tutu
