@@ -28,10 +28,13 @@ story). Who are the other candidates? There is Noam Chomsky, whose
 intellect and activism I deeply respect, and I actually, after
 watching and listening to some of his political work, considered him
 the most valuable person alive (even while Madiba was still
-alive). Who else? Ummmmm... Desmond Tutu once won a Nobel Peace Prize,
-and then... fuck who else? I must go check out the other winners of
-that most prestigious of all awards to find some more heroes. For now,
-I only have those 3 candidates, my favorite being Noam Chomsky, but I
-do hesitate to name him since I am largely ignorant of world events,
-and may be missing someone more significant (bad memory). Chomsky's
-influence is smaller than the other two candidates, for example.
+alive). Who else? Ummmmm... Desmond Tutu once won a Nobel Peace Prize
+and frequently speaks against injustice, and then... fuck, who else? I
+must go check out the other winners of that most prestigious of awards
+to find some more heroes. For now, I only have those three candidates,
+my favorite being Noam Chomsky, but I do hesitate to name him since I
+am largely ignorant of world events, and may be missing someone more
+significant (bad memory). Chomsky's influence is likely smaller than
+the other two candidates, for example, but being the world's foremost
+Anarchist is quite something, especially given that it's the most
+attractive of all political theories I've yet encountered.
