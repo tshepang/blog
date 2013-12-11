@@ -96,7 +96,10 @@ become selectable on LightDM UI::
     Type=XSession
 
 On selecting the entry labeled ``Custom`` that appears on LightDM,
-and logging in, the following will get executed (`~/.xsession`__)::
+and logging in, the following will get executed (`~/.xsession`__):
+
+
+.. code-block:: sh
 
     # apps
     gnome-terminal --hide-menubar \
