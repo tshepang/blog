@@ -101,43 +101,43 @@ become selectable on LightDM UI::
 On selecting the entry labeled ``Custom`` that appears on LightDM,
 and logging in, the following will get executed (`~/.xsession`__)::
 
-  # apps
-  gnome-terminal --hide-menubar \
-                 --tab-with-profile=Default \
-                 --tab-with-profile=Default \
-                 --tab-with-profile=Default \
-                 --tab-with-profile=Default &
-  firefox &
-  nautilus --no-desktop &
-  nm-applet &
-  trayer --edge top --align right --widthtype request --distance 18 &
-  quodlibet &
-  if [ $HOSTNAME == 'twork' ]; then
-     icedove &
-  fi
+    # apps
+    gnome-terminal --hide-menubar \
+                   --tab-with-profile=Default \
+                   --tab-with-profile=Default \
+                   --tab-with-profile=Default \
+                   --tab-with-profile=Default &
+    firefox &
+    nautilus --no-desktop &
+    nm-applet &
+    trayer --edge top --align right --widthtype request --distance 18 &
+    quodlibet &
+    if [ $HOSTNAME == 'twork' ]; then
+       icedove &
+    fi
 
-  # settings
-  xset b off
-  xmodmap -e "clear Lock"
-  xmodmap -e "keycode 66 = Super_L"
+    # settings
+    xset b off
+    xmodmap -e "clear Lock"
+    xmodmap -e "keycode 66 = Super_L"
 
-  # host-specific settings
-  if [ $HOSTNAME == 'twork' ]; then
-      xrandr --output DVI-0 --mode 1920x1080 --pos 1920x0 --rotate normal \
-             --output VGA-0 --mode 1920x1080 --pos    0x0 --rotate normal
-  else
-      synclient TapButton1=1
-      synclient ClickFinger2=2
-      syndaemon -dti 1
-  fi
+    # host-specific settings
+    if [ $HOSTNAME == 'twork' ]; then
+        xrandr --output DVI-0 --mode 1920x1080 --pos 1920x0 --rotate normal \
+               --output VGA-0 --mode 1920x1080 --pos    0x0 --rotate normal
+    else
+        synclient TapButton1=1
+        synclient ClickFinger2=2
+        syndaemon -dti 1
+    fi
 
-  # clock
-  while true; do
-     xsetroot -name "$( date +"%F %R" )"
-     sleep 1m
-  done &
+    # clock
+    while true; do
+       xsetroot -name "$( date +"%F %R" )"
+       sleep 1m
+    done &
 
-  exec dwm
+    exec dwm
 
 
 Finally, this is what my dwm config changes look like (`config.def.h`__)::
