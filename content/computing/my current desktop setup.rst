@@ -10,9 +10,8 @@ could not login to my account. I saw this as a good
 opportunity to finally try something other than GNOME as my primary
 environment on my home machine. I have before tinkered with other GUI
 environments (XFCE, KDE 3, FluxBox, LXDE, and most recently, Window
-Maker), but not for long, but I think this time I will actually
-abandon GNOME permanently. This is after being an adherent for nearly
-a decade.
+Maker), but not for long. But I think this time I will actually
+abandon GNOME permanently, after nearly a decade of use.
 
 I been playing with dwm__ for the past few days, and the experience
 has convinced me to stay. I am attracted to the philosophy of
