@@ -13,7 +13,7 @@ environments (XFCE, KDE 3, FluxBox, LXDE, and most recently, Window
 Maker), but not for long. But I think this time I will actually
 abandon GNOME permanently, after nearly a decade of use.
 
-I been playing with dwm__ for the past few days, and the experience
+I been playing with dwm__ for the past few weeks, and the experience
 has convinced me to stay. I am attracted to the philosophy of
 minimalism, though I find they do take things a bit far in requiring
 users to tinker with C source code in order to configure it. Luckily
@@ -78,12 +78,10 @@ wouldn't pull in dozens of packages that I won't use. For example::
     Need to get 0 B/31.0 MB of archives.
     After this operation, 90.8 MB of additional disk space will be used.
 
-
-
 GNOME philosophy tends towards tight integration, leading to things
 being not as modular as I would like: how could a display manager end
-up depending on a Contacts tool, or the Bluetooth stack. It may very
-well be just how it was built in Debian, but that also means there
+up depending on a Contacts tool, or the Bluetooth stack. It may
+be just how it was built in Debian, but that also means there
 were build options that allowed such tight coupling in the first
 place. GDM has served me well for years, but I'm not interested in all
 those tools it brings with.
