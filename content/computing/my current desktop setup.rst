@@ -1,7 +1,7 @@
 my current desktop setup
 ========================
 
-:date: 2013-12-06
+:date: 2013-12-11
 :tags: GNOME, Debian
 
 
@@ -89,14 +89,8 @@ were build options that allowed such tight coupling in the first
 place. GDM has served me well for years, but I'm not interested in all
 those tools it brings with.
 
-Anyways, enough with that. Here's what I got to disable the annoying
-beep::
-
-  $ cat ~/.xinputrc
-  set bell-style none
-
-I also added a custom `.desktop` file which will get selectable on
-LightDM UI::
+Anyways, enough with that. I added a custom `.desktop` file which will
+become selectable on LightDM UI::
 
     $ cat /usr/share/xsessions/custom.desktop
     [Desktop Entry]
@@ -107,6 +101,7 @@ LightDM UI::
 On selecting the entry labeled ``Custom`` that appears on LightDM,
 and logging in, the following will get executed (`~/.xsession`__)::
 
+  # apps
   gnome-terminal --hide-menubar \
                  --tab-with-profile=Default \
                  --tab-with-profile=Default \
@@ -117,14 +112,26 @@ and logging in, the following will get executed (`~/.xsession`__)::
   nm-applet &
   trayer --edge top --align right --widthtype request --distance 18 &
   quodlibet &
+  if [ $HOSTNAME == 'twork' ]; then
+     icedove &
+  fi
 
+  # settings
+  xset b off
   xmodmap -e "clear Lock"
   xmodmap -e "keycode 66 = Super_L"
 
-  synclient TapButton1=1
-  synclient ClickFinger2=2
-  syndaemon -dti 1
+  # host-specific settings
+  if [ $HOSTNAME == 'twork' ]; then
+      xrandr --output DVI-0 --mode 1920x1080 --pos 1920x0 --rotate normal \
+             --output VGA-0 --mode 1920x1080 --pos    0x0 --rotate normal
+  else
+      synclient TapButton1=1
+      synclient ClickFinger2=2
+      syndaemon -dti 1
+  fi
 
+  # clock
   while true; do
      xsetroot -name "$( date +"%F %R" )"
      sleep 1m
