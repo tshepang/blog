@@ -30,8 +30,8 @@ happens to be a winner of that most prestigious of awards.
 There is one other candidate, `Noam Chomsky`__. I deeply respect his
 intellect and activism... watching and listening to some of his
 political work some time in 2012 led me to consider him the most
-valuable person alive. His influence is likely smaller than the other
-two above-mentioned candidates, but being the world's foremost
+valuable person alive. His influence is likely smaller than that of the
+above-mentioned candidates, but being the world's foremost
 Anarchist is quite something, especially given that it's the most
 attractive of all political theories I've yet encountered.
 
