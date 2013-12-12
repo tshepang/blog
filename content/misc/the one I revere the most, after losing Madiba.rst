@@ -17,12 +17,11 @@ Africa. Being a Black citizen of that country, this is something that
 affected me personally, and something I will eternally be grateful
 for. In addition to that, this man is also not just as hero (being a
 freedom fighter), but also a saint (promoting reconciliation with the
-oppressors). It's not only that, but the fact that the man is
-constantly hailed as an icon of peace, not only in South Africa, but
-worldwide (or so it seems to me).
+oppressors). It's not only that, but also the fact that the man is
+constantly hailed as an icon of peace.
 
 A combination of these facts actually made me wonder if there was
-anyone alive who received greater respect than this figure, and the
+anyone alive who garners greater respect, and the
 only one that came close was `the current Dalai Lama`__ (though I know
 very little about him). Who are the other candidates? There is `Noam
 Chomsky`__, whose intellect and activism I deeply respect, and I
