@@ -1,7 +1,7 @@
 the one I revere most, after losing Madiba
 ==========================================
 
-:date: 2013-12-10
+:date: 2013-12-12
 :tags: Anarchism
 
 
@@ -24,7 +24,7 @@ For a number of times, I would ask myself if there was anyone alive
 who garners greater respect, and the only person who came close is
 `the current Dalai Lama`__, though I don't know much about it, other
 than the fact of his winning a Nobel Peace Prize. Another candidate is
-Desmond Tutu, who frequently speaks against injustice, and also
+`Desmond Tutu`__, who frequently speaks against injustice, and also
 happens to be a winner of that most prestigious of awards.
 
 There is one other candidate, `Noam Chomsky`__. I deeply respect his
@@ -41,5 +41,5 @@ admire the most**.
 
 
 __ http://en.wikipedia.org/wiki/14th_Dalai_Lama
-__ http://en.wikipedia.org/wiki/Noam_chomsky
 __ http://en.wikipedia.org/wiki/Desmond_Tutu
+__ http://en.wikipedia.org/wiki/Noam_chomsky
