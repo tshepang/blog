@@ -22,8 +22,8 @@ constantly hailed as an icon of peace.
 
 For a number of times, I would ask myself if there was anyone alive
 who garners greater respect, and the only person who came close is
-`the current Dalai Lama`__, though I don't know much about it, other
-than the fact of his winning a Nobel Peace Prize. Another candidate is
+`the current Dalai Lama`__, but I must admit I don't know much about him,
+beyond his winning a Nobel Peace Prize. Another candidate is
 `Desmond Tutu`__, who frequently speaks against injustice, and also
 happens to be a winner of that most prestigious of awards.
 
