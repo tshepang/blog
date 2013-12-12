@@ -22,16 +22,16 @@ constantly hailed as an icon of peace.
 
 For a number of times, I would ask myself if there was anyone alive
 who garners greater respect, and the only person who came close is
-`the current Dalai Lama`__, but I must admit I don't know much about him,
-beyond his winning a Nobel Peace Prize. Another candidate is
+`the current Dalai Lama`__, but I must admit I don't know much about
+him, beyond his winning a Nobel Peace Prize. Another candidate is
 `Desmond Tutu`__, who frequently speaks against injustice, and also
 happens to be a winner of that most prestigious of awards.
 
 There is one other candidate, `Noam Chomsky`__. I deeply respect his
 intellect and activism... watching and listening to some of his
 political work some time in 2012 led me to consider him the most
-valuable person alive. His influence is likely smaller than that of the
-above-mentioned candidates, but being the world's foremost
+valuable person alive. His influence is likely smaller than that of
+the above-mentioned candidates, but being the world's foremost
 Anarchist is quite something, especially given that it's the most
 attractive of all political theories I've yet encountered.
 
