@@ -2,7 +2,7 @@ Anarchism and teen sexuality
 ============================
 
 :date: 2007-06-01
-:tags: politics, Anarchism
+:tags: Anarchism
 
 
 

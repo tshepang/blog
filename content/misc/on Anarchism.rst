@@ -2,7 +2,7 @@ on Anarchism
 ============
 
 :date: 2010-09-14
-:tags: politics
+:tags: Anarchism
 
 
 

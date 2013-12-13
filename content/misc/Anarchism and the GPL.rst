@@ -2,7 +2,7 @@ Anarchism and the GPL
 =====================
 
 :date: 2007-08-16
-:tags: politics, Anarchism
+:tags: Anarchism
 
 
 
