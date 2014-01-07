@@ -18,4 +18,4 @@ nothing.
 D minor, Op.125 – "Choral"* and was played by Wiener Philharmoniker,
 Orchestra.
 
-.. _critically-acclaimed: http://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)
+.. _critically-acclaimed: http://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)#Reception
