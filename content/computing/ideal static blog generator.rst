@@ -28,8 +28,8 @@ missed:
 
 * An option to have clean urls (i.e. trailing ``.html`` removed).
 
-* Date-based directory structure should not be mandatory (`unlike with
-  Tinkerer`__).
+* Date-based directory structure should not be mandatory (unlike with
+  Tinkerer).
 
 * Inline literals and literal blocks (for code) should be
   distinguished by background colour; using a different font is just not
@@ -48,5 +48,4 @@ missed:
 
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-__ https://bitbucket.org/vladris/tinkerer/issue/41
 __ http://docs.blogofile.com/en/latest/posts.html
