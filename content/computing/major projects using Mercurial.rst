@@ -1,7 +1,7 @@
 major projects using Mercurial
 ==============================
 
-:tags: VCS, non-FLOSS
+:tags: VCS, non-FLOSS, list
 :date: 2014-01-13
 
 
