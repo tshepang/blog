@@ -11,11 +11,11 @@ I do celebrate each time I see a project use it. So, here I list the
 most notable projects I am aware of that do, which also gives me hope
 that it isn't being suffocated too much by Git:
 
-* Facebook__, number 2 site on the planet (number of visitors)
+* Facebook__ (proprietary), world number 2 website (number of visitors)
 
-* Firefox__, on top 3 of all desktop web browsers (number of users)
+* Firefox__, world number 3 desktop web browser (number of users)
 
-* CPython__, on top 10 of all programming languages
+* CPython__, top 10 of most popular programming languages
 
 * Mercurial__, 2nd only to Git in terms of DVCS popularity, though
   maybe lagging by 2 orders of magnitude :(
@@ -24,8 +24,7 @@ that it isn't being suffocated too much by Git:
 
 * Sphinx__, documentation generator used in most Python projects
 
-* PyPy__, likely the most exciting development in the entire Python
-  ecosystem
+* PyPy__, the fastest implementation of Python
 
 * `Stack Exchange`__ (proprietary), a family of Q&A sites which are,
   in my opinion, the best yet
