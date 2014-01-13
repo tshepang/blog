@@ -26,8 +26,8 @@ that it isn't being suffocated too much by Git:
 
 * PyPy__, the fastest implementation of Python
 
-* `Stack Exchange`__ (proprietary), a family of Q&A sites which are,
-  in my opinion, the best yet
+* `Stack Overflow`__ (proprietary), world number 1 website for
+  software developers (number of visitors)
 
 
 __ https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook
@@ -37,4 +37,4 @@ __ http://selenic.com/hg
 __ http://hg.openjdk.java.net
 __ https://bitbucket.org/birkenfeld/sphinx
 __ https://bitbucket.org/pypy/pypy
-__ http://stackexchange.com
+__ http://stackoverflow.com
