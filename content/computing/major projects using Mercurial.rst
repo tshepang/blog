@@ -24,9 +24,9 @@ that it isn't being suffocated too much by Git:
 
 * PyPy__, the fastest implementation of Python
 
-**non-Floss**:
+And those which are not FLOSS (i.e. proprietary):
 
-* Facebook__, world number 2 website (number of visitors)
+* Facebook__, world number 2 website in terms of visitors numbers
 
 * `Stack Overflow`__, top web destination website for software
   developers
