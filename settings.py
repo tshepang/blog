@@ -22,7 +22,6 @@ DISQUS_SITENAME = 'tshepanglogs'
 GOOGLE_ANALYTICS = 'UA-16685250-3'
 # http://fortawesome.github.io/Font-Awesome/icons/#brand
 SOCIAL = [
-    ('stack-exchange', 'http://stackexchange.com/users/125744/tshepang'),
     ('bitbucket', 'https://bitbucket.org/tshepang'),
     ('github', 'https://github.com/tshepang'),
     ('twitter', 'https://twitter.com/tshepang_dev'),
