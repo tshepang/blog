@@ -2,7 +2,7 @@ major projects using Mercurial
 ==============================
 
 :tags: VCS
-:date: 2013-07-13
+:date: 2014-01-13
 
 
 
@@ -10,6 +10,8 @@ Mercurial is the only version control system that I actually like, and
 I do celebrate each time I see a project use it. So, here I list the
 most notable projects I am aware of that do, which also gives me hope
 that it isn't being suffocated too much by Git:
+
+* Facebook__, number 2 site on the planet (number of visitors)
 
 * Firefox__, on top 3 of all desktop web browsers (number of users)
 
@@ -29,6 +31,7 @@ that it isn't being suffocated too much by Git:
   in my opinion, the best yet
 
 
+__ https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook
 __ http://hg.mozilla.org/mozilla-central
 __ http://hg.python.org/cpython
 __ http://selenic.com/hg
