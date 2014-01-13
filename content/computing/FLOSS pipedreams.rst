@@ -2,6 +2,7 @@ FLOSS pipe dreams
 =================
 
 :tags: GNOME, Debian, Python, non-FLOSS
+:date: 2013-11-30
 
 
 In which I am hoping that FLOSS_ would supplant proprietary
