@@ -16,9 +16,6 @@ that it isn't being suffocated too much by Git:
 * CPython__ and PyPy__, the most important implementations of a top 10
   popular programming language
 
-* Mercurial__, 2nd only to Git in terms of DVCS popularity, though
-  maybe lagging by 2 orders of magnitude :(
-
 * OpenJDK__, the top open source implementation of the Java platform
 
 * Sphinx__, documentation generator used in most Python projects
@@ -34,7 +31,6 @@ And those which are not FLOSS (i.e. proprietary):
 __ http://hg.mozilla.org/mozilla-central
 __ http://hg.python.org/cpython
 __ https://bitbucket.org/pypy/pypy
-__ http://selenic.com/hg
 __ http://hg.openjdk.java.net
 __ https://bitbucket.org/birkenfeld/sphinx
 __ https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook
