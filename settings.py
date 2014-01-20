@@ -35,7 +35,7 @@ STATIC_PATHS = ['images', 'CNAME']
 SOCIAL_PROFILE_LABEL = 'Stay in Touch'
 USE_FAVICON = True
 PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'neighbors']
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'neighbors', 'assets']
 SITEMAP = {'format': 'xml'}
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives',
                      'search', '404'))
