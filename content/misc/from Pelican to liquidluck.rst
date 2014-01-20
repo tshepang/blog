@@ -46,7 +46,7 @@ why `Pelican`_ rocks
   -  there is an option to provide clean urls... remove trailing ``.html``
 
 - Does not force one into having ugly date-based filesystem structure
-  (`unlike tinkerer`_)
+  (unlike Tinkerer__)
 
 
 why Pelican rocks not
@@ -111,9 +111,10 @@ issues
 .. _responsive: https://github.com/bingdian/liquidluck-theme-responsive
 .. _Pelican: http://pelican.readthedocs.org
 .. _blogofile: http://blogofile.com
-.. _unlike tinkerer: https://bitbucket.org/vladris/tinkerer/issue/41
 .. _the other themes weren't so satisfactory: http://tshepang.net/favorite-pelican-themes
 .. _this script: https://bitbucket.org/tshepang/blog/src/1602cdf8/custom.py
 .. _the other ones: http://tshepang.net/looking-at-liquidluck-themes
 .. _the developer: http://lepture.com
 .. _liquidluck: http://liquidluck.readthedocs.org
+
+__ http://tinkerer.me
