@@ -44,7 +44,7 @@ all the corresponding tracks:
 
    Great VFX showcasing NYC as a turntable are hard to beat.
 
-#. `**Hey Mama**`__ (Black Eyed Peas)
+#. **`Hey Mama`__** (Black Eyed Peas)
 
    About as energetic as music videos get, it has great dance
    sequences and is very well-made, except the editing is just too
