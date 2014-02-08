@@ -37,7 +37,7 @@ all the corresponding tracks:
 
    Excellently capturing an unexplained event which looks like some
    sort of chaos, causing looks of despair and wonder among the
-   characters conecerned, some catching it on tv,
+   characters concerned, some catching it on tv,
    some near the event... powerful.
 
 #. **Everything is Everything** (Lauryn Hill)
@@ -48,7 +48,7 @@ all the corresponding tracks:
 
    About as energetic as music videos get, it has great dance
    sequences and is very well-made, except the editing is just too
-   frantic. There are a few highlights, but none beats the bride
+   frantic. There are a few highlights, but none beats the bridge
    section... nice use of retro visuals and more delicious dancing.
 
 #. **Hey Ya** (OutKast)
@@ -72,13 +72,13 @@ all the corresponding tracks:
 
    I usually like DMX's music videos because of their craftsmanship and the
    messages they portray -- staying away from the annoying booty-shows
-   that so many succesful other rappers employ. This one is armed with
+   that so many successful other rappers employ. This one is armed with
    some excellent editing, some good visual effects, and some real-life
    footage all put in the mix.
 
 #. **Love of My Life** (Erykah Badu)
 
-   Erykah Badu's perfomance, as is the case in her videos, draws
+   Erykah Badu's performance, as is the case in her videos, draws
    one's attention, despite a huge anti-climactic slow-down in
    the middle of the song.
 
@@ -91,7 +91,7 @@ all the corresponding tracks:
 
 #. **Feel It Boy** (Beenie Man ft. Janet Jackson; Dir: Dave Meyers)
 
-   Gorgeous, mellow, and digitally-manipulated envionment which offers rare
+   Gorgeous, mellow, and digitally-manipulated environment which offers rare
    warmth. It boasts perhaps the largest collection of gorgeous gals of any
    music video I've seen. Jackson doesn't look comfortable though, with
    unnatural poses.
