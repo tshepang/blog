@@ -1,7 +1,7 @@
 top music videos
 ================
 
-:date: 2013-04-24
+:date: 2014-02-09
 :tags: music
 
 
@@ -35,6 +35,12 @@ of its video. I'm a fan of nearly all the following tracks:
 
 #. **Everything is Everything** (Lauryn Hill)
    Great VFX showcasing NYC as a turntable are hard to beat.
+
+#. `**Hey Mama**`__ (Black Eyed Peas)
+   About as energetic as music videos get, it has great dance
+   sequences and is very well-made, except the editing is just too
+   frantic. There are a few highlights, but none beats the bride
+   section... nice use of retro visuals and more delicious dancing.
 
 #. **Hey Ya** (OutKast)
    The high energy the video invokes, the appeal of seeing
@@ -74,3 +80,5 @@ of its video. I'm a fan of nearly all the following tracks:
    music video I've seen. Jackson doesn't look comfortable though, with
    unnatural poses.
 
+
+__ http://www.youtube.com/watch?v=rtczBseiAac
