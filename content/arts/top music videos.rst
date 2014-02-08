@@ -5,8 +5,10 @@ top music videos
 :tags: music
 
 
-Excellence in the track concerned contributes to the magnificence
-of its video. I'm a fan of nearly all the following tracks:
+These are the best music videos I've seen yet (with a disclaimer that
+the list is largely unmaintained). Excellence in the track concerned
+contributes to the magnificence of its video... I'm a fan of nearly
+all the corresponding tracks:
 
 #. **Next Movement** (The Roots)
 
