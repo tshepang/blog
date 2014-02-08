@@ -2,7 +2,7 @@ top music videos
 ================
 
 :date: 2014-02-09
-:tags: music
+:tags: music, list
 
 
 These are the best music videos I've seen yet (with a disclaimer that
