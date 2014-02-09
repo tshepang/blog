@@ -63,7 +63,7 @@ all the corresponding tracks:
    shot by the black and style camerawork with some wonderful busy city
    images.
 
-#. **Egumnandini** (Doc Shebeleza)
+#. **Ebumnandini** (Doc Shebeleza)
 
    Few videos were aver able to capture the township party scene with
    such energy and believability. The cinematography is quite good too.
