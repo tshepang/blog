@@ -10,7 +10,7 @@ the list is largely unmaintained). Excellence in the track concerned
 contributes to the magnificence of its video... I'm a fan of nearly
 all the corresponding tracks:
 
-#. **Next Movement** (The Roots)
+#. `Next Movement`__ (The Roots)
 
    The odd positions that our stars take and the overall beauty of it
    makes it an eternal favourite of mine,
@@ -19,28 +19,28 @@ all the corresponding tracks:
    remains entertaining despite that it's shot in just one room,
    which is the kind of inventiveness I admire in art.
 
-#. **That Thing** (Lauryn Hill)
+#. `That Thing`__ (Lauryn Hill)
 
    Flawlessly merges the views of two eras on one screen.
 
-#. **Got Till It's Gone** (Janet Jackson)
+#. `Got Till It's Gone`__ (Janet Jackson)
 
    Great direction and cinematography as well as the casting makes
    this an eternal masterpiece.
 
-#. **Stranger in Moscow** (Michael Jackson; Director - Nick Brandt)
+#. `Stranger in Moscow`__ (Michael Jackson; Director - Nick Brandt)
 
    Among the best camerawork and editing with magnificent slow-motion
    scenes.. towards perfection.
 
-#. **The Sixth Sense** (Common)
+#. `The Sixth Sense`__ (Common)
 
    Excellently capturing an unexplained event which looks like some
    sort of chaos, causing looks of despair and wonder among the
    characters concerned, some catching it on tv,
    some near the event... powerful.
 
-#. **Everything is Everything** (Lauryn Hill)
+#. `Everything is Everything`__ (Lauryn Hill)
 
    Great VFX showcasing NYC as a turntable are hard to beat.
 
@@ -51,13 +51,13 @@ all the corresponding tracks:
    frantic. There are a few highlights, but none beats the bridge
    section... nice use of retro visuals and more delicious dancing.
 
-#. **Hey Ya** (OutKast)
+#. `Hey Ya`__ (OutKast)
 
    The high energy the video invokes, the appeal of seeing
    a member of OutKast perform, and the VFX makes for an
    exciting experience.
 
-#. **Respiration** (Mos Def & Talib Kweli feat. Common)
+#. `Respiration`__ (Mos Def & Talib Kweli feat. Common)
 
    Beautiful images of them great rappers strutting their style enhanced
    shot by the black and style camerawork with some wonderful busy city
@@ -68,7 +68,7 @@ all the corresponding tracks:
    Few videos were aver able to capture the township party scene with
    such energy and believability. The cinematography is quite good too.
 
-#. **Who We Be** (DMX)
+#. `Who We Be`__ (DMX)
 
    I usually like DMX's music videos because of their craftsmanship and the
    messages they portray -- staying away from the annoying booty-shows
@@ -76,20 +76,20 @@ all the corresponding tracks:
    some excellent editing, some good visual effects, and some real-life
    footage all put in the mix.
 
-#. **Love of My Life** (Erykah Badu)
+#. `Love of My Life`__ (Erykah Badu)
 
    Erykah Badu's performance, as is the case in her videos, draws
    one's attention, despite a huge anti-climactic slow-down in
    the middle of the song.
 
-#. **All 'n my Grill** (Missy Elliot)
+#. `All 'n my Grill`__ (Missy Elliot)
 
    This could have been higher in the ratings had its mighty New York
    settings -- with the dark lighting and that famous yellow-taxi
    scenery -- not been interrupted by the boring dancing that Missy
    likes so much in her videos.
 
-#. **Feel It Boy** (Beenie Man ft. Janet Jackson; Dir: Dave Meyers)
+#. `Feel It Boy`__ (Beenie Man ft. Janet Jackson; Dir: Dave Meyers)
 
    Gorgeous, mellow, and digitally-manipulated environment which offers rare
    warmth. It boasts perhaps the largest collection of gorgeous gals of any
@@ -97,4 +97,16 @@ all the corresponding tracks:
    unnatural poses.
 
 
+__ http://www.youtube.com/watch?v=qm7Xt2Qsjcg
+__ http://www.youtube.com/watch?v=T6QKqFPRZSA
+__ http://www.youtube.com/watch?v=uznTHSEgx4U
+__ http://www.youtube.com/watch?v=pEEMi2j6lYE
+__ http://www.youtube.com/watch?v=fTbzW3wbIj4
+__ http://www.youtube.com/watch?v=i3_dOWYHS7I
 __ http://www.youtube.com/watch?v=rtczBseiAac
+__ http://www.youtube.com/watch?v=PWgvGjAhvIw
+__ http://www.youtube.com/watch?v=OI7cCD1_JgE
+__ http://www.youtube.com/watch?v=sB2_MmtMoIc
+__ http://www.youtube.com/watch?v=dNk3R23Twgw
+__ http://www.youtube.com/watch?v=ISy8ta10exg
+__ http://www.youtube.com/watch?v=xPNTbH4oP6s
