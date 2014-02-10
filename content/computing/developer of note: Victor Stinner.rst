@@ -13,9 +13,9 @@ language, you can have literally hundreds of messages on the mailing
 lists, and at times, many more in the issue tracking system, all
 discussing the change in mind. Such changes are most often accompanied
 with a `PEP`_ (Python Enhancement Proposal), a formalised document which
-is basically a design spec for the change in mind. It also, helpfully,
+is basically a design spec for such a change. It also, helpfully,
 summarises the arguments against the change, and addresses them while at
-it, which can be of help to those not inclined to consume the
+it. This can be of help to those not inclined to consume the
 oft-lengthy discussions.
 
 Given all that, it can be quite challenging for any one individual to
@@ -32,12 +32,11 @@ research involved, which was needed in order to have CPython expose the
 new functionality in a cross-platform manner. Now, that's some serious
 perseverance.
 
---------------
-
-Looking at his commits, the guy has done a heck of a lot of work in
+In addition to this work, the guy has done a heck of a lot of work in
 cleaning up, refactoring, and optimizing the string-handling code. I
 can't imagine that this stuff is easy, especially since a large portion
 of it is in C, that scary, no-hand-holding language.
+
 
 .. _PEP: http://www.python.org/dev/peps/pep-0001/
 .. _Victor Stinner: http://www.haypocalc.com/wiki/Accueil
