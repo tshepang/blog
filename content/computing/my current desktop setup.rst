@@ -190,7 +190,7 @@ Finally, this is what my dwm config changes look like (`config.def.h`__)::
 
 
 Note that this diff is against the Debian package (version **6.0-6**). I
-could not change the modifer key with the upstream version of dwm.
+could not change the modifier key with the upstream version of dwm.
 
 You will notice that I'm still using some GNOME packages, specifically
 Nautilus and GNOME Terminal, both of which remain my favorites.
