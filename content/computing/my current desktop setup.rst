@@ -1,11 +1,11 @@
 my current desktop setup
 ========================
 
-:date: 2013-12-11
+:date: 2014-02-16
 :tags: GNOME, Debian
 
 
-With recent Debian GNOME updates, something got broken enough that I
+With recent Debian GNOME updates (late 2013), something got broken enough that I
 could not login to my account. I saw this as a good
 opportunity to finally try something other than GNOME as my primary
 environment on my home machine. I have before tinkered with other GUI
