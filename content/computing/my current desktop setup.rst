@@ -86,7 +86,7 @@ were build options that allowed such tight coupling in the first
 place. GDM has served me well for years, but I'm not interested in all
 those tools it brings with.
 
-Anyways, enough with that. I added a custom `.desktop` file which will
+Anyways, enough with that. I added a custom ``.desktop`` file which will
 become selectable on LightDM UI::
 
     $ cat /usr/share/xsessions/custom.desktop
@@ -95,7 +95,7 @@ become selectable on LightDM UI::
     Exec=/etc/X11/Xsession
     Type=XSession
 
-On selecting the entry labeled ``Custom`` that appears on LightDM,
+On selecting the entry labeled **Custom** that appears on LightDM,
 and logging in, the following will get executed (`~/.xsession`__):
 
 
