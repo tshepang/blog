@@ -6,10 +6,8 @@ about 'developer of note' series
 
 I respect a lot of software developers, but many of those are not
 going to have an entry in this series, and not because they are lesser
-in my eyes.
-
-Here's the criteria I use to regard someone as `developer of the
-note`__:
+in my eyes... this is what needs to happen for someone to be in `this
+series`__:
 
 * I need a news item that would trigger a post.
   Thing is, if you write about someone,
