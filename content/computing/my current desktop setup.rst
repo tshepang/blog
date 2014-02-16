@@ -144,49 +144,61 @@ and logging in, the following will get executed (`~/.xsession`__):
 
 Finally, this is what my dwm config changes look like (`config.def.h`__)::
 
-    diff -r e0ab1aa61eab config.def.h
-    --- a/config.def.h	Fri Dec 06 08:16:40 2013 +0200
-    +++ b/config.def.h	Fri Dec 06 08:18:26 2013 +0200
-    @@ -14,12 +14,17 @@
-     static const Bool topbar            = True;     /* False means bottom bar */
+    diff --git a/config.def.h b/config.def.h
+    index 77ff358..78af5d6 100644
+    --- a/config.def.h
+    +++ b/config.def.h
+    @@ -14,12 +14,15 @@ static const Bool showbar           = True;     /*
+    False means no bar */
+     static const Bool topbar            = True;     /* False means bottom
+     bar */
 
      /* tagging */
-    -static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
-    +static const char *tags[] = { "web", "files", "terminal", "misc", "music" };
+    -static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8",
+    "9" };
+    +static const char *tags[] = { "web", "files", "terminal", "misc" };
 
      static const Rule rules[] = {
-    -	/* class      instance    title       tags mask     isfloating   monitor */
-    -	{ "Gimp",       NULL,       NULL,       0,            True,        -1 },
-    -	{ "Iceweasel",  NULL,       NULL,       1 << 8,       False,       -1 },
-    +  /* class             instance  title  tags mask  isfloating   monitor */
-    +  { "Firefox",         NULL,     NULL,  1 << 0,    False,       -1 },
+    -       /* class      instance    title       tags mask     isfloating
+            monitor */
+    -       { "Gimp",     NULL,       NULL,       0,
+            True,        -1 },
+    -       { "Firefox",  NULL,       NULL,       1 << 8,
+            False,       -1 },
+    +  /* class             instance  title  tags mask  isfloating
+       monitor */
+    +  { "Iceweasel",       NULL,     NULL,  1 << 0,    False,       -1 },
     +  { "trayer",          NULL,     NULL,  1 << 0,    False,       -1 },
     +  { "Nautilus",        NULL,     NULL,  1 << 1,    False,       -1 },
-    +  { "Gnome-terminal",  NULL,     NULL,  1 << 2,    False,       -1 },
-    +  { "Liferea",         NULL,     NULL,  1 << 3,    False,       -1 },
-    +  { "Meld",            NULL,     NULL,  1 << 3,    False,       -1 },
-    +  { "Quodlibet",       NULL,     NULL,  1 << 4,    False,       -1 },
+    +  { "Xfce4-terminal",  NULL,     NULL,  1 << 2,    False,       -1 },
+    +  { "Quodlibet",       NULL,     NULL,  1 << 3,    False,       -1 },
      };
 
      /* layout(s) */
-    @@ -35,7 +40,7 @@
+    @@ -35,7 +38,7 @@ static const Layout layouts[] = {
      };
 
      /* key definitions */
     -#define MODKEY Mod1Mask
     +#define MODKEY Mod4Mask
      #define TAGKEYS(KEY,TAG) \
-            { MODKEY,                       KEY,      view,           {.ui = 1 << TAG} }, \
-            { MODKEY|ControlMask,           KEY,      toggleview,     {.ui = 1 << TAG} }, \
-    @@ -47,7 +52,7 @@
+            { MODKEY,                       KEY,      view,           {.ui
+            = 1 << TAG} }, \
+            { MODKEY|ControlMask,           KEY,      toggleview,     {.ui
+            = 1 << TAG} }, \
+    @@ -47,7 +50,7 @@ static const Layout layouts[] = {
 
      /* commands */
-     static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
-    -static const char *termcmd[]  = { "x-terminal-emulator", NULL };
-    +static const char *termcmd[]  = { "gnome-terminal", "--hide-menubar" };
+     static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb",
+     normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf",
+     selfgcolor, NULL };
+    -static const char *termcmd[]  = { "uxterm", NULL };
+    +static const char *termcmd[]  = { "xfce4-terminal", "--hide-menubar"
+    };
 
      static Key keys[] = {
-            /* modifier                     key        function        argument */
+            /* modifier                     key        function
+            argument */
 
 
 Note that this diff is against the Debian package (version **6.0-6**). I
