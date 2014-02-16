@@ -6,7 +6,7 @@ Sony Vaio Pro 13 (SVP13212SGBI)
 
 
 
-On **2014-02-13** I went to collect `the laptop`__, which I paid
+On **2014-02-13** I went to collect `the laptop`__ from `these guys`__, which I paid
 around R12500 for (~$1200). It's a 4GB RAM, 128GB SSD, FHD model. I
 would have happily paid for more RAM and storage, but this seems the
 only model available in my home country. I am glad that it's also not
@@ -25,5 +25,6 @@ needed only change Video Output to **OpenGL GLX video output (XCB)**,
 and all was well.
 
 
+__ http://www.youtube.com/watch?v=Xq-ZBke68tA
 __ http://www.laptopdirect.co.za/Sony-VAIO-SVP-13212SGBI-lp-78188.php
 __ https://wiki.archlinux.org/index.php/Sony_Vaio_Pro_SVP-1x21#Sound
