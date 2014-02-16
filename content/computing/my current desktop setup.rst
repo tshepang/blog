@@ -13,7 +13,7 @@ other GUI environments (XFCE, KDE 3, FluxBox, LXDE, and most recently,
 Window Maker), but none lasted very long. But I think this time I will
 actually abandon GNOME permanently, after nearly a decade of use.
 
-I been playing with dwm__ for the past few weeks, and the experience
+I been playing with dwm__ for the past several weeks, and the experience
 has convinced me to stay. I am attracted to the philosophy of
 minimalism, though I find they do take things a bit far in requiring
 users to tinker with C source code in order to configure it. Luckily
