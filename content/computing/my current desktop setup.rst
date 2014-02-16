@@ -10,7 +10,7 @@ could not login to my account. I saw this as a good
 opportunity to finally try something other than GNOME as my primary
 environment on my home and work machines. I have before tinkered with other GUI
 environments (XFCE, KDE 3, FluxBox, LXDE, and most recently, Window
-Maker), but not for long. But I think this time I will actually
+Maker), but none lasted very long. But I think this time I will actually
 abandon GNOME permanently, after nearly a decade of use.
 
 I been playing with dwm__ for the past few weeks, and the experience
