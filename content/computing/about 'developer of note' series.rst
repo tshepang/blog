@@ -19,7 +19,7 @@ series`__:
   especially since a few of these honorable developers actually generated
   some new triggers along the way.
 
-* The more obvious requirement is that the developer need to have done
+* The more obvious requirement is that the developer needs to have done
   some thing that I truly appreciate.
   At times, I fail to put into words just how much.
 
