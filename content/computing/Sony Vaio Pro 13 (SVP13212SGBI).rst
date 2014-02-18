@@ -24,7 +24,7 @@ help`__, where I needed to change two lines in
 needed only change Video Output to **OpenGL GLX video output (XCB)**,
 and all was well.
 
-Perfornance
+Performance
 -----------
 
 I am now going to check how this machine compares to `these others`__.
