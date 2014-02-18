@@ -1,7 +1,7 @@
 Sony Vaio Pro 13 (SVP13212SGBI)
 ===============================
 
-:date: 2014-02-18
+:date: 2014-02-19
 :tags: hardware
 
 
@@ -40,25 +40,25 @@ CPython build (changeset ``b6a1a78818fe``)::
 
   $ make distclean; time (./configure && make --silent --jobs=4)
   [...]
-  real    2m2.373s
-  user    3m52.848s
-  sys     0m6.848s
+  real    1m52.372s
+  user    3m12.460s
+  sys     0m6.764s
 
 CPython test suite::
 
   $ time ./python -m test --multiprocess=0
   [...]
-  real    2m14.553s
-  user    5m5.164s
-  sys     0m19.568s
+  real    3m34.582s
+  user    5m12.260s
+  sys     0m20.640s
 
 Linux kernel build (commit ``6e4664525b1d``)::
 
   $ make distclean && make defconfig && time make
   [...]
-  real    10m36.701s
-  user    9m51.752s
-  sys     0m32.128s
+  real    11m57.220s
+  user    11m1.544s
+  sys     0m38.260s
 
 
 So the machine still doesn't compare with my work machine, a ~2
