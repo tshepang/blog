@@ -1,7 +1,7 @@
 Sony Vaio Pro 13 (SVP13212SGBI)
 ===============================
 
-:date: 2014-02-16
+:date: 2014-02-18
 :tags: hardware
 
 
@@ -24,7 +24,49 @@ help`__, where I needed to change two lines in
 needed only change Video Output to **OpenGL GLX video output (XCB)**,
 and all was well.
 
+Perfornance
+-----------
+
+I am now going to check how this machine compares `to these others`__.
+
+Specs::
+
+  $ uname --all
+  Linux thome 3.12-1-amd64 #1 SMP Debian 3.12.9-1 (2014-02-01) x86_64 GNU/Linux
+  $ cat /proc/cpuinfo | sed --quiet '5p'
+  model name      : Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
+
+CPython build (changeset ``b6a1a78818fe``)::
+
+  $ make distclean; time (./configure && make --silent --jobs=4)
+  [...]
+  real    2m2.373s
+  user    3m52.848s
+  sys     0m6.848s
+
+CPython test suite::
+
+  $ time ./python -m test --multiprocess=0
+  [...]
+  real    2m14.553s
+  user    5m5.164s
+  sys     0m19.568s
+
+Linux kernel build (commit ``6e4664525b1d``)::
+
+  $ make distclean && make defconfig && time make
+  [...]
+  real    10m36.701s
+  user    9m51.752s
+  sys     0m32.128s
+
+
+So the machine still doesn't compare with my work machine, which is a
+desktop. I also expected it to be superior to my old laptop, but not
+really. For anything more conclusive, I need better benchmarks.
+
 
 __ http://www.youtube.com/watch?v=Xq-ZBke68tA
 __ http://www.laptopdirect.co.za/Sony-VAIO-SVP-13212SGBI-lp-78188.php
 __ https://wiki.archlinux.org/index.php/Sony_Vaio_Pro_SVP-1x21#Sound
+__ http://tshepang.net/a-bit-of-benchmarking
