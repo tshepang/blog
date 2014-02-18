@@ -27,7 +27,7 @@ and all was well.
 Perfornance
 -----------
 
-I am now going to check how this machine compares `to these others`__.
+I am now going to check how this machine compares to `these others`__.
 
 Specs::
 
