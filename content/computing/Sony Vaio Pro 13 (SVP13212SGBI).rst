@@ -64,7 +64,7 @@ Linux kernel build (commit ``6e4664525b1d``)::
 So the machine still doesn't compare with my work machine, a ~2
 year-old desktop. It is faster than my old laptop as expected, and
 comparable to the DigitalOcean VPS, no surprises there. The storage is
-a lot faster though... I've seen sustained read speeds of 500MB/s.
+a lot faster though... I've seen sustained read speeds of ~500MB/s.
 
 
 __ http://www.youtube.com/watch?v=Xq-ZBke68tA
