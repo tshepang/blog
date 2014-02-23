@@ -1,5 +1,5 @@
-Too Long In Slavery
-===================
+'Too Long In Slavery' by Culture
+================================
 
 :date: 2011-01-14
 :tags: music

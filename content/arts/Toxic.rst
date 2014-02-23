@@ -1,5 +1,5 @@
-Toxic
-=====
+'Toxic' by Britney Spears
+=========================
 
 :date: 2011-01-14
 :tags: music
