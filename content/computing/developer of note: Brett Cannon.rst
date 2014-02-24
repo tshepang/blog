@@ -28,7 +28,7 @@ In addition to that:
 * He created `Python Developer’s Guide`__, a great guide for those
   wishing to help out with core CPython development.
 * Personally, `he inspired me to take a serious look at Gittip`__,
-resulting in my participation.
+  resulting in my participation.
 
 There's a lot more stuff he been doing for Python. Busy, busy guy.
 
