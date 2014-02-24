@@ -23,7 +23,7 @@ In addition to that:
   complex beast.
 * I am grateful that `he championed the move from Subversion to
   Mercurial for CPython development`__. I held back participating in
-  CPython development until this move was complete... I Subversion is
+  CPython development until this move was complete... Subversion is
   that painful to use.
 * He created `Python Developer’s Guide`__, a great guide for those
   wishing to help out with core CPython development.
