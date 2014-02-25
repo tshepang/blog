@@ -46,8 +46,8 @@ __ http://meldmerge.org
 
   - dwm__: replaced GNOME as my desktop environment
   - **Evince**: I would love to get a PDF reader with better navigation
-  - **Firefox**: I have since settled on this one, abandoning **Google
-    Chrome**, the previous favorite
+  - **Firefox**: I have since settled on this one, abandoning Google
+    Chrome, the previous favorite
   - **Gnumeric**: it's faster than LibreOffice spreadsheet, and has
     superior search interface
   - Liferea__: would not be using this had it not been for Google Reader
