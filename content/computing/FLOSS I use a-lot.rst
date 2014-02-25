@@ -2,7 +2,7 @@ FLOSS I use a-lot
 =================
 
 :tags: list
-:date: 2013-11-26
+:date: 2014-02-25
 
 
 
@@ -44,6 +44,7 @@ __ http://meldmerge.org
 
 * misc
 
+  - dwm__: replaced GNOME as my desktop environment
   - **Evince**: I would love to get a PDF reader with better navigation
   - **Google Chrome** and **Firefox**: I switch between these
     equally-good web browsers, but am gravitating towards Firefox
@@ -62,6 +63,7 @@ __ http://meldmerge.org
   - `File Roller`__: nice and simple GUI archive manager
 
 
+__ http://dwm.suckless.org
 __ http://lzone.de/liferea
 __ http://tmux.sourceforge.net
 __ http://www.transmissionbt.com
