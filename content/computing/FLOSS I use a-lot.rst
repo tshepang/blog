@@ -44,7 +44,7 @@ __ http://meldmerge.org
 
 * misc
 
-  - dwm__: replaced GNOME as my primary desktop environment
+  - **dwm**: `replaced GNOME as my primary desktop environment`__
   - **Evince**: I would love to get a PDF reader with better navigation
   - **Firefox**: I have since settled on this one, abandoning Google
     Chrome, the previous favorite
@@ -63,7 +63,7 @@ __ http://meldmerge.org
   - `File Roller`__: nice and simple GUI archive manager
 
 
-__ http://dwm.suckless.org
+__ http://tshepang.net/my-current-desktop-setup
 __ http://lzone.de/liferea
 __ http://tmux.sourceforge.net
 __ http://www.transmissionbt.com
