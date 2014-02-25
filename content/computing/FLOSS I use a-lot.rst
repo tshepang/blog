@@ -44,7 +44,7 @@ __ http://meldmerge.org
 
 * misc
 
-  - dwm__: replaced GNOME as my only desktop environment
+  - dwm__: replaced GNOME as my primary desktop environment
   - **Evince**: I would love to get a PDF reader with better navigation
   - **Firefox**: I have since settled on this one, abandoning Google
     Chrome, the previous favorite
