@@ -61,6 +61,7 @@ misc
 - less__: indispensable!
 - Nautilus: favorite GUI file manager
 - `File Roller`__: nice and simple GUI archive manager
+- **Minicom**: use this for some ancient setups at work for some clients
 
 
 __ http://tshepang.net/my-current-desktop-setup
