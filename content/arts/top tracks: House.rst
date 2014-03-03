@@ -12,8 +12,7 @@ landmarks
 * **Kutakatum**: I grew up with, and prefer, the slower version found
   in *Summer Rawkus* (DJ's At Work), as opposed to `the original`__
 
-* `Love is the Answer`__ (I don't know who the original artist of
-  this)
+* `Love is the Answer`__
 
 * `Love Revolution (Mysterious Revolution)`__
 
