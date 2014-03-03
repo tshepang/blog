@@ -14,11 +14,12 @@ landmarks
 
 * `Love is the Answer`__
 
-* `Love Revolution (Mysterious Revolution)`__
 
 
 masterpiece
 -----------
+
+* `Love Revolution (Mysterious Revolution)`__
 
 * `All Night Long (Mood II Swing)`__
 
