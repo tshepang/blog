@@ -1,5 +1,5 @@
-8.10 looks good
-===============
+Ubuntu 8.10 looks good
+======================
 
 :date: 2008-10-03
 :tags: non-Debian, GNOME
