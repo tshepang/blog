@@ -2,7 +2,7 @@
 ==========================
 
 :date: 2013-04-28
-:tags: music
+:tags: music, hip-hop
 
 
 `Busta Rhymes`__ has a mixtape named *Cut Master C With Busta Rhymes*,
