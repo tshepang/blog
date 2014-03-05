@@ -13,6 +13,6 @@ than twice, being among the top10 PC games, winning Art Direction award,
 and then, in what truly caught my attention, winning the Best Story
 award. The review makes me salivate. [`update`_]
 
-.. _2006 review: http://goty.gamespy.com/2006/
-.. _BioShock: http://goty.gamespy.com/2007/special/22.html
+.. _2006 review: https://web.archive.org/web/20120603023844/http://goty.gamespy.com/2006
+.. _BioShock: https://web.archive.org/web/20131030142800/http://goty.gamespy.com/2007/special/22.html
 .. _update: http://tshepang.net/bioshock
