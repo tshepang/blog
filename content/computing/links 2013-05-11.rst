@@ -6,8 +6,6 @@ links 2013-05-11
 
 
 
-* `My first GitHub follower`__
-
 * `Python interpreter finally gets tab completion by default`__;
   to see wide use, this will have to wait for 3.4 release,
   `which will only arrive early 2014`__.
@@ -23,11 +21,9 @@ links 2013-05-11
   project, Discourse__.
 
 
-__ https://github.com/ardahal
 __ http://hg.python.org/cpython/rev/d5ef330bac50
 __ http://www.python.org/dev/peps/pep-0429
 __ http://debbugs.gnu.org/cgi/bugreport.cgi?bug=14355
 __ http://www.pypy.org/performance.html
 __ http://thechangelog.com/86
 __ http://www.discourse.org
-
