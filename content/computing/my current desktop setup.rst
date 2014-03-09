@@ -5,6 +5,11 @@ my current desktop setup
 :tags: GNOME, Debian
 
 
+Following is how my GUI environment is set-up. For the (libre) tools I
+frequently use, see `this post`__ instead.
+
+----
+
 With recent Debian GNOME updates (late 2013), something got broken
 enough that I could not login to my account. I saw this as a good
 opportunity to finally try something other than GNOME as my primary
@@ -209,6 +214,7 @@ Nautilus, the file browser. It remains `my favorite`__.
 
 
 
+__ http://tshepang.net/floss-i-use-a-lot
 __ http://dwm.suckless.org
 __ http://www.freedesktop.org/wiki/Software/LightDM
 __ https://bitbucket.org/tshepang/custom/src/tip/xsession
