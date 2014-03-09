@@ -8,6 +8,7 @@ XML humor
 I love this:
 
     Hey man
+
     Do you like XML?
 
     Fuck yeah you do.
