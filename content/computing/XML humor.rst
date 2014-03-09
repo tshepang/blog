@@ -5,7 +5,7 @@ XML humor
 :tags: humor, quote
 
 
-I love this:
+..
 
     Hey man
 
