@@ -8,7 +8,7 @@ accessing Oracle DB using Python, in Debian
 
 The following instructions assume that you are using `Debian
 Squeeze`__, the current 'stable' release. The instructions here are
-very specific, so look elsewhere for `something more generic`__.
+very specific, so look elsewhere__ for something more generic.
 
 **downloads**:
 
