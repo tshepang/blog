@@ -7,14 +7,14 @@ accessing Oracle DB using Python, in Debian
 
 
 The following instructions assume that you are using `Debian
-Squeeze`_, the current 'stable' release. The instructions here are
-very specific, so look elsewhere for `something more generic`_.
+Squeeze`__, the current 'stable' release. The instructions here are
+very specific, so look elsewhere for `something more generic`__.
 
 **downloads**:
 
 -  Get registered on Oracle website, and download
    oracle-instantclient11.2-basic\*.rpm (~40MB).
--  Get `cx-Oracle`_ rpm for your specific Python version and your
+-  Get cx-Oracle__ rpm for your specific Python version and your
    specific processor (in my case, 3.1 and i386 respectively).
 
 **installation and setup**:
@@ -33,10 +33,10 @@ very specific, so look elsewhere for `something more generic`_.
 If that last line executes without printing a message to the screen,
 the install is most likely successful.
 
-For basic usage, see `this tiny tutorial`_.
+For basic usage, see `this tiny tutorial`__.
 
 
-.. _Debian Squeeze: http://www.debian.org/releases/squeeze/
-.. _something more generic: http://agiletesting.blogspot.com/2005/05/installing-and-using-cxoracle-on-unix.html
-.. _cx-Oracle: http://cx-oracle.sourceforge.net/
-.. _this tiny tutorial: http://tshepang.net/basic-usage-of-python-with-oracle-db-in-debian
+__ http://www.debian.org/releases/squeeze/
+__ http://agiletesting.blogspot.com/2005/05/installing-and-using-cxoracle-on-unix.html
+__ http://cx-oracle.sourceforge.net/
+__ http://tshepang.net/basic-usage-of-python-with-oracle-db-in-debian
