@@ -21,7 +21,12 @@ screen. Package installation is also insane fast.
 
 There was much pain trying to get audio to work. Luckily `I got some
 help`__, where I needed to change two lines in
-`/usr/share/alsa/alsa.conf`. VLC video didn't work well either, but I
+`/usr/share/alsa/alsa.conf`::
+
+  defaults.ctl.card 1
+  defaults.pcm.card 1
+
+VLC video didn't work well either, but I
 needed only change Video Output to **OpenGL GLX video output (XCB)**,
 and all was well.
 
