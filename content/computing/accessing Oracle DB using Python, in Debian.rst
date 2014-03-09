@@ -6,9 +6,9 @@ accessing Oracle DB using Python, in Debian
 
 
 
-The following instructions assume that you are using `Debian Squeeze`_,
-the current 'stable' release. The instructions here are very specific, so
-look elsewhere for `something more generic`_.
+The following instructions assume that you are using `Debian
+Squeeze`_, the current 'stable' release. The instructions here are
+very specific, so look elsewhere for `something more generic`_.
 
 **downloads**:
 
@@ -30,8 +30,8 @@ look elsewhere for `something more generic`_.
     source ~/.bashrc
     python3 -c 'import cx_Oracle'
 
-If that last line executes without printing a message to the screen, the
-install is most likely successful.
+If that last line executes without printing a message to the screen,
+the install is most likely successful.
 
 For basic usage, see `this tiny tutorial`_.
 
