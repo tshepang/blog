@@ -5,7 +5,8 @@ my current desktop setup
 :tags: GNOME, Debian
 
 
-Following is how my GUI environment is set-up. For the (libre) tools I
+Following is how my GUI environment is set-up on `my home machine`__
+(a laptop) and work machine (a desktop). For the (libre) tools I
 frequently use, see `this post`__ instead.
 
 ----
@@ -13,7 +14,7 @@ frequently use, see `this post`__ instead.
 With recent Debian GNOME updates (late 2013), something got broken
 enough that I could not login to my account. I saw this as a good
 opportunity to finally try something other than GNOME as my primary
-environment on my home and work machines. I have before tinkered with
+environment. I have before tinkered with
 other GUI environments (XFCE, KDE 3, FluxBox, LXDE, and most recently,
 Window Maker), but none lasted very long. But I think this time I will
 actually abandon GNOME permanently, after nearly a decade of use.
@@ -214,6 +215,7 @@ Nautilus, the file browser. It remains `my favorite`__.
 
 
 
+__ http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
 __ http://tshepang.net/floss-i-use-a-lot
 __ http://dwm.suckless.org
 __ http://www.freedesktop.org/wiki/Software/LightDM
