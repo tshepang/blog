@@ -2,7 +2,7 @@ FLOSS I use a-lot
 =================
 
 :tags: list
-:date: 2014-03-10
+:date: 2014-03-11
 
 
 
@@ -41,7 +41,8 @@ __ http://meldmerge.org
 
 entertainment
 
-- **Quod Libet**: audio player
+- **Quod Libet**: audio player that comes with a very excellent tag
+  editor, **Ex Falso**
 - **VLC**: ugly interface, solid application
 
 misc
