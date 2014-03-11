@@ -51,7 +51,7 @@ misc
 - **Evince**: I would love to get a PDF reader with better navigation
 - **Firefox**: I have since settled on this one, abandoning Google
   Chrome, the previous favorite
-- **Gnumeric**: it's faster than LibreOffice spreadsheet, and has
+- **Gnumeric**: it's faster than LibreOffice spreadsheet, and has a
   superior search interface
 - Liferea__: would not be using this had it not been for Google Reader
   shutdown, but am glad they did cuz I like the tool, ugly and unkool
