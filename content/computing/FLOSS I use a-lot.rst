@@ -64,7 +64,7 @@ misc
 - less__: indispensable!
 - Nautilus: favorite GUI file manager
 - `File Roller`__: nice and simple GUI archive manager
-- **Minicom**: use this for some ancient setups at work for some clients
+- **Minicom**: use this for some ancient setups at work, for some clients
 - **FileZilla**: I should really find something nicer for my SFTP needs
 
 
