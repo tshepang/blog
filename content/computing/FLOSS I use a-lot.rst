@@ -60,7 +60,7 @@ misc
 - **Thunderbird**: I prefer Evolution, but it gave me some issues I
   don't remember
 - tmux__: amazingly powerul!
-- Transmission__: the only torrent client I ever used
+- Transmission__: the only torrent client I have ever used
 - less__: indispensable!
 - Nautilus: favorite GUI file manager
 - `File Roller`__: nice and simple GUI archive manager
