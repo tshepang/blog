@@ -7,7 +7,7 @@ FLOSS I use a-lot
 
 
 Following are tools I use a lot, but am not necessarily loving.
-For those I like a lot, see `this list`__.
+There is `a separate post`__ for those.
 
 ----
 
