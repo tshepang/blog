@@ -7,7 +7,7 @@ Sony Vaio Pro 13 (SVP13212SGBI)
 
 
 On **2014-02-13** I went to collect `the laptop`__ from `these
-guys`__, which I paid around R12500 for (~$1200). It's a 4GB RAM,
+guys`__, which I paid around R12500 (~$1200) for. It's a 4GB RAM,
 128GB SSD, FHD model. I would have happily paid for more RAM and
 storage, but this seems the only model available in my home country. I
 am glad that it's also not a touch screen. I don't need that kind of
