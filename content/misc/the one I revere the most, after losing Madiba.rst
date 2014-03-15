@@ -18,7 +18,7 @@ this is something that affected me personally, and something I will
 eternally be grateful for. In addition to that, this man is also not
 just a hero (being a freedom fighter), but also a saint (promoting
 reconciliation with the oppressors). It's not only that, but also the
-fact that the man is constantly hailed as an icon of peace.
+fact that he is constantly hailed as an icon of peace.
 
 For a number of times, I would ask myself if there was anyone alive
 who garners greater respect, and the only person who came close is
