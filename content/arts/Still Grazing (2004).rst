@@ -24,7 +24,7 @@ My favorites from this, the best album by Hugh Masekela:
 
 #. track 5 - **Bajabula Bonke (The Healing Song)**
 
-   The vocalist loved doing this one. It sadly doesn't end too
+   The vocalist must have enjoyed doing this one. It sadly doesn't end too
    well... the last minute or so is anti-climactic.
 
 #. track 7 - **Gold**
