@@ -21,3 +21,12 @@ best works right? We are nice folk.
 - Grazing In the Grass (*Still Grazing* - 2004)
 - Bajabula Bonke (*Still Grazing* - 2004)
 - Yei Baa Gbe Wolo (*Introducing Hedzoleh Soundz* - 1973)
+
+----
+
+There are separate posts where I celebrate his two albums,
+`Introducing Hedzoleh Soundz`__ and `Still Grazing`__.
+
+
+__ http://tshepang.net/introducing-hezdoleh-soundz-1973
+__ http://tshepang.net/still-grazing-2004
