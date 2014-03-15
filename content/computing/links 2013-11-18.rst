@@ -13,7 +13,7 @@ links 2013-11-18
   isn't suitable for Debian (source__)
 
 * since `it's hard to trust any one of the major brand valuators`__, I
-  will have to reply on `an aggregator`__
+  will have to rely on `an aggregator`__
 
 * `on the limitations of Planet Python`__
 
