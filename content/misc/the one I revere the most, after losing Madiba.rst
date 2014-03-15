@@ -6,19 +6,19 @@ the one I revere most, after losing Madiba
 
 
 
-As far as I can remember, there was not a single living individual I respected
-more than I did Madiba. That would explain the fact of my weeping on
-the morning I heard of his death, which is something I never did for
-any single individual. For some time now, I actually asked myself
-which of his many deeds lead to such reverence, and I don't really
-know. I do strongly suspect though that it's the key role he played in
-ending government-sanctioned racism against non-Caucasians in South
-Africa. Being a Black citizen of that country, this is something that
-affected me personally, and something I will eternally be grateful
-for. In addition to that, this man is also not just a hero (being a
-freedom fighter), but also a saint (promoting reconciliation with the
-oppressors). It's not only that, but also the fact that the man is
-constantly hailed as an icon of peace.
+As far as I can remember, there was not a single living individual I
+respected more than I did Madiba. That would explain the fact of my
+weeping on the morning I heard of his death, which is something I
+never did for any single individual. For some time now, I actually
+asked myself which of his many deeds lead to such reverence, and I
+don't really know. I do strongly suspect though that it's the key role
+he played in ending government-sanctioned racism against
+non-Caucasians in South Africa. Being a Black citizen of that country,
+this is something that affected me personally, and something I will
+eternally be grateful for. In addition to that, this man is also not
+just a hero (being a freedom fighter), but also a saint (promoting
+reconciliation with the oppressors). It's not only that, but also the
+fact that the man is constantly hailed as an icon of peace.
 
 For a number of times, I would ask myself if there was anyone alive
 who garners greater respect, and the only person who came close is
