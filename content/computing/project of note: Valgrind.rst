@@ -14,7 +14,7 @@ each line of code in the CPU. This is useful when tuning programs for
 performance.
 
 Following is example code; it accepts 2 arguments, a filename and
-content it will write to that file:
+text that will be written to that file:
 
 .. code-block:: c
 
