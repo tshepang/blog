@@ -16,7 +16,7 @@ best works right? We are nice folk.
 - Stimela (*Hope* - 1993)
 
 3 excellent works
----------------
+-----------------
 
 - Grazing In the Grass (*Still Grazing* - 2004)
 - Bajabula Bonke (*Still Grazing* - 2004)
