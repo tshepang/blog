@@ -32,7 +32,8 @@ giving me more freedom, this helps reduce the workload on `Dirk
 Eddelbuettel`__, who has been uploading wajig for several years now. He
 even `became an Advocate`__ for `my application`__.  This process
 started several weeks ago when a Debian Developer named `Tristan
-Seligmann`__ signed my key [#]_.
+Seligmann`__ signed my key (before applying to be a Maintainer,
+a Debian Developer needs to sign your key as a way of verifying your identity).
 
 
 __ http://packages.debian.org/dput
@@ -42,6 +43,3 @@ __ http://dirk.eddelbuettel.com
 __ http://lists.debian.org/debian-newmaint/2013/09/msg00029.html
 __ http://lists.debian.org/debian-newmaint/2013/09/msg00028.html
 __ http://mithrandi.net/blog
-
-.. [#] before applying to be a Maintainer, a Debian Developer needs to
-       sign your key as a way of verifying your identity
