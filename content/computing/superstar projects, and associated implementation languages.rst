@@ -30,6 +30,7 @@ Java
 ----
 
 * Eclipse
+* Netbeans
 
 Python
 ------
