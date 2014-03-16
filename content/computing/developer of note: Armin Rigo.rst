@@ -6,7 +6,7 @@ developer of note: Armin Rigo
 
 
 Co-founder and lead developer of arguably the most exciting project in
-the entire Python ecosystem, PyPy__.  He is also credited with doing
+the Python ecosystem, PyPy__.  He is also credited with doing
 the bulk of the work in building its `legendary RPython translation
 framework`__.
 
