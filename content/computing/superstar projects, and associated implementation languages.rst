@@ -2,13 +2,11 @@ superstar projects, and associated implementation languages
 ===========================================================
 
 :tags: Python, non-Python, non-FLOSS
-:date: 2013-09-30
 
 
 C
 -
 
-* GCC
 * GNOME
 * PHP
 * Linux
@@ -18,6 +16,7 @@ C++
 ---
 
 * Blender
+* GCC
 * Firefox
 * KDE
 * OpenOffice.org/Libreoffice
