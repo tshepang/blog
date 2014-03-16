@@ -1,7 +1,7 @@
 where I live on the web
 =======================
 
-:date: 2013-10-16
+:date: 2014-03-16
 :tags: Debian, Python
 
 
@@ -12,7 +12,7 @@ greatest culprits:
 
 **Python**: `planet Python`__, python-dev__, GitHub__
 
-**misc**: `Stack Exchange`__, Twitter__
+**misc**: `Stack Exchange`__
 
 
 __ http://planet.debian.org/
@@ -23,4 +23,3 @@ __ http://mail.python.org/mailman/listinfo/python-dev
 __ https://github.com/tshepang
 
 __ http://stackexchange.com/users/125744/tshepang
-__ https://twitter.com/tshepang_dev
