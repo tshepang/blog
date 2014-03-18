@@ -9,7 +9,7 @@ For the past 2 weeks or so, I have been learning Emacs, something I've
 been meaning to do for years now. I decided to do it seriously (not
 skip a day, sometimes hours at a time), and am really liking it. It's
 a very well-designed application with a great amount of polish, far
-more than anything I've seen yet (I've used Vim, Geany, Scribes, and
+more than any editor I've seen yet (I've used Vim, Geany, Scribes, and
 Eclipse).  It also helps that the documentation is so
 `well-written`__.
 
