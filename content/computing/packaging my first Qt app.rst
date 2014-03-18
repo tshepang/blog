@@ -37,7 +37,9 @@ some rough estimates:
 * **hour 9-10**: Reading `Debian wiki page on Hardening`__ let me
   simplify my packaging further... removing the need to specify
   hardening flags explicitly (commit__). I also uploaded the package
-  `to mentors.debian.net`__, with the help of DebianMentorsFaq__.
+  to http://mentors.debian.net, with the help of
+  DebianMentorsFaq__. (**2014.03 update**: it has since been removed
+  due to lack of activity)
 
 The resulting package now lives at
 https://bitbucket.org/tshepang/ksig/src. The changes I made, the
