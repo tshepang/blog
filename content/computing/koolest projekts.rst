@@ -1,7 +1,7 @@
 koolest projekts
 ================
 
-:date: 2013-05-15
+:date: 2014-03-18
 :tags: Python, non-Python
 
 
@@ -13,8 +13,6 @@ These are what I find to be the most exciting projects, today:
   It's been alive for over 10 years, but it's still generally
   considered among the most exciting of all Python projects.
 
-* Discourse__ (project_of_note__)
-
 * systemd__
 
   This one has since been `announced in April 2010`__, but I still do
@@ -25,9 +23,5 @@ These are what I find to be the most exciting projects, today:
 
 
 __ http://pypy.org
-
-__ http://www.discourse.org
-__ http://tshepang.net/project-of-note-discourse
-
 __ http://freedesktop.org/wiki/Software/systemd
 __ http://0pointer.de/blog/projects/systemd
