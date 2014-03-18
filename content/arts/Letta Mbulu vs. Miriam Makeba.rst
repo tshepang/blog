@@ -23,7 +23,7 @@ superior.
    *I Need Your Love*; *Maru a pula*; *Kube*)
 
 My `simple rating system`__ gives Makeba 11 points and Mbuli gets a
-whooping 15. That's a scary number since it would mean `she's superior
+15. That's a scary number since it would mean `she's superior
 to Salif Keita`__ and just a point below Burning Spear! This I should
 revisit!
 
