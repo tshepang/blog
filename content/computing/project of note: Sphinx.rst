@@ -26,7 +26,7 @@ include code snippets directly from files, instead of doing the
 copy-paste dance, avoiding duplication and rot. This feature is known as
 literalinclude__.
 
-Another feature I recently worked with in the recent past with is
+Another feature I recently worked with in the recent past is
 `intersphinx_mapping`__. What it does it allow one to generate
 references in reST as if those reference were local. For example, if
 you wanted to generate a link to the CPython ``open()`` built-in
