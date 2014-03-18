@@ -20,7 +20,7 @@ Some stuff I might work on in future:
   won't work on this... too much work.
 
 But ultimately, I would love for the standard Debian packaging tools
-to get the the point where they make wajig irrelvant. After all, wajig
+to get the the point where they make wajig irrelevant. After all, wajig
 was created to be a wrapper that helps ease the mess.
 
 --------------
@@ -28,7 +28,7 @@ was created to be a wrapper that helps ease the mess.
 Here's the work I did in the past working on wajig, have a look at
 `its tag`__. Off the top of my head:
 
-- improved, simplied packaging
+- improved, simplified packaging
 - port to Python 3
 - port to argparse (from getopt), which also meant proper handling of
   subcommands
