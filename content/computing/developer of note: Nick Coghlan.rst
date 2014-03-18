@@ -28,7 +28,7 @@ approach in PEP 413 as well.
 Another PEP he is working on is `PEP 432`_. Titled *Simplifying the
 CPython startup sequence*, it's a highly detailed proposal to
 re-organise some of CPython code to ease maintenance. His deep
-knowledge on the project's internals is also exposed.
+knowledge on the project's internals is also on display.
 
 Nick also builds and maintains a collection of notes known simply as
 `Nick Coghlan's Python Notes`_. There is much wisdom there (complete
