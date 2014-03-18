@@ -1,4 +1,4 @@
-'God of War' trilogy
+God of War trilogy
 ====================
 
 :date: 2013-05-31
@@ -25,7 +25,7 @@ series. Sadly, this trilogy is only available for PlayStation (2 & 3).
 My favorite characters:
 
 #. Hercules (demigod, son of Zeus), who appears in the 3rd game of the
-   trilogy, is a mini-giant with an massive muscle structure and an
+   trilogy, is a mini-giant with a massive muscle structure and an
    interesting attitude, not to mention armed with some awesomely
    large and powerful weapons, that the playable character (Kratos)
    luckily gets to play with. The moment where this Hercules character
