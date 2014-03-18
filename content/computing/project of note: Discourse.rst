@@ -11,7 +11,7 @@ rather incredible guy, a game changer of sorts, most notable for
 helping create what is likely `the most important programming resource
 on the web`__. So whenever he goes and creates something else, I
 naturally do pay attention, and this Discourse__ thing looks amazing,
-from by limited usage so far.
+at least from by limited usage so far.
 
 I am just jealous that it's written in Ruby, and not Python. I am also
 jealous that `the main service runs on Ubuntu, and not Debian`__.
