@@ -27,7 +27,7 @@ copy-paste dance, avoiding duplication and rot. This feature is known as
 literalinclude__.
 
 Another feature I recently worked with in the recent past is
-`intersphinx_mapping`__. What it does it allow one to generate
+`intersphinx_mapping`__. It allow one to generate
 references in reST as if those reference were local. For example, if
 you wanted to generate a link to the CPython ``open()`` built-in
 function, you would need only specify it as ``:func:open``.  This is
