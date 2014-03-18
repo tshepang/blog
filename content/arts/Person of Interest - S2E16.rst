@@ -9,7 +9,7 @@ Person of Interest - Season 2 Episode 16
 I am a big fan of the series, *Person of Interest*. There is much to
 celebrate, among which is the wonderful portrayal of the brilliant
 creator of the machine that (illegally) looks for patterns in society
-so as to predict, with high certainty, the people will be involved in
+so as to predict, with high certainty, which people will be involved in
 violent crimes, either as victims or perpetrators.
 
 The series' normal formula is that our heroic, bespectacled hero would
