@@ -23,8 +23,8 @@ a list created with the help of `a simple rating system`__.
 For quite a while, this list of grandmasters consisted of just three
 musicians (Fela Kuti, Bob Marley, and Burning Spear); I was only
 surprised that the later entrants, Salif Keita and Letta Mbulu beat
-mighty Bob, and that was based on just my thinking without actually
-making a list of tracks. Intuition isn't always reliable.
+mighty Bob, and that was based on just my intuition without actually
+making a list of tracks.
 
 
 __ http://tshepang.net/simple-rating-system-for-music
