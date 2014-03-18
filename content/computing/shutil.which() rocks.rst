@@ -16,7 +16,7 @@ inflexible. `shutil.which()`__, OTOH, looks for the given executable
 name in user's PATH and is more thorough, since it also checks if the
 executable name points to something that is actually executable.  So,
 making use of this new function resulted in code that is both more
-robust code and `a lot cleaner`__.
+robust and cleaner__.
 
 As a sidenote, this functionality `was first proposed in 2001`__!
 
