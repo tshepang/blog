@@ -10,8 +10,8 @@ that it would take me around 10 hours to get it into good enough shape
 before asking some Debian Developer to upload it for me. Here goes
 some rough estimates:
 
-* **hour 1**: Find documentation on the subject; I got three after a
-  quick search:
+* **hour 1**: Find documentation on the subject; I got a few after a
+  quick search, which include the following:
 
   - `Ubuntu Packaging Guide`__
 
