@@ -10,7 +10,7 @@ and in there is a version of **How Many Mics** from the album, `The Score`__
 (simply titled **How Many**).
 Busta Rhymes is among the most highly-skilled of all rappers, ever,
 but hardly ever performs in supreme tracks,
-so was excited to listen to his take on one of the best hip-hop tracks ever
+so I was excited to listen to his take on one of the best hip-hop tracks ever
 (from `the best ever hip-hop album`__).
 
 
