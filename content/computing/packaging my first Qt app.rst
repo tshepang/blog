@@ -50,6 +50,5 @@ __ http://developer.ubuntu.com/packaging/html
 __ http://www.debian.org/doc/manuals/maint-guide
 __ https://wiki.debian.org/Hardening
 __ https://bitbucket.org/tshepang/ksig/commits/f4c7b60157b79847f918e3d8b24a74e6c5bec929
-__ http://mentors.debian.net/package/ksig
 __ https://wiki.debian.org/DebianMentorsFaq
 __ https://bitbucket.org/tshepang/ksig/src/f4c7b60157b79847f918e3d8b24a74e6c5bec929/debian
