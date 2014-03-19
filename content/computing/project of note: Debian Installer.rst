@@ -7,10 +7,9 @@ project of note: Debian Installer
 
 
 I've looked at pretty installers like that of Ubuntu and Fedora, and
-they are all so easy to use that nobody would dare say "I can't
-install Linux!". And then whenever I install Debian, I don't really
-see how much harder it is to use. It is far uglier though, so I guess
-that also makes it intimidating.
+they are all very easy and slick. But whenever I install Debian, I
+don't really see how much harder it is to use, though it's a lot
+uglier.
 
 Anyways, what triggered this post is the following tit-bit:
 
