@@ -11,15 +11,10 @@ links 2013-04-25
 
 * `nice and detailed post about Pyramid's powerful View configuration`__
 
-* `my dream laptop`__
-
 * `how to evaluate competing technologies for use`__
 
 __ http://stallman.org/apple
 __ http://soziev.com
 __ http://delaguardia.com.mx
 __ http://blog.delaguardia.com.mx/pyramid-view-configuration-let-me-count-the-ways.html
-__ http://www.dell.com/us/business/p/xps-13-linux/pd
 __ http://meta.stackoverflow.com/a/145813/147166
-
-
