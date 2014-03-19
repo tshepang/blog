@@ -1,19 +1,18 @@
 project of note: Debian Installer
 =================================
 
-:date: 2013-04-24
-:tags: Debian, project-of-note, quote
+:date: 2014-03-20
+:tags: Debian, non-Debian, project-of-note, quote
 
 
 
-I've recently looked at Ubuntu's 10.04 and 10.10 installers, and they
-are quite nifty tools, so fresh and gorgeous, and so easy to use that
-nobody would dare say "I can't install Linux!". And then I recently
-re-installed my Debian system and I don't really see how much harder it
-is to use than Ubuntu's (except that it's far uglier, so I guess that
-also makes it intimidating).
+I've looked at pretty installers like that of Ubuntu and Fedora, and
+they are all so easy to use that nobody would dare say "I can't
+install Linux!". And then whenever I install Debian, I don't really
+see how much harder it is to use. It is far uglier though, so I guess
+that also makes it intimidating.
 
-What triggered this post is the following titbit:
+Anyways, what triggered this post is the following tit-bit:
 
     d-i [Debian Installer] is the very first thing many of our users
     see, and has a huge range of uses, from simple desktop installs to
@@ -25,8 +24,9 @@ What triggered this post is the following titbit:
     -- `an interview of Colin Watson`__
 
 In addition, this tool (or rather, a set of tools) also happens to be
-rock-solid tool, and its great reliability gets admiration from me on
-each install (and I've done dozens, with not one instance of data loss).
+rock-solid, and its great reliability and ease-of-use gets admiration
+from me on each install... I've done dozens, with not one instance of
+data loss.
 
 
 __ http://raphaelhertzog.com/2010/11/25/people-behind-debian-colin-watson/
