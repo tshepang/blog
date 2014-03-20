@@ -24,7 +24,7 @@ GOOGLE_ANALYTICS = 'UA-16685250-3'
 SOCIAL = [
     ('bitbucket', 'https://bitbucket.org/tshepang'),
     ('github', 'https://github.com/tshepang'),
-    ('twitter-square', 'https://twitter.com/tshepang_dev'),
+    ('twitter', 'https://twitter.com/tshepang_dev'),
     ('gittip', 'https://gittip.com/tshepang'),
 ]
 TWITTER_USERNAME = 'tshepang_dev'
