@@ -17,7 +17,7 @@ links 2013-03-14
 * another sad case of Ubuntu diverging from GNOME...
   `Online Accounts`_ (`via`_);
   as the author of that quality post says, they may have good reasons for this;
-  but to on the surface, it just looks bad
+  it's just that it looks bad on the surface
 
 * `a detailed defense`_ on the choice of technology for Stack Exchange chat
 
