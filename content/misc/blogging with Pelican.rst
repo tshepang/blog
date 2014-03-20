@@ -20,7 +20,7 @@ it converts marked-up text files to html
 The resulting site is complete with an index (Archives view),
 Tags, Categories, and Pages (for non-bloggy stuff like a CV or About Me file).
 
-As for my blog, its tree structure looks like this::
+As for my blog, its tree structure looks like this (repo__)::
 
     build/...
     pages/about-me.rst
@@ -95,10 +95,11 @@ Within a minute, the blog will be updated.
 .. _reStructuredText: http://en.wikipedia.org/wiki/ReStructuredText
 .. _GitHub Pages: http://pages.github.com/
 .. _supposed to make text look better: http://static.mintchaos.com/projects/typogrify/
-.. _publicly visible in Bitbucket: https://bitbucket.org/tshepang/blog
 .. _fabric: http://fabfile.org
 .. _fabfile.py: https://bitbucket.org/tshepang/blog/src/tip/fabfile.py
 .. _settings.py: https://bitbucket.org/tshepang/blog/src/tip/settings.py
 .. _README.rst: https://bitbucket.org/tshepang/blog/src/tip/README.rst
 .. _a script: https://bitbucket.org/tshepang/blog/src/tip/new-post.py
 .. _what I love about static website generators: http://tshepang.net/what-me-loves-about-static-website-generation 
+
+__ https://bitbucket.org/tshepang/blog
