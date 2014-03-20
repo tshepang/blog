@@ -6,8 +6,8 @@ me likes subprocess.DEVNULL
 
 
 If you want to run an external process from within Python, and are not
-interested in the error that process may emit, there are a few ways,
-and I will demonstrate this by opening a Python shell in a directory
+interested in the error that process may emit, there are a few ways.
+I will demonstrate this by opening a Python shell in a directory
 that isn't version-controlled by Mercurial__:
 
 #. So, we don't want to see this ugliness:
