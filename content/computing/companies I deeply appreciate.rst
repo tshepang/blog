@@ -1,7 +1,6 @@
 companies I deeply appreciate
 =============================
 
-:date: 2013-04-07
 :tags: list
 
 
@@ -18,7 +17,7 @@ companies I deeply appreciate
 
    -  Funds the development of Chromium,
       a very credible alternative to the world's major web browsers,
-      and my personal favorite. It's also FLOSS.
+      which also happens to be FLOSS.
 
    -  Funds most of the development of Android, which is quickly
       becoming the dominant platform for high-end phones, and also
