@@ -1,0 +1,26 @@
+links 2014-03-20
+================
+
+:date: 2014-03-20
+:tags: Debian, non-FLOSS, links
+
+
+
+* developing for Debian can be ugly, and `here are some excellent
+  suggestions`__
+
+* `interesting idea on automated collection of Linux kernel
+  (in)stability issues`__
+
+* Btrfs is unfortunately still `not ready for production`__
+
+* `nice explanation of Linux kernel file monitoring technologies`__
+
+* `excellent post on Stack Overflow infrastructure`__
+
+
+__ http://blog.liw.fi/posts/debian-developing-it-wrong
+__ https://lkml.org/lkml/2013/11/7/95
+__ http://changelog.complete.org/archives/9123-results-with-btrfs-and-zfs
+__ http://www.lanedo.com/2013/filesystem-monitoring-linux-kernel
+__ http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow
