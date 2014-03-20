@@ -16,7 +16,7 @@ module, and maintains `a bunch of nuggets on advanced usage`_.
 One early event, which is likely the first
 time I noticed him, is the time when he rebutted some apparently
 inaccurate claims against the module, at which he responded in a
-`highly-detailed post`_, the sort that lent credence to the module. This
+`highly-detailed post`_, which that lent credence to the module. This
 inspired me to give it a try, and `it's not that hard`_.
 
 There's one other project he works on, `sarge`_, which is like
