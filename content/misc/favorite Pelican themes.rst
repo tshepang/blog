@@ -134,3 +134,4 @@ __ https://github.com/getpelican/pelican-themes/issues/152
 .. _Chunk: https://github.com/tbunnyman/pelican-chunk
 .. _monospace: https://github.com/getpelican/pelican-themes/tree/master/monospace
 .. _Elegant: http://oncrashreboot.com/pelican-elegant
+.. _gum: https://github.com/getpelican/pelican-themes/tree/master/gum
