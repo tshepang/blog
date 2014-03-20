@@ -38,8 +38,7 @@ this one, despite the following issues:
 
 * no Tags on individual Posts
 * no Categories on individual Posts
-
-But, `it doesn't display bullets`__. I expect this was just an oversight.
+* `it doesn't display bullets`__!
 
 
 monospace_
