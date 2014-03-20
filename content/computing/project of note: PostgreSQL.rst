@@ -5,10 +5,10 @@ project of note: PostgreSQL
 :tags: project-of-note
 
 
-It is among those rather quite (in terms of controversy) but highly-respectable
-projects. It also looks like no other FLOSS DBMS system compares.
-It even bills itself *the most advanced open source database* on
-`its main page`__.
+It is among those rather quite (in terms of controversy) but
+highly-respectable projects. It also looks like no other FLOSS DBMS
+system compares.  It even bills itself *the most advanced open source
+database* on `its main page`__.
 
 I've had great respect for the project for years now,
 but what prompted this post is its `2013-04-04 Security Release FAQ`__
