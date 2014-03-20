@@ -102,4 +102,4 @@ Within a minute, the blog will be updated.
 .. _a script: https://bitbucket.org/tshepang/blog/src/tip/new-post.py
 .. _what I love about static website generators: http://tshepang.net/what-me-loves-about-static-website-generation 
 
-__ https://bitbucket.org/tshepang/blog
+__ https://bitbucket.org/tshepang/blog/src
