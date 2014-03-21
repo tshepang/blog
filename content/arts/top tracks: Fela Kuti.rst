@@ -9,33 +9,33 @@ top tracks: Fela Kuti
 3 landmarks
 -----------
 
--  **Lady** (*Shakara* - 1972)
--  **Confusion** (*Confusion* - 1975)
--  **Igbe (Na Shit)** (*Gentleman* - 1973)
+- **Lady** (*Shakara* - 1972)
+- **Confusion** (*Confusion* - 1975)
+- **Igbe (Na Shit)** (*Gentleman* - 1973)
 
 3 masterpieces
 --------------
 
--  **No Agreement** (*No Agreement* - 1977)
--  **Shakara** (*Shakara* - 1972)
--  **Gentleman** (*Gentleman* - 1973)
+- **No Agreement** (*No Agreement* - 1977)
+- **Shakara** (*Shakara* - 1972)
+- **Gentleman** (*Gentleman* - 1973)
 
 12 excellent works
 ------------------
 
--  **Egbe Mi O** (*Fela's London Scene* - 1970)
--  **Fefe Naa Efe** (*Gentleman* - 1973)
--  **Who No Know Go Know** (*Everything Scatter* - 1975)
--  **Just Like That** (*Beast of No Nation* - 1989)
--  **Pansa Pansa** (*Underground System* - 1992)
--  **Eko Ile** (*Afrodisiac* - 1973)
--  **Alu Jon Jonki Jon** (*Afrodisiac* - 1973)
--  **Black Man's Cry** (*Live!* - 1971)
--  **Water No Get Enemy** (*Expensive Shit* - 1975)
--  **Zombie** (*Zombie* - 1978)
--  **Teacher Don't Teach Me Nonsense** (*Teacher Don't Teach Me Nonsense*
+- **Egbe Mi O** (*Fela's London Scene* - 1970)
+- **Fefe Naa Efe** (*Gentleman* - 1973)
+- **Who No Know Go Know** (*Everything Scatter* - 1975)
+- **Just Like That** (*Beast of No Nation* - 1989)
+- **Pansa Pansa** (*Underground System* - 1992)
+- **Eko Ile** (*Afrodisiac* - 1973)
+- **Alu Jon Jonki Jon** (*Afrodisiac* - 1973)
+- **Black Man's Cry** (*Live!* - 1971)
+- **Water No Get Enemy** (*Expensive Shit* - 1975)
+- **Zombie** (*Zombie* - 1978)
+- **Teacher Don't Teach Me Nonsense** (*Teacher Don't Teach Me Nonsense*
    -1986)
--  **Ikoyi Mentality Versus Mushin Mentality** (*Why Black Man Dey Suffer*
+- **Ikoyi Mentality Versus Mushin Mentality** (*Why Black Man Dey Suffer*
    -1971)
 
 honorable mention
@@ -51,4 +51,4 @@ honorable mention
 
 - **Trouble Sleep Yanga Wake Am** (*Roforofo Fight* - 1972)
 
--  **Ye Ye de Smell** (*Live!* - 1971)
+- **Ye Ye de Smell** (*Live!* - 1971)
