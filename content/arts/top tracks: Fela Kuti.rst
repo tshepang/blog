@@ -34,9 +34,9 @@ top tracks: Fela Kuti
 - **Water No Get Enemy** (*Expensive Shit* - 1975)
 - **Zombie** (*Zombie* - 1978)
 - **Teacher Don't Teach Me Nonsense** (*Teacher Don't Teach Me Nonsense*
-   -1986)
+  -1986)
 - **Ikoyi Mentality Versus Mushin Mentality** (*Why Black Man Dey Suffer*
-   -1971)
+  -1971)
 
 honorable mention
 -----------------
