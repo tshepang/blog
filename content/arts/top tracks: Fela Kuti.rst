@@ -2,7 +2,7 @@ top tracks: Fela Kuti
 =====================
 
 :tags: music, top-tracks
-:date: 2013-06-29
+:date: 2014-03-21
 
 
 
@@ -50,3 +50,5 @@ honorable mention
     this one a msterpiece had the rest been kept at that level.
 
 - **Trouble Sleep Yanga Wake Am** (*Roforofo Fight* - 1972)
+
+-  **Ye Ye de Smell** (*Live!* - 1971)
