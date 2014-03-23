@@ -20,9 +20,6 @@ links 2013-01-02
 
 -  The `highest-voted answer`_ I ever gave on `Stack Exchange`_.
 
--  `benefits of systemd`_ according to an Arch Linux developer; one
-   thing I appreciate is that this was written by someone other than
-   `systemd project leader`_, a controversial figure
 
 .. _comparison with Python: http://blog.kowalczyk.info/article/4dep/Go-vs-Python-for-a-simple-web-server.html
 .. _evaluation after writing some important apps: http://blog.kowalczyk.info/article/uvw2/Thoughts-on-Go-after-writing-3-websites.html
@@ -33,5 +30,3 @@ links 2013-01-02
 .. _part 3: http://womble.decadent.org.uk/blog/whats-in-the-linux-kernel-for-debian-70-wheezy-part-3.html
 .. _highest-voted answer: http://superuser.com/a/236605/34953
 .. _Stack Exchange: http://stackexchange.com/
-.. _benefits of systemd: https://bbs.archlinux.org/viewtopic.php?pid=1149530#p1149530
-.. _systemd project leader: http://tshepang.net/developer-of-note-lennart-poettering
