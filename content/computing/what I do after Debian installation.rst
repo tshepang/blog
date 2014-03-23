@@ -7,7 +7,7 @@ what I do after Debian installation
 
 
 I think anyone who has never done any OS install before can install
-Debian with any issue at all, provided they will not be doing any
+Debian without any issue at all, provided they will not be doing any
 partitioning. It is that easy.
 
 As for me, I do a lot more installations than the average person, so I
