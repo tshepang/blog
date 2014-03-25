@@ -7,7 +7,7 @@ developer of note: Michael Meeks
 
 
 Being the most visible LibreOffice (and formerly, OpenOffice.org)
-developer for a few years now, he is also a tireless communicator and
+developer for a number of years now, he is also a tireless communicator and
 organiser. The switch from OpenOffice.org to LibreOffice was not
 exactly a smooth ride, but this guy kept showing a positive attitude
 throughout. In `the latest`__ of his longer-form blog posts (he
