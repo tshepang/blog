@@ -28,5 +28,5 @@ There are separate posts where I celebrate his two albums,
 `Introducing Hedzoleh Soundz`__ and `Still Grazing`__.
 
 
-__ http://tshepang.net/introducing-hezdoleh-soundz-1973
+__ http://tshepang.net/introducing-hedzoleh-soundz-1973
 __ http://tshepang.net/still-grazing-2004
