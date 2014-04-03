@@ -1,5 +1,5 @@
-pipedream: Basic Income for South African adults
-================================================
+pipe dream: Basic Income for South African adults
+=================================================
 
 :date: 2014-04-02
 :tags: untagged
