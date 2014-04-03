@@ -2,7 +2,6 @@ favorite FLOSS
 ==============
 
 :tags: list
-:date: 2013-11-26
 
 
 For a piece of FLOSS_ (free/libre and open source software) to be here,
@@ -17,7 +16,7 @@ it has to both be personally useful and I have to like it a lot:
 **file manager**: Nautilus, Emacs (Dired mode)
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
-Uptimed, top, Tracker_, Ex Falso, wajig,
+Uptimed, procps (top, watch), Tracker_, Ex Falso, wajig,
 xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_, tmux_, File Roller, Fabric_
 
