@@ -22,11 +22,13 @@ __ http://tshepang.net/favorite-floss
 
 __ http://tshepang.net/tags#wajig-ref
 
+
 editors
 
 - **Emacs**: my favorite
 - **Vim**: it happens to be installed on a lot of systems at work,
   and I do like it somewhat
+
 
 software development
 
@@ -39,13 +41,15 @@ software development
 __ http://tshepang.net/project-of-note-git-cola
 __ http://meldmerge.org
 
+
 entertainment
 
 - **Quod Libet**: audio player that comes with a very excellent tag
   editor, **Ex Falso**
 - **VLC**: ugly interface, solid application
 
-misc
+
+applications
 
 - **dwm**: `replaced GNOME as my primary desktop environment`__
 - **Evince**: I would love to get a PDF reader with better navigation
@@ -56,21 +60,25 @@ misc
 - Liferea__: would not be using this had it not been for Google Reader
   shutdown, but am glad they did cuz I like the tool, ugly and unkool
   as it is
-- **OpenSSH**: duh!
 - **Thunderbird**: I prefer Evolution, but it gave me some issues I
   don't remember
-- tmux__: amazingly powerul!
 - Transmission__: the only torrent client I have ever used
-- less__: indispensable!
 - Nautilus: favorite GUI file manager
-- `File Roller`__: nice and simple GUI archive manager
-- **Minicom**: use this for some ancient setups at work, for some clients
 - **FileZilla**: I should really find something nicer for my SFTP needs
-
 
 __ http://tshepang.net/my-current-desktop-setup
 __ http://lzone.de/liferea
-__ http://tmux.sourceforge.net
 __ http://www.transmissionbt.com
+
+
+miscellaneous tools
+
+- tmux__: amazingly powerul!
+- less__: indispensable!
+- `File Roller`__: nice and simple GUI archive manager
+- **Minicom**: use this for some ancient setups at work, for some clients
+- **OpenSSH**: duh!
+
+__ http://tmux.sourceforge.net
 __ http://www.greenwoodsoftware.com/less
 __ http://fileroller.sourceforge.net
