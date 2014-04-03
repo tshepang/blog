@@ -18,7 +18,7 @@ it has to both be personally useful and I have to like it a lot:
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
 Uptimed, procps (top, watch), Tracker_, Ex Falso, wajig,
 xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
-OpenSSH, vnstat_, tmux_, File Roller, Fabric_
+OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 
 **spreadsheet:** gnumeric
 
