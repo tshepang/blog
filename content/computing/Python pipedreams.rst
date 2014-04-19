@@ -1,7 +1,6 @@
 Python pipe dreams
 ==================
 
-:date: 2013-04-27
 :tags: Python
 
 
@@ -9,6 +8,9 @@ None of these is likely to happen at all.
 It's even safe to use the word *never* with a great amount of certainty;
 but I wanted to document them anyway, if for no other reason than rescue
 them from the exclusiveness of my mind:
+
+* add a ``prepend`` method to list objects, make it as efficient as
+  ``collections.deque``, then remove the latter
 
 * remove ``f.readlines()``;
   ``list(f)`` is a clearer and more general replacement (source__).
