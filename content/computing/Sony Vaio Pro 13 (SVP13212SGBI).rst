@@ -1,7 +1,7 @@
 Sony Vaio Pro 13 (SVP13212SGBI)
 ===============================
 
-:date: 2014-02-19
+:date: 2014-04-24
 :tags: hardware
 
 
@@ -71,6 +71,57 @@ So the machine still doesn't compare with my work machine, a ~2
 year-old desktop. It is faster than my old laptop as expected, and
 comparable to the DigitalOcean VPS, no surprises there. The storage is
 a lot faster though... I've seen sustained read speeds of ~500MB/s.
+
+Issues
+------
+
+* The corners of the laptop were less sharp. They make it a little
+  uncomfortable to handle, and at least one person has experienced
+  (slight) pain by being around it.
+
+* The power button is not so easy to press, and offers very little
+  'feedback'... it has very shallow movement. Luckily there should not
+  be a frequent need to use, but there are times when something is
+  buggy enough to cause OS hangs and other misbehaviour.
+
+* The fan is too quick to kick in, and is a little noisy. Running the
+  following commands does not help, at least not in a way I could
+  notice::
+
+    echo silent | sudo tee  /sys/devices/platform/sony-laptop/thermal_control
+
+  I don't know why this happens, given that I have never seen the
+  temperature rise above 60 °C::
+
+    $ sensors
+    acpitz-virtual-0
+    Adapter: Virtual device
+    temp1:        +48.0°C  (crit = +97.0°C)
+
+    coretemp-isa-0000
+    Adapter: ISA adapter
+    Physical id 0:  +48.0°C  (high = +100.0°C, crit = +100.0°C)
+    Core 0:         +46.0°C  (high = +100.0°C, crit = +100.0°C)
+    Core 1:         +45.0°C  (high = +100.0°C, crit = +100.0°C)
+
+* The screen brightness control is painful. It requires one to press
+  the combination of the **Fn** key and **F5** (dim) and **F6**
+  (brighten), which is fine. But one cannot just hold the two latter
+  keys, but has to repeatedly press them to reach the desired
+  result. That would not be such a big problem, except that it takes
+  such a long time to get there... more than 50 presses from the two
+  extremes!
+
+* I still haven't got use to **Pg Up/Dn** and **Home/End** being
+  accessible only via the **Fn** key. It's so awkward.
+
+* The touchpad is a great pleasure to use, except when pressing and
+  dragging. It's a hit-and-miss affair... you have to press quite
+  hard, and that makes precise control challenging.
+
+* The worst problem, however, is the flexibility of at the bottom of
+  the touchpad. Too often the touchpad fails to respond because I've
+  put the thing at the wrong angle... I mostly use my laptop in bed.
 
 
 __ http://www.youtube.com/watch?v=Xq-ZBke68tA
