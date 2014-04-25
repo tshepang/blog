@@ -2,7 +2,6 @@ FLOSS I use a-lot
 =================
 
 :tags: list
-:date: 2014-03-11
 
 
 
