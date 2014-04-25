@@ -73,7 +73,7 @@ __ http://www.transmissionbt.com
 
 miscellaneous tools
 
-- tmux__: amazingly powerul!
+- tmux__: amazingly powerful!
 - **tail**: part of GNU coreutils; indispensable!
 - less__: indispensable!
 - `File Roller`__: nice and simple GUI archive manager
