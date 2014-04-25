@@ -28,7 +28,7 @@ OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 
 **version control system**: Mercurial_
 
-**web browser**: Chrome/Chromium
+**web browser**: Firefox
 
 **non-FLOSS:** Disqus_, Gmail_, `Stack Exchange`_, Bitbucket_
 
