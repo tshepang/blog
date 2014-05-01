@@ -19,7 +19,7 @@ that it isn't being suffocated too much by Git:
 
 * Sphinx__, documentation generator used in most Python projects
 
-And those which are not FLOSS (i.e. proprietary):
+And here is one which is not FLOSS (i.e. proprietary):
 
 * Facebook__, world number 2 website in terms of visitor numbers
 
