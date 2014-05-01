@@ -2,7 +2,6 @@ major projects using Mercurial
 ==============================
 
 :tags: VCS, non-FLOSS, list
-:date: 2014-01-17
 
 
 
@@ -24,8 +23,6 @@ And those which are not FLOSS (i.e. proprietary):
 
 * Facebook__, world number 2 website in terms of visitor numbers
 
-* `Stack Overflow`__, top web destination website for software
-  developers
 
 
 __ http://hg.mozilla.org/mozilla-central
@@ -34,4 +31,3 @@ __ https://bitbucket.org/pypy/pypy
 __ http://hg.openjdk.java.net
 __ https://bitbucket.org/birkenfeld/sphinx
 __ https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook
-__ http://stackoverflow.com
