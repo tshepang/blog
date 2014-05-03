@@ -2,7 +2,7 @@ am joining Gittip
 =================
 
 :date: 2013-04-13
-:tags: Python
+:tags: Python, Gittip
 
 
 In `Why I'm signing up for Gittip`__, a core CPython commiter, Brett
