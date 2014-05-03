@@ -9,7 +9,7 @@ Battlestar Galactica - Season 3 Episode 20
 *I hardly ever write anything about tv productions regardless of how many
 times I tend to get impressed, and there hasn't been a shortage of that.
 That's mainly due to laziness/motivation, but this time I just have to
-mention this one gem:*
+mention this one gem.*
 
 The very last episode of the Season mainly focuses on the trial of one
 former president who is accused of treason due to surrendering to the
