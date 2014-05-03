@@ -6,7 +6,7 @@ Beethoven's Symphony 9
 
 
 
-I was led to listen to Beethoven's `critically-acclaimed`_ "Symphony No.
+I was led to listen to Beethoven's `critically-acclaimed`__ "Symphony No.
 9". Well, this may be because I'm a novice regarding Classical music, but I didn't
 find anything amazing in there. Let's call it acquired taste, but I've
 heard dozens of Classical tracks that were superior. Let's say maybe I
@@ -18,4 +18,4 @@ nothing.
 D minor, Op.125 – "Choral"* and was played by Wiener Philharmoniker,
 Orchestra.
 
-.. _critically-acclaimed: http://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)#Reception
+__ http://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)#Reception
