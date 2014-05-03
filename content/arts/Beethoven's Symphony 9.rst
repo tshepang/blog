@@ -7,7 +7,7 @@ Beethoven's Symphony 9
 
 
 I was led to listen to Beethoven's `critically-acclaimed`_ "Symphony No.
-9". Well, let's say I'm a novice regarding Classical music, but I didn't
+9". Well, this may be because I'm a novice regarding Classical music, but I didn't
 find anything amazing in there. Let's call it acquired taste, but I've
 heard dozens of Classical tracks that were superior. Let's say maybe I
 wasn't focusing much on the music (I was listening to it while browsing
