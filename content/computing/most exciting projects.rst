@@ -14,7 +14,7 @@ These are what I find to be the most exciting projects, today:
   exciting of all Python projects. Two of its sub-projects excite me
   the most:
 
-  - `Transaction Memory`__
+  - `Transactional Memory`__
 
     An approach the simplifies multi-threaded programming while also
     bypassing the GIL. There is still much to do (for one, it only
