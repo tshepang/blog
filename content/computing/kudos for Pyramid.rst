@@ -8,9 +8,9 @@ kudos for Pyramid
 
 ..
 
-   Nothing ever does what you don't expect, 'cause Pyramid components
-   are like super, super industrial rock-solid, and I always trust
-   them a 100%.
+   Nothing ever breaks. Nothing ever does what you don't expect,
+   'cause Pyramid components are like super, super industrial
+   rock-solid, and I always trust them a 100%.
 
    -- `Mike Bayer at PyCon 2014 in Montreal`__
 
