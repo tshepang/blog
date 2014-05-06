@@ -11,8 +11,8 @@ These are what I find to be the most exciting projects, today:
 * PyPy__
 
   It's been alive for over 10 years, but remains among the most
-  exciting of all Python projects. Two of its sub-projects excite me
-  the most:
+  exciting of all Python projects. I greatly anticipate the stable
+  releases of its two most visible sub-projects:
 
   - `Transactional Memory`__
 
