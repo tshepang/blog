@@ -30,14 +30,14 @@ These are what I find to be the most exciting projects, today:
 
     I can't wait for the completion of this one, the Python 3 port of
     PyPy. It's a better language, and I try to avoid Python 2 if I
-    can.
+    can. `This one looks like it will be done at any moment`__.
 
 
 __ http://pypy.org
 __ http://pypy.org/tmdonate2.html
 __ http://pypy.org/tmdonate2.html#work-plan-and-funding-details
 __ http://pypy.org/py3donate.html
-
+__ http://morepypy.blogspot.com/2014/02/py3k-status-update-13.html
 
 * Rust__
 
