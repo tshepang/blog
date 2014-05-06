@@ -24,5 +24,5 @@ XML humor
     -- `profile of the user on a Stack Exchange site`__ (`who keeps changing own username`__)
 
 
-__ http://meta.stackoverflow.com/users/52443
-__ http://meta.stackoverflow.com/a/26518/147166
+__ http://meta.stackexchange.com/users/52443
+__ http://meta.stackexchange.com/a/26518/147166
