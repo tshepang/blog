@@ -19,12 +19,7 @@ These are what I find to be the most exciting projects, today:
     An approach the simplifies multi-threaded programming while also
     bypassing the GIL. There is still much to do (for one, it only
     works on 64-bit Linux) and there is no ETA, but there is a rough
-    estimate:
-
-       We currently expect the duration of the whole project to be up to
-       two years starting from April 2014.
-
-       -- source__
+    estimate... sometime in 2016 :(
 
   - `Python 3 support`__
 
@@ -35,7 +30,6 @@ These are what I find to be the most exciting projects, today:
 
 __ http://pypy.org
 __ http://pypy.org/tmdonate2.html
-__ http://pypy.org/tmdonate2.html#work-plan-and-funding-details
 __ http://pypy.org/py3donate.html
 __ http://morepypy.blogspot.com/2014/02/py3k-status-update-13.html
 
