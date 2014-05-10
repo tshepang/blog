@@ -59,7 +59,7 @@ Or for that special case, a shortcut can just be this simple::
     loop:
         action()
 
-I wonder how cycling through items in a container would look like. In
+I wonder what cycling through items in a container would look like. In
 Python, it looks like::
 
     for item in container:
@@ -114,7 +114,7 @@ study. Interesting.
 
 If someone (me?) were to implement these changes to Python, the result
 would not be named a Python variant (they are just too drastic), but
-more a Python descendent... a better Python.
+more a Python descendent... **a better Python**.
 
 
 __ http://neverworkintheory.org/2014/01/29/stefik-siebert-syntax
