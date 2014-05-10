@@ -34,7 +34,7 @@ including all governments!". But it would be nice if people who shudder
 at the concept to spend time with `that great document`_.
 
 My attraction to the theory perhaps is due to my radically liberal
-tendencies (EG, I don't see anything wrong with fucking my biological
+tendencies (e.g., I don't see anything wrong with fucking my biological
 mother, provided it's consensual, and there's no pregnancy). I don't
 know where these tendencies originate, considering that I was a
 religious nut back in my early teens, scared of the concept of hell and
