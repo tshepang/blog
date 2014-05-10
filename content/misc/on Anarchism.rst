@@ -7,7 +7,7 @@ on Anarchism
 
 
 There have been many great benefits I got from `the Debian project`_,
-but among the most important is my introduction to Anarchism, a radical
+among the most important being an introduction to Anarchism, a radical
 political theory that opposes all forms of official hierarchy
 (capitalism, communism, religion, etc), arguing that such things tend to
 result in oppression.
