@@ -7,7 +7,7 @@ a better Python
 
 `This post`__ led me to an interesting paper titled *An Empirical
 Investigation into Programming Language Syntax*. Now, since I'm a
-Python sucker, here is what I would use change in order to follow
+Python sucker, here is what I would change in Python in order to follow
 advice from `that paper`__::
 
     before       after
