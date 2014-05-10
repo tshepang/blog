@@ -118,4 +118,4 @@ more a Python descendent... **a better Python**.
 
 
 __ http://neverworkintheory.org/2014/01/29/stefik-siebert-syntax
-__ http://dl.acm.org/authorize.cfm?key=6968137
+__ http://dl.acm.org/authorize?6968137
