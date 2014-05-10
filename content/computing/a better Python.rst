@@ -40,7 +40,8 @@ Quorum, the language by those responsible for this paper, went with::
         action()
     end
 
-To mimic that in Python, any of the following two sound fine::
+To mimic that in Python, any of the following two sound fine (I prefer
+*if* to *while*; less syntax is better)::
 
     repeat if count < 3:
         action()
