@@ -107,6 +107,14 @@ Here goes::
     loop index, item in enumerate(container):
         action(index, item)
 
+Now, for the much-loved Python list comprehensions::
+
+   [procedure(item) for item in container]
+
+We would instead have::
+
+   [procedure(item) loop item in container]
+
 So, apart from being highly-rated for being intuitive, *loop* also
 provides a consistent looping construct, whereas Python has 2, *while*
 and *for*, both of which received low points in the
