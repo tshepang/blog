@@ -2,7 +2,7 @@ the one I revere most, after losing Madiba
 ==========================================
 
 :date: 2013-12-12
-:tags: Anarchism
+:tags: politics
 
 
 
