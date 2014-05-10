@@ -40,7 +40,7 @@ Quorum, the language by those responsible for this paper, went with::
         action()
     end
 
-To mimic that, any of the following two sound fine::
+To mimic that in Python, any of the following two sound fine::
 
     repeat if count < 3:
         action()
