@@ -1,5 +1,5 @@
-Python pipe dreams
-==================
+Python wishes
+=============
 
 :tags: Python
 
@@ -26,8 +26,6 @@ them from the exclusiveness of my mind:
 
 * remove ``lambda``; it's not Pythonic, and just feels like a wart;
   it also does a good job of making Python code less readable
-
-* change `def` keyword to `func`; it's more descriptive
 
 
 __ http://bugs.python.org/issue13510#msg186940
