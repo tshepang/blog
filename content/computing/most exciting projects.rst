@@ -1,7 +1,6 @@
 most exciting projects
 ======================
 
-:date: 2014-05-06
 :tags: list, non-Python, Python
 
 
@@ -44,6 +43,12 @@ __ http://pypy.org/py3donate.html
   The future replacement of Gecko, the HTML rendering
   engine powering Firefox. It is written in Rust.
 
+* cryptography__
+
+  Finally, a solution to the ugly (and fragmented) world of Python
+  cryptography libraries. It is still very incomplete at the moment.
+
 
 __ http://www.rust-lang.org
 __ https://github.com/mozilla/servo
+__ http://cryptography.io
