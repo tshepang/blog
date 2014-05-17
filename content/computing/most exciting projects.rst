@@ -1,5 +1,5 @@
-most exciting projects
-======================
+most exciting software projects
+===============================
 
 :tags: list, non-Python, Python
 
