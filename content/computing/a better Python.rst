@@ -29,25 +29,25 @@ constructs. The preferred alternatives are *repeat* and *loop*. Of
 these, I prefer *loop*, but it does not read as well as *while*::
 
     while count < 3:
-        action()
+        count = action()
 
     loop count < 3:
-        action()
+        count = action()
 
 Quorum, the language by those responsible for this paper, went with::
 
     repeat while (count < 3)
-        action()
+        count = action()
     end
 
 To mimic that in Python, any of the following two sound fine (I prefer
 *if* to *while*; less syntax is better)::
 
     repeat if count < 3:
-        action()
+        count = action()
 
     loop if count < 3:
-        action()
+        count = action()
 
 That means an infinite loop would be::
 
