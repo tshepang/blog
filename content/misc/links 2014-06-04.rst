@@ -1,0 +1,30 @@
+links 2014-06-04
+================
+
+:date: 2014-06-04
+:tags: politics, links
+
+
+
+- Motion Twin IS `a company to work 'for'`__; the French tranlation is
+  not perfect but is close enough to help make sense of the inspiring
+  story.
+
+- `An excellent description on why Anarchy is the best possible
+  society ever imagined`__
+
+- `Great write-up on Gittip`__
+
+- Exploration of an interesting concept... `a balance between
+  resentment and guilt`__
+
+- "`Why we should give free money to everyone`__" - a highly-detailed
+  read, which supports `this dream of mine`__
+
+
+__ http://translate.google.fr/translate?js=n&prev=_t&hl=fr&ie=UTF-8&layout=2&eotf=1&sl=fr&tl=en&u=http://fr.techcrunch.com/2008/08/14/fr-motion-twin-createurs-de-labrutefr-une-startup-pas-comme-les-autres-interview/
+__ http://loupgaroublond.blogspot.com/2008/12/open-source-and-anarchism.html?showComment=1229842200000#c4468517513122259751
+__ http://www.salon.com/2013/10/25/crowdsource_your_salary_an_economy_built_on_love
+__ https://medium.com/building-gittip/2c621dbd7541
+__ https://decorrespondent.nl/541/why-we-should-give-free-money-to-everyone/20798745-cb9fbb39
+__ http://tshepang.net/pipe-dream-basic-income-for-south-african-adults
