@@ -21,10 +21,8 @@ XML humor
     *  XML just shits all over regular expressions like it's Deep Blue teabagging Cthulhu.
     *  Dear motherfucking shit it's so verbose that it even makes Welbog write a big thing about it in his profile and only the best shit makes it into his profile because Bill said so goddamn
 
+    -- `profile of the user on a Stack Exchange site`__ (`who keeps changing own username`__)
 
 
---- `profile of the user on a Stack Exchange site`__ (`who keeps changing own username`__)
-
-
-__ http://meta.stackoverflow.com/users/52443
-__ http://meta.stackoverflow.com/a/26518/147166
+__ http://meta.stackexchange.com/users/52443
+__ http://meta.stackexchange.com/a/26518/147166

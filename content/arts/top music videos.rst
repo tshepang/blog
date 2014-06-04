@@ -51,12 +51,6 @@ all the corresponding tracks:
    frantic. There are a few highlights, but none beats the bridge
    section... nice use of retro visuals and more delicious dancing.
 
-#. `Hey Ya`__ (OutKast)
-
-   The high energy the video invokes, the appeal of seeing
-   a member of OutKast perform, and the VFX makes for an
-   exciting experience.
-
 #. `Respiration`__ (Mos Def & Talib Kweli feat. Common)
 
    Beautiful images of them great rappers strutting their style enhanced
@@ -104,7 +98,6 @@ __ http://www.youtube.com/watch?v=pEEMi2j6lYE
 __ http://www.youtube.com/watch?v=KTGxPiEg7iM
 __ http://www.youtube.com/watch?v=i3_dOWYHS7I
 __ http://www.youtube.com/watch?v=rtczBseiAac
-__ http://www.youtube.com/watch?v=PWgvGjAhvIw
 __ http://www.youtube.com/watch?v=eeTnog5RRQo
 __ http://www.youtube.com/watch?v=sB2_MmtMoIc
 __ http://www.youtube.com/watch?v=dNk3R23Twgw

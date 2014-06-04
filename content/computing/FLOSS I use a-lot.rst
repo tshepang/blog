@@ -2,7 +2,6 @@ FLOSS I use a-lot
 =================
 
 :tags: list
-:date: 2014-03-11
 
 
 
@@ -53,8 +52,8 @@ applications
 
 - **dwm**: `replaced GNOME as my primary desktop environment`__
 - **Evince**: I would love to get a PDF reader with better navigation
-- **Firefox**: I have since settled on this one, abandoning Google
-  Chrome, the previous favorite
+- **Firefox**: I am not happy with its memory consumption, but have
+  nevertheless settled on it
 - **Gnumeric**: it's faster than LibreOffice spreadsheet, and has a
   superior search interface
 - Liferea__: would not be using this had it not been for Google Reader
@@ -73,7 +72,7 @@ __ http://www.transmissionbt.com
 
 miscellaneous tools
 
-- tmux__: amazingly powerul!
+- tmux__: amazingly powerful!
 - **tail**: part of GNU coreutils; indispensable!
 - less__: indispensable!
 - `File Roller`__: nice and simple GUI archive manager

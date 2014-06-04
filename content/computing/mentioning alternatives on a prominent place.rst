@@ -1,7 +1,7 @@
 mentioning alternatives on a prominent place
 ============================================
 
-:tags: untagged
+:tags: list
 :date: 2013-08-27
 
 

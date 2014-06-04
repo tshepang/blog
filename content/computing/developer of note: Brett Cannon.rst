@@ -2,7 +2,7 @@ developer of note: Brett Cannon
 ===============================
 
 :date: 2014-02-24
-:tags: developer-of-note, Python
+:tags: developer-of-note, Python, Gittip
 
 
 
