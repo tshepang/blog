@@ -1,7 +1,7 @@
 links 2012-10-23
 ================
 
-:tags: links
+:tags: links, Python
 :date: 2012-10-23
 
 
