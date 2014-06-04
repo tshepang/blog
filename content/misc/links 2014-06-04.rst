@@ -6,10 +6,6 @@ links 2014-06-04
 
 
 
-- Motion Twin IS `a company to work 'for'`__; the French tranlation is
-  not perfect but is close enough to help make sense of the inspiring
-  story.
-
 - `An excellent description on why Anarchy is the best possible
   society ever imagined`__
 
@@ -22,7 +18,6 @@ links 2014-06-04
   read, which supports `this dream of mine`__
 
 
-__ http://translate.google.fr/translate?js=n&prev=_t&hl=fr&ie=UTF-8&layout=2&eotf=1&sl=fr&tl=en&u=http://fr.techcrunch.com/2008/08/14/fr-motion-twin-createurs-de-labrutefr-une-startup-pas-comme-les-autres-interview/
 __ http://loupgaroublond.blogspot.com/2008/12/open-source-and-anarchism.html?showComment=1229842200000#c4468517513122259751
 __ http://www.salon.com/2013/10/25/crowdsource_your_salary_an_economy_built_on_love
 __ https://medium.com/building-gittip/2c621dbd7541
