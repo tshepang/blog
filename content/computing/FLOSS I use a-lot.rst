@@ -78,7 +78,9 @@ miscellaneous tools
 - `File Roller`__: nice and simple GUI archive manager
 - **Minicom**: use this for some ancient setups at work, for some clients
 - **OpenSSH**: duh!
+- autojump__: makes navigating the filesystem a joy
 
 __ http://tmux.sourceforge.net
 __ http://www.greenwoodsoftware.com/less
 __ http://fileroller.sourceforge.net
+__ https://github.com/joelthelion/autojump

@@ -16,7 +16,7 @@ it has to both be personally useful and I have to like it a lot:
 **file manager**: Nautilus, Emacs (Dired mode)
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
-Uptimed, procps (top, watch), Tracker_, Ex Falso, wajig,
+Uptimed, procps (top, watch), Tracker_, Ex Falso, wajig, autojump,
 xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 
