@@ -11,7 +11,7 @@ These are what I find to be the most exciting projects, today:
 
   It's been alive for over 10 years, but remains among the most
   exciting of all Python projects. I greatly anticipate the stable
-  releases of its two most visible sub-projects:
+  releases of its most visible sub-project:
 
   - `Transactional Memory`__
 
@@ -20,17 +20,8 @@ These are what I find to be the most exciting projects, today:
     works on 64-bit Linux) and there is no ETA, but there is a rough
     estimate... sometime in 2016 :(
 
-  - `Python 3 support`__
-
-    I can't wait for the completion of this one, the Python 3 port of
-    PyPy. It's a better language, and I try to avoid Python 2 if I
-    can. There is also no ETA, but I expect the work to be complete
-    sometime in 2014.
-
-
 __ http://pypy.org
 __ http://pypy.org/tmdonate2.html
-__ http://pypy.org/py3donate.html
 
 * Rust__
 
