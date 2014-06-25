@@ -22,7 +22,7 @@ OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 
 **spreadsheet:** gnumeric
 
-**terminal emulator**: GNOME Terminal
+**terminal emulator**: Xfce Terminal
 
 **virtualisation**: VirtualBox
 

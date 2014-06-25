@@ -50,6 +50,7 @@ entertainment
 
 applications
 
+- **Xfce Terminal**: nicer than my previous favorite, GNOME Terminal
 - **dwm**: `replaced GNOME as my primary desktop environment`__
 - **Evince**: I would love to get a PDF reader with better navigation
 - **Firefox**: I am not happy with its memory consumption, but have
