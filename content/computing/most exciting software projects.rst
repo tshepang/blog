@@ -15,7 +15,7 @@ These are what I find to be the most exciting projects, today:
 
   - `Transactional Memory`__
 
-    An approach the simplifies multi-threaded programming while also
+    An approach that simplifies multi-threaded programming while also
     bypassing the GIL. There is still much to do (for one, it only
     works on 64-bit Linux) and there is no ETA, but there is a rough
     estimate... sometime in 2016 :(
