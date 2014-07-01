@@ -125,6 +125,6 @@ Issues
 
 
 __ http://www.youtube.com/watch?v=Xq-ZBke68tA
-__ http://www.laptopdirect.co.za/Sony-VAIO-SVP-13212SGBI-lp-78188.php
+__ http://www.comx.co.za
 __ https://wiki.archlinux.org/index.php/Sony_Vaio_Pro_SVP-1x21#Sound
 __ http://tshepang.net/a-bit-of-benchmarking
