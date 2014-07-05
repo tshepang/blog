@@ -26,8 +26,8 @@ __ http://pypy.org/tmdonate2.html
 * Rust__
 
   A new programming language meant to replace the likes of C/C++,
-  while also claimed to be a technically superior competitor to Go. It
-  does not look like there is a date for the first stable release.
+  while also claimed to be a technically superior competitor to Go.
+  ETA for the first stable reelase (1.0) is end of 2014.
 
 * Servo__
 
