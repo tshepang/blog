@@ -34,7 +34,7 @@ STATIC_PATHS = ['images', 'CNAME']
 # http://oncrashreboot.com/elegant-a-clean-theme-for-pelican-with-search-feature
 SOCIAL_PROFILE_LABEL = 'Stay in Touch'
 USE_FAVICON = True
-PLUGIN_PATH = '../pelican-plugins'
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'neighbors', 'assets']
 SITEMAP = {'format': 'xml'}
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives',
