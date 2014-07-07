@@ -68,7 +68,7 @@ with::
 
 The latter format, though it presents less of a cognitive burden,
 feels less of an obvious solution, and it's a bit uglier as
-well. `PEP 380` is a detailed discussion written over 10 years ago
+well. `PEP 380`__ is a detailed discussion written over 10 years ago
 when the syntax was first added to the language.
 
 
