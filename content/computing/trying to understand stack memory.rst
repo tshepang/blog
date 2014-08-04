@@ -14,7 +14,6 @@ easier-to-use low-level language:
 .. sourcecode:: rust
 
    fn main() {
-
        let a = 0i8;
        let b = 0i8;
        let c = 0i8;
@@ -43,7 +42,6 @@ address:
 .. sourcecode:: rust
 
    fn main() {
-
        let a = 0i16;
        let b = 0i16;
        let c = 0i16;
