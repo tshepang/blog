@@ -31,10 +31,11 @@ We build and run it like this::
   0x7fff0c8d16d5
 
 In our code, the three variables are each given 1 byte of memory
-(``i8`` means 8-bit integer). The addresses are given in reverse order
-for a reason I'm not sure of. One person explained that the reason was
-so that the heap can begin right where the stack started, only in the
-opposite direction. I suppose this would be for performance reasons.
+(``i8`` means 8-bit integer). The addresses are given in reverse
+order. An explanation I heard is so that the heap grows the opposite
+direction to the stack, which helps separate things nicely. I suppose
+this would be for performance reasons and/or simpler memory management
+code.
 
 If we use large types, we'll see each value taking more than just one
 address:
