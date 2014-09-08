@@ -8,7 +8,7 @@ more kudos for Pyramid
 
 ..
 
-   Pyramid is a tremendous volunteer effort that exists only through
+   ... Pyramid is a tremendous volunteer effort that exists only through
    the generosity of its contributors.
 
    -- `Steven Piercy appreciating the flagship of the Pylons project`__
