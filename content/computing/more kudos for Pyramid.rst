@@ -13,9 +13,9 @@ more kudos for Pyramid
 
    -- `Steven Piercy appreciating the flagship of the Pylons project`__
 
-----
-
-(`previous kudos`__)
+I'm not sure if there is any one Python web framwork as
+well-respected. The great Mike Beyers (SQLAlchemy) also `gave his
+respects`__ some months ago.
 
 
 __ https://groups.google.com/forum/#!msg/pylons-discuss/CnUcxdivj1o/awW6tBEBzP0J
