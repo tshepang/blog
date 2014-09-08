@@ -18,5 +18,5 @@ well-respected. The great Mike Beyers (SQLAlchemy) also `gave his
 respects`__ some months ago.
 
 
-__ https://groups.google.com/forum/#!msg/pylons-discuss/CnUcxdivj1o/awW6tBEBzP0J
+__ https://groups.google.com/d/msg/pylons-discuss/CnUcxdivj1o/khWoxer66osJ
 __ http://tshepang.net/kudos-for-pyramid
