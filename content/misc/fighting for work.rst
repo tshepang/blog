@@ -33,10 +33,12 @@ tend to ride far with her on my bike (I don't have a helmet small
 enough for the boy). He even hurled abuse to the sister in anger, "you
 are fat", which wasn't taken lightly. Being immature, they each would
 have had the work not go on than allow the other to proceed. This went
-on for several minutes, and me not wanting to impose on either, asked
-their older (15-year-old) sister to intervene. She was rather
-effective, even though she sided more with the 10-year-old, citing
-experience... "what do you know about cutting hair".
+on for several minutes, and as I proved ineffective in having any
+progress, asked their older (15-year-old) sister to do the job, but
+she also sees a chore, so she wasn't very interested. She did
+intervene though, and was rather effective, even though she sided more
+with the 10-year-old, citing experience... "what do you know about
+cutting hair". The 6-year-old eventually relented.
 
 Perhaps I'm pushing it... have you ever seen kids this young cut hair?
 But I was thinking Why The Fuck Not!
