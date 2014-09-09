@@ -13,8 +13,8 @@ The 10-year-old was just about to cut my hair, but being impatient, I
 asked the younger one to do it, just so there's progress by the time
 the older finishes doing whatever she was doing. Little did I know
 hell's about to break loose. As the older one asked the younger one to
-hand over the machine, he refused, and an argument. None of the two
-were relenting, even with my pleading:
+hand over the machine, he refused, and an argument ensued. None of the
+two were relenting, even with my repeated pleading:
 
 * "Please let your brother do the cutting, and you can do the
   finishing touches"
