@@ -42,6 +42,8 @@ Perhaps I'm pushing it... have you ever seen kids this young cut hair?
 But I was thinking Why The Fuck Not!
 
 Anyways, this whole exercise was weird as fuck and so
-unbelievable. It's an interesting display of sibling rivalry, and these
-two do have constant conflicts. I just didn't think they'd also fight
-over who gets to do work.
+unbelievable. It's an interesting display of sibling rivalry, and
+these two do have constant conflicts. I just didn't think they'd also
+fight over who gets to do work. It was also the most impassioned and
+long-drawn I remember seeing between them. Luckily it wasn't violent,
+even though one tried to forcefully take the machine from the other.
