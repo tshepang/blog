@@ -16,9 +16,6 @@ These are what I find to be the most exciting projects, today:
   also bypassing the GIL. There is no ETA, but a rough estimate is
   sometime in 2016 :(
 
-__ http://pypy.org
-__ http://pypy.org/tmdonate2.html
-
 * Rust__
 
   A new programming language meant to replace the likes of C/C++,
@@ -32,5 +29,7 @@ __ http://pypy.org/tmdonate2.html
 
 
 
+__ http://pypy.org
+__ http://pypy.org/tmdonate2.html
 __ http://www.rust-lang.org
 __ https://github.com/mozilla/servo
