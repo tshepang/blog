@@ -7,7 +7,7 @@ most exciting software projects
 
 These are what I find to be the most exciting projects, today:
 
-* PyPI__
+* PyPy__
 
   It's been alive for over 10 years, but remains among the most
   exciting of all Python projects. I greatly anticipate the stable
