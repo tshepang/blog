@@ -7,18 +7,14 @@ most exciting software projects
 
 These are what I find to be the most exciting projects, today:
 
-* PyPy__
+* PyPI__
 
   It's been alive for over 10 years, but remains among the most
   exciting of all Python projects. I greatly anticipate the stable
-  releases of its most visible sub-project:
-
-  - `Transactional Memory`__
-
-    An approach that simplifies multi-threaded programming while also
-    bypassing the GIL. There is still much to do (for one, it only
-    works on 64-bit Linux) and there is no ETA, but there is a rough
-    estimate... sometime in 2016 :(
+  release of its most visible sub-project, `Transactional Memory`__.
+  It's an approach that simplifies multi-threaded programming while
+  also bypassing the GIL. There is no ETA, but a rough estimate is
+  sometime in 2016 :(
 
 __ http://pypy.org
 __ http://pypy.org/tmdonate2.html
