@@ -32,4 +32,4 @@ These are what I find to be the most exciting projects, today:
 __ http://pypy.org
 __ http://pypy.org/tmdonate2.html
 __ http://www.rust-lang.org
-__ https://github.com/mozilla/servo
+__ https://github.com/servo/servo
