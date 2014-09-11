@@ -48,10 +48,9 @@ entertainment
 - **VLC**: ugly interface, solid application
 
 
-applications
+GUI applications
 
 - **Xfce Terminal**: nicer than my previous favorite, GNOME Terminal
-- **dwm**: `replaced GNOME as my primary desktop environment`__
 - **Evince**: I would love to get a PDF reader with better navigation
 - **Firefox**: I am not happy with its memory consumption, but have
   nevertheless settled on it
@@ -65,23 +64,24 @@ applications
 - Transmission__: the only torrent client I have ever used
 - Nautilus: passable GUI file manager
 - **FileZilla**: I should really find something nicer for my SFTP needs
+- `File Roller`__: nice and simple GUI archive manager
 
-__ http://tshepang.net/my-current-desktop-setup
 __ http://lzone.de/liferea
 __ http://www.transmissionbt.com
+__ http://fileroller.sourceforge.net
 
 
 miscellaneous tools
 
+- **dwm**: `replaced GNOME as my primary desktop environment`__
 - tmux__: amazingly powerful!
 - **tail**: part of GNU coreutils; indispensable!
 - less__: indispensable!
-- `File Roller`__: nice and simple GUI archive manager
 - **Minicom**: use this for some ancient setups at work, for some clients
 - **OpenSSH**: duh!
 - autojump__: makes navigating the filesystem a joy
 
+__ http://tshepang.net/my-current-desktop-setup
 __ http://tmux.sourceforge.net
 __ http://www.greenwoodsoftware.com/less
-__ http://fileroller.sourceforge.net
 __ https://github.com/joelthelion/autojump
