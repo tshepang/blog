@@ -22,13 +22,9 @@ __ http://tshepang.net/favorite-floss
 __ http://tshepang.net/tags#wajig-ref
 
 
-editors
-
-- **Emacs**: my favorite
-
-
 software development
 
+- **Emacs**: I also use it as a general text editor
 - **git-cola**: `why me loves it`__
 - **GNU toolchain** (GCC, make, GLibC, ...)
 - **Git**: as if I had a choice... work and open source
