@@ -60,8 +60,8 @@ applications
 - Liferea__: would not be using this had it not been for Google Reader
   shutdown, but am glad they did cuz I like the tool, ugly and unkool
   as it is
-- **Thunderbird**: I prefer Evolution, but it gave me some issues I
-  don't remember
+- **Thunderbird**: I prefer Evolution, but it gave me some issues last
+  time I tried; I don't remember the details
 - Transmission__: the only torrent client I have ever used
 - Nautilus: passable GUI file manager
 - **FileZilla**: I should really find something nicer for my SFTP needs
