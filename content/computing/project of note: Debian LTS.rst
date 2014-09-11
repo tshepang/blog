@@ -16,10 +16,11 @@ project`__, which extends the life of a stable to 5 years, excites me.
 
 It's also super-nice that `contributing to it financially`__ is made
 damn so easy, thanks to Freexian, a company run by a great Debian
-Developer, Raphaël Hertzog. The project is now a few months old, and
+Developer, `Raphaël Hertzog`__. The project is now a few months old, and
 has achieved moderate success (`latest status report`__).
 
 
 __ https://wiki.debian.org/LTS
 __ http://www.freexian.com/services/debian-lts.html
+__ http://raphaelhertzog.com
 __ http://raphaelhertzog.com/2014/09/10/freexians-first-report-about-debian-long-term-support
