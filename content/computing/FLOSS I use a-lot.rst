@@ -63,7 +63,7 @@ applications
 - **Thunderbird**: I prefer Evolution, but it gave me some issues I
   don't remember
 - Transmission__: the only torrent client I have ever used
-- Nautilus: favorite GUI file manager
+- Nautilus: passable GUI file manager
 - **FileZilla**: I should really find something nicer for my SFTP needs
 
 __ http://tshepang.net/my-current-desktop-setup

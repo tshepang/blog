@@ -13,7 +13,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **development**: Python, Emacs, git-cola_
 
-**file manager**: Nautilus, Emacs (Dired mode)
+**file manager**: Bash, Emacs (Dired mode)
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
 Uptimed, procps (top, watch), Tracker_, Ex Falso, wajig, autojump,
