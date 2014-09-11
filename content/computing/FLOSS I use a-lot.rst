@@ -25,8 +25,6 @@ __ http://tshepang.net/tags#wajig-ref
 editors
 
 - **Emacs**: my favorite
-- **Vim**: it happens to be installed on a lot of systems at work,
-  and I do like it somewhat
 
 
 software development
