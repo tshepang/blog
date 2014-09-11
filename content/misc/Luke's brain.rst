@@ -9,7 +9,8 @@ Luke's brain
 
     My brain did not evolve to have accurate intuitions about what is
     morally right or wrong or rational. My brain evolved to eat and
-    fuck.
+    fuck. So I have no reason to trust my intuitions about "right" or
+    "wrong" or "rational."
 
     -- `In Defense of Radical Value Pluralism`__
 
