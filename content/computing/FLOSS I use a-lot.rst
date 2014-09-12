@@ -30,6 +30,8 @@ software development
 - **Git**: as if I had a choice... work and open source
 - **Mercurial**: my favorite
 - Meld__: the most excellent diff tool I've used yet
+- **CPython**: I spend more time with Python as compared to any other
+  programming language
 
 __ http://tshepang.net/project-of-note-git-cola
 __ http://meldmerge.org
