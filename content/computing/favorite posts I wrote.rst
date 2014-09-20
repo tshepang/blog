@@ -2,7 +2,7 @@ favorite posts I wrote
 ======================
 
 :date: 2014-09-20
-:tags: wajig, Debian, Python
+:tags: wajig, Debian, Python, blogging
 
 
 
