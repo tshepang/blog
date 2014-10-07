@@ -1,0 +1,28 @@
+links 2014-10-07
+================
+
+:date: 2014-10-07
+:tags: Debian, Python, non-Python, non-FLOSS, links
+
+
+
+* `A nice article`__ on the need for people with different roles in a
+  single project: manager and craftsman
+
+* `A nice article`__ on revamping psutil API psutil; it's a Python
+  library that provides easy and cross-platform process control
+
+* `A thorough (and satisfying) article`__ on why Go rocks, as compared to
+  Python... perhaps the best I've read
+
+* `SteamOS is based on Debian 7 "wheezy"`__
+
+* `Debian Developers and Maintainers`__ are given gratis access to
+  play Valve games
+
+
+__ http://www.enricozini.org/2014/debian/on-responsibilities
+__ http://grodola.blogspot.com/2014/01/psutil-20-porting.html
+__ https://www.spacemonkey.com/blog/posts/go-space-monkey
+__ http://richardhartmann.de/blog/posts/2013/12/14-SteamOS
+__ https://lists.debian.org/debian-devel-announce/2014/01/msg00006.html
