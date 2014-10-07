@@ -15,10 +15,10 @@ links 2014-10-07
 * `A thorough (and satisfying) article`__ on why Go rocks, as compared to
   Python... perhaps the best I've read
 
-* `SteamOS is based on Debian 7 "wheezy"`__
+* `SteamOS is based on Debian 7 "wheezy"`__; a Debian
 
 * `Debian Developers and Maintainers`__ are given gratis access to
-  play Valve games
+  play Valve games; another Debian win
 
 
 __ http://www.enricozini.org/2014/debian/on-responsibilities
