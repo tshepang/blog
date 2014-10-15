@@ -6,7 +6,7 @@ wajig 2.1 released
 
 
 
-Today I released `a new version of wajig`_, first time in about half a
+Today I released `a new version of wajig`__, first time in about half a
 year. It's not even like there's some major stuff or anything;
 I just haven't put as much time. Regardless, it's quite a good release.
 
@@ -31,4 +31,5 @@ One of the changes is getting rid of gjig, the GUI interface.
    GTK+ support for that Python version isn't exactly mature (at time of
    writing), I felt that I was being held back.
 
-.. _a new version of wajig: http://packages.qa.debian.org/w/wajig/news/20110427T131707Z.html
+
+__ http://packages.qa.debian.org/w/wajig/news/20110427T131707Z.html
