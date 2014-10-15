@@ -18,8 +18,6 @@ far more advanced: it was initially built as a replacement for the
 tools that build CPython documentation, which is quite extensive and
 needs lots of rails.
 
---------------
-
 As an example of that power, have a look at `these changes I made`__ for
 pyramid_tutorials__. In that commit, the feature I used allows you to
 include code snippets directly from files, instead of doing the
