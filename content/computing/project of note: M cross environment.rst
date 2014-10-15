@@ -9,14 +9,14 @@ I spend several hours researching how to build a Qt app (written in C++)
 on Debian for users who will run it on Windows.
 I also wanted it be just one binary at the end so that deployment is just
 a matter of copying and running the one executable.
-This means I needed to statically-compile the app,
-and the sad news is that I first needed to build Qt itself statically.
+This means I needed to statically-link the app,
+and the sad news is that I first needed a statically-linked Qt.
 
 If I had actually known of `M cross environment`_ (MXE), I would have
 shaved nearly all of those 'wasted' hours. I am very grateful to the
 developers, especially because building Qt was mainly a matter of
 installing `a few build dependencies`_ and running ``make qt``. An hour
-or two later, I had newly cross-compiled Qt waiting for my use. It was
+or two later, I had a newly cross-compiled Qt waiting for my use. It was
 also pleasant that the app, in a form of a ``.exe`` file, just worked on
 Windows 7.
 
