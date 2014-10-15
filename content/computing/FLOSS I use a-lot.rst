@@ -60,7 +60,7 @@ GUI applications
 - **Thunderbird**: I prefer Evolution, but it gave me some issues last
   time I tried; I don't remember the details
 - Transmission__: the only torrent client I have ever used
-- **Nautilus**: passable GUI file manager
+- **Nautilus**: decent GUI file manager, but I wish it was less crash-prone
 - **FileZilla**: I should really find something nicer for my SFTP needs
 - `File Roller`__: nice and simple GUI archive manager
 
@@ -72,7 +72,7 @@ __ http://fileroller.sourceforge.net
 miscellaneous tools
 
 - **dwm**: `replaced GNOME as my primary desktop environment`__
-- tmux__: amazingly powerful!
+- tmux__: amazingly powerful, but I wish it had less rendering bugs
 - **tail**: part of GNU coreutils; indispensable!
 - less__: indispensable!
 - **Minicom**: use this for some ancient setups at work, for some clients
