@@ -1,7 +1,7 @@
 favorite posts I wrote
 ======================
 
-:tags: wajig, Debian, Python, blogging
+:tags: wajig, Debian, Python, blogging, list
 
 
 
