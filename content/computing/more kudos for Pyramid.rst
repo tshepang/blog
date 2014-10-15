@@ -2,7 +2,7 @@ more kudos for Pyramid
 ======================
 
 :date: 2014-09-08
-:tags: Python, quote
+:tags: Python, quote, Pyramid
 
 
 

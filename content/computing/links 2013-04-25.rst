@@ -2,7 +2,7 @@ links 2013-04-25
 ================
 
 :date: 2013-04-25
-:tags: hardware, links
+:tags: hardware, links, Pyramid
 
 
 * `Apple is a scary company`__
