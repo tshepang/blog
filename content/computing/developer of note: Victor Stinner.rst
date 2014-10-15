@@ -35,7 +35,7 @@ serious perseverance.
 In addition to this work, the guy has done a heck of a lot of work in
 cleaning up, refactoring, and optimizing the string-handling code. I
 can't imagine that this stuff is easy, especially since a large
-portion of it is in C, that scary, no-hand-holding language.
+portion of it is in C!
 
 
 .. _PEP: http://www.python.org/dev/peps/pep-0001/
