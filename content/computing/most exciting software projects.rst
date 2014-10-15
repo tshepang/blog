@@ -20,11 +20,11 @@ These are what I find to be the most exciting projects, today:
 
   A new programming language meant to replace the likes of C/C++,
   while also claimed to be a technically superior competitor to Go.
-  ETA for the first stable release (1.0) is end of 2014.
+  ETA for the first stable release (1.0) is early 2015.
 
 * Servo__
 
-  The future replacement of Gecko, the HTML rendering
+  A possible future replacement of Gecko, the HTML rendering
   engine powering Firefox. It is written in Rust.
 
 
