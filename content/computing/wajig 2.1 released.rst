@@ -26,12 +26,9 @@ One of the changes is getting rid of gjig, the GUI interface.
 -  Oh, and I'm so afraid of GUI developement, or should I say GTK+. It
    was never an easy domain for me, and I still don't really get it. And
    yes, I've tried. Maybe other toolkits are easier, and I'm too lazy to
-   check them out. I prefer backend stuff, where I don't have to deal
-   with these GUI things.
+   check them out.
 -  I wanted to move wajig forward into Python 3 land, and given that
    GTK+ support for that Python version isn't exactly mature (at time of
-   writing), I felt that I was being held back. And don't ask me why
-   rush for Python 3, because you are not going to get anything stronger
-   than "it's what the kool kids use".
+   writing), I felt that I was being held back.
 
 .. _a new version of wajig: http://packages.qa.debian.org/w/wajig/news/20110427T131707Z.html
