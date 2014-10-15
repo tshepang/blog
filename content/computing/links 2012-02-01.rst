@@ -6,17 +6,17 @@ links 2012-02-01
 
 
 
-- `"A prayer to the programming gods"`__ – decent humor
+- `"A prayer to the programming gods"`__ - decent humor
 
-- `A bit of Zope history, how it rocked, and how it sucked`__ – makes
-   me respect `Pyramid`__ even more.
+- `A bit of Zope history, how it rocked, and how it sucked`__ - makes
+  me respect `Pyramid`__ even more.
 
-- `A scathing read regarding incompencies of developers`__; for the
-   sake of completeness, he should have mentioned that developers
-   often don't have time to fully understand technologies they are
-   often commanded (by employers) to work with.
+- `A scathing read regarding incompencies of developers`__ - for the
+  sake of completeness, he should have mentioned that developers
+  often don't have time to fully understand technologies they are
+  often commanded (by employers) to work with.
 
-- `on the frustrations of waiting too long to get help`__; great humor
+- `on the frustrations of waiting too long to get help`__ - great humor
 
 
 __ http://lukeplant.me.uk/blog/posts/a-prayer-to-the-programming-gods/
