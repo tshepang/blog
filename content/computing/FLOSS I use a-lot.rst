@@ -55,7 +55,7 @@ GUI applications
 - **Gnumeric**: it's faster than LibreOffice spreadsheet, and has a
   superior search interface
 - Liferea__: would not be using this had it not been for Google Reader
-  shutdown, but am glad they did cuz I like the tool, ugly and unkool
+  shutdown, but am glad they did because I like this tool, ugly and unkool
   as it is
 - **Thunderbird**: I prefer Evolution, but it gave me some issues last
   time I tried; I don't remember the details
