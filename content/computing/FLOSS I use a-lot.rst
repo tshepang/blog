@@ -24,7 +24,7 @@ __ http://tshepang.net/tags#wajig-ref
 
 software development
 
-- **Emacs**: I also use it as a general text editor
+- **Emacs**: I also use it as a general purpose text editor
 - **git-cola**: `why me loves it`__
 - **GNU toolchain** (GCC, make, GLibC, ...)
 - **Git**: as if I had a choice... work and open source
