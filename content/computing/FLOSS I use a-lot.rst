@@ -48,8 +48,10 @@ GUI applications
 
 - **Xfce Terminal**: nicer than my previous favorite, GNOME Terminal
 - **Evince**: I would love to get a PDF reader with better navigation
-- **Firefox**: I am not happy with its memory consumption, but have
-  nevertheless settled on it
+- **Firefox**: not as pretty as my previous favorite, Chrome; but that
+  it has a more trustworthy steward (Mozilla vs. Google), and
+  it being less restrictive (Chrome makes it painful to install third
+  party add-ons) makes it a winner
 - **Gnumeric**: it's faster than LibreOffice spreadsheet, and has a
   superior search interface
 - Liferea__: would not be using this had it not been for Google Reader
