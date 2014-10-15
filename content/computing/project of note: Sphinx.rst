@@ -7,7 +7,7 @@ project of note: Sphinx
 
 
 Sphinx__ is a tool that is used to generate documentation from
-reStructuredText__ markup language, and is mainly used in the Python
+reStructuredText__ (rST) markup language, and is mainly used in the Python
 ecosystem. I honor it much for it is a really powerful system, and I
 have come to appreciate it a lot recently, with my work on documentation
 of software that falls under the Pylons project.
@@ -28,7 +28,7 @@ literalinclude__.
 
 Another feature I recently worked with in the recent past is
 `intersphinx_mapping`__. It allows one to generate
-references in reST as if those reference were local. For example, if
+references in rST as if those reference were local. For example, if
 you wanted to generate a link to the CPython ``open()`` built-in
 function, you would need only specify it as ``:func:open``.  This is
 as opposed to finding the actual link and specifying it normally.
