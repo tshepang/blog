@@ -33,7 +33,7 @@ the new functionality in a cross-platform manner. Now, that's some
 serious perseverance.
 
 In addition to this work, the guy has done a heck of a lot of work in
-cleaning up, refactoring, and optimizing the string-handling code. I
+cleaning up, re-factoring, and optimizing the string-handling code. I
 can't imagine that this stuff is easy, especially since a large
 portion of it is in C!
 
