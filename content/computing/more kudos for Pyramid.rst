@@ -11,9 +11,9 @@ more kudos for Pyramid
    ... Pyramid is a tremendous volunteer effort that exists only through
    the generosity of its contributors.
 
-   -- `Steven Piercy appreciating the flagship of Pylons Project`__
+   -- `Steven Piercy appreciating the flagship of the Pylons Project`__
 
-I'm not sure if there is any one Python web framwork as
+I'm not sure if there is any one Python web framework as
 well-respected. The great Mike Beyers (SQLAlchemy) also `gave his
 respects`__ some months ago.
 
