@@ -7,18 +7,18 @@ wajig 2.1 released
 
 
 Today I released `a new version of wajig`_, first time in about half a
-year. It's not even like there's some groundbreaking stuff or anything,
+year. It's not even like there's some major stuff or anything;
 I just haven't put as much time. Regardless, it's quite a good release.
 
-One the changes is getting rid of gjig, the GUI interface.
+One of the changes is getting rid of gjig, the GUI interface.
 
 -  I actually did like it, but it was never a production standard piece
    of code. It was actually quite nifty and useful, but the interface
    was not at all modern or usual. It also needed a lot of polish.
 -  I learned a lot from trying to port it away from the deprecated
-   libglade library to a more modern gtkbuilder (part of GTK+) but the
+   libglade library to a more modern gtkbuilder (part of GTK+). But the
    porting documentation wasn't really good, so I was left with the
-   option doing it from scratch. Not exactly a small task.
+   option of doing it from scratch... not exactly a small task.
 -  Worse still is the fact that there were more pro-looking GUI package
    managers out there.
 -  It didn't keep up with the pace of development wajig. It was a
