@@ -2,7 +2,7 @@ project of note: Sphinx
 =======================
 
 :date: 2013-08-08
-:tags: project-of-note, Python
+:tags: project-of-note, Python, Pyramid
 
 
 
