@@ -10,11 +10,11 @@ missed:
 * reStructuredText__ support is mandatory, and so is being written in
   Python (I is a fanboy).
 
-* Ordered by preference:
+* Landing Page View, ordered by preference:
 
   - The latest post should be displayed in its entirety, followed by
-    an Archives View (just Post title and date) or a subset
-    (i.e. Recent Posts).
+    an Archives View (just Post title and date). A subset of Archives
+    (i.e. Recent Posts) is okay too.
   - It should be an Archives View (or a subset).
   - It should be an About Page.
 
