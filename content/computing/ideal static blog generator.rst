@@ -43,7 +43,7 @@ missed:
   format`__. Maybe there's a good reason, but I want my generator to
   not require anything special in file contents.
 
-* (minor) Ability to determine Publish date from file mtime
+* Ability to determine Publish date from file mtime
 
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
