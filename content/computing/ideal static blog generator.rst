@@ -25,7 +25,7 @@ missed:
 * Publish date should never be placed at the bottom of a Post. It is
   too important a piece metadata to treat this way.
 
-* An option to have clean urls (i.e. trailing ``.html`` removed).
+* An option to have clean URLs (i.e. trailing ``.html`` removed).
 
 * Date-based directory structure should not be mandatory (unlike with
   Tinkerer).
