@@ -19,6 +19,7 @@ C++
 * GCC
 * KDE
 * Libreoffice
+* Photoshop (non-FLOSS)
 
 C#
 --
