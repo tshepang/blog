@@ -18,7 +18,7 @@ C++
 * Firefox
 * GCC
 * KDE
-* OpenOffice.org/Libreoffice
+* Libreoffice
 
 C#
 --
