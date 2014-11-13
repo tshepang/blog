@@ -7,7 +7,6 @@ superstar projects, and associated implementation languages
 C
 -
 
-* GNOME
 * PHP
 * Linux
 * CPython
