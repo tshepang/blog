@@ -7,16 +7,16 @@ superstar projects, and associated implementation languages
 C
 -
 
-* PHP
-* Linux
 * CPython
+* Linux
+* PHP
 
 C++
 ---
 
 * Blender
-* GCC
 * Firefox
+* GCC
 * KDE
 * OpenOffice.org/Libreoffice
 
@@ -34,18 +34,18 @@ Java
 Python
 ------
 
-* Youtube (non-FLOSS)
-* Dropbox__ (non-FLOSS)
-* Disqus (non-FLOSS)
 * Django
 * Mercurial
+* Disqus (non-FLOSS)
+* Dropbox__ (non-FLOSS)
+* Youtube (non-FLOSS)
 
 PHP
 ---
 
-* Facebook (non-FLOSS)
 * Wikipedia
 * Wordpress
+* Facebook (non-FLOSS)
 
 Ruby
 ----
