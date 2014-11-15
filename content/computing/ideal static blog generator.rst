@@ -45,6 +45,15 @@ missed:
 
 * Ability to determine Publish date from file mtime
 
+**nice-to-have**:
+
+* Ability to combine multiple tags. My use case is something like
+  "masterpices I saw first time in 2014", for which I'd use
+  ``[2014-movies][masterpiece]``.
+
+* Ability to show posts linking to current one. I'm not sure how
+  useful this would be though.
+
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 __ http://docs.blogofile.com/en/latest/posts.html
