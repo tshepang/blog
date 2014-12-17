@@ -84,7 +84,7 @@ Issues
   be a frequent need to use, but there are times when something is
   buggy enough to cause OS hangs and other misbehaviour.
 
-* The fan is too quick to kick in, and is a little noisy. Running the
+* The fan is too quick to kick in, and easily gets noisy. Running the
   following commands does not help, at least not in a way I could
   notice::
 
