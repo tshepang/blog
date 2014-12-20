@@ -18,9 +18,9 @@ These are what I find to be the most exciting projects, today:
 
 * Rust__
 
-  A new programming language meant to replace the likes of C/C++,
-  while also claimed to be a technically superior competitor to Go.
-  ETA for the first stable release (1.0) is early 2015.
+  A new programming language meant to replace C++:
+  easier concurrency and good memory safety, while having comparable speed.
+  The most optimistic ETA for the first stable release (1.0) is `March 2015`__.
 
 * Servo__
 
@@ -32,4 +32,5 @@ These are what I find to be the most exciting projects, today:
 __ http://pypy.org
 __ http://pypy.org/tmdonate2.html
 __ http://www.rust-lang.org
+__ http://blog.rust-lang.org/2014/12/12/1.0-Timeline.html
 __ https://github.com/servo/servo
