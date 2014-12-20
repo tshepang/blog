@@ -24,8 +24,7 @@ These are what I find to be the most exciting projects, today:
   exciting of all Python projects. I greatly anticipate the stable
   release of its most visible sub-project, `Transactional Memory`__.
   It's an approach that simplifies multi-threaded programming while
-  also bypassing the GIL. There is no ETA, but a rough estimate is
-  sometime in 2016 :(
+  also bypassing the GIL. A very rough ETA is sometime in 2016.
 
 
 __ http://pypy.org
