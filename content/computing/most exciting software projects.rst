@@ -10,7 +10,7 @@ These are what I find to be the most exciting projects, today:
 * Rust__
 
   A new programming language meant to replace C++:
-  easier concurrency and good memory safety, while having comparable speed.
+  memory safety and easier concurrency, while having comparable speed.
   The most optimistic ETA for the first stable release (1.0) is `March 2015`__.
 
 * Servo__
