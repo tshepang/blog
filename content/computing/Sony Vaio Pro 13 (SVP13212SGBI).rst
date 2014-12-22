@@ -75,9 +75,8 @@ a lot faster though... I've seen sustained read speeds of ~500MB/s.
 Issues
 ------
 
-* The corners of the laptop were less sharp. They make it a little
-  uncomfortable to handle, and at least one person has experienced
-  (slight) pain by being around it.
+* The corners of the laptop are rather sharp,
+  making it a little uncomfortable to handle.
 
 * The power button is not so easy to press, and offers very little
   'feedback'... it has very shallow movement. Luckily there should not
