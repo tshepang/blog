@@ -37,7 +37,7 @@ direction to the stack, which helps separate things nicely. I suppose
 this would be for performance reasons and/or simpler memory management
 code.
 
-If we use large types, we'll see each value taking more than just one
+If we use larger types, we'll see each value taking more than just one
 address:
 
 .. sourcecode:: rust
