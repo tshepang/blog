@@ -2,7 +2,7 @@ trying to understand stack memory
 =================================
 
 :date: 2014-08-04
-:tags: non-Python
+:tags: Rust
 
 
 

@@ -2,7 +2,7 @@ Linux threads are not deterministic
 ===================================
 
 :date: 2014-12-29
-:tags: non-Python
+:tags: Rust
 
 
 By deterministic, I am referring to their scheduling. Here's an

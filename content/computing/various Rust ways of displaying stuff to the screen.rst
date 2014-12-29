@@ -2,7 +2,7 @@ various Rust ways of displaying stuff to the screen
 ===================================================
 
 :date: 2014-12-29
-:tags: non-Python
+:tags: Rust
 
 
 
