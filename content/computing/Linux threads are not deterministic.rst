@@ -56,13 +56,11 @@ Following is what I get with another run::
   rx from t3
   rx from t0
 
-If it was all deterministic (i.e. predictable), it would be::
+If it was all deterministic (i.e. predictable), `t0 tx` would always
+come before `t1 tx`, and `rx from t0` before `rx from t1`, and so
+on.
 
-  t0 tx
-  t1 tx
-  t2 tx
-  t3 tx
-  rx from t0
-  rx from t1
-  rx from t2
-  rx from t3
+I think this is done for performance reasons, where the kernel just
+looks for available slot, running each thread on a best-effort
+basis. My guess is that a more real-time kernel would be more
+predictable.
