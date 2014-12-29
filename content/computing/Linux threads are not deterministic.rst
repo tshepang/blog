@@ -30,7 +30,7 @@ example in Rust::
 What I'm doing there is create 4 child threads, from which I send messages
 that are to be captured by the main thread.
 
-I built it and ran it with::
+I built and ran it with::
 
   rustc --opt-level 0 main.rs && ./main
 
