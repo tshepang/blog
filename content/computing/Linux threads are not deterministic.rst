@@ -1,7 +1,7 @@
 Linux threads are not deterministic
 ===================================
 
-:date: 2014-12-29
+:date: 2015-01-04
 :tags: Rust
 
 
@@ -9,6 +9,7 @@ By deterministic, I am referring to their scheduling. Here's an
 example in Rust::
 
   use std::thread::Thread;
+  use std::sync::mpsc::channel;
 
   fn main() {
       let thread_count = 4u;
@@ -18,12 +19,12 @@ example in Rust::
           let tx = tx.clone();
           Thread::spawn(move || {
               println!("t{} tx", x);
-              tx.send(x);
+              tx.send(x).unwrap();
           }).detach();
       }
 
       for _ in range(0, thread_count) {
-          println!("rx from t{}", rx.recv());
+          println!("rx from t{}", rx.recv().unwrap());
       }
   }
 
