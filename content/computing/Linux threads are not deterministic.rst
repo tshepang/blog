@@ -62,6 +62,6 @@ come before ``t1 tx``, and ``rx from t0`` before ``rx from t1``, and so
 on.
 
 I think this is done for performance reasons, where the kernel just
-looks for available slot, running each thread on a best-effort
+looks for an available slot, running each thread on a best-effort
 basis. My guess is that a more real-time kernel would be more
 predictable.
