@@ -1,7 +1,7 @@
 Linux threads are not deterministic
 ===================================
 
-:date: 2015-01-04
+:date: 2015-01-07
 :tags: Rust
 
 
@@ -20,7 +20,7 @@ example in Rust::
           Thread::spawn(move || {
               println!("t{} tx", x);
               tx.send(x).unwrap();
-          }).detach();
+          });
       }
 
       for _ in range(0, thread_count) {
