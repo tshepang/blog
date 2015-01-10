@@ -78,8 +78,12 @@ miscellaneous tools
 - **Minicom**: use this for some ancient setups at work, for some clients
 - **OpenSSH**: duh!
 - autojump__: makes navigating the filesystem a joy
+- Fabric__: I use it to build and deploy my blogs... it's some sort of
+  replacement for shell scripting
+
 
 __ http://tshepang.net/my-current-desktop-setup
 __ http://tmux.sourceforge.net
 __ http://www.greenwoodsoftware.com/less
 __ https://github.com/joelthelion/autojump
+__ http://fabfile.org

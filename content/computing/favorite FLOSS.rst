@@ -18,7 +18,7 @@ it has to both be personally useful and I have to like it a lot:
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
 Uptimed, procps (top, watch), Ex Falso, wajig, autojump,
 coreutils (wc, tail), LinkChecker_, Iotop_, man_,
-OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
+OpenSSH, vnstat_, tmux_, File Roller, youtube-dl
 
 **spreadsheet:** gnumeric
 
@@ -49,5 +49,4 @@ OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 .. _Bitbucket: http://bitbucket.org
 .. _vnstat: http://humdi.net/vnstat
 .. _tmux: http://tmux.sourceforge.net
-.. _Fabric: http://fabfile.org
 .. _Rust: http://rust-lang.org
