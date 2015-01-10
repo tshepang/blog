@@ -17,7 +17,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
 Uptimed, procps (top, watch), Ex Falso, wajig, autojump,
-xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
+coreutils (wc, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 
 **spreadsheet:** gnumeric
@@ -39,7 +39,6 @@ OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 .. _dwm: http://dwm.suckless.org
 .. _Sudo: http://tshepang.net/project-of-note-sudo
 .. _reprepro: http://tshepang.net/project-of-note-reprepro
-.. _xfrun4: http://tshepang.net/xfrun4-rocks
 .. _linkchecker: http://tshepang.net/project-of-note-linkchecker
 .. _Iotop: http://guichaz.free.fr/iotop
 .. _man: http://en.wikipedia.org/wiki/Man_page
