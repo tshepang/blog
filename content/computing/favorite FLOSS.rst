@@ -20,7 +20,7 @@ Uptimed, procps (top, watch), Ex Falso, wajig, autojump,
 coreutils (wc, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_, tmux_, File Roller, youtube-dl
 
-**spreadsheet:** gnumeric
+**spreadsheet**: gnumeric
 
 **terminal emulator**: Xfce Terminal
 
