@@ -80,6 +80,8 @@ miscellaneous tools
 - autojump__: makes navigating the filesystem a joy
 - Fabric__: I use it to build and deploy my blogs... it's some sort of
   replacement for shell scripting
+- VirtualBox: pretty much the only virtualisation tool I use;
+  My use is extensive... I often leave a virtual machine running for days
 
 
 __ http://tshepang.net/my-current-desktop-setup
