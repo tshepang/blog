@@ -7,21 +7,9 @@ companies I deeply appreciate
 -  `Red Hat`_ contributes more to `FLOSS`_ than any other company,
    employing hundreds of developers to work full-time on it.
 
--  Google
-
-   -  Runs `the Summer of Code program`_, which pays hundreds of
-      students to work full-time for a few months on FLOSS projects of
-      their choosing.
-
-   -  Provides Gmail for gratis, which I use as my primary web address.
-
-   -  Funds the development of Chromium,
-      a very credible alternative to the world's major web browsers,
-      which also happens to be FLOSS.
-
-   -  Funds most of the development of Android, which is quickly
-      becoming the dominant platform for high-end phones, and also
-      happens to be mostly FLOSS (though I hate the closed development).
+-  Google runs `the Summer of Code program`_, which pays hundreds of
+   students to work full-time for a few months on FLOSS projects of
+   their choosing.
 
 -  The `Stack Exchange`_ family of sites attempt to provide the best Q&A
    for a wide array of topics. They have succeeded specifically in one
