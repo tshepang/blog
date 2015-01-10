@@ -11,7 +11,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **desktop**: dwm_
 
-**development**: Python, Emacs, git-cola_
+**development**: Rust_, Python, Emacs, git-cola_
 
 **file manager**: Bash, Emacs (Dired mode)
 
@@ -52,3 +52,4 @@ OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 .. _vnstat: http://humdi.net/vnstat
 .. _tmux: http://tmux.sourceforge.net
 .. _Fabric: http://fabfile.org
+.. _Rust: http://rust-lang.org
