@@ -16,7 +16,7 @@ it has to both be personally useful and I have to like it a lot:
 **file manager**: Bash, Emacs (Dired mode)
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
-Uptimed, procps (top, watch), Tracker_, Ex Falso, wajig, autojump,
+Uptimed, procps (top, watch), Ex Falso, wajig, autojump,
 xfrun4_, coreutils (wc, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 
@@ -34,7 +34,6 @@ OpenSSH, vnstat_, tmux_, File Roller, Fabric_, youtube-dl
 
 
 .. _git-cola: http://tshepang.net/project-of-note-git-cola
-.. _Tracker: http://projects.gnome.org/tracker
 .. _FLOSS: http://en.wikipedia.org/wiki/Free_and_open-source_software
 .. _rdiff-backup: http://tshepang.net/project-of-note-rdiff-backup
 .. _dwm: http://dwm.suckless.org
