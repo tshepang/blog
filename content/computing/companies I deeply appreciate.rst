@@ -12,8 +12,7 @@ companies I deeply appreciate
    their choosing.
 
 -  The `Stack Exchange`_ family of sites attempt to provide the best Q&A
-   for a wide array of topics. They have succeeded specifically in one
-   topic, programming, in a form of `Stack Overflow`_.
+   for a wide array of topics. The most popular of these is `Stack Overflow`_.
 
 -  Atlassian_ offers Bitbucket_,
    a gratis hosting service for public software projects;
