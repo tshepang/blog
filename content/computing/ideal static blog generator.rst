@@ -8,6 +8,7 @@ Anything not listed below is either stuff I take for granted or simply
 missed:
 
 * reStructuredText__ support is mandatory.
+  It's the only markup language I like.
 
 * Landing Page View, ordered by preference:
 
