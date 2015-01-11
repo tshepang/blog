@@ -27,8 +27,8 @@ These are what I find to be the most exciting projects, today:
   also bypassing the GIL. A very rough ETA is sometime in 2016.
 
 
-__ http://pypy.org
-__ http://pypy.org/tmdonate2.html
 __ http://www.rust-lang.org
 __ http://blog.rust-lang.org/2014/12/12/1.0-Timeline.html
 __ https://github.com/servo/servo
+__ http://pypy.org
+__ http://pypy.org/tmdonate2.html
