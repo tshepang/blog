@@ -41,9 +41,7 @@ missed:
 
 **nice-to-have**:
 
-* Ability to combine multiple tags. My use case is something like
-  "masterpices I saw first time in 2014", for which I'd use
-  ``[2014-movies][masterpiece]``.
+* Ability to combine multiple tags.
 
 * Ability to show posts linking to current one. I'm not sure how
   useful this would be though.
