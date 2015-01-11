@@ -7,8 +7,7 @@ ideal static blog generator
 Anything not listed below is either stuff I take for granted or simply
 missed:
 
-* reStructuredText__ support is mandatory, and so is being written in
-  Python (I is a fanboy).
+* reStructuredText__ support is mandatory.
 
 * Landing Page View, ordered by preference:
 
