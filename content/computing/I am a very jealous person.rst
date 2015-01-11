@@ -24,9 +24,9 @@ like:
   Bitbucket), my preferred VCS. Damn, even `the website looks
   better`__.
 
-* Markdown is a far more popular light-weight markup language than my
-  favorite, reStructuredText, which is far more advanced. It's
-  particularly sad when it's not used where it's needed
+* Markdown is a far more popular light-weight markup language than
+  the far more advanced reStructuredText.
+  It's particularly sad when it's not used where it's needed
   most... documenting large projects (example__).
 
 
