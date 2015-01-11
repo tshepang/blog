@@ -26,7 +26,7 @@ like:
   better`__.
 
 * Markdown is a far more popular light-weight markup language than
-  the far more advanced reStructuredText.
+  the far more advanced reStructuredText__.
   It's particularly sad when it's not used where it's needed
   most... documenting large projects (example__).
 
@@ -35,4 +35,5 @@ __ http://tshepang.net/project-of-note-discourse
 __ https://www.digitalocean.com/blog_posts/try-ghost-a-simple-blogging-platform-for-free
 __ https://caremad.io/blog/a-look-at-pypi-downloads
 __ http://tshepang.net/me-loves-new-git-site-design
+__ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 __ http://doc.rust-lang.org
