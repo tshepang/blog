@@ -17,7 +17,7 @@ that it isn't being suffocated too much by Git:
 
 * OpenJDK__, the top open source implementation of the Java platform
 
-* VIM__ and Netbeans__, two of the most popular text editors first programmers
+* VIM__ and Netbeans__, two of the most popular text editors for programmers
 
 * Sphinx__, documentation generator used in most Python projects
 
