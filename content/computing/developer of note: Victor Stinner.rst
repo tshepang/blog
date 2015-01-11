@@ -12,17 +12,17 @@ CPython, the reference implementation of my favorite programming
 language, you can have hundreds of messages on the mailing
 lists, and at times, many more in the issue tracking system, all
 discussing the change in mind. Such changes are most often accompanied
-with a `PEP`_ (Python Enhancement Proposal), a document
+with a PEP__ (Python Enhancement Proposal), a document
 which is basically a design spec for such a change. It also,
 helpfully, summarises the arguments against the change, and addresses
 them while at it.
 
 Given all that, it can be quite challenging for any one individual to
 champion such important changes, and an example of one such heroic
-individual is `Victor Stinner`_, a core CPython developer. He is the
-most visible of the guys who helped ensure acceptance of `PEP 418`_,
+individual is `Victor Stinner`__, a core CPython developer. He is the
+most visible of the guys who helped ensure acceptance of `PEP 418`__,
 which proposes some time-related additions and improvements to the
-standard library's `time module`_.
+standard library's `time module`__.
 The sheer amount of discussion that went around this
 particular PEP was ridiculous.
 The mailing list discussions were practically endless,
@@ -38,7 +38,7 @@ portion of it is in C! There's a whole lot more work he has done...
 he's among the most prolific of all core CPython developers.
 
 
-.. _PEP: http://www.python.org/dev/peps/pep-0001/
-.. _Victor Stinner: http://www.haypocalc.com/wiki/Accueil
-.. _PEP 418: http://www.python.org/dev/peps/pep-0418/
-.. _time module: http://doc.python.org/library/time
+__ http://www.python.org/dev/peps/pep-0001/
+__ http://www.haypocalc.com/wiki/Accueil
+__ http://www.python.org/dev/peps/pep-0418/
+__ http://doc.python.org/library/time
