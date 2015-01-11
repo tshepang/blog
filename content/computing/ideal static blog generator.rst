@@ -43,7 +43,7 @@ missed:
 
 * Ability to combine multiple tags.
 
-* Ability to show posts linking to current one. I'm not sure how
+* Ability to show posts linking to current one, but I'm not sure how
   useful this would be though.
 
 * A feed icon that is visible from the main page (and maybe Category
