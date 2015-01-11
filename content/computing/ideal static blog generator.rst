@@ -33,9 +33,6 @@ missed:
 
 * Tags (and maybe Categories) should be displayed on each post.
 
-* A feed icon that is visible from the main page (and maybe Category
-  pages).
-
 * Blogofile has a strange requirement of having `post headers be YAML
   format`__. Maybe there's a good reason, but I want my generator to
   not require anything special in file contents.
@@ -50,6 +47,9 @@ missed:
 
 * Ability to show posts linking to current one. I'm not sure how
   useful this would be though.
+
+* A feed icon that is visible from the main page (and maybe Category
+  pages).
 
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
