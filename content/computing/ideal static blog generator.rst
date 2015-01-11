@@ -37,7 +37,7 @@ missed:
   format`__. Maybe there's a good reason, but I want my generator to
   not require anything special in file contents.
 
-* Ability to determine Publish date from file mtime
+* Ability to determine Publish date from file mtime.
 
 **nice-to-have**:
 
