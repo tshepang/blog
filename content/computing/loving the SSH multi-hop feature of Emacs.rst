@@ -42,6 +42,3 @@ Shortcut for that is::
   instead of::
 
     ssh tshepang@hostname
-
-  But this doesn't work with multi-hop for some reason. Looks like a
-  simple bug instead of a hard problem.
