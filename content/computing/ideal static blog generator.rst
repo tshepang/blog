@@ -10,13 +10,10 @@ missed:
 * reStructuredText__ support is mandatory.
   It's the only markup language I like.
 
-* Landing Page View, ordered by preference:
-
-  - The latest post should be displayed in its entirety, followed by
-    an Archives View (just Post title and date). A subset of Archives
-    (i.e. Recent Posts) is okay too.
-  - It should be an Archives View (or a subset).
-  - It should be an About Page.
+* Landing Page should be an Archives View (Post title and date) or a
+  subset (i.e. Recent Posts).  I would not mind if the latest Post or
+  the About Page were displayed, so long as they are followed by this
+  Archives View.
 
 * Categories should be determined by directory into which a file (the
   raw material for a Post) is placed. Specifying this in the metadata
