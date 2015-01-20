@@ -6,7 +6,7 @@ Rust 'collect' function rocks!
 
 
 
-So, I wanted to populate a Vec with some data, so I did it the
+I wanted to populate a Vec with some data, so I did it the
 following way::
 
   let mut vector = Vec::new();
