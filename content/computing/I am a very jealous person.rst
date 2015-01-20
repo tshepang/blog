@@ -33,7 +33,7 @@ like:
 
 __ http://tshepang.net/project-of-note-discourse
 __ https://www.digitalocean.com/blog_posts/try-ghost-a-simple-blogging-platform-for-free
-__ https://caremad.io/blog/a-look-at-pypi-downloads
+__ https://caremad.io/2013/10/a-look-at-pypi-downloads
 __ http://tshepang.net/me-loves-new-git-site-design
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 __ http://doc.rust-lang.org
