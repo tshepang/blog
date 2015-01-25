@@ -9,22 +9,31 @@ These are what I find to be the most exciting projects, today:
 
 * Rust__
 
-  A new programming language meant to replace C++:
-  memory safety and easier concurrency, while having comparable speed.
-  The most optimistic ETA for the first stable release (1.0) is `March 2015`__.
+  A programming language meant to replace C++:
+  it has better memory safety, but maintains comparable speed.
+  The most optimistic ETA for the first stable release (1.0)
+  is `March/April in 2015`__.
 
 * Servo__
 
-  A possible future replacement of Gecko, the HTML rendering
-  engine powering Firefox. It is written in Rust.
+  A browser engine written in Rust.
+  It is far more aggressive than the leading web engines of today
+  (WebKit and Gecko) in terms of making its operations parallel,
+  and should therefore be more responsive.
+  An ETA for an Alpha release is sometime in 2015,
+  but there is a plan to incorporate one of its components into Gecko
+  that same year.
 
 * PyPy__
 
   It's been alive for over 10 years, but remains among the most
-  exciting of all Python projects. I greatly anticipate the stable
-  release of its most visible sub-project, `Transactional Memory`__.
-  It's an approach that simplifies multi-threaded programming while
-  also bypassing the GIL. A very rough ETA is sometime in 2016.
+  exciting of all Python projects.
+
+  I greatly anticipate the stable release of its most visible
+  sub-project, `Transactional Memory`__.  It's an approach that
+  simplifies multi-threaded programming while also bypassing the GIL.
+  A very rough ETA for a stable release of this sub-project is
+  sometime in 2016.
 
 
 __ http://www.rust-lang.org
