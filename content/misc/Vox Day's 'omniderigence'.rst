@@ -10,7 +10,7 @@ I really enjoyed reading the section titled Omniderigence in `Vox
 Day`_'s book, 'The Irrational Atheist'. The term, which he coined,
 means the use of one's infinite powers which by the way he disagrees
 with. As far as I've read, his appears the most sensical description
-of Godf I've heard and is a radical departure from what your (stereo)typical
+of God I've heard and is a radical departure from what your (stereo)typical
 Christian would state.
 
 **sidenotes**
