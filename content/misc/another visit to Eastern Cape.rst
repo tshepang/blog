@@ -16,7 +16,7 @@ nearly all our time there in one yard.
 I have never seen a family quite like this. My own (maternal) family is quite
 close, but definitely not as kindly as this one. And by the way, there
 are no exceptions. The love they have, and express, for each other is...
-damn I wish I was a better writer.
+damn I wish I could express self better.
 
 I met Bongo again, and the guy's character hasn't changed a bit... maybe
 even more shy than last time, I can't tell. Lwazi and Siya weren't there
