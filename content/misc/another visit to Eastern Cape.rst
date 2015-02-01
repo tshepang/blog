@@ -13,7 +13,7 @@ experienced. We (me and two friends, who were just as impressed) were
 treated like royalty. We slept there just one night though, so we spent
 nearly all our time there in one yard.
 
-I have never seen a family quite like this. My own family is quite
+I have never seen a family quite like this. My own (maternal) family is quite
 close, but definitely not as kindly as this one. And by the way, there
 are no exceptions. The love they have, and express, for each other is...
 damn I wish I was a better writer.
