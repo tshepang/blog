@@ -7,7 +7,7 @@ another visit to Eastern Cape
 
 `Last time`_, I raved about my experiences at a friend's home place,
 Nyosini. My memory is not to be completely trusted, but this second (or
-third, if we count attending `a funeral`_). one was even better. Such
+third, if we count attending `a funeral`_) one was even better. Such
 hospitality is what I'm sure most people on the planet have never
 experienced. We (me and two friends, who were just as impressed) were
 treated like royalty. We slept there just one night though, so we spent
