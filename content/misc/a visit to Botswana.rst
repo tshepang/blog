@@ -37,5 +37,4 @@ being far more peaceful and having superior living standards (minimal
 crime, kindly people, minimal poverty, far-reaching welfare), has some
 serious smelly bits: abortion and homosexuality are illegal. I was
 shocked by these two, and most especially about the second one. What the
-fuck! And that the residents voted for such (the country is apparently
-very democratic) proves there's still a lot of work to be done.
+fuck!
