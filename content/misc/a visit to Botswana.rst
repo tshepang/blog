@@ -12,7 +12,7 @@ city — Gaborone — which is beautiful, sparse, and vast, when compared to
 my country's own cities.
 
 One of its residents got shocked when I argued that South Africa doesn't
-have a unifying identity, arguing that the country is too diverse to
+have a unifying identity; I argued that the country is too diverse to
 have such. Instead she argued that such is country's very strength which
 led to her pointing out the following wins:
 
