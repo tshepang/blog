@@ -2,6 +2,7 @@ a visit to Eastern Cape
 =======================
 
 :date: 2007-05-07
+:tags: travel
 
 
 

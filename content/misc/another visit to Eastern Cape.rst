@@ -2,6 +2,7 @@ another visit to Eastern Cape
 =============================
 
 :date: 2011-02-28
+:tags: travel
 
 
 
