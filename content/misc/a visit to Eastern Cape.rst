@@ -13,8 +13,9 @@ province for the first time in my life, and the highlight was the
 amazing hospitality granted by the home we stayed during most of the
 visit, and the closeness of family I experienced here is unmatched in
 memory. Notable and positive mention ought be granted to 3 characters
-(Lwazi, Bongo, Siya) for reasons I'm too lazy to mention, much like I
-won't mention yet 3 more characters. [`another visit`_]
+(Lwazi, Bongo, Siya) for reasons I'm too lazy to mention.
+
+(`another visit`_)
 
 .. _Eastern Cape: http://en.wikipedia.org/wiki/Eastern_Cape
 .. _another visit: http://tshepang.net/another-visit-to-eastern-cape
