@@ -11,7 +11,7 @@ These are what I find to be the most exciting projects, today:
 
   A programming language meant to replace C++:
   it has better memory safety, but maintains comparable speed.
-  ETA for the first stable release is 2015-05-15__.
+  The first stable release is `scheduled for 2015-05-15`__.
 
 * Servo__
 
