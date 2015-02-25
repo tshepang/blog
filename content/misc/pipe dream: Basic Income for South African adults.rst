@@ -9,7 +9,7 @@ There are too many people suffering from poverty in South Africa, and
 the quickest way to eliminate it is to provide income for all adult
 citizens (18+). If each of these 30 million individuals earned
 R500/week ($1 is about R10), that would cost R780 billion. Compare
-that to the R900 billion that SARS expectets to make in 2013/2014 tax
+that to the R900 billion that SARS expects to make in 2013/2014 tax
 year.
 
 
