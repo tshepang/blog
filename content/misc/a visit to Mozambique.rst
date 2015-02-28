@@ -26,11 +26,11 @@ city, Maputo. Other issues:
 
 - The condition of Maputo, the city we stayed at, is horrific. It
   looks like a very run-down Durban, and quite large as well. We
-  didn't explore it as much as would have liked, but it's such pain,
+  didn't explore it as much as I would have liked, but it's such pain,
   given the language barriers, as well as hardly having any street
   names or markings on buildings. We were in bad need for a
   guide. Most on the buildings are in a very dilapidated state. A very
-  rough guess over 80% of them, though you'd find something
+  rough guess is over 80% of them, though you'd find something
   gorgeous here and there. The roads are heavily congested and the
   drivers very inconsiderate... the worst I've seen. It's amazing
   there wasn't a traffic accident we've witnessed. Anyways, it was
@@ -39,7 +39,7 @@ city, Maputo. Other issues:
 
 - The prices of stuff was ridiculous. One particularly egregious
   example is the price of eggs as we saw in a franchise that also
-  operates in South Africa. A pack of 60 went for M360 (about R120)!
+  operates in South Africa. A pack of 60 eggs went for M360 (about R120)!
   That's about twice the price in South Africa. Accommodation was
   expensive too; the place we got cost about M2200 and that was the
   cheaper one we could get, but was yet disappointing:
