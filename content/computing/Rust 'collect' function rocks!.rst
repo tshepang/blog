@@ -1,25 +1,25 @@
 Rust 'collect' function rocks!
 ==============================
 
-:date: 2015-01-17
+:date: 2015-03-20
 :tags: Rust
 
 
-
-I wanted to populate a Vec with some data, so I did it the
-following way::
+Here is one way to populate a Vec with some data::
 
   let mut vector = Vec::new();
-  for n in (0 ..COUNT) {
+  for n in 0..COUNT {
       vector.push(n);
   };
 
-I then later found out I can simply do this::
+Alternatively, one can simply do this::
 
-  let vector = (0 ..COUNT).collect::<Vec<i32>>()
+  let vector = (0..COUNT).collect::<Vec<_>>()
 
 The function is also about twice as fast, according to the following
 benchmark::
+
+  #![feature(test)]
 
   extern crate test;
 
@@ -28,7 +28,7 @@ benchmark::
   #[bench]
   fn collect(b: &mut test::Bencher) {
       b.iter(|| {
-          (0 ..COUNT).collect::<Vec<i32>>()
+          (0..COUNT).collect::<Vec<_>>()
       });
   }
 
@@ -36,7 +36,7 @@ benchmark::
   fn no_collect(b: &mut test::Bencher) {
       b.iter(|| {
           let mut vector = Vec::new();
-          for n in (0 ..COUNT) {
+          for n in (0..COUNT) {
               vector.push(n);
           };
           vector
@@ -45,8 +45,5 @@ benchmark::
 
 Here is the output of ``cargo bench``::
 
-  running 2 tests
-  test collect    ... bench:       190 ns/iter (+/- 2)
-  test no_collect ... bench:       364 ns/iter (+/- 8)
-
-  test result: ok. 0 passed; 0 failed; 0 ignored; 2 measured
+  test collect    ... bench:       164 ns/iter (+/- 7)
+  test no_collect ... bench:       346 ns/iter (+/- 8)
