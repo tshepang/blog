@@ -9,7 +9,7 @@ what I like about Rust
   collector, allowing it to maintain C++ execution speeds.
 
 - Naming conventions: ``name_with_underscores`` for variable and
-  function names, as well as``HttpRequest`` instead of ``HTTPRequest``
+  function names, as well as ``HttpRequest`` instead of ``HTTPRequest``
   for type names.
 
 - Error reporting: compile errors are the best I've seen (though I've
