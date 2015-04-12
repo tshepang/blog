@@ -30,8 +30,7 @@ what I like about Rust
   ugly.
 
 - Allowing a trailing comma after a list of items, which is really
-  great for copy-pasting and diffs. I miss this when working with Java
-  and C/C++.
+  great for copy-pasting and diffs.
 
 - Packaging conventions: the build tool, Cargo, enforces that all
   build sources (which may include documentation) are placed in `src/`
