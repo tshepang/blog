@@ -49,6 +49,13 @@ what I like about Rust
     integration system which first ensures that change passes all
     automated tests.
 
+- Allows one to redefine variables, even with different types::
+
+    let foo = 10;
+    let foo = "ten";
+
+  This is convenient.
+
 - The willingness to do *breaking changes*: I have been watching Rust
   development for about a year before its first stable release, and
   the massive upheavals it saw leading to that point is nothing short
