@@ -8,9 +8,11 @@ what I like about Rust
 - Ambitious: the aim of being memory safe without the use of a garbage
   collector, allowing it to maintain C++ execution speeds.
 
-- Naming conventions: ``name_with_underscores`` for variable and
-  function names, as well as ``HttpRequest`` instead of ``HTTPRequest``
-  for type names.
+- Naming conventions:
+
+  + ``name_with_underscores`` for variable and function names
+
+  + ``HttpRequest`` instead of ``HTTPRequest`` for type names
 
 - Error reporting: compile errors are the best I've seen (though I've
   only really seen those of C and C++); they are even color-coded!
