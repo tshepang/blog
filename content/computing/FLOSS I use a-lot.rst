@@ -71,7 +71,7 @@ miscellaneous tools
 
 - **dwm**: `replaced GNOME as my primary desktop environment`__
 - tmux__: amazingly powerful, but I wish it had less rendering bugs
-- **tail**: part of GNU coreutils; indispensable!
+- **head** and **tail**: included in GNU coreutils suite of tools
 - less__: indispensable!
 - **Minicom**: use this for some ancient setups at work, for some clients
 - **OpenSSH**: duh!
