@@ -39,7 +39,7 @@ entertainment
 
 - **Quod Libet**: audio player that comes with a very excellent tag
   editor, **Ex Falso**
-- **VLC**: ugly interface, solid application
+- **VLC**: user interface could be a lot better
 
 
 GUI applications
