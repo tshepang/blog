@@ -58,7 +58,7 @@ GUI applications
 - **Thunderbird**: I prefer Evolution, but it gave me some issues last
   time I tried; I don't remember the details
 - Transmission__: the only torrent client I have ever used
-- **Nautilus**: decent GUI file manager, but I wish it was less crash-prone
+- **Nautilus**: decent GUI file manager
 - **FileZilla**: I should really find something nicer for my SFTP needs
 - `File Roller`__: nice and simple GUI archive manager
 
