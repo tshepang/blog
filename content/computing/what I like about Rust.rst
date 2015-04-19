@@ -17,8 +17,10 @@ what I like about Rust
 - Error reporting: compile errors are the best I've seen (though I've
   only really seen those of C and C++); they are even color-coded!
 
-- Using ``fn`` for a function declaration saves typing, and is not
-  even ambiguous.
+- 2 short keywords:
+
+  + ``fn`` for function declarations
+  + ``use``, instead of ``using`` or ``import``
 
 - The semicolon rule: I initially found it surprising that omitting a
   semicolon after a value is shorthand for returning. I appreciate it
