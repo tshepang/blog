@@ -80,6 +80,7 @@ miscellaneous tools
   replacement for shell scripting
 - VirtualBox: pretty much the only virtualisation tool I use;
   My use is extensive... I often leave a virtual machine running for days
+- youtube-dl__: I prefer watching videos with VLC
 
 
 __ http://tshepang.net/my-current-desktop-setup
@@ -87,3 +88,4 @@ __ http://tmux.sourceforge.net
 __ http://www.greenwoodsoftware.com/less
 __ https://github.com/joelthelion/autojump
 __ http://fabfile.org
+__ http://rg3.github.io/youtube-dl
