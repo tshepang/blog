@@ -2,7 +2,7 @@
 
 """
 $ python blog-post.py 'Fight Club (1999)' movies --tags 2000-movies masterpiece
-$ cat "~/projects/blog/posts/movies/Fight Club (1999).rst"
+$ cat "~/blog/posts/movies/Fight Club (1999).rst"
 Fight Club (1999)
 ================
 
@@ -11,7 +11,7 @@ Fight Club (1999)
 
 
 $ python startpost.py 'I love Python' computing
-$ cat "~/projects/blog/posts/computing/I love Python.rst"
+$ cat "~/blog/posts/computing/I love Python.rst"
 I love Python
 =============
 
@@ -48,9 +48,9 @@ def main():
         filename = '{}.rst'.format(args.title)
 
     if args.category == 'movies':
-        filename = os.path.join('~/projects/blog-movies/content/movies', filename)
+        filename = os.path.join('~/blog-movies/content/movies', filename)
     else:
-        filename = os.path.join('~/projects/blog/content', args.category, filename)
+        filename = os.path.join('~/blog/content', args.category, filename)
     filename = os.path.expanduser(filename)
 
     if os.path.exists(filename):
