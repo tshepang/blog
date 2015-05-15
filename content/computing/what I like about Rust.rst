@@ -44,12 +44,12 @@ what I like about Rust
 
 - Development process:
 
-  + No one, including the Core Team, push to the Rust tree. Each
+  + No one, including the Core Team, pushed to the Rust tree. Each
     person gets their changes reviewed first, and they mostly get
-    approve by someone else.
+    approved by someone else.
 
-  + Merging the changes to the is nearly always done via a continuous
-    integration system which first ensures that change passes all
+  + Merging the changes to the tree is nearly always done via a continuous
+    integration system which first ensures that each change passes all
     automated tests.
 
 - Allows one to redefine variables, even with different types::
