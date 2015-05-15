@@ -60,16 +60,3 @@ what I like about Rust
     }
 
   This is convenient.
-
-- The willingness to do *breaking changes*: I have been watching Rust
-  development for about a year before its first stable release, and
-  the massive upheavals it saw leading to that point is nothing short
-  of overwhelming. It was quite a unique (and exciting) experience,
-  probably unlike anything in history of public software
-  development. This was not easy for a bunch of projects, and even
-  worse for non-trivial ones like Servo__ (which has its own
-  sub-ecosystem). I am, however, very glad that it was done... the
-  pain was worth having a better language.
-
-
-__ https://github.com/servo
