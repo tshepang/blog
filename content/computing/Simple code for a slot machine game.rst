@@ -2,7 +2,7 @@ Simple code for a slot machine game
 ===================================
 
 :date: 2015-05-18
-:author: Anne Jones
+:authors: Anne Jones
 
 
 Basic knowledge in PHP is extremely useful for a computer
