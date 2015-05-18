@@ -42,7 +42,6 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives',
 STATIC_PATHS.append('theme/images')
 TAG_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
-AUTHOR_SAVE_AS = ''
 SITE_LICENSE = '''<a rel="license"
 href="http://creativecommons.org/licenses/by-sa/3.0/"><img
 alt="Creative Commons License" style="border-width:0"
