@@ -75,7 +75,7 @@ Done! With this, you will be able to create a game that has all the
 elements (reel images, moving reels, and payout lines) of a classic
 Vegas slot machine.
 
-*This is a guest post*
+*This is a guest post by Anne Jones*
 
 
 
