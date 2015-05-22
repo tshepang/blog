@@ -17,7 +17,7 @@ This is also a great excuse to write more regularly.
 
 - I read a high quality post titled `Rust ownership, the hard way`__.
   I learned quite a bit going through it, like the meaning of
-  `#[derive(Clone, Copy)]`, which I see a lot but never knew what it
+  ``#[derive(Clone, Copy)]``, which I see a lot but never knew what it
   meant.
   I also learned that there are 7 ways to introduce a variable
   binding (taking ``foo`` as the name of that binding)::
