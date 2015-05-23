@@ -24,7 +24,7 @@ superior.
 
 My `simple rating system`__ gives Makeba 11 points and Mbuli gets a
 15. That's a scary number since it would mean `she's superior to Salif
-Keita`__ and just a point below Burning Spear! This I should revisit.
+Keita`__! This I should revisit.
 
 [**sidenote**] Oh, and I'm sure there's a lot of Miriam's work that I
 haven't trawled through. Either that or Miriam Makeba is, though
