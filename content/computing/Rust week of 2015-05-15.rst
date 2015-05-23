@@ -1,7 +1,7 @@
 Rust week of 2015-05-15
 =======================
 
-:date: 2015-05-21
+:date: 2015-05-23
 :tags: Rust
 
 
@@ -33,7 +33,7 @@ This is also a great excuse to write more regularly.
 
 - I submitted__ some__ documentation__ improvements__. The latter one
   was especially time-consuming, but it helped me explore the
-  ``std::path`` module.
+  ``std::path`` module. It even led me to bump onto `a rustdoc bug`__.
 
 
 __ http://chrismorgan.info/blog/rust-ownership-the-hard-way.html
@@ -41,3 +41,4 @@ __ https://github.com/rust-lang/rust/pull/25629
 __ https://github.com/rust-lang/rust/pull/25656
 __ https://github.com/rust-lang/rust/pull/25659
 __ https://github.com/rust-lang/rust/pull/25666
+__ https://github.com/rust-lang/rust/issues/25673
