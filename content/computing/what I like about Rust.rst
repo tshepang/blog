@@ -54,7 +54,7 @@ what I like about Rust
 
 - Allows one to redefine variables, even with different types:
 
-.. sourcecode:: rust
+  .. sourcecode:: rust
 
     fn main() {
         let foo = 10;
