@@ -1,7 +1,7 @@
 various Rust ways of displaying stuff to the screen
 ===================================================
 
-:date: 2014-12-29
+:date: 2015-05-25
 :tags: Rust
 
 
@@ -10,10 +10,10 @@ Here is a simple way of doing it:
 
 .. sourcecode:: rust
 
-  use std::io;
+  use std::io::{self, Write};
 
   fn main() {
-      io::stdout().write_line("some output");
+      io::stdout().write_all(b"some output\n");
   }
 
 I do however get this warning when I build it::
@@ -27,10 +27,10 @@ Let's kill it:
 
 .. sourcecode:: rust
 
-  use std::io;
+  use std::io::{self, Write};
 
   fn main() {
-      io::stdout().write_line("some output").unwrap();
+      io::stdout().write_all(b"some output").unwrap();
   }
 
 What I did is is call ``unwrap`` which basically asks our operation
@@ -38,10 +38,10 @@ to ``panic!`` in case of some error. Think of it as a shortcut of:
 
 .. sourcecode:: rust
 
-  use std::io;
+  use std::io::{self, Write};
 
   fn main() {
-      match io::stdout().write_line("some output") {
+      match io::stdout().write_all(b"some output\n") {
           Ok(_) => (),
           Err(_) => panic!(),
       }
@@ -53,8 +53,8 @@ Some docs:
 * `core::result::Result::unwrap`__
 * `std::panic!`__
 
-__ http://doc.rust-lang.org/std/io/trait.Writer.html#tymethod.write_line
-__ http://doc.rust-lang.org/core/result/enum.Result.html#method.unwrap
+__ http://doc.rust-lang.org/std/io/trait.Write.html#method.write_all
+__ http://doc.rust-lang.org/std/result/enum.Result.html#method.unwrap
 __ http://doc.rust-lang.org/std/macro.panic!.html
 
 ----
@@ -63,19 +63,19 @@ What if we wanted to do some string formatting:
 
 .. sourcecode:: rust
 
-  use std::io;
+  use std::io::{self, Write};
 
   fn main() {
       let second_word = "output";
-      let text = format!("some {}", second_word);
-      io::stdout().write_line(text.as_slice()).unwrap();
+      let text = format!("some {}\n", second_word);
+      io::stdout().write_all(text.as_bytes()).unwrap();
   }
 
 But there is a shortcut for the code above:
 
 .. sourcecode:: rust
 
-  use std::io;
+  use std::io::{self, Write};
 
   fn main() {
       let second_word = "output";
