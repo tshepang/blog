@@ -9,7 +9,9 @@ Rust week of 2015-05-22
 - I got some clarity on the concept of Traits by re-reading the
   well-written post, `Abstraction without overhead: traits in
   Rust`__. For example, the can be used add methods, even to existing
-  types. Here is a demonstration::
+  types. Here is a demonstration:
+
+  .. sourcecode:: rust
 
     trait Invert {
         fn invert(&self) -> f64;
@@ -27,7 +29,9 @@ Rust week of 2015-05-22
     }
 
   Another example is that one can limit the type of arguments accepted
-  by a function, though it uses something of an ugly syntax::
+  by a function, though it uses something of an ugly syntax:
+
+  .. sourcecode:: rust
 
     fn print_inverse<T: Invert>(foo: T) {
         println!("Inverse: {}", foo.invert());
@@ -36,7 +40,9 @@ Rust week of 2015-05-22
   The ``<T: Invert>`` means this function will only accept ``foo``
   that implements the ``Invert`` trait.
   You can check by calling it with and ``i32``, in which it will
-  succeed::
+  succeed:
+
+  .. sourcecode:: rust
 
     print_inverse(10_i32);
 
@@ -44,7 +50,9 @@ Rust week of 2015-05-22
 
     Inverse: 0.1
 
-  Any other type will fail::
+  Any other type will fail:
+
+  .. sourcecode:: rust
 
     print_inverse(10_f64);
 
@@ -54,7 +62,9 @@ Rust week of 2015-05-22
 
   This allows for a feature named generics, where one can use multiple
   types for the same function. For example, that error will disappear
-  if you got this::
+  if you got this:
+
+  .. sourcecode:: rust
 
     impl Invert for f64 {
         fn invert(&self) -> f64 {
