@@ -1,7 +1,7 @@
 Rust week of 2015-05-22
 =======================
 
-:date: 2015-05-24
+:date: 2015-05-25
 :tags: Rust
 
 
@@ -81,6 +81,9 @@ Rust week of 2015-05-22
 - I re-discovered the convenience function, ``Iterator::cloned``, and
   submitted two related documentation__ improvements__.
 
+- I added syntax highlighting to the `Rust posts on my blog`__ that
+  were missing it. I also updated the code to run on modern Rust.
+
 
 __ http://blog.rust-lang.org/2015/05/11/traits.html
 __ http://stackoverflow.com/q/30413090/321731
@@ -88,3 +91,4 @@ __ http://stackoverflow.com/a/28003842/321731
 __ https://github.com/rust-lang/rust/pull/25736
 __ https://github.com/rust-lang/rust/pull/25756
 __ https://github.com/rust-lang/rust/pull/25758
+__ http://tshepang.net/tags.html#rust-ref
