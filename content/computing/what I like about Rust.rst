@@ -52,7 +52,9 @@ what I like about Rust
     integration system which first ensures that each change passes all
     automated tests.
 
-- Allows one to redefine variables, even with different types::
+- Allows one to redefine variables, even with different types:
+
+.. sourcecode:: rust
 
     fn main() {
         let foo = 10;

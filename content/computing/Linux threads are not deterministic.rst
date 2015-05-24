@@ -6,7 +6,9 @@ Linux threads are not deterministic
 
 
 By deterministic, I am referring to their scheduling. Here's an
-example in Rust::
+example in Rust:
+
+.. sourcecode:: rust
 
   use std::thread::Thread;
   use std::sync::mpsc::channel;

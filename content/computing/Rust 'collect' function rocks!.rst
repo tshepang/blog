@@ -5,19 +5,25 @@ Rust 'collect' function rocks!
 :tags: Rust
 
 
-Here is one way to populate a Vec with some data::
+Here is one way to populate a Vec with some data:
+
+.. sourcecode:: rust
 
   let mut vector = Vec::new();
   for n in 0..COUNT {
       vector.push(n);
   };
 
-Alternatively, one can simply do this::
+Alternatively, one can simply do this:
+
+.. sourcecode:: rust
 
   let vector = (0..COUNT).collect::<Vec<_>>()
 
 The function is also about twice as fast, according to the following
-benchmark::
+benchmark:
+
+.. sourcecode:: rust
 
   #![feature(test)]
 
