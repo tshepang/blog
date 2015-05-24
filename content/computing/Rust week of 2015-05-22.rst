@@ -6,6 +6,18 @@ Rust week of 2015-05-22
 
 
 
+- I bumped onto `an oddity regarding 'pow' method`__... there is no fallback.
+
+- I found that converting a char to a String (or &str) is `not as obvious as I hoped`__.
+
+- I read some of ``std::path`` code which resulted in `some small changes`__.
+
+- I re-discovered the convenience function, ``Iterator::cloned``, and
+  submitted two related documentation__ improvements__.
+
+- I added syntax highlighting to the `Rust posts on my blog`__ that
+  were missing it. I also updated the code to run on modern Rust.
+
 - I got some clarity on the concept of Traits by re-reading the
   well-written post, `Abstraction without overhead: traits in
   Rust`__. For example, the can be used add methods, even to existing
@@ -72,23 +84,11 @@ Rust week of 2015-05-22
         }
     }
 
-- I bumped onto `an oddity regarding 'pow' method`__... there is no fallback.
 
-- I found that converting a char to a String (or &str) is `not as obvious as I hoped`__.
-
-- I read some of ``std::path`` code which resulted in `some small changes`__.
-
-- I re-discovered the convenience function, ``Iterator::cloned``, and
-  submitted two related documentation__ improvements__.
-
-- I added syntax highlighting to the `Rust posts on my blog`__ that
-  were missing it. I also updated the code to run on modern Rust.
-
-
-__ http://blog.rust-lang.org/2015/05/11/traits.html
 __ http://stackoverflow.com/q/30413090/321731
 __ http://stackoverflow.com/a/28003842/321731
 __ https://github.com/rust-lang/rust/pull/25736
 __ https://github.com/rust-lang/rust/pull/25756
 __ https://github.com/rust-lang/rust/pull/25758
 __ http://tshepang.net/tags.html#rust-ref
+__ http://blog.rust-lang.org/2015/05/11/traits.html
