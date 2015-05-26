@@ -62,3 +62,13 @@ what I like about Rust
     }
 
   This is convenient.
+
+- The amount of iterations its design went through during its pre-1.0
+  development, which included numerous breaking changes,
+  was... impressive. That's an indication that what resulted is a far
+  better design than we could have had. The sheer amount of effort
+  taken, which was such a unique experience for me, makes me feel
+  grateful (I watched the activity for about year before 1.0 was
+  released). I am also grateful for the resilient users who kept up
+  with the pain of the frequent changes, for they helped keep the
+  language relevant and exciting, while also providing feedback.
