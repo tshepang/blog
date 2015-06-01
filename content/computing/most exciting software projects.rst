@@ -11,7 +11,6 @@ These are what I find to be the most exciting projects, today:
 
   A programming language meant to replace C++:
   it has better memory safety, but maintains comparable speed.
-  The first stable release is `scheduled for 2015-05-15`__.
 
 * Servo__
 
@@ -36,7 +35,6 @@ These are what I find to be the most exciting projects, today:
 
 
 __ http://www.rust-lang.org
-__ http://blog.rust-lang.org/2015/02/13/Final-1.0-timeline.html
 __ https://github.com/servo/servo
 __ http://pypy.org
 __ http://pypy.org/tmdonate2.html
