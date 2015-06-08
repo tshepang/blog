@@ -20,7 +20,7 @@ Rust week of 2015-05-22
 
 - I got some clarity on the concept of Traits by re-reading the
   well-written post, `Abstraction without overhead: traits in
-  Rust`__. For example, they can be used add methods, even to existing
+  Rust`__. For example, they can be used to add methods, even to existing
   types. Here is a demonstration:
 
   .. sourcecode:: rust
