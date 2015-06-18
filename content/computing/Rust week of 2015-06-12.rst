@@ -1,7 +1,7 @@
 Rust week of 2015-06-12
 =======================
 
-:date: 2015-06-17
+:date: 2015-06-18
 :tags: Rust
 
 
@@ -18,5 +18,5 @@ __ https://github.com/rust-lang/rust/pull/26259
 __ https://github.com/rust-lang/rust/pull/26260
 __ https://github.com/rust-lang/rust/pull/26261
 __ https://github.com/rust-lang/rust/pull/26373
-__ https://github.com/rust-lang/rust/pull/26374
+__ https://github.com/rust-lang/rust/pull/26410
 __ https://github.com/rust-lang/rust/pull/26367
