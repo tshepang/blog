@@ -2,7 +2,7 @@ Up With Donald Byrd (1964)
 ==========================
 
 :date: 2011-01-14
-:tags: jazz, music
+:tags: music
 
 
 

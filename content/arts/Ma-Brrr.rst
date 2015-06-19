@@ -2,7 +2,7 @@ Ma-Brrr
 =======
 
 :date: 2011-01-14
-:tags: music, stage
+:tags: music
 
 We all know that each repeat viewing of a movie is a different
 experience. You can say the same with a stage play, except that it's
@@ -86,4 +86,3 @@ making me a little bit obsessed.
    attention away
 -  miscellaneous: the kids called up on stage were much more fun than on
    previous occasions
-
