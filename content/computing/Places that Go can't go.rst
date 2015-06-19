@@ -2,7 +2,7 @@ Places that Go can't go
 =======================
 
 :date: 2015-06-19
-:tags: Rust, quote
+:tags: Rust, quote, humor
 
 
 ..
@@ -11,7 +11,7 @@ Places that Go can't go
    there are places that it can go that Go can't, or at least today in Go
    you can't go easily... (interrupted with laughter)
 
-   -- `A guest on some podcast`__
+   -- Unintentional humor from `some podcast`__
 
 
 __ http://devchat.tv/js-jabber/161-jsj-rust-with-david-herman
