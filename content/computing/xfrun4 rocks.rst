@@ -2,7 +2,7 @@ xfrun4 rocks
 ============
 
 :date: 2010-05-10
-:tags: GNOME, non-GNOME
+:tags: GNOME
 
 
 
