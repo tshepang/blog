@@ -5,7 +5,7 @@ Rust week of 2015-06-19
 :tags: Rust
 
 
-Work done on the Documentation chapter of the official Rust book:
+Work done on `the Documentation chapter`__ of the official Rust book:
 
 - I submitted a number__ of__ changes__
 
@@ -18,6 +18,7 @@ Elsewhere:
 - I also `want Rust to have a documentation policy`__
 
 
+__ https://doc.rust-lang.org/book/documentation.html
 __ https://github.com/rust-lang/rust/pull/26506
 __ https://github.com/rust-lang/rust/pull/26508
 __ https://github.com/rust-lang/rust/pull/26509
