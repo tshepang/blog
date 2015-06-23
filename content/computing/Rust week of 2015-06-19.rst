@@ -15,7 +15,8 @@ Elsewhere:
 
 - I submitted `some small fix`__
 
-- I also `want Rust to have a documentation policy`__
+- I also `want Rust to have a documentation policy`__. This led to
+  being pointed to API conventions doc, which needed `a markup fix`__.
 
 
 __ https://doc.rust-lang.org/book/documentation.html
@@ -25,3 +26,4 @@ __ https://github.com/rust-lang/rust/pull/26509
 __ https://github.com/rust-lang/rust/issues/26507
 __ https://github.com/rust-lang/rust/pull/26514
 __ https://internals.rust-lang.org/t/lets-have-a-documentation-policy/2279
+__ https://github.com/rust-lang/rfcs/pull/1170
