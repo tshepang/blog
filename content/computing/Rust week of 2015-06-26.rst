@@ -14,7 +14,9 @@ In the Rust tree:
 - I fixed__ one oversight where someone missed removing some obsolete
   doc and annotations while they were removing obsolete code
 
-- I also fixed__ some bad code indents
+- I fixed__ some bad code indents
+
+- I added__ an example for reading from stdin
 
 
 __ https://github.com/rust-lang/cargo/pull/1754
@@ -22,3 +24,4 @@ __ https://github.com/rust-lang/cargo/pull/1755
 __ https://github.com/rust-lang/cargo/pull/1756
 __ https://github.com/rust-lang/rust/pull/26621
 __ https://github.com/rust-lang/rust/pull/26622
+__ https://github.com/rust-lang/rust/pull/26627
