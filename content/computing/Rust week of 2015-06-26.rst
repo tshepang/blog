@@ -5,7 +5,7 @@ Rust week of 2015-06-26
 :tags: Rust
 
 
-I `removed a sentence`__ that is not needed to Cargo documentation.
+I `removed a sentence`__ that is not needed from Cargo documentation.
 I also added `ability to read from $EMAIL environment variable`__ to the
 ``cargo new`` command, and `fixed a small issue`__ in the test suite..
 
