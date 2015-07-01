@@ -1,7 +1,7 @@
 Rust week of 2015-06-26
 =======================
 
-:date: 2015-06-27
+:date: 2015-07-01
 :tags: Rust
 
 
@@ -18,6 +18,8 @@ In the Rust tree:
 
 - I added__ an example for reading from stdin
 
+- I removed__ a misleading sentence
+
 
 __ https://github.com/rust-lang/cargo/pull/1754
 __ https://github.com/rust-lang/cargo/pull/1755
@@ -25,3 +27,4 @@ __ https://github.com/rust-lang/cargo/pull/1756
 __ https://github.com/rust-lang/rust/pull/26621
 __ https://github.com/rust-lang/rust/pull/26622
 __ https://github.com/rust-lang/rust/pull/26627
+__ https://github.com/rust-lang/rust/pull/26724
