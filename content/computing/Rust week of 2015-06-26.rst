@@ -20,6 +20,7 @@ In the Rust tree:
 
 - I removed__ a misleading sentence
 
+- I then fixed__ a typo
 
 __ https://github.com/rust-lang/cargo/pull/1754
 __ https://github.com/rust-lang/cargo/pull/1755
@@ -28,3 +29,4 @@ __ https://github.com/rust-lang/rust/pull/26621
 __ https://github.com/rust-lang/rust/pull/26622
 __ https://github.com/rust-lang/rust/pull/26627
 __ https://github.com/rust-lang/rust/pull/26724
+__ https://github.com/rust-lang/rust/pull/26725
