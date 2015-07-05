@@ -18,7 +18,7 @@ Rust week of 2015-05-22
 - I added syntax highlighting to the `Rust posts on my blog`__ that
   were missing it. I also updated the code to run on modern Rust.
 
-- I got some clarity on the concept of Traits by re-reading the
+- I got some clarity on the concept of traits by re-reading the
   well-written post, `Abstraction without overhead: traits in
   Rust`__. For example, they can be used to add methods, even to existing
   types. Here is a demonstration:
