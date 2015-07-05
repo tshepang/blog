@@ -33,7 +33,7 @@ what I like about Rust
 - Allowing a trailing comma after a list of items, which is really
   great for copy-pasting and diffs.
 
-- Packaging conventions: the build tool, Cargo, enforces that all
+- Packaging conventions: by default, the build tool, Cargo, ensures that all
   build sources (which may include documentation) are placed in `src/`
   in the root of a source distribution.
 
