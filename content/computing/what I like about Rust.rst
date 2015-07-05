@@ -43,7 +43,7 @@ what I like about Rust
 
 - Development process:
 
-  + No one, including the Core Team, pushed to the Rust tree. Each
+  + No one, including the Core Team, pushes anything to the Rust tree. Each
     person gets their changes reviewed first, and they mostly get
     approved by someone else.
 
