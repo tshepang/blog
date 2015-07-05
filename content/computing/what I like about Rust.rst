@@ -48,7 +48,7 @@ what I like about Rust
     approved by someone else.
 
   + Merging the changes to the tree is nearly always done via a continuous
-    integration system which first ensures that each change passes all
+    integration system, which first ensures that each change passes all
     automated tests.
 
 - Allows one to redefine variables, even with different types:
