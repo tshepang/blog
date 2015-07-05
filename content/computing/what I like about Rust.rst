@@ -28,8 +28,7 @@ what I like about Rust
   statements ugly.
 
 - The ``match`` statement is kool (exhaustiveness check, no
-  fall-through, and nice syntax), and makes ``if..else`` chains look
-  ugly.
+  fall-through, and nice syntax).
 
 - Allowing a trailing comma after a list of items, which is really
   great for copy-pasting and diffs.
