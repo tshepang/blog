@@ -27,6 +27,11 @@ what I like about Rust
   now... it's quite nifty, and I in fact now find ``return``
   statements ugly.
 
+- Traits: they are an elegant way of providing abstract interfaces,
+  and are therefore used in generic programming. As an example, a
+  function can be made to accept different data types, so long as
+  those types implement the given trait (or traits). Gorgeous!
+
 - The ``match`` statement is kool (exhaustiveness check, no
   fall-through, and nice syntax).
 
