@@ -49,7 +49,7 @@ what I like about Rust
 
   + Merging the changes to the tree is nearly always done via a continuous
     integration system, which first ensures that each change passes all
-    automated tests.
+    tests.
 
 - Allows one to redefine variables, even with different types:
 
