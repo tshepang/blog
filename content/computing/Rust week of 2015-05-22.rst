@@ -51,7 +51,7 @@ Rust week of 2015-05-22
 
   The ``<T: Invert>`` means this function will only accept ``foo``
   that implements the ``Invert`` trait.
-  You can check by calling it with an ``i32``, in which it will
+  You can check by calling it with an ``i32`` value, in which it will
   succeed:
 
   .. sourcecode:: rust
