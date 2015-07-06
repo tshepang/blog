@@ -1,7 +1,7 @@
 Rust week of 2015-07-03
 =======================
 
-:date: 2015-07-05
+:date: 2015-07-06
 :tags: Rust
 
 
@@ -16,6 +16,8 @@ Rust week of 2015-07-03
 - I added some examples__ of array usage to API docs
 
 - I also made `some improvements`__ to the RFC on coercions
+
+- Back to the Reference, I made two additional__ improvements__.
 
 
 __ https://github.com/rust-lang/rust/pull/26785
@@ -33,3 +35,5 @@ __ https://github.com/rust-lang/rust/pull/26799
 __ https://github.com/rust-lang/rust/pull/26808
 __ https://github.com/rust-lang/rust/pull/26814
 __ https://github.com/rust-lang/rfcs/pull/1189
+__ https://github.com/rust-lang/rust/pull/26834
+__ https://github.com/rust-lang/rust/pull/26835
