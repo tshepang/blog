@@ -13,6 +13,8 @@ Rust week of 2015-07-03
   closure stuff than I cared for:
   **FnOnce**, **FnMut**, and **Fn**.
 
+- I added some examples__ of array usage to API docs
+
 - I also made `some improvements`__ to the RFC on coercions
 
 
@@ -29,4 +31,5 @@ __ https://github.com/rust-lang/rust/pull/26800
 __ http://doc.rust-lang.org/reference.html
 __ https://github.com/rust-lang/rust/pull/26799
 __ https://github.com/rust-lang/rust/pull/26808
+__ https://github.com/rust-lang/rust/pull/26814
 __ https://github.com/rust-lang/rfcs/pull/1189
