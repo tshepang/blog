@@ -22,7 +22,7 @@ what I like about Rust
   + ``fn`` for function declarations
   + ``use``, instead of ``using`` or ``import``
 
-- I love that I don't need to add (the tedious) brackets around the
+- I love that I don't need to add (the tedious) parenthesis around the
   *condition expression* in an *if*, *while*, and *match* statements.
 
 - The semicolon rule: I initially found it surprising that omitting a
