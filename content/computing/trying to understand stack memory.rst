@@ -9,7 +9,7 @@ trying to understand stack memory
 Python is a language that is so high level that concepts like stack
 and heap memory are hidden from its users. Not so with lower-level
 languages like C. Following examples are implemented in Rust, which is
-easier to use:
+easier to use than C:
 
 .. sourcecode:: rust
 
