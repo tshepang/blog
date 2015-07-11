@@ -1,7 +1,6 @@
 top tracks: Burning Spear
 =========================
 
-:date: 2011-11-02
 :tags: music, top-tracks
 
 
@@ -19,7 +18,7 @@ top tracks: Burning Spear
 -  *Marcus Garvey*
 -  *Give Me*
 
-7 excellent works
+10 excellent works
 -----------------
 
 -  *Creation Rebel*
@@ -29,10 +28,6 @@ top tracks: Burning Spear
 -  *Civilise Reggae*
 -  *Live Good*
 -  *Jordan River*
-
-honorable mention
------------------
-
--  Children of Today (*Living Dub - Vol. 1* - 1993); longer version: We
-   Suffer (Original Mix) (*Rare and Unreleased* - 2001)
-
+-  Institution (*Social Living* - 1978)
+-  Mister Garvey (*Social Living* - 1978)
+-  Marcus Children Suffer (*Social Living* - 1978)
