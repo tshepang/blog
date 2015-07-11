@@ -9,7 +9,7 @@ The best musicians in history,
 a list created with the help of `a simple rating system`__.
 
 -  `Fela Kuti`__, 27
--  `Burning Spear`__, 20
+-  `Burning Spear`__, 22
 -  `Letta Mbulu`__, 15
 -  `Salif Keita`__, 14
 -  `Bob Marley`__, 13

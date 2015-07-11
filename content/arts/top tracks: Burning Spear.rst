@@ -10,20 +10,20 @@ top tracks: Burning Spear
 
 -  Old Marcus Garvey (*Marcus Garvey* - 1975)
 
-4 masterpieces
+6 masterpieces
 --------------
 
 -  Tradition (*Marcus Garvey* - 1975)
 -  Invasion aka Black Wa-da-da (*Marcus Garvey* - 1975)
 -  Marcus Garvey (*Marcus Garvey* - 1975)
 -  Give Me (*Marcus Garvey* - 1975)
+-  The Wilderness (*Live in Paris Zenith* - 1988)
+-  Slavery Days (*Marcus Garvey* - 1975)
 
-9 excellent works
+7 excellent works
 -----------------
 
 -  Creation Rebel (*Live in Paris Zenith* - 1988)
--  The Wilderness (*Live in Paris Zenith* - 1988)
--  Slavery Days (*Marcus Garvey* - 1975)
 -  Civilise Reggae (*Social Living* - 1978)
 -  Live Good (*Marcus Garvey* - 1975)
 -  Jordan River (*Marcus Garvey* - 1975)
