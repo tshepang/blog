@@ -18,11 +18,10 @@ top tracks: Burning Spear
 -  *Marcus Garvey*
 -  *Give Me*
 
-10 excellent works
+9 excellent works
 -----------------
 
 -  *Creation Rebel*
--  *Lion*
 -  *The Wilderness*
 -  *Slavery Days*
 -  *Civilise Reggae*
