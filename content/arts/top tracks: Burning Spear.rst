@@ -34,5 +34,4 @@ top tracks: Burning Spear
 honorable mentions
 ------------------
 
-- Identity (*(A)Live in Concert '97* - 1998)
 - The Youths (*(A)Live in Concert '97* - 1998)
