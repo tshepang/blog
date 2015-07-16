@@ -20,7 +20,7 @@ top tracks: Burning Spear
 -  The Wilderness (*Live in Paris Zenith* - 1988)
 -  Slavery Days (*Marcus Garvey* - 1975)
 
-7 excellent works
+8 excellent works
 -----------------
 
 -  Creation Rebel (*Live in Paris Zenith* - 1988)
@@ -30,8 +30,4 @@ top tracks: Burning Spear
 -  Institution (*Social Living* - 1978)
 -  Mister Garvey (*Social Living* - 1978)
 -  Marcus Children Suffer (*Social Living* - 1978)
-
-honorable mentions
-------------------
-
-- The Youths (*(A)Live in Concert '97* - 1998)
+-  The Youths (*(A)Live in Concert '97* - 1998)
