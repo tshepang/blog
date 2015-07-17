@@ -30,13 +30,13 @@ top tracks: Fela Kuti
 - **Pansa Pansa** (*Underground System* - 1992)
 - **Eko Ile** (*Afrodisiac* - 1973)
 - **Alu Jon Jonki Jon** (*Afrodisiac* - 1973)
-- **Black Man's Cry** (*Live!* - 1971)
 - **Water No Get Enemy** (*Expensive Shit* - 1975)
 - **Zombie** (*Zombie* - 1978)
 - **Teacher Don't Teach Me Nonsense** (*Teacher Don't Teach Me Nonsense*
   -1986)
 - **Ikoyi Mentality Versus Mushin Mentality** (*Why Black Man Dey Suffer*
   -1971)
+- **Ye Ye de Smell** (*Live!* - 1971)
 
 honorable mention
 -----------------
@@ -51,4 +51,4 @@ honorable mention
 
 - **Trouble Sleep Yanga Wake Am** (*Roforofo Fight* - 1972)
 
-- **Ye Ye de Smell** (*Live!* - 1971)
+- **Black Man's Cry** (*Live!* - 1971)
