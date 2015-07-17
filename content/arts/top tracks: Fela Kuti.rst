@@ -2,7 +2,6 @@ top tracks: Fela Kuti
 =====================
 
 :tags: music, top-tracks
-:date: 2014-03-21
 
 
 
