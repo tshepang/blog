@@ -16,4 +16,4 @@ modern PyGObject, and has led at least one coding sprint to help
 achieve this goal.  He also appears friendly and humble. He rocks!
 
 
-__ https://live.gnome.org/PyGObject
+__ https://wiki.gnome.org/Projects/PyGObject
