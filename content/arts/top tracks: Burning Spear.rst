@@ -10,7 +10,7 @@ top tracks: Burning Spear
 
 -  Old Marcus Garvey (*Marcus Garvey* - 1975)
 
-6 masterpieces
+7 masterpieces
 --------------
 
 -  Tradition (*Marcus Garvey* - 1975)
@@ -19,8 +19,9 @@ top tracks: Burning Spear
 -  Give Me (*Marcus Garvey* - 1975)
 -  The Wilderness (*Live in Paris Zenith* - 1988)
 -  Slavery Days (*Marcus Garvey* - 1975)
+-  Mister Garvey (*Social Living* - 1978)
 
-8 excellent works
+7 excellent works
 -----------------
 
 -  Creation Rebel (*Live in Paris Zenith* - 1988)
@@ -28,7 +29,6 @@ top tracks: Burning Spear
 -  Live Good (*Marcus Garvey* - 1975)
 -  Jordan River (*Marcus Garvey* - 1975)
 -  Institution (*Social Living* - 1978)
--  Mister Garvey (*Social Living* - 1978)
 -  Marcus Children Suffer (*Social Living* - 1978)
 -  The Youths (*(A)Live in Concert '97* - 1998)
 
