@@ -31,3 +31,8 @@ top tracks: Burning Spear
 -  Mister Garvey (*Social Living* - 1978)
 -  Marcus Children Suffer (*Social Living* - 1978)
 -  The Youths (*(A)Live in Concert '97* - 1998)
+
+honorable mention
+-----------------
+
+- Walking (*Spear Burning* - 2001)
