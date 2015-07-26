@@ -16,6 +16,7 @@ a list created with the help of `a simple rating system`__.
 -  `Fugees`__, 12
 -  `Miriam Makeba`__, 11
 -  `The Roots`__, 10
+-  `Michael Jackson`__, 10
 -  `Louis Armstrong`__, 9
 
 
@@ -28,4 +29,5 @@ __ http://tshepang.net/top-tracks-bob-marley
 __ http://tshepang.net/top-tracks-fugees
 __ http://tshepang.net/letta-mbulu-vs-miriam-makeba
 __ http://tshepang.net/top-tracks-the-roots
+__ http://tshepang.net/top-tracks-michael-jackson
 __ http://tshepang.net/top-tracks-louis-armstrong
