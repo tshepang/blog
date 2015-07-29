@@ -8,7 +8,7 @@ top tracks: Gerry Rafferty
 1 masterpiece
 -------------
 
-Baker Street
+- Baker Street
 
 3 excellent works
 -----------------
