@@ -18,9 +18,11 @@ I submitted these to the Rust tree:
 - `Follow idiom`__
 - `Be more specific`__
 - `Add missing info`__
+- `some miscellany`__
 
 
 __ https://github.com/hannobraun/inotify-rs
 __ https://github.com/rust-lang/rust/pull/27495
 __ https://github.com/rust-lang/rust/pull/27549
 __ https://github.com/rust-lang/rust/pull/27550
+__ https://github.com/rust-lang/rust/pull/27552
