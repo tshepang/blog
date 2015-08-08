@@ -1,28 +1,26 @@
 top tracks: Fugees
 ==================
 
-:date: 2012-12-21
+:date: 2015-08-08
 :tags: top-tracks, music, hip-hop
 
 
 
-4 masterpieces
---------------
+9 excellent works
+-----------------
 
 -  How Many Mics
 -  Fu-Gee-La
 -  The Mask
 -  Cowboys
-
-4 excellent works
------------------
-
 -  Ready Or Not
 -  Zealots
 -  The Beast
 -  Manifest
+-  The Score
 
 All these are in one album, `The Score`_, one of the best hip-hop albums ever
-made.
+made (second only to *Doggystyle*).
+
 
 .. _The Score: http://en.wikipedia.org/wiki/The_Score_(album)

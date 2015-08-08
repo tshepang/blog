@@ -13,11 +13,11 @@ a list created with the help of `a simple rating system`__.
 -  `Letta Mbulu`__, 15
 -  `Salif Keita`__, 14
 -  `Bob Marley`__, 13
--  `Fugees`__, 12
 -  `Miriam Makeba`__, 11
 -  `The Roots`__, 10
 -  `Michael Jackson`__, 10
 -  `Louis Armstrong`__, 9
+-  `Fugees`__, 9
 
 
 __ http://tshepang.net/simple-rating-system-for-music
