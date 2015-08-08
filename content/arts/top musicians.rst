@@ -26,7 +26,7 @@ __ http://tshepang.net/top-tracks-burning-spear
 __ http://tshepang.net/letta-mbulu-vs-miriam-makeba
 __ http://tshepang.net/top-tracks-salif-keita
 __ http://tshepang.net/top-tracks-bob-marley
-__ http://tshepang.net/top-tracks-fugees
+__ http://tshepang.net/the-score-1996
 __ http://tshepang.net/letta-mbulu-vs-miriam-makeba
 __ http://tshepang.net/top-tracks-the-roots
 __ http://tshepang.net/top-tracks-michael-jackson
