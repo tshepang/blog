@@ -22,7 +22,7 @@ top tracks: Fugees
 -  The Beast
 -  Manifest
 
-All these are in one album, `The Score`_, the best hip-hop album ever
+All these are in one album, `The Score`_, one of the best hip-hop albums ever
 made.
 
 .. _The Score: http://en.wikipedia.org/wiki/The_Score_(album)
