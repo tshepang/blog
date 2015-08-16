@@ -35,4 +35,4 @@ top tracks: Burning Spear
 honorable mention
 -----------------
 
-- Walking (*Spear Burning* - 2001)
+- Travelling (*Spear Burning* - 2001)
