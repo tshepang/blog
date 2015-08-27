@@ -5,7 +5,7 @@ Rust week of 2015-08-14
 :tags: Rust
 
 
-As usual, I submitted__ these__ rather__ small__ doc__ improvements__.
+As usual, I submitted__ some__ rather__ small__ doc__ improvements__.
 In addition, I also skimmed through some of `The Dark Arts of Advanced
 and Unsafe Rust Programming`__, a pleasant read that's infused with
 good humor all over the place.
