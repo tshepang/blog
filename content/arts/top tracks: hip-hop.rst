@@ -71,8 +71,6 @@ excellent
 special mentions
 ----------------
 
--  Life Goes On (Tupac) - chiefly for being an ex-landmark; am not
-   really enjoying no more
 -  Quiet Storm (Mobb Deep feat. Lil' Kim) - chiefly for having a really
    favorite chorus by the Kim lady
 -  Shove This Jay-Oh-Bee (Canibus) - me loving the so-alive beat
