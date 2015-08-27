@@ -64,7 +64,7 @@ excellent
 -  Travellin' Man (DJ Honda and Mos Def)
 -  Way I Am, The (Eminem)
 -  Woo-Ha (Busta Rhymes)
--  Wot The Do (The Roots)
+-  Wot They Do (The Roots)
 -  You Came Up (Big Pun)
 -  You'll Find A Way (Dead Prez)
 
