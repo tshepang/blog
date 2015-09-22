@@ -16,8 +16,6 @@ a list created with the help of `a simple rating system`__.
 -  `Miriam Makeba`__, 11
 -  `The Roots`__, 10
 -  `Michael Jackson`__, 10
--  `Louis Armstrong`__, 9
--  `Fugees`__, 9
 
 
 __ http://tshepang.net/simple-rating-system-for-music
@@ -26,8 +24,6 @@ __ http://tshepang.net/top-tracks-burning-spear
 __ http://tshepang.net/letta-mbulu-vs-miriam-makeba
 __ http://tshepang.net/top-tracks-salif-keita
 __ http://tshepang.net/top-tracks-bob-marley
-__ http://tshepang.net/the-score-1996
 __ http://tshepang.net/letta-mbulu-vs-miriam-makeba
 __ http://tshepang.net/top-tracks-the-roots
 __ http://tshepang.net/top-tracks-michael-jackson
-__ http://tshepang.net/top-tracks-louis-armstrong
