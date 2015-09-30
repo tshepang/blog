@@ -18,7 +18,7 @@ I submitted these to the Rust tree:
 - `Follow idiom`__
 - `Be more specific`__
 - `Add missing info`__
-- `some miscellany`__
+- `Some miscellany`__
 
 
 __ https://github.com/hannobraun/inotify-rs
