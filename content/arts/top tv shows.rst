@@ -1,7 +1,6 @@
 top tv shows
 ============
 
-:date: 2015-08-26
 :tags: tv
 
 
@@ -25,3 +24,4 @@ I watched them.
 - Death Note
 - Alphas
 - Breaking Bad
+- The Americans
