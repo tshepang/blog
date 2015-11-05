@@ -12,12 +12,10 @@ Rust week of 2015-05-29
 
      fn main() {
          let string = "10";
-
          let num = match string.parse() {
              Ok(num) => num,
              Err(_) => 0,
          };
-
          assert_eq!(num, 10);
      }
 
