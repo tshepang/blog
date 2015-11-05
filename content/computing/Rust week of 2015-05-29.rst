@@ -1,4 +1,4 @@
-Rust week of 2015-05-31
+Rust week of 2015-05-29
 =======================
 
 :date: 2015-05-30
@@ -21,7 +21,7 @@ Rust week of 2015-05-31
          assert_eq!(num, 10);
      }
 
-  A more explicit call ``parse`` call would be
+  A more explicit ``parse`` call would be
   ``string.parse::<i32>()``, but the type to be parsed into is
   inferred by the ``0`` that is returned in the ``Err(_)`` arm of the
   match, which is an i32. This is some far-reaching shit!
