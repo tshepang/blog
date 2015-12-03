@@ -16,9 +16,9 @@ release date for Rust is, using the following code::
 
   fn main() {
       for n in 0.. {
-          let d = NaiveDate::from_ymd(2015, 5, 15);  # Rust 1.0 release
+          let initial = NaiveDate::from_ymd(2015, 5, 15);  # Rust 1.0 release
           # 1.0 was released on a Friday, but nowadays they happen Thursdays
-          let release_date = d.checked_add(Duration::weeks(6 * n)).unwrap() - Duration::days(1);
+          let release_date = intial.checked_add(Duration::weeks(6 * n)).unwrap() - Duration::days(1);
           if release_date > Local::today().naive_local() {
               println!("{}", release_date);
               break;
