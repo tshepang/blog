@@ -8,7 +8,9 @@ Rust week of 2015-11-27
 I added missing__ examples__ to stdlib documentation.
 I also learned a bit about Chrono__, seemingly the most comprehensive
 date and time library for Rust. I used to determine what the next
-release date for Rust is, using the following code::
+release date for Rust is, using the following code:
+
+.. sourcecode:: rust
 
   extern crate chrono;
 
