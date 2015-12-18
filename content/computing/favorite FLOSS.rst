@@ -7,28 +7,18 @@ favorite FLOSS
 For a piece of FLOSS_ (free/libre and open source software) to be here,
 it has to both be personally useful and I have to like it a lot:
 
-**backup:** rdiff-backup_
-
 **desktop**: dwm_
 
-**development**: Rust_, Emacs, git-cola_
+**web browser**: Firefox
+
+**development**: Rust_, Emacs, git-cola_, Mercurial_
 
 **file manager**: Bash, Emacs (Dired mode)
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
-Uptimed, procps (top, watch), Ex Falso, autojump,
-coreutils (cat, tail), LinkChecker_, Iotop_, man_,
-OpenSSH, vnstat_, tmux_, File Roller, youtube-dl
-
-**spreadsheet**: gnumeric
-
-**terminal emulator**: Xfce Terminal
-
-**virtualisation**: QEMU
-
-**version control system**: Mercurial_
-
-**web browser**: Firefox
+Uptimed, procps (top, watch), Ex Falso, autojump, gnumeric
+coreutils (cat, tail), LinkChecker_, Iotop_, man_, rdiff-backup_
+OpenSSH, vnstat_, tmux_, File Roller, youtube-dl, QEMU
 
 **non-FLOSS:** Gmail_, `Stack Exchange`_, Bitbucket_
 
