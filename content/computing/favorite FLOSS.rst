@@ -11,26 +11,26 @@ it has to both be personally useful and I have to like it a lot:
 
 **desktop**: dwm_
 
-**development**: Rust_, Python, Emacs, git-cola_
+**development**: Rust_, Emacs, git-cola_
 
 **file manager**: Bash, Emacs (Dired mode)
 
 **misc utilities:** grep, Sudo_, reprepro_, Lsof, less, Meld,
-Uptimed, procps (top, watch), Ex Falso, wajig, autojump,
-coreutils (wc, tail), LinkChecker_, Iotop_, man_,
+Uptimed, procps (top, watch), Ex Falso, autojump,
+coreutils (cat, tail), LinkChecker_, Iotop_, man_,
 OpenSSH, vnstat_, tmux_, File Roller, youtube-dl
 
 **spreadsheet**: gnumeric
 
 **terminal emulator**: Xfce Terminal
 
-**virtualisation**: VirtualBox
+**virtualisation**: QEMU
 
 **version control system**: Mercurial_
 
 **web browser**: Firefox
 
-**non-FLOSS:** Disqus_, Gmail_, `Stack Exchange`_, Bitbucket_
+**non-FLOSS:** Gmail_, `Stack Exchange`_, Bitbucket_
 
 
 .. _git-cola: http://tshepang.net/project-of-note-git-cola
@@ -44,7 +44,6 @@ OpenSSH, vnstat_, tmux_, File Roller, youtube-dl
 .. _man: http://en.wikipedia.org/wiki/Man_page
 .. _Mercurial: http://mercurial.selenic.com
 .. _Disqus: http://disqus.com
-.. _Gmail: http://mail.google.com/mail
 .. _Stack Exchange: http://stackexchange.com
 .. _Bitbucket: http://bitbucket.org
 .. _vnstat: http://humdi.net/vnstat
