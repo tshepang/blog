@@ -33,7 +33,7 @@ OpenSSH, vnstat_, tmux_, File Roller, youtube-dl, QEMU
 .. _Iotop: http://guichaz.free.fr/iotop
 .. _man: http://en.wikipedia.org/wiki/Man_page
 .. _Mercurial: http://mercurial.selenic.com
-.. _Disqus: http://disqus.com
+.. _GMail: https://mail.google.com/mail
 .. _Stack Exchange: http://stackexchange.com
 .. _Bitbucket: http://bitbucket.org
 .. _vnstat: http://humdi.net/vnstat
