@@ -80,7 +80,7 @@ Issues
 
 * The power button is not so easy to press, and offers very little
   'feedback'... it has very shallow movement. Luckily there should not
-  be a frequent need to use, but there are times when something is
+  be a frequent need to use it, but there are times when something is
   buggy enough to cause OS hangs and other misbehaviour.
 
 * The fan is too quick to kick in, and easily gets noisy. Running the
@@ -111,7 +111,7 @@ Issues
   such a long time to get there... more than 50 presses from the two
   extremes!
 
-* I still haven't got use to **Pg Up/Dn** and **Home/End** being
+* I still haven't got used to **Pg Up/Dn** and **Home/End** being
   accessible only via the **Fn** key. It's so awkward.
 
 * The touchpad is a great pleasure to use, except when pressing and
