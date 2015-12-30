@@ -118,6 +118,8 @@ Issues
   dragging. It's a hit-and-miss affair... you have to press quite
   hard, and that makes precise control challenging.
 
+* The flexibility of the body results in keyboard marks on the screen.
+
 * The worst problem, however, is the flexibility of at the bottom of
   the touchpad. Too often the touchpad fails to respond because I've
   put the thing at the wrong angle... I mostly use my laptop in bed.
