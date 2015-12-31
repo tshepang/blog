@@ -23,7 +23,13 @@ what I like about Rust
   + ``use``, instead of ``using`` or ``import``
 
 - I love that I don't need to add (the tedious) parenthesis around the
-  *condition expression* in an *if*, *while*, and *match* statements.
+  *condition expression* in an *if*, *while*, and *match* statements:
+
+  .. sourcecode:: rust
+
+    if true {
+        // always executes
+    }
 
 - The semicolon rule: I initially found it surprising that omitting a
   semicolon after a value is shorthand for returning. I appreciate it
