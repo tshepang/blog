@@ -19,8 +19,6 @@ that it isn't being suffocated too much by Git:
 
 * VIM__ and Netbeans__, two of the most popular text editors for programmers
 
-* Sphinx__, documentation generator used in most Python projects
-
 And here is one which is not FLOSS (i.e. proprietary):
 
 * Facebook__, world number 2 website in terms of visitor numbers
@@ -33,5 +31,4 @@ __ https://bitbucket.org/pypy/pypy
 __ http://hg.openjdk.java.net
 __ http://www.vim.org/mercurial.php
 __ http://wiki.netbeans.org/WorkingWithNetBeansSources#Mercurial_access
-__ https://bitbucket.org/birkenfeld/sphinx
 __ https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook
