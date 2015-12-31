@@ -6,7 +6,7 @@ what I like about Rust
 
 
 - Ambitious: the aim of being memory safe without the use of a garbage
-  collector, allowing it to maintain C++ execution speeds.
+  collector, allowing it to achieve C++ execution speeds.
 
 - Naming conventions:
 
@@ -35,8 +35,8 @@ what I like about Rust
   function can be made to accept different data types, so long as
   those types implement the given trait (or traits). Gorgeous!
 
-- The ``match`` statement is kool (exhaustiveness check, no
-  fall-through, and nice syntax).
+- The ``match`` statement is kool: exhaustiveness check, no
+  fall-through, and nice syntax.
 
 - Allowing a trailing comma after a list of items, which is really
   great for copy-pasting and diffs.
@@ -46,7 +46,7 @@ what I like about Rust
   in the root of a source distribution.
 
 - A fast-paced and time-based release cycle: a stable release will be
-  made every 6 weeks, which is truly ambitious for a programming
+  made every 6 weeks, which is very ambitious for a programming
   language.
 
 - Development process:
@@ -75,7 +75,7 @@ what I like about Rust
   was... impressive. That's an indication that what resulted is a far
   better design than we could have had. The sheer amount of effort
   taken, which was such a unique experience for me, makes me feel
-  grateful (I watched the activity for about year before 1.0 was
+  grateful (I watched the activity for about a year before 1.0 was
   released). I am also grateful for the resilient users who kept up
   with the pain of the frequent changes, for they helped keep the
   language relevant and exciting, while also providing feedback.
