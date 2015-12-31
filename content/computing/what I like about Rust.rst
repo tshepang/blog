@@ -69,10 +69,8 @@ what I like about Rust
 
   .. sourcecode:: rust
 
-    fn main() {
-        let foo = 10;
-        let foo = "ten";
-    }
+    let foo = 10;
+    let foo = "ten";
 
   This is convenient.
 
