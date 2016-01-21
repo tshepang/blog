@@ -19,9 +19,6 @@ Like the older laptop, I had to change 2 lines in /usr/share/alsa/alsa.conf::
 
 What makes the Vaio Pro 13 better:
 
-- My setup could likely be better, because I use ``XVideo Output (XCB)``
-  in VLC to play videos, and that eats around 50% CPU.
-
 - The charger does not have a USB charging port
 
 - The laptop is less pretty (so boring), and I'm not a fan of the
