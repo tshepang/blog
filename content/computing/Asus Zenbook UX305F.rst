@@ -38,8 +38,7 @@ What makes the Vaio Pro 13 better:
 
 - No keyboard back-light
 
-- The SSD is not as fast (write speeds of 300 MB/s compared to 500
-  MB/s). The CPU is also slower.
+- The SSD is not as fast, and so is the CPU
 
 Given all above, this is overall a better laptop:
 
