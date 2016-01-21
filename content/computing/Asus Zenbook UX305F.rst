@@ -7,7 +7,7 @@ Asus Zenbook UX305F
 
 
 On 2015-12-14, I got me the UX305. It's the base level model in the
-range, with 4GB RAM, 128GB SSD, and an FHD screen, and Intel Core M
+range, with 4GB RAM, 128GB SSD, an FHD screen, and Intel Core M
 CPU (M-5Y10c). It it great value at R10k ($600 in USA), so it didn't
 feel too much of an indulgence, given I still have the `Vaio Pro
 13`__.
