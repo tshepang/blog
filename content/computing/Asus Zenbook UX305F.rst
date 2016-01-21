@@ -55,8 +55,8 @@ Given all above, this is overall a better laptop:
 - The keyboard also feels a lot better; it's such pleasure to use!
 
 - The body is also a lot more rigid, so no annoying flexibility at the
-  bottom of the touchpad. The rigidity also avoid keyboard marks on
-  the screen.
+  bottom of the touchpad. The rigidity also ensures that there are no
+  keyboard marks on the screen.
 
 
 __ http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
