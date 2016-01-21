@@ -28,7 +28,7 @@ What makes the Vaio Pro 13 better:
   keyboard, which makes it too easy to press by mistake... happened to
   me a few times
 
-- The ``Insert`` key is accessible via the ``Fn`` key, which is
+- The ``Insert`` key is hidden behind the ``Fn`` key, which is
   awkward since I use the Ctrl+Shift+Insert combo to (middle-)paste
 
 - The SD card slot is not full-depth, so you will see the SD card
