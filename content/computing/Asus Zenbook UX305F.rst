@@ -1,7 +1,7 @@
 Asus Zenbook UX305F
 ===================
 
-:date: 2015-12-30
+:date: 2016-01-21
 :tags: hardware
 
 
