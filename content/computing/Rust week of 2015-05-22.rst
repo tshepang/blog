@@ -49,7 +49,7 @@ Rust week of 2015-05-22
         println!("Inverse: {}", foo.invert());
     }
 
-  The ``<T: Invert>`` means this function will only accept ``foo``
+  The ``<T: Invert>`` means this function will only accept ``T``
   that implements the ``Invert`` trait.
   You can check by calling it with an ``i32`` value, in which it will
   succeed:
