@@ -44,7 +44,7 @@ entertainment
 
 GUI applications
 
-- **Xfce Terminal**: nicer than my previous favorite, GNOME Terminal
+- **Xfce Terminal**
 - **Evince**: I would love to get a PDF reader with better navigation
 - **Firefox**: not as pretty as my previous favorite, Chrome; but that
   it has a more trustworthy steward (Mozilla vs. Google), and
