@@ -12,7 +12,7 @@ some content (duh!), and saying "Guide van Rossum rocks for creating
 Python, and am grateful!"  is simply not enough, hence a need for a
 trigger.  In fact, I used to call this series *developer of the
 moment*, but at some point felt that the new name is more fitting,
-especially since a few of these developers actually
+especially since a few of these developers
 generated some new triggers along the way.
 
 
