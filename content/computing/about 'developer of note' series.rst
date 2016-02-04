@@ -6,7 +6,7 @@ about 'developer of note' series
 
 I respect a lot of software developers, but many of those are not
 going to have an entry in `this series`__, and not because they are
-lesser in my eyes... I need a need a news item that would trigger a
+lesser in my eyes... I need a news item that would trigger a
 post.  Thing is, if you write about someone, you actually need to have
 some content (duh!), and saying "Guide van Rossum rocks for creating
 Python, and am grateful!"  is simply not enough, hence a need for a
