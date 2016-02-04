@@ -30,6 +30,8 @@ software development
 - Meld__: the most excellent diff tool I've used yet
 - **CPython**: I spend more time with Python as compared to any other
   programming language
+- **Rust**: this has since replaced Python as my favorite language
+  (and ecosystem)
 
 __ http://tshepang.net/project-of-note-git-cola
 __ http://meldmerge.org
