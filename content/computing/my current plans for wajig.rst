@@ -11,7 +11,7 @@ Some stuff I might work on in future:
 - I want to start using argcomplete__ at some point, a more dynamic
   shell completion tool, replacing the current hand-rolled solution.
   I find shell programming hard, and argcomplete, which is inspired by
-  optcomplete__ is a brilliant workaround.
+  optcomplete__, is a brilliant workaround.
 
 - Someone asked me to restore gjig, the GUI tool that `I removed from
   wajig`__ some releases ago. This will be an opportunity to learn
