@@ -20,7 +20,7 @@ Some stuff I might work on in future:
   won't work on this... too much work.
 
 But ultimately, I would love for the standard Debian packaging tools
-to get the the point where they make wajig irrelevant. After all, wajig
+to get the point where they make wajig irrelevant. After all, wajig
 was created to be a wrapper that helps ease the mess.
 
 --------------
