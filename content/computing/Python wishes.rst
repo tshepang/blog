@@ -18,10 +18,6 @@ them from the exclusiveness of my mind:
 * rm ``os.system``, ``os.popen*`` and relatives;
   we already have the `subprocess module`__
 
-* rid of all forms of string formatting,
-  other than `Advanced String Formatting`__;
-  do it everywhere, including the `logging module`__
-
 * change module names to be PEP-compliant, everywhere
 
 * remove ``lambda``; it's not Pythonic, and just feels like a wart;
@@ -33,5 +29,3 @@ them from the exclusiveness of my mind:
 
 __ http://bugs.python.org/issue13510#msg186940
 __ http://docs.python.org/3/library/subprocess
-__ http://docs.python.org/3/library/string#string-formatting
-__ http://docs.python.org/3/library/logging
