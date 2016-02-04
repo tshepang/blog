@@ -72,7 +72,7 @@ miscellaneous tools
 - tmux__: amazingly powerful, but I wish it had less rendering bugs
 - **head** and **tail**: included in GNU coreutils suite of tools
 - less__: indispensable!
-- **Minicom**: use this for some ancient setups at work, for some clients
+- **Minicom**: I use this at work when I need a serial terminal
 - **OpenSSH**: duh!
 - autojump__: makes navigating the filesystem a joy
 - Fabric__: I use it to build and deploy my blogs... it's some sort of
