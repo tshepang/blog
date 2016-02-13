@@ -26,7 +26,7 @@ humans, the resistance, their eventual rescue, and a lot more, best of
 which was the trial of course).
 
 This positiveness could make it look like I'm a huge fan of the series,
-but I'm not. In fact, I too often tend to hate it. There's a whole lot
+but I'm not. There's a whole lot
 of religious non-sense that I can't bear, some seriously annoying
 characters, at least overly eccentric one, too much day-dreaming, some
 too-stupid plot decisions... but Episode 20 goes some way to help me
