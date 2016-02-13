@@ -1,5 +1,5 @@
-Sherlock - Season 3, Episode 3
-==============================
+Sherlock - Season 3 Episode 3
+=============================
 
 :date: 2015-02-05
 :tags: tv, excellent
