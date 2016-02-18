@@ -27,9 +27,9 @@ does not when reading them using ``next``:
    do_something(it.next());
    ...
 
-I think can be done because, with the ``for loop``, ``it`` cannot be used
+I think with the ``for loop``, ``it`` cannot be used
 anymore, and that's why it can get away with being immutable. I'm not
-100% yet... because this feels like a lousy explanation.
+100% yet... this feels like a lousy explanation.
 
 
 __ https://github.com/rust-lang/rust/pull/31762
