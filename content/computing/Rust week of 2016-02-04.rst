@@ -6,7 +6,7 @@ Rust week of 2016-02-04
 
 
 I was hoping to do better than `last week`__, but it was even
-worse... `just one contribution`__, and it was for Cargo this time.
+worse... `just one contribution`__.
 
 
 __ http://tshepang.net/rust-week-of-2016-02-26
