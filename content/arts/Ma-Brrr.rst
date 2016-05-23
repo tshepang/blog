@@ -4,19 +4,21 @@ Ma-Brrr
 :date: 2011-01-14
 :tags: music
 
-We all know that each repeat viewing of a movie is a different
-experience. You can say the same with a stage play, except that it's
-never the same thing. I'm here referring to MaBrr (there is not even one
-credible site I found with a few minutes of search), a musical play
-currently seen at State Theatre, Pretoria. It's about the life and
-career of Brenda Fassie, a deceased South African vocalist, who was
-arguably the most popular of the country's artist in history.
+
+Following are my experiences of a musical play currently seen at State
+Theatre, Pretoria. It's about the life and career of Brenda Fassie, a
+South African vocalist who was arguably the most popular artist in the
+history of the country.
+
+
+First viewing
+-------------
 
 The first night was the best experience I've so far had in my stage play
-experience. It was electrifying and the audience agreed with me. A few
-goosebumps here and there. It's amazing how larger-than-life one person
-can be made. It brought a new appreciation of South African art (and
-abilities), that there's such a rich culture to export.
+experience. It was electrifying and the audience agreed with me, with a few
+goose-bumps here and there. It's amazing how larger-than-life one person
+can be made. It brought me much appreciation of South African art,
+that there's such a rich culture to export.
 
 So what are some the elements that made me so excited, the first time
 around:
@@ -44,8 +46,12 @@ around:
 
 The fact that this was opening night may have helped a lot, as well as
 close to sold-out venue. Now, the shitty thing about stage is that such
-moments can't be replicated, and even though it may have been recorderd,
+moments can't be replicated, and even though it may have been recorded,
 it's just not the same.
+
+
+Second viewing
+--------------
 
 The revisit was something else. The attendance was really bad this time
 around (a Thursday after Friday's opening night):
@@ -62,10 +68,9 @@ around (a Thursday after Friday's opening night):
 -  extra emotion: well, the Bongani Fassie thing can't be replicated
 -  miscellaneous: no surprises, nothing new worth mentioning
 
---------------
 
-update
-------
+Third viewing
+-------------
 
 I went to see this for the third time, this time on a Saturday, so the
 audience was much bigger than last time, and the show was far better,
@@ -76,7 +81,7 @@ making me a little bit obsessed.
 -  music: I recall enjoying the previous moments better, maybe because I
    got used to it
 -  dancing: the energy seemed as high as the first time around, and I
-   enjoyed it more (I really the supercool guys at the jazz club)
+   enjoyed it more (I really the super-cool guys at the jazz club)
 -  costume design: same shit, so nothing to say here
 -  backing vocalists: the nice fat guy was replaced by a less
    interesting one
