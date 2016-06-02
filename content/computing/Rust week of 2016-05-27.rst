@@ -27,7 +27,7 @@ insertion order`__.
 Something I learned about running system commands, imagine you had a
 complex command like::
 
-  ssh some-hostname "uname && echo && free --human"
+  ssh some-hostname "uname --all && free --human"
 
 Running such in Rust would be:
 
@@ -35,7 +35,7 @@ Running such in Rust would be:
 
    std::process::Command::new("ssh")
       .arg("some-hostname")
-      .arg("uname && echo && free --human")
+      .arg("uname --all && free --human")
       .spawn()
       .expect("problem");
 
