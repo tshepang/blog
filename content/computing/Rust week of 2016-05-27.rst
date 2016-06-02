@@ -12,17 +12,17 @@ currently writing some internal tool at work, and wonder how far it
 will go before re-writing in something *more acceptable*, like
 Python. To be fair, there was also `some great praise`__ of the ecosystem.
 
----
+----
 
 I read the intro of `rust-postgres`__ and even made `a small
 contribution`__.
 
----
+----
 
 I was surprised that `there is no Rust set type that preserves
 insertion order`__.
 
----
+----
 
 Something I learned about running system commands, imagine you had a
 complex command like::
