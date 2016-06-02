@@ -15,7 +15,7 @@ Python. To be fair, there was also `some great praise`__ of the ecosystem.
 ----
 
 I read the intro of `rust-postgres`__ and even made `a small
-contribution`__.
+contribution`__. I also made a `doc contribution`__ to stdlib.
 
 ----
 
@@ -44,4 +44,5 @@ __ https://www.reddit.com/r/rust/comments/4kqhqz
 __ https://www.reddit.com/r/rust/comments/4kqhqz//d3hx9l0
 __ https://github.com/sfackler/rust-postgres/blob/master/README.md
 __ https://github.com/sfackler/rust-postgres/pull/186
+__ https://github.com/rust-lang/rust/pull/34033
 __ http://stackoverflow.com/questions/37550208
