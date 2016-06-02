@@ -34,7 +34,7 @@ Running such in Rust would be:
 .. sourcecode:: rust
 
    std::process::Command::new("ssh")
-      .arg("work")
+      .arg("some-hostname")
       .arg("uname && echo && free --human")
       .spawn()
       .expect("problem");
