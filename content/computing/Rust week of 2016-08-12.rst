@@ -8,18 +8,18 @@ Rust week of 2016-08-12
 I enjoyed a useful (and tiny) library that helps align text
 nicely. Following is an example of its usage:
 
-  .. sourcecode: rust
+.. sourcecode: rust
 
-     extern crate unindent;
-     use unindent::unindent;
+   extern crate unindent;
+   use unindent::unindent;
 
-     fn main() {
-         let text = "
-             A long text is beginning here and not in the previous line,
-             because it wouldn't fit in comfort.
-         "
-         println!("{}", unindent(text));
-     }
+   fn main() {
+       let text = "
+           A long text is beginning here and not in the previous line,
+           because it wouldn't fit in comfort.
+       "
+       println!("{}", unindent(text));
+   }
 
 I submitted to small__ improvements__ to its documentation. I also
 contributed `a style improvement`__ to Cargo, the Rust package manager.
