@@ -8,7 +8,7 @@ Rust week of 2016-08-12
 I enjoyed a useful (and tiny) library that helps align text
 nicely. Following is an example of its usage:
 
-.. sourcecode: rust
+.. sourcecode:: rust
 
    extern crate unindent;
    use unindent::unindent;
