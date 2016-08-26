@@ -5,7 +5,7 @@ Rust week of 2016-08-19
 :tags: Rust
 
 
-There were__ a few__ submissions__, including `one that too entirely
+There were__ a few__ submissions__, including `one that took entirely
 many hours`__.
 
 
