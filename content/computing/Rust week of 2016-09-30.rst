@@ -5,7 +5,7 @@ Rust week of 2016-09-30
 :tags: Rust
 
 
-I submitted__ some__ give__ contributions__ this__ week.
+I submitted__ some__ five__ contributions__ this__ week.
 
 
 __ https://github.com/nickel-org/nickel.rs/pull/385
