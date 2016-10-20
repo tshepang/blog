@@ -27,14 +27,10 @@ software development
 - **GNU toolchain** (GCC, make, GLibC, ...)
 - **Git**: as if I had a choice... work and open source
 - **Mercurial**: my favorite
-- Meld__: the most excellent diff tool I've used yet
-- **CPython**: I spend more time with Python as compared to any other
-  programming language
-- **Rust**: this has since replaced Python as my favorite language
-  (and ecosystem)
+- **Rust**: this has since replaced Python as my favorite language,
+  and spend far more time with it than any other
 
 __ http://tshepang.net/project-of-note-git-cola
-__ http://meldmerge.org
 
 
 entertainment
@@ -51,11 +47,7 @@ GUI applications
   it has a more trustworthy steward (Mozilla vs. Google), and
   it being less restrictive (Chrome makes it painful to install third
   party add-ons) makes it a winner
-- **Gnumeric**: it's faster than LibreOffice spreadsheet, and has a
-  superior search interface
-- Liferea__: would not be using this had it not been for Google Reader
-  shutdown, but am glad they did because I like this tool, ugly and unkool
-  as it is
+- Liferea__: I like it,, ugly and unkool as it is
 - **Thunderbird**: I prefer Evolution, but it gave me some issues last
   time I tried; I don't remember the details
 - Transmission__: the only torrent client I have ever used
@@ -79,9 +71,7 @@ miscellaneous tools
 - autojump__: makes navigating the filesystem a joy
 - Fabric__: I use it to build and deploy my blogs... it's some sort of
   replacement for shell scripting
-- VirtualBox: pretty much the only virtualisation tool I use;
-  My use is extensive... I often leave a virtual machine running for days
-- youtube-dl__: I prefer watching videos with VLC
+- youtube-dl__: I prefer watching videos locally, with VLC
 
 
 __ http://tshepang.net/my-current-desktop-setup
