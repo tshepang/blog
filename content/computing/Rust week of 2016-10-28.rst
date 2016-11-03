@@ -5,8 +5,8 @@ Rust week of 2016-10-28
 :tags: Rust
 
 
-I learned about the following projects, which I found to be among the
-most exciting in the Rust world:
+I find the following to be among the most exciting projects in the
+world of Rust:
 
 - Cretonne__, an alternative to LLVM
 - Corrode__, a C to Rust translator
