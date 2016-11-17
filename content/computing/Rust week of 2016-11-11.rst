@@ -5,7 +5,7 @@ Rust week of 2016-11-11
 :tags: Rust
 
 
-I enjoyed reading this excellent and detailed `Rust API design
+I enjoyed reading an excellent and detailed `Rust API design
 guide`__. In terms of contributions, I submitted just__ two__.
 
 
