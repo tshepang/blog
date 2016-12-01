@@ -16,7 +16,7 @@ else, giving me contacts for `some company`__ building software and
 electronics products for the mining industry. So I wasn't actually
 looking for work, but I was glad of the opportunity since I was sort
 of stagnating, and it really looked like this new company did some
-pmore fun stuff, and I got the vibe that I'd really get challenged.
+fun stuff, and I got the vibe that I'd really get challenged.
 
 It's been 3 months now, and my guess was right. I keep getting
 surprised by the levels of smart I encounter regurlarly. These are the
@@ -28,5 +28,6 @@ with C and C++, and it tends to be a serious challenge, given that
 there's a lot less hand-holding with those than with my favorite,
 Python.
 
+
 __ http://tshepang.net/me-got-meself-a-coding-job
-__ http://www.embedded-iq.com
+__ http://eiq.co.za
