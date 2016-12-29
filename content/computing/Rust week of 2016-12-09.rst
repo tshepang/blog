@@ -6,7 +6,7 @@ Rust week of 2016-12-09
 
 
 I played some with serde-yaml and rust-yaml.
-I last looked YAML some yeats, and looking again,
+I last looked at YAML some years ago, and looking again,
 I am surprised by its complexity.
 
 As far as contributions go, there were just__ two__.
