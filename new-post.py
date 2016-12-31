@@ -1,7 +1,7 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
 """
-$ python blog-post.py 'Fight Club (1999)' movies --tags 2000-movies masterpiece
+$ python new-post.py 'Fight Club (1999)' movies --tags 2000-movies masterpiece
 $ cat "~/blog/posts/movies/Fight Club (1999).rst"
 Fight Club (1999)
 ================
@@ -10,7 +10,7 @@ Fight Club (1999)
 :tags: masterpiece 2000-movies
 
 
-$ python startpost.py 'I love Python' computing
+$ python new-post.py 'I love Python' computing
 $ cat "~/blog/posts/computing/I love Python.rst"
 I love Python
 =============
