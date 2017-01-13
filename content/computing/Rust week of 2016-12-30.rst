@@ -15,7 +15,7 @@ and was made sad because using HTTP headers is as hard as doing the
 same for hyper__,
 especially given that this is supposed to be a more easy library:
 
-.. sourcecode: Rust
+.. sourcecode:: Rust
 
    let mut auth_bearer = Headers::new();
    headers.set(
@@ -30,7 +30,7 @@ especially given that this is supposed to be a more easy library:
 
 It can imagine a more nice API:
 
-.. sourcecode: Rust
+.. sourcecode:: Rust
 
    let client = reqwest::Client::new();
    let auth_bearer = reqwest::Header::Bearer::new("some token");
