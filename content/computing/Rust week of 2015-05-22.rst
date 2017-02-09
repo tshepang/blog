@@ -20,8 +20,10 @@ Rust week of 2015-05-22
 
 - I got some clarity on the concept of traits by re-reading the
   well-written post, `Abstraction without overhead: traits in
-  Rust`__. For example, they can be used to add methods, even to existing
-  types. Here is a demonstration:
+  Rust`__.
+  One feature they have is they allow adding methods to types,
+  including upstream ones,
+  example being stdlib types as follows:
 
   .. sourcecode:: rust
 
