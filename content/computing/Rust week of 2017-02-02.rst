@@ -6,9 +6,9 @@ Rust week of 2017-02-02
 
 
 I very much enjoyed reading about `the design of Rust futures`__.
-It makes me lucky appreciate the smarts of those involved,
-how lucky we are to have people building excellent abstractions like such.
-It also nicely summarises Rust traits.
+It makes me highly appreciate the smarts of those involved,
+and how lucky we are to have people building excellent abstractions like such.
+In addition, it also nicely summarises Rust traits.
 
 I reported `one issue`__ and made two__ contributions__.
 
