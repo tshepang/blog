@@ -9,6 +9,7 @@ I very much enjoyed reading about `the design of Rust futures`__.
 It makes me highly appreciate the smarts of those involved,
 and how lucky we are to have people building excellent abstractions like such.
 In addition, it also nicely summarises Rust traits.
+`I wrote a tiny bit about the feature`__ myself some time ago.
 
 I reported `one issue`__ and made two__ contributions__.
 
@@ -19,3 +20,4 @@ __ https://github.com/softprops/shiplift/issues/50
 
 __ https://github.com/alexcrichton/futures-rs/pull/384
 __ https://github.com/alexcrichton/futures-rs/pull/385
+__ http://tshepang.net/rust-week-of-2015-05-22
