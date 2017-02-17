@@ -1,5 +1,5 @@
-Asus Zenbook UX305F
-===================
+Asus Zenbook UX305FA
+====================
 
 :date: 2016-01-21
 :tags: hardware
