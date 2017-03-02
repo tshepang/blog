@@ -11,11 +11,11 @@ it has to both be personally useful and I have to like it a lot:
 
 **web browser**: Firefox
 
-**development**: Rust_, Emacs, git-cola_, Mercurial_
+**development**: Rust_, Emacs, Meld, git-cola_, Mercurial_
 
 **file manager**: Bash, Emacs (Dired mode)
 
-**misc utilities:** grep, Sudo__, Lsof, less, Meld,
+**misc utilities:** grep, Sudo__, Lsof, less,
 Uptimed, procps (top, watch), Ex Falso, autojump, gnumeric
 coreutils (cat, tail), LinkChecker_, Iotop_, rdiff-backup_,
 OpenSSH, vnstat_, tmux_, File Roller, youtube-dl
