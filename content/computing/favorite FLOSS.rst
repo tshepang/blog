@@ -28,7 +28,6 @@ OpenSSH, vnstat_, tmux_, File Roller, youtube-dl
 .. _rdiff-backup: http://tshepang.net/project-of-note-rdiff-backup
 .. _dwm: http://dwm.suckless.org
 .. _Sudo: http://tshepang.net/project-of-note-sudo
-.. _reprepro: http://tshepang.net/project-of-note-reprepro
 .. _linkchecker: http://tshepang.net/project-of-note-linkchecker
 .. _Iotop: http://guichaz.free.fr/iotop
 .. _Mercurial: http://mercurial.selenic.com
