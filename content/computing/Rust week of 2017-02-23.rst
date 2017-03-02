@@ -46,7 +46,7 @@ Output should then be like:
 - hg
 - commit
 - --message
-- 'git eat world'
+- git eat world
 
 ----
 
