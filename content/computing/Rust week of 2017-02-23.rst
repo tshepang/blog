@@ -52,3 +52,6 @@ Output should then be like:
 
 `Just one contribution`__ this week,
 and it's not even that great... not sure it's an improvement
+
+
+__ https://github.com/ctz/hyper-rustls/pull/5
