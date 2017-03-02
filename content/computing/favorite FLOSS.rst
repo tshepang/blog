@@ -17,7 +17,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **misc utilities:** grep, Sudo__, Lsof, less, Meld,
 Uptimed, procps (top, watch), Ex Falso, autojump, gnumeric
-coreutils (cat, tail), LinkChecker_, Iotop_, man_, rdiff-backup_
+coreutils (cat, tail), LinkChecker_, Iotop_, man_, rdiff-backup_,
 OpenSSH, vnstat_, tmux_, File Roller, youtube-dl, QEMU
 
 **non-FLOSS:** Gmail_, `Stack Exchange`_, Bitbucket_
