@@ -6,8 +6,9 @@ Rust week of 2017-02-23
 
 
 I was glad to have the Python equivalent of the shlex__ crate,
-understands shell quoting in order transform command arguments into
-what's suitable to send to ``process::Command::args`` method.
+which understands shell quoting,
+helping in transforming command arguments into
+what's suitable to send to ``process::Command::args``.
 This allows one to avoid the pain experienced by naively doing the
 following:
 
