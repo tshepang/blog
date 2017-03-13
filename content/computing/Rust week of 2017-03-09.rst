@@ -5,7 +5,7 @@ Rust week of 2017-03-09
 :tags: Rust
 
 
-I made a minor review,
+I made `a minor review`__,
 and I made `one contribution`__.
 
 
