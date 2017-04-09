@@ -48,7 +48,7 @@ Given all above, this is overall a better laptop:
   laptop)
 
 - Power consumption is very low, and I could easily get 8 hours of battery
-  lifeon this thing with a moderate workload
+  life with a moderate workload
 
 - I loves the touchpad: it's more smooth and large
 
