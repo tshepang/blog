@@ -10,8 +10,8 @@ I very enjoyed reading `this (rather lengthy) comment`__ on a thread
 discussing Rust CStr/Cstring APIs.
 It shows great depth of knowledge and shows no fear of expressing
 strong opinions... I loves it.
-As for argument itself,
-I don't know enough to to have a qualified opinion,
+As for the argument itself,
+I don't know enough to have a qualified opinion,
 though the opposition is quite strong against the proposal
 (to deprecate those APIs).
 
