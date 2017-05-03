@@ -6,7 +6,7 @@ Rust week of 2017-04-27
 
 
 Very little Rust work this week,
-with just `one tiny contribution'__.
+with just `one tiny contribution`__.
 
 
 https://github.com/andrew-d/interfaces-rs/pull/5
