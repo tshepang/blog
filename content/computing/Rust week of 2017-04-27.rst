@@ -9,4 +9,4 @@ Very little Rust work this week,
 with just `one tiny contribution`__.
 
 
-https://github.com/andrew-d/interfaces-rs/pull/5
+__ https://github.com/andrew-d/interfaces-rs/pull/5
