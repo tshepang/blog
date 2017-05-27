@@ -23,14 +23,16 @@ __ http://tshepang.net/tags#wajig-ref
 software development
 
 - **Emacs**: I also use it as a general purpose text editor
-- **git-cola**: `why me loves it`__
-- **GNU toolchain** (GCC, make, GLibC, ...)
 - **Git**: as if I had a choice... work and open source
 - **Mercurial**: my favorite
 - **Rust**: this has since replaced Python as my favorite language,
-  and spend far more time with it than any other
+  and I spend far more time with it than any other
 
-__ http://tshepang.net/project-of-note-git-cola
+
+work
+
+- Docker: a central component of our infranstructure
+- systemd: journalctl & sysmtemctl
 
 
 entertainment
@@ -43,30 +45,21 @@ entertainment
 GUI applications
 
 - **Xfce Terminal**
-- **Firefox**: not as pretty as my previous favorite, Chrome; but that
-  it has a more trustworthy steward (Mozilla vs. Google), and
-  it being less restrictive (Chrome makes it painful to install third
-  party add-ons) makes it a winner
-- Liferea__: I like it,, ugly and unkool as it is
-- **Thunderbird**: I prefer Evolution, but it gave me some issues last
-  time I tried; I don't remember the details
+- **Firefox**
+- Liferea__: I like it, ugly and unkool as it is
 - Transmission__: the only torrent client I have ever used
 - **Nautilus**: decent GUI file manager
-- **FileZilla**: I should really find something nicer for my SFTP needs
-- `File Roller`__: nice and simple GUI archive manager
 
 __ http://lzone.de/liferea
 __ http://www.transmissionbt.com
-__ http://fileroller.sourceforge.net
 
 
 miscellaneous tools
 
-- **dwm**: `replaced GNOME as my primary desktop environment`__
+- dwm__
 - tmux__: amazingly powerful, but I wish it had less rendering bugs
 - **head** and **tail**: included in GNU coreutils suite of tools
 - less__: indispensable!
-- **Minicom**: I use this at work when I need a serial terminal
 - **OpenSSH**: duh!
 - autojump__: makes navigating the filesystem a joy
 - Fabric__: I use it to build and deploy my blogs... it's some sort of
