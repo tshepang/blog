@@ -8,9 +8,9 @@ FLOSS I use a-lot
 Following are tools I use a lot, but am not necessarily loving.
 There is `a separate post`__ for those.
 
-----
-
 __ http://tshepang.net/favorite-floss
+
+----
 
 **Debian**: my primary OS, and also my favorite
 
