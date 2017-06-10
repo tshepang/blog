@@ -1,8 +1,7 @@
 FLOSS pipe dreams
 =================
 
-:tags: GNOME, Debian, Python, non-FLOSS
-:date: 2013-11-30
+:tags: Debian, Python, non-FLOSS
 
 
 In which I am hoping that FLOSS_ would supplant proprietary
@@ -10,13 +9,6 @@ alternatives:
 
 - **3D content creation**:
   Blender_ should be mainstream... used in blockbusters
-
-- **desktop**:
-  GNOME_ (or KDE_) should replace Mac OS X as THE desktop experience,
-  and then steal the market
-
-- **CRM/ERP**:
-  Tryton_ should acquire feature-parity with SAP, and then steal the market
 
 - **image manipulation**:
   GIMP_ should acquire feature-parity with Photoshop, and then steal the market
@@ -28,7 +20,7 @@ alternatives:
 - **Operating system**:
   Debian_ should be THE reference platform for various user types
   (large corporations, audio/video professionals, software developers,
-  gamers, etc.), taking the market away from OS X and Windows
+  gamers, etc.), taking the market away from macOS and Windows
 
 - **scientific computing**:
   NumPy_ and pandas_ should acquire feature-parity with MATLAB,
@@ -39,9 +31,6 @@ alternatives:
 .. _Debian: http://debian.org
 .. _PostgreSQL: http://postgresql.org
 .. _GIMP: http://gimp.org
-.. _GNOME: http://gnome.org
-.. _KDE: http://kde.org
 .. _Blender: http://blender.org
-.. _Tryton: http://tryton.org
 .. _NumPy: http://numpy.org
 .. _pandas: http://pandas.pydata.org
