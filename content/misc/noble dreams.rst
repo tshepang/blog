@@ -30,7 +30,7 @@ corruption.
 
 While still on the dreaming side of things, someone mentioned that a
 dream that truly drives a person is normally ego-driven. Reminds me of a
-great dream of becoming a DD (Debian Developer) which `kinda died`_. An
+great dream of becoming a DD (Debian Developer) which kinda died. An
 acquaintance also has an ego-driven dream of owning a private medical
 lab. He did however admitted that it was a negotiable dream, and that
 qualifies it as a fantasy.
@@ -90,5 +90,3 @@ help groom and promote a number of small-time artists. That would really
 help in an industry where talent isn't enough to propel one further.
 Also, this is in an industry where too many lacking that talent are
 propelled forward regardless.
-
-.. _kinda died: http://tshepang.net/unrealized-dreams
