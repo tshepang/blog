@@ -1,13 +1,24 @@
 Rust 2.0 wishlist
 =================
 
-:date: 2017-06-10
 :tags: Rust
 
 
 - Remove the ``try!`` macro...
-  it has a better replacement in the form of the ``?`` operator.
+  it has a better replacement in the form of the question_mark (``?``) operator.
 
 - Remove ``std::sync::mpsc`` from stdlib,
   making it available externally...
   it does not feel general enough.
+
+- Assigning values to struct bindings should use the equal sign,
+  not the colon:
+
+  .. sourcecode:: rust
+
+     // now
+     Shoe { size: 10, style: "sneaker") },
+     // dream
+     Shoe { size = 10, style = "sneaker" };
+
+  This would be consistent with the rest of the language.
