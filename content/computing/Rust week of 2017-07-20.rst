@@ -1,7 +1,7 @@
 Rust week of 2017-07-20
 =======================
 
-:date: 2017-07-23
+:date: 2017-07-24
 :tags: Rust
 
 
@@ -21,7 +21,7 @@ non-default toolchain, though that approach is not too bad either:
 ----
 
 I made two__ complaints__,
-and__ just__ four__ contributions__.
+as__ well__ as__ five__ contributions__.
 
 
 __ https://github.com/rust-lang/book/issues/828
@@ -31,3 +31,4 @@ __ https://github.com/brson/rust-cookbook/pull/253
 __ https://github.com/rust-lang/rust/pull/43409
 __ https://github.com/rust-lang/book/pull/827
 __ https://github.com/rust-lang/rust/pull/43416
+__ https://github.com/BurntSushi/walkdir/pull/75
