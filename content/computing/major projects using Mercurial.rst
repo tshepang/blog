@@ -12,9 +12,6 @@ that it isn't being suffocated too much by Git:
 
 * Firefox__, world number 3 desktop web browser (number of users)
 
-* CPython__ and PyPy__, the most important implementations of a top 10
-  popular programming language
-
 * OpenJDK__, the top open source implementation of the Java platform
 
 * VIM__ and Netbeans__, two of the most popular text editors for programmers
@@ -26,8 +23,6 @@ And here is one which is not FLOSS (i.e. proprietary):
 
 
 __ http://hg.mozilla.org/mozilla-central
-__ http://hg.python.org/cpython
-__ https://bitbucket.org/pypy/pypy
 __ http://hg.openjdk.java.net
 __ http://www.vim.org/mercurial.php
 __ http://wiki.netbeans.org/WorkingWithNetBeansSources#Mercurial_access
