@@ -14,7 +14,7 @@ that it isn't being suffocated too much by Git:
 
 * OpenJDK__, the top open source implementation of the Java platform
 
-* VIM__ and Netbeans__, two of the most popular text editors for programmers
+* Netbeans__, one of the most popular IDEs
 
 And here is one which is not FLOSS (i.e. proprietary):
 
@@ -24,6 +24,5 @@ And here is one which is not FLOSS (i.e. proprietary):
 
 __ http://hg.mozilla.org/mozilla-central
 __ http://hg.openjdk.java.net
-__ http://www.vim.org/mercurial.php
 __ http://wiki.netbeans.org/WorkingWithNetBeansSources#Mercurial_access
 __ https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook
