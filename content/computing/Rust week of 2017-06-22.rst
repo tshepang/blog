@@ -6,7 +6,7 @@ Rust week of 2017-06-22
 
 
 I wrote a tool that helps with semver__ git tagging, which made
-explore the rather large (and unfriendly) API of `git2-rs library`__.
+me explore the rather large (and unfriendly) API of `git2-rs library`__.
 It needs lots of love, or at a more idiomatic replacement.
 
 Regarding contributions, I made `just one`__.
