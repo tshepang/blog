@@ -5,7 +5,7 @@ Rust week of 2017-02-16
 :tags: Rust
 
 
-Just `one contribution`__, just like last wekk.
+Just `one contribution`__, just like last week.
 I also `asked a question`__ on Stack Overflow...
 so surprising that one can't change file owner using stdlib!
 
