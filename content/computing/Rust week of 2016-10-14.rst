@@ -13,6 +13,6 @@ Rust week of 2016-10-14
 - Also, `just one contribution`__ this week.
 
 
-__ http://blog.burntsushi.net/ripgrep
 __ http://stackoverflow.com/q/40119477/321731
+__ http://blog.burntsushi.net/ripgrep
 __ https://github.com/rust-lang/rust/pull/37314
