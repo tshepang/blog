@@ -13,9 +13,9 @@ to avoid the tedium of navigating to each to check.
 The feature I added is checking if committed changes were pushed upstream.
 On the way there, I encountered these git2 APIS:
 
-- Branch::wrap__ (submitted `improvement to make doc less misleading`__)
-- Branch::upstream__
-- Repositoty::head__
+- `Branch::wrap`__ (submitted `improvement to make doc less misleading`__)
+- `Branch::upstream`__
+- `Repositoty::head`__
 
 I ended up `publishing the tool`__ too,
 which is the second time `I've done so`__.
