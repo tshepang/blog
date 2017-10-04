@@ -15,7 +15,8 @@ and following are the libraries I used:
 
 - systemstat__ has an ugly API,
   and relies on bytesize__ for system memory data,
-  whose API is not obvious.
+  whose API is not obvious,
+  and has `a rather ugly display bug`__
 
 - interfaces__ has an okay API,
   but the `get_all`__ method simply does not belong to a type named Interface.
@@ -24,5 +25,6 @@ and following are the libraries I used:
 __ https://github.com/ticki/termion
 __ https://github.com/myfreeweb/systemstat
 __ https://github.com/flang-project/bytesize
+__ https://github.com/flang-project/bytesize/issues/8
 __ https://github.com/andrew-d/interfaces-rs
 __ https://docs.rs/interfaces/0.0.2/interfaces/struct.Interface.html#method.get_all
