@@ -15,7 +15,7 @@ implying that a push is needed.
 The API that helped with this change is `Repository.grapth_ahead_behind`__,
 a lovely and unexpected gift (commit__).
 
-I used cargo-outdated__ for the first... I like.
+I used cargo-outdated__ for the first time... I like.
 
 
 __ https://crates.io/crates/mrh
