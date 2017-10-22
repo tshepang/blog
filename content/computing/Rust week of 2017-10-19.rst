@@ -1,7 +1,7 @@
 Rust week of 2017-10-19
 =======================
 
-:date: 2017-10-20
+:date: 2017-10-22
 :tags: Rust
 
 
@@ -17,8 +17,16 @@ a lovely and unexpected gift (commit__).
 
 I used cargo-outdated__ for the first time... I like.
 
+I also released `tag-helper`__,
+whose development was sponsored by Panoptix__,
+the company I work for.
+The tool helps reduce the tedium of tagging git repos,
+of which we have a bunch.
+
 
 __ https://crates.io/crates/mrh
 __ https://docs.rs/git2/0.6.8/git2/struct.Repository.html#method.graph_ahead_behind
 __ https://github.com/tshepang/mrh/commit/fc82fe9890cf3a8033fa78295308d888628caa39
 __ https://crates.io/crates/cargo-outdated
+__ https://github.com/panoptix-za/tag-helper
+__ https://www.panoptix.co.za/
