@@ -2,7 +2,7 @@ Ma-Brrr
 =======
 
 :date: 2011-01-14
-:tags: music
+:tags: music, theatre
 
 
 Following are my experiences of a musical play currently seen at State
