@@ -6,7 +6,7 @@ Rust week of 2017-10-12
 
 
 
-I enjoyed `a humorous joke post`__ poking fun at inconsitend Rust
+I enjoyed `a humorous joke post`__ poking fun at inconsistent Rust
 naming of types.
 I also expanded `the work project`__ I been working on the past few
 weeks, this time doing some file I/O among other things,
