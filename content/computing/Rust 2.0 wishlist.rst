@@ -22,3 +22,9 @@ Rust 2.0 wishlist
      Shoe { size = 10, style = "sneaker" };
 
   This would be consistent with the rest of the language.
+
+- All collections types removed, except these basic ones:
+  Vec, HashMap, and HashSet.
+  Also, they would also be available from top-level
+  (i.e. ``std::{Vec, HashMap, HashSet}``),
+  resulting in ``std::collections`` removal.
