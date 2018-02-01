@@ -18,7 +18,7 @@ This week was more active...
   I added a feature to check if certain ports of a remote machine are reachable.
   The bigger part though was it 'forced' me to refactor the code,
   since the various bits needed checking at different intervals...
-  in my case, as an example, I check above reachability once in 60 seconds,
+  in my case, as an example, I check port reachability once in 60 seconds,
   but would check load average once in 6.
 
 
