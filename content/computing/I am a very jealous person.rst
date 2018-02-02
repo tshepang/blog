@@ -1,16 +1,21 @@
 I am a very jealous person
 ==========================
 
-:tags: Python, non-Python, non-Debian, VCS
+:tags: Rust, non-Rust
 
 
 Following is some of the cases where competing software won this or
 that battle, and I am jealous since I want everyone to use what I
 like:
 
-* Git (and GitHub) is so much more successful than Mercurial (and
-  Bitbucket), my preferred VCS. I mean even `the website looks
-  better`__.
+* Kurbenetes__ is written in Go, and not Rust.
+  It appears to be the most popular container orchestration system,
+  and is among the hottest of new software projects,
+  while having lots of momentum.
+
+* Grafana__ is also written in Go, and not Rust.
+  It produces the most pretty graphs I've seen yet,
+  and is very featureful, and boasts hundreds of contributers.
 
 * Markdown is a far more popular light-weight markup language than
   the far more advanced reStructuredText__.
@@ -18,6 +23,7 @@ like:
   most... documenting large projects (example__).
 
 
-__ http://tshepang.net/me-loves-new-git-site-design
+__ https://github.com/kubernetes/kubernetes
+__ https://github.com/grafana/grafana
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 __ http://doc.rust-lang.org
