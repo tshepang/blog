@@ -1,10 +1,8 @@
-Six Shooter (2005)
-==================
-
-:date: 2013-02-24
-:tags: good, short
-
-
+---
+date: '2013-02-24'
+tags: 'good, short'
+title: 'Six Shooter (2005)'
+---
 
 This 27 minute short is worthy mainly due to the loud and fascinating
 young guy sitting next to the lead character on a train trip. He happens
@@ -13,7 +11,6 @@ memory serves me well), and is funny at times. The ending is strange
 though, and I guess deliberately pointless.
 
 I was inspired to watch this due the director, who later on made the
-weird and wonderful `Seven Psychopaths`_.
+weird and wonderful [Seven Psychopaths].
 
-
-.. _Seven Psychopaths: http://movies.tshepang.net/seven-psychopaths-2012
+  [Seven Psychopaths]: http://movies.tshepang.net/seven-psychopaths-2012

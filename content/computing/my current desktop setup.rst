@@ -1,41 +1,40 @@
-my current desktop setup
-========================
+---
+date: '2014-02-16'
+tags: 'GNOME, Debian'
+title: my current desktop setup
+---
 
-:date: 2014-02-16
-:tags: GNOME, Debian
+Following is how my GUI environment is set-up on [my home machine] (a
+laptop) and work machine (a desktop). For the (libre) tools I frequently
+use, see [this post] instead.
 
-
-Following is how my GUI environment is set-up on `my home machine`__
-(a laptop) and work machine (a desktop). For the (libre) tools I
-frequently use, see `this post`__ instead.
-
-----
+------------------------------------------------------------------------
 
 With recent Debian GNOME updates (late 2013), something got broken
 enough that I could not login to my account. I saw this as a good
 opportunity to finally try something other than GNOME as my primary
 environment. I have before tinkered with other GUI environments (XFCE,
-KDE 3, FluxBox, LXDE, and most recently, Window Maker), but none
-lasted very long. But I think this time I will actually abandon GNOME
+KDE 3, FluxBox, LXDE, and most recently, Window Maker), but none lasted
+very long. But I think this time I will actually abandon GNOME
 permanently, after nearly a decade of use.
 
-I been playing with dwm__ for the past several weeks, and the experience
+I been playing with [dwm] for the past several weeks, and the experience
 has convinced me to stay. I am attracted to the philosophy of
 minimalism, though I find they do take things a bit far in requiring
 users to tinker with C source code in order to configure it. Luckily
-it's not hard, and there's examples out there. It just takes a while
-since there isn't a comprehensive guide I could find.
+it\'s not hard, and there\'s examples out there. It just takes a while
+since there isn\'t a comprehensive guide I could find.
 
-For my login manager, I use LightDM__. I added this line to its
-configuration, in ``[SeatDefaults]`` section::
+For my login manager, I use [LightDM]. I added this line to its
+configuration, in `[SeatDefaults]` section:
 
-  greeter-hide-users=false
+    greeter-hide-users=false
 
 It removes the need to manually enter my username each time I want to
 login.
 
-Reason I'm not using GDM? I wanted something light, which also
-wouldn't pull in dozens of packages that I won't use. For example::
+Reason I\'m not using GDM? I wanted something light, which also
+wouldn\'t pull in dozens of packages that I won\'t use. For example:
 
     $ sudo apt-get install --no-install-recommends gdm3
     Reading package lists... Done
@@ -85,15 +84,15 @@ wouldn't pull in dozens of packages that I won't use. For example::
     After this operation, 90.8 MB of additional disk space will be used.
 
 GNOME philosophy tends towards tight integration, leading to things
-being not as modular as I would like: how could a display manager end
-up depending on a Contacts tool, or the Bluetooth stack. It may
-be just how it was built in Debian, but that also means there
-were build options that allowed such tight coupling in the first
-place. GDM has served me well for years, but I'm not interested in all
-those tools it brings with.
+being not as modular as I would like: how could a display manager end up
+depending on a Contacts tool, or the Bluetooth stack. It may be just how
+it was built in Debian, but that also means there were build options
+that allowed such tight coupling in the first place. GDM has served me
+well for years, but I\'m not interested in all those tools it brings
+with.
 
-Anyways, enough with that. I added a custom ``.desktop`` file which will
-become selectable on LightDM UI::
+Anyways, enough with that. I added a custom `.desktop` file which will
+become selectable on LightDM UI:
 
     $ cat /usr/share/xsessions/custom.desktop
     [Desktop Entry]
@@ -101,52 +100,50 @@ become selectable on LightDM UI::
     Exec=/etc/X11/Xsession
     Type=XSession
 
-On selecting the entry labeled **Custom** that appears on LightDM,
-and logging in, the following will get executed (`~/.xsession`__):
+On selecting the entry labeled **Custom** that appears on LightDM, and
+logging in, the following will get executed ([\~/.xsession]):
 
+``` {.sourceCode .sh}
+# apps
+xfce4-terminal --hide-menubar --tab --tab --tab &
+firefox &
+nautilus --no-desktop &
+nm-applet &
+trayer --edge top --align right --widthtype request --distance 15 &
+quodlibet &
+if [ $HOSTNAME == 'twork' ]; then
+   icedove &
+fi
 
-.. code-block:: sh
+# settings
+xset b off
+xmodmap -e "clear Lock"
+xmodmap -e "keycode 66 = Super_L"
 
-   # apps
-   xfce4-terminal --hide-menubar --tab --tab --tab &
-   firefox &
-   nautilus --no-desktop &
-   nm-applet &
-   trayer --edge top --align right --widthtype request --distance 15 &
-   quodlibet &
-   if [ $HOSTNAME == 'twork' ]; then
-      icedove &
-   fi
+# host-specific settings
+if [ $HOSTNAME == 'twork' ]; then
+    xrandr --output VGA-0 --output DVI-0 --right-of VGA-0
+else
+    synclient TapButton1=1 TapButton2=3 TapButton3=2 MaxDoubleTapTime=100
+    syndaemon -dti 1
+fi
 
-   # settings
-   xset b off
-   xmodmap -e "clear Lock"
-   xmodmap -e "keycode 66 = Super_L"
+# clock
+while true; do
+    datetime=$( date +"%F %R" )
+    if acpi -a | grep off-line > /dev/null; then
+        battery=$( python -c "print(\"$(acpi)\".split(',')[1].strip())" )
+        xsetroot -name "$battery"" | ""$datetime"
+    else
+        xsetroot -name "$datetime"
+    fi
+    sleep 1m
+done &
 
-   # host-specific settings
-   if [ $HOSTNAME == 'twork' ]; then
-       xrandr --output VGA-0 --output DVI-0 --right-of VGA-0
-   else
-       synclient TapButton1=1 TapButton2=3 TapButton3=2 MaxDoubleTapTime=100
-       syndaemon -dti 1
-   fi
+exec dwm
+```
 
-   # clock
-   while true; do
-       datetime=$( date +"%F %R" )
-       if acpi -a | grep off-line > /dev/null; then
-           battery=$( python -c "print(\"$(acpi)\".split(',')[1].strip())" )
-           xsetroot -name "$battery"" | ""$datetime"
-       else
-           xsetroot -name "$datetime"
-       fi
-       sleep 1m
-   done &
-
-   exec dwm
-
-
-Finally, this is what my dwm config changes look like (`config.def.h`__)::
+Finally, this is what my dwm config changes look like ([config.def.h]):
 
     diff --git a/config.def.h b/config.def.h
     index 77ff358..78af5d6 100644
@@ -204,19 +201,16 @@ Finally, this is what my dwm config changes look like (`config.def.h`__)::
             /* modifier                     key        function
             argument */
 
-
 Note that this diff is against the Debian package (version **6.0-6**). I
 could not change the modifier key with the upstream version of dwm.
 
-You will notice that I'm still using one major GNOME package,
-Nautilus, the file browser. It remains `my favorite`__.
+You will notice that I\'m still using one major GNOME package, Nautilus,
+the file browser. It remains [my favorite].
 
-
-
-__ http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
-__ http://tshepang.net/floss-i-use-a-lot
-__ http://dwm.suckless.org
-__ http://www.freedesktop.org/wiki/Software/LightDM
-__ https://bitbucket.org/tshepang/custom/src/tip/xsession
-__ https://bitbucket.org/tshepang/custom/src/tip/config.def.h
-__ http://tshepang.net/favorite-floss
+  [my home machine]: http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
+  [this post]: http://tshepang.net/floss-i-use-a-lot
+  [dwm]: http://dwm.suckless.org
+  [LightDM]: http://www.freedesktop.org/wiki/Software/LightDM
+  [\~/.xsession]: https://bitbucket.org/tshepang/custom/src/tip/xsession
+  [config.def.h]: https://bitbucket.org/tshepang/custom/src/tip/config.def.h
+  [my favorite]: http://tshepang.net/favorite-floss

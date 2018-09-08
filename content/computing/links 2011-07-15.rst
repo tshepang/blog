@@ -1,25 +1,18 @@
-links 2011-07-15
-================
+---
+date: '2011-07-15'
+tags: links
+title: 'links 2011-07-15'
+---
 
-:date: 2011-07-15
-:tags: links
+-   [What\'s up with MeeGo?]
+-   [a really good bug report] -- I found this because I was having the
+    same issue with Eclipse
+-   [wonderful openness][a really good bug report] -- the sort of
+    reporting that raises the expectations of web applications providers
+-   a real nice [Chromium dictionary Extension]
+-   [a graph] showing the history FLOSS video editors
 
-
-
--  `What's up with MeeGo?`_
-
--  `a really good bug report`_ – I found this because I was having the
-   same issue with Eclipse
-
--  `wonderful openness`_ – the sort of reporting that raises the
-   expectations of web applications providers
-
--  a real nice `Chromium dictionary Extension`_
-
--  `a graph`_ showing the history FLOSS video editors
-
-.. _What's up with MeeGo?: http://bergie.iki.fi/blog/understanding_meego/
-.. _a really good bug report: https://bugs.eclipse.org/bugs/show_bug.cgi?id=340298
-.. _wonderful openness: https://bugs.eclipse.org/bugs/show_bug.cgi?id=340298
-.. _Chromium dictionary Extension: https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja
-.. _a graph: http://www.pitivi.org/i/history.png
+  [What\'s up with MeeGo?]: http://bergie.iki.fi/blog/understanding_meego/
+  [a really good bug report]: https://bugs.eclipse.org/bugs/show_bug.cgi?id=340298
+  [Chromium dictionary Extension]: https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja
+  [a graph]: http://www.pitivi.org/i/history.png

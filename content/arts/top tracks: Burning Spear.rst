@@ -1,38 +1,36 @@
-top tracks: Burning Spear
-=========================
-
-:tags: music, top-tracks
-
-
+---
+tags: 'music, top-tracks'
+title: 'top tracks: Burning Spear'
+---
 
 1 landmark
-----------
+==========
 
--  Old Marcus Garvey (*Marcus Garvey* - 1975)
+-   Old Marcus Garvey (*Marcus Garvey* - 1975)
 
 7 masterpieces
---------------
+==============
 
--  Tradition (*Marcus Garvey* - 1975)
--  Invasion aka Black Wa-da-da (*Marcus Garvey* - 1975)
--  Marcus Garvey (*Marcus Garvey* - 1975)
--  Give Me (*Marcus Garvey* - 1975)
--  The Wilderness (*Live in Paris Zenith* - 1988)
--  Slavery Days (*Marcus Garvey* - 1975)
--  Mister Garvey (*Social Living* - 1978)
+-   Tradition (*Marcus Garvey* - 1975)
+-   Invasion aka Black Wa-da-da (*Marcus Garvey* - 1975)
+-   Marcus Garvey (*Marcus Garvey* - 1975)
+-   Give Me (*Marcus Garvey* - 1975)
+-   The Wilderness (*Live in Paris Zenith* - 1988)
+-   Slavery Days (*Marcus Garvey* - 1975)
+-   Mister Garvey (*Social Living* - 1978)
 
 7 excellent works
------------------
+=================
 
--  Creation Rebel (*Live in Paris Zenith* - 1988)
--  Civilise Reggae (*Social Living* - 1978)
--  Live Good (*Marcus Garvey* - 1975)
--  Jordan River (*Marcus Garvey* - 1975)
--  Institution (*Social Living* - 1978)
--  Marcus Children Suffer (*Social Living* - 1978)
--  The Youths (*(A)Live in Concert '97* - 1998)
+-   Creation Rebel (*Live in Paris Zenith* - 1988)
+-   Civilise Reggae (*Social Living* - 1978)
+-   Live Good (*Marcus Garvey* - 1975)
+-   Jordan River (*Marcus Garvey* - 1975)
+-   Institution (*Social Living* - 1978)
+-   Marcus Children Suffer (*Social Living* - 1978)
+-   The Youths (*(A)Live in Concert \'97* - 1998)
 
 honorable mention
------------------
+=================
 
-- Travelling (*Spear Burning* - 2001)
+-   Travelling (*Spear Burning* - 2001)

@@ -1,23 +1,17 @@
-links 2012-09-28
-================
+---
+date: '2012-09-28'
+tags: links
+title: 'links 2012-09-28'
+---
 
-:tags: links
-:date: 2012-09-28
+-   [A look at the high fragmentation of programming languages]
+-   [What happens after loading the Linux kernel image into RAM]
+-   [Development process for putting hardware support in Linux-based
+    systems][What happens after loading the Linux kernel image into RAM]
+-   [Why choose N9 (Meego) over anything Android and iPhone] ([and why
+    not])
 
-
-
--  `A look at the high fragmentation of programming languages`_
-
--  `What happens after loading the Linux kernel image into RAM`_
-
--  `Development process for putting hardware support in Linux-based
-   systems`_
-
--  `Why choose N9 (Meego) over anything Android and iPhone`_ (`and why
-   not`_)
-
-.. _A look at the high fragmentation of programming languages: http://stackoverflow.com/a/2116517/321731
-.. _What happens after loading the Linux kernel image into RAM: http://unix.stackexchange.com/q/5117/688
-.. _Development process for putting hardware support in Linux-based systems: http://unix.stackexchange.com/q/5117/688
-.. _Why choose N9 (Meego) over anything Android and iPhone: http://www.kryogenix.org/days/2012/03/04/my-new-phone-2012-edition
-.. _and why not: http://www.kryogenix.org/days/2012/08/03/me-and-the-nokia-n9
+  [A look at the high fragmentation of programming languages]: http://stackoverflow.com/a/2116517/321731
+  [What happens after loading the Linux kernel image into RAM]: http://unix.stackexchange.com/q/5117/688
+  [Why choose N9 (Meego) over anything Android and iPhone]: http://www.kryogenix.org/days/2012/03/04/my-new-phone-2012-edition
+  [and why not]: http://www.kryogenix.org/days/2012/08/03/me-and-the-nokia-n9

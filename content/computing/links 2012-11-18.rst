@@ -1,23 +1,18 @@
-links 2012-11-18
-================
+---
+date: '2012-11-18'
+tags: links
+title: 'links 2012-11-18'
+---
 
-:tags: links
-:date: 2012-11-18
+-   [Challenges for Linux networking]; sad to read of these shortcomings
+-   refusal to accept a reasonable, popular, and easy-to-implement
+    request, [an option to never turn off the screen]
+-   [great praise for Qt and its docs]; me was led to it when
+    researching a cross-platform (Linux and Windows) GUI toolkit
+-   I found using gaming to explain version control unbeatable; that is
+    the great appeal of [Git Magic]
 
-
-
--  `Challenges for Linux networking`_; sad to read of these shortcomings
-
--  refusal to accept a reasonable, popular, and easy-to-implement request,
-   `an option to never turn off the screen`_
-
--  `great praise for Qt and its docs`_; me was led to it when
-   researching a cross-platform (Linux and Windows) GUI toolkit
-
--  I found using gaming to explain version control unbeatable; that is
-   the great appeal of `Git Magic`_
-
-.. _Challenges for Linux networking: http://lwn.net/Articles/523058/
-.. _an option to never turn off the screen: https://bugzilla.gnome.org/show_bug.cgi?id=647828
-.. _great praise for Qt and its docs: http://www.codinguser.com/2012/07/i-miss-qt-or-what-cute-documentation-looks-like/
-.. _Git Magic: http://www-cs-students.stanford.edu/~blynn/gitmagic/
+  [Challenges for Linux networking]: http://lwn.net/Articles/523058/
+  [an option to never turn off the screen]: https://bugzilla.gnome.org/show_bug.cgi?id=647828
+  [great praise for Qt and its docs]: http://www.codinguser.com/2012/07/i-miss-qt-or-what-cute-documentation-looks-like/
+  [Git Magic]: http://www-cs-students.stanford.edu/~blynn/gitmagic/

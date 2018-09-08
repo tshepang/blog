@@ -1,24 +1,18 @@
-links 2011-01-17
-================
+---
+date: '2011-01-17'
+tags: 'links, Emacs'
+title: 'links 2011-01-17'
+---
 
-:date: 2011-01-17
-:tags: links, Emacs
+-   [a wealth of info on \'kill -9\']
+-   [the best comparison of vi and emacs I\'ve seen yet]
+-   [the complexity of programming language benchmarking]
+-   [high profile FLOSS developers employed by Google]
+-   I have never seen such [detailed criticism] of a programming
+    language.
 
-
-
--  `a wealth of info on 'kill -9'`_
-
--  `the best comparison of vi and emacs I've seen yet`_
-
--  `the complexity of programming language benchmarking`_
-
--  `high profile FLOSS developers employed by Google`_
-
--  I have never seen such `detailed criticism`_ of a programming language.
-
-
-.. _a wealth of info on 'kill -9': http://unix.stackexchange.com/q/5642/688
-.. _the best comparison of vi and emacs I've seen yet: http://unix.stackexchange.com/a/1010/688
-.. _the complexity of programming language benchmarking: http://slott-softwarearchitect.blogspot.com/2011/01/java-php-python-which-is-faster-in.html
-.. _high profile FLOSS developers employed by Google: http://www.pixelbeat.org/misc/google_stars.html
-.. _detailed criticism: http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/
+  [a wealth of info on \'kill -9\']: http://unix.stackexchange.com/q/5642/688
+  [the best comparison of vi and emacs I\'ve seen yet]: http://unix.stackexchange.com/a/1010/688
+  [the complexity of programming language benchmarking]: http://slott-softwarearchitect.blogspot.com/2011/01/java-php-python-which-is-faster-in.html
+  [high profile FLOSS developers employed by Google]: http://www.pixelbeat.org/misc/google_stars.html
+  [detailed criticism]: http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/

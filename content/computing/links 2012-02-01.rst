@@ -1,26 +1,20 @@
-links 2012-02-01
-================
+---
+date: '2012-02-01'
+tags: 'links, humor, Pyramid'
+title: 'links 2012-02-01'
+---
 
-:date: 2012-02-01
-:tags: links, humor, Pyramid
+-   [\"A prayer to the programming gods\"] - decent humor
+-   [A bit of Zope history, how it rocked, and how it sucked] - makes me
+    respect [Pyramid] even more.
+-   [A scathing read regarding incompencies of developers] - for the
+    sake of completeness, he should have mentioned that developers often
+    don\'t have time to fully understand technologies they are often
+    commanded (by employers) to work with.
+-   [on the frustrations of waiting too long to get help] - great humor
 
-
-
-- `"A prayer to the programming gods"`__ - decent humor
-
-- `A bit of Zope history, how it rocked, and how it sucked`__ - makes
-  me respect `Pyramid`__ even more.
-
-- `A scathing read regarding incompencies of developers`__ - for the
-  sake of completeness, he should have mentioned that developers
-  often don't have time to fully understand technologies they are
-  often commanded (by employers) to work with.
-
-- `on the frustrations of waiting too long to get help`__ - great humor
-
-
-__ http://lukeplant.me.uk/blog/posts/a-prayer-to-the-programming-gods/
-__ http://plope.com/Members/chrism/in_defense_of_zope_libraries
-__ http://docs.pylonsproject.org/en/latest/docs/pyramid.html
-__ http://jpos.org/blog/2010/06/technology-xy/
-__ http://lists.mplayerhq.hu/pipermail/mplayer-users/2005-November/056854.html
+  [\"A prayer to the programming gods\"]: http://lukeplant.me.uk/blog/posts/a-prayer-to-the-programming-gods/
+  [A bit of Zope history, how it rocked, and how it sucked]: http://plope.com/Members/chrism/in_defense_of_zope_libraries
+  [Pyramid]: http://docs.pylonsproject.org/en/latest/docs/pyramid.html
+  [A scathing read regarding incompencies of developers]: http://jpos.org/blog/2010/06/technology-xy/
+  [on the frustrations of waiting too long to get help]: http://lists.mplayerhq.hu/pipermail/mplayer-users/2005-November/056854.html

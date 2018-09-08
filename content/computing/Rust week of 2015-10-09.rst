@@ -1,14 +1,12 @@
-Rust week of 2015-10-09
-=======================
+---
+date: '2015-10-15'
+tags: Rust
+title: 'Rust week of 2015-10-09'
+---
 
-:date: 2015-10-15
-:tags: Rust
+My laziness continues, so I got [only][] [three][] [submissions] this
+time.
 
-
-
-My laziness continues, so I got only__ three__ submissions__ this time.
-
-
-__ https://github.com/rust-lang/rust/pull/29058
-__ https://github.com/rust-lang/rust/pull/29059
-__ https://github.com/rust-lang/rust/pull/29060
+  [only]: https://github.com/rust-lang/rust/pull/29058
+  [three]: https://github.com/rust-lang/rust/pull/29059
+  [submissions]: https://github.com/rust-lang/rust/pull/29060

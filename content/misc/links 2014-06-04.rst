@@ -1,25 +1,20 @@
-links 2014-06-04
-================
+---
+date: '2014-06-04'
+tags: 'politics, links'
+title: 'links 2014-06-04'
+---
 
-:date: 2014-06-04
-:tags: politics, links
+-   [An excellent description on why Anarchy is the best possible
+    society ever imagined]
+-   [Great write-up on Gittip]
+-   Exploration of an interesting concept\... [a balance between
+    resentment and guilt]
+-   \"[Why we should give free money to everyone]\" - a highly-detailed
+    read, which supports [this dream of mine]
 
-
-
-- `An excellent description on why Anarchy is the best possible
-  society ever imagined`__
-
-- `Great write-up on Gittip`__
-
-- Exploration of an interesting concept... `a balance between
-  resentment and guilt`__
-
-- "`Why we should give free money to everyone`__" - a highly-detailed
-  read, which supports `this dream of mine`__
-
-
-__ http://loupgaroublond.blogspot.com/2008/12/open-source-and-anarchism.html?showComment=1229842200000#c4468517513122259751
-__ http://www.salon.com/2013/10/25/crowdsource_your_salary_an_economy_built_on_love
-__ https://medium.com/building-gittip/2c621dbd7541
-__ https://decorrespondent.nl/541/why-we-should-give-free-money-to-everyone/20798745-cb9fbb39
-__ http://tshepang.net/pipe-dream-basic-income-for-south-african-adults
+  [An excellent description on why Anarchy is the best possible society
+  ever imagined]: http://loupgaroublond.blogspot.com/2008/12/open-source-and-anarchism.html?showComment=1229842200000#c4468517513122259751
+  [Great write-up on Gittip]: http://www.salon.com/2013/10/25/crowdsource_your_salary_an_economy_built_on_love
+  [a balance between resentment and guilt]: https://medium.com/building-gittip/2c621dbd7541
+  [Why we should give free money to everyone]: https://decorrespondent.nl/541/why-we-should-give-free-money-to-everyone/20798745-cb9fbb39
+  [this dream of mine]: http://tshepang.net/pipe-dream-basic-income-for-south-african-adults

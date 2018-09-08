@@ -1,31 +1,25 @@
-links 2012-12-19
-================
+---
+date: '2012-12-19'
+tags: 'links, humor'
+title: 'links 2012-12-19'
+---
 
-:date: 2012-12-19
-:tags: links, humor
+-   [This guy presents] 2 incredible ideas; one has been running for
+    years (humans translating text that\'s hard to read by machines,
+    while authenticating themselves as humans - [reCAPTCHA]), and
+    another that is brand new, known as [Duolingo].
+-   [Sbhonyonyo the ugly mermaid] - this is habsolutely (sic) hilarious!
+-   [on the supremacy of Japanese toilets]; whoever said toilet humor
+    can\'t be smart and hilarious at the same time
+-   [Connoisseur] - poking fun at the definition of the word
+-   [Bored With the Internet] - very relevant cartoon, except it applies
+    to my love for movies, whereby, while watching, am already thinking
+    what I will write in my review; sometimes I think I am a loser
 
-
-
--  `This guy presents`_ 2 incredible ideas; one has been running for
-   years (humans translating text that's hard to read by machines, while
-   authenticating themselves as humans - `reCAPTCHA`_), and another that
-   is brand new, known as `Duolingo`_.
-
--  `Sbhonyonyo the ugly mermaid`_ - this is habsolutely (sic) hilarious!
-
--  `on the supremacy of Japanese toilets`_; whoever said toilet humor
-   can't be smart and hilarious at the same time
-
--  `Connoisseur`_ - poking fun at the definition of the word
-
--  `Bored With the Internet`_ - very relevant cartoon, except it applies
-   to my love for movies, whereby, while watching, am already thinking
-   what I will write in my review; sometimes I think I am a loser
-
-.. _This guy presents: http://www.youtube.com/watch?feature=player_embedded&v=cQl6jUjFjp4
-.. _reCAPTCHA: http://en.wikipedia.org/wiki/ReCAPTCHA
-.. _Duolingo: http://duolingo.com/
-.. _Sbhonyonyo the ugly mermaid: http://www.youtube.com/watch?v=-3ml3GP_5fg
-.. _on the supremacy of Japanese toilets: https://news.ycombinator.com/item?id=4787587
-.. _Connoisseur: http://xkcd.com/915
-.. _Bored With the Internet: http://xkcd.com/77/
+  [This guy presents]: http://www.youtube.com/watch?feature=player_embedded&v=cQl6jUjFjp4
+  [reCAPTCHA]: http://en.wikipedia.org/wiki/ReCAPTCHA
+  [Duolingo]: http://duolingo.com/
+  [Sbhonyonyo the ugly mermaid]: http://www.youtube.com/watch?v=-3ml3GP_5fg
+  [on the supremacy of Japanese toilets]: https://news.ycombinator.com/item?id=4787587
+  [Connoisseur]: http://xkcd.com/915
+  [Bored With the Internet]: http://xkcd.com/77/

@@ -1,14 +1,12 @@
-Rust week of 2016-05-13
-=======================
+---
+date: '2016-05-19'
+tags: Rust
+title: 'Rust week of 2016-05-13'
+---
 
-:date: 2016-05-19
-:tags: Rust
+[Just][] [four][] [changes] this week, including [one for the blog].
 
-
-Just__ four__ changes__ this week, including `one for the blog`__.
-
-
-__ https://github.com/rust-lang/rust/pull/33633
-__ https://github.com/rust-lang/rust/pull/33634
-__ https://github.com/rust-lang/rust/pull/33635
-__ https://github.com/rust-lang/blog.rust-lang.org/pull/98
+  [Just]: https://github.com/rust-lang/rust/pull/33633
+  [four]: https://github.com/rust-lang/rust/pull/33634
+  [changes]: https://github.com/rust-lang/rust/pull/33635
+  [one for the blog]: https://github.com/rust-lang/blog.rust-lang.org/pull/98

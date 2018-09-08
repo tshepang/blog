@@ -1,29 +1,23 @@
-links 2011-02-15
-================
+---
+date: '2011-02-15'
+tags: links
+title: 'links 2011-02-15'
+---
 
-:date: 2011-02-15
-:tags: links
+-   [my first CPython feature request]; unsurprisingly, it was rejected
+-   I still can\'t comprehend why Ubuntu gods decided to put their
+    window controls on the left, and so does [this guy] ([via])
+-   [Operating Systems Lifecycle Chart] -- nice presentation, nice site
+    design
+-   [The tools] used by one very advanced Debian user; this is quality
+    and in-depth writing.
+-   Someone claimed [Gnucash was to blame] for her move to Linux-based
+    systems; for another, [the tool was Meld].
 
-
-
--  `my first CPython feature request`_; unsurprisingly, it was rejected
-
--  I still can't comprehend why Ubuntu gods decided to put their window
-   controls on the left, and so does `this guy`_ (`via`_)
-
--  `Operating Systems Lifecycle Chart`_ – nice presentation, nice site
-   design
-
--  `The tools`_ used by one very advanced Debian user; this is quality
-   and in-depth writing.
-
--  Someone claimed `Gnucash was to blame`_ for her move to Linux-based
-   systems; for another, `the tool was Meld`_.
-
-.. _my first CPython feature request: http://bugs.python.org/issue11162
-.. _this guy: http://yokozar.org/blog/archives/194
-.. _via: http://www.codinghorror.com/blog/2010/03/the-opposite-of-fitts-law.html
-.. _Operating Systems Lifecycle Chart: http://benjamin-schweizer.de/operating-systems-lifecycle-chart.html
-.. _The tools: http://benjamin.mako.hill.usesthis.com/
-.. _Gnucash was to blame: http://lists.debian.org/debian-user/2007/11/msg00664.html
-.. _the tool was Meld: http://lists.debian.org/debian-user/2006/10/msg03316.html
+  [my first CPython feature request]: http://bugs.python.org/issue11162
+  [this guy]: http://yokozar.org/blog/archives/194
+  [via]: http://www.codinghorror.com/blog/2010/03/the-opposite-of-fitts-law.html
+  [Operating Systems Lifecycle Chart]: http://benjamin-schweizer.de/operating-systems-lifecycle-chart.html
+  [The tools]: http://benjamin.mako.hill.usesthis.com/
+  [Gnucash was to blame]: http://lists.debian.org/debian-user/2007/11/msg00664.html
+  [the tool was Meld]: http://lists.debian.org/debian-user/2006/10/msg03316.html

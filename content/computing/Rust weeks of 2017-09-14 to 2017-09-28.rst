@@ -1,24 +1,18 @@
-Rust weeks of 2017-09-14 to 2017-09-28
-======================================
+---
+date: '2017-10-04'
+tags: Rust
+title: 'Rust weeks of 2017-09-14 to 2017-09-28'
+---
 
-:date: 2017-10-04
-:tags: Rust
+Over the past 3 weeks, I continued work on [a project I mentioned
+previously], a CLI UI for work. In addition to dependencies mentioned
+there, I used [rust-ini] and [serde\_yaml], I mostly enjoyed the
+experience, though not too happy with the code, which feels messy\... I
+use [termion::AsynReader], which means I have to loop all over the place
+while waiting for stdin (keyboard input). I imagine there is a better
+way.
 
-
-
-Over the past 3 weeks,
-I continued work on `a project I mentioned previously`__,
-a CLI UI for work.
-In addition to dependencies mentioned there,
-I used rust-ini__ and `serde_yaml`__,
-I mostly enjoyed the experience,
-though not too happy with the code, which feels messy...
-I use `termion::AsynReader`__, which means I have to loop all over
-the place while waiting for stdin (keyboard input).
-I imagine there is a better way.
-
-
-__ http://tshepang.net/rust-week-of-2017-09-07
-__ https://github.com/zonyitoo/rust-ini
-__ https://github.com/dtolnay/serde-yaml
-__ https://docs.rs/termion/1.5.1/termion/struct.AsyncReader.html
+  [a project I mentioned previously]: http://tshepang.net/rust-week-of-2017-09-07
+  [rust-ini]: https://github.com/zonyitoo/rust-ini
+  [serde\_yaml]: https://github.com/dtolnay/serde-yaml
+  [termion::AsynReader]: https://docs.rs/termion/1.5.1/termion/struct.AsyncReader.html

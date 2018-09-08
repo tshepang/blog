@@ -1,18 +1,14 @@
-Rust week of 2015-11-20
-=======================
+---
+date: '2015-11-25'
+tags: Rust
+title: 'Rust week of 2015-11-20'
+---
 
-:date: 2015-11-25
-:tags: Rust
+I submitted [some improvements] to new Rust stdlib APIS,
+[std::time::Instant] and [std::time::SystemTime]. I also submitted [the
+result] of running rustfmt on `syntax::parser::lexer`.
 
-
-
-I submitted `some improvements`__ to new Rust stdlib APIS,
-`std::time::Instant`__ and `std::time::SystemTime`__.  I also
-submitted `the result`__ of running rustfmt on
-``syntax::parser::lexer``.
-
-
-__ https://github.com/rust-lang/rust/pull/30061
-__ https://doc.rust-lang.org/nightly/std/time/struct.Instant.html
-__ https://doc.rust-lang.org/nightly/std/time/struct.SystemTime.html
-__ https://github.com/rust-lang/rust/pull/30065
+  [some improvements]: https://github.com/rust-lang/rust/pull/30061
+  [std::time::Instant]: https://doc.rust-lang.org/nightly/std/time/struct.Instant.html
+  [std::time::SystemTime]: https://doc.rust-lang.org/nightly/std/time/struct.SystemTime.html
+  [the result]: https://github.com/rust-lang/rust/pull/30065

@@ -1,14 +1,13 @@
-Rust week of 2015-10-16
-=======================
+---
+date: '2015-10-21'
+tags: Rust
+title: 'Rust week of 2015-10-16'
+---
 
-:date: 2015-10-21
-:tags: Rust
+I made [three][] [documentation][] [changes] and [one] rustfmt-assisted
+formatting.
 
-
-I made three__ documentation__ changes__ and one__ rustfmt-assisted formatting.
-
-
-__ https://github.com/rust-lang/rust/pull/29197
-__ https://github.com/rust-lang/rust/pull/29198
-__ https://github.com/rust-lang/rust/pull/29199
-__ https://github.com/rust-lang/rust/pull/29200
+  [three]: https://github.com/rust-lang/rust/pull/29197
+  [documentation]: https://github.com/rust-lang/rust/pull/29198
+  [changes]: https://github.com/rust-lang/rust/pull/29199
+  [one]: https://github.com/rust-lang/rust/pull/29200

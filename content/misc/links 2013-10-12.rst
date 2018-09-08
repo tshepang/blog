@@ -1,28 +1,21 @@
-links 2013-10-12
-================
+---
+date: '2013-10-12'
+tags: 'links, Gittip'
+title: 'links 2013-10-12'
+---
 
-:date: 2013-10-12
-:tags: links, Gittip
+-   [nice artwork] ([via])
+-   [They\'re Made out of Meat] - nice sci-fi humor
+-   [How to Advertise on a Porn Website] - interesting, with decent
+    humor
+-   [How to Frustrate Your Train Driver] - delicious humor
+-   I have, for a long time, considered NYC the greatest city on the
+    planet, which is actually quite vague. [This article] fixes that for
+    me\... *the most important city in the world*.
 
-
-
-* `nice artwork`__ (via__)
-
-* `They're Made out of Meat`__ - nice sci-fi humor
-
-* `How to Advertise on a Porn Website`__ - interesting, with decent
-  humor
-
-* `How to Frustrate Your Train Driver`__ - delicious humor
-
-* I have, for a long time, considered NYC the greatest city on the
-  planet, which is actually quite vague. `This article`__ fixes that
-  for me... *the most important city in the world*.
-
-
-__ https://happycstudio.see.me
-__ https://github.com/gittip/www.gittip.com/blob/master/README.md#see-also
-__ http://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml
-__ http://blog.eat24hours.com/how-to-advertise-on-a-porn-website
-__ http://hezmatt.org/~mpalmer/blog/general/how_to_frustrate_your_train_driver.html
-__ http://www.wired.com/business/2010/12/google-nyc
+  [nice artwork]: https://happycstudio.see.me
+  [via]: https://github.com/gittip/www.gittip.com/blob/master/README.md#see-also
+  [They\'re Made out of Meat]: http://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml
+  [How to Advertise on a Porn Website]: http://blog.eat24hours.com/how-to-advertise-on-a-porn-website
+  [How to Frustrate Your Train Driver]: http://hezmatt.org/~mpalmer/blog/general/how_to_frustrate_your_train_driver.html
+  [This article]: http://www.wired.com/business/2010/12/google-nyc

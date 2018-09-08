@@ -1,26 +1,20 @@
-links 2012-07-07
-================
+---
+date: '2012-07-07'
+tags: 'atheism, links'
+title: 'links 2012-07-07'
+---
 
-:date: 2012-07-07
-:tags: atheism, links
+-   [some women get their pussies mutilated for some shitty reasons!]
+-   [Luke Muehlhauser on feminism] - superb writing
+-   [the futility of theist vs. atheist debate]
+-   I really enjoyed the humor in the humorous [Threw It On the Ground]
+    music video; even the music is nice
+-   me not sure I would qualify for a job at Netflix, due its [highly
+    demanding culture] would be extra kool if more large companies
+    adopted something similar
 
-
-
--  `some women get their pussies mutilated for some shitty reasons!`_
-
--  `Luke Muehlhauser on feminism`_ - superb writing
-
--  `the futility of theist vs. atheist debate`_
-
--  I really enjoyed the humor in the humorous `Threw It On the Ground`_
-   music video; even the music is nice
-
--  me not sure I would qualify for a job at Netflix, due its `highly
-   demanding culture`_ would be extra kool if more large companies
-   adopted something similar
-
-.. _some women get their pussies mutilated for some shitty reasons!: http://www.guardian.co.uk/society/2010/jul/25/female-circumcision-children-british-law
-.. _Luke Muehlhauser on feminism: http://commonsenseatheism.com/?p=10389
-.. _the futility of theist vs. atheist debate: http://www.infidels.org/library/modern/julian_baggini/review-martin.html
-.. _Threw It On the Ground: http://www.youtube.com/watch?v=gAYL5H46QnQ
-.. _highly demanding culture: http://www.slideshare.net/reed2001/culture-1798664
+  [some women get their pussies mutilated for some shitty reasons!]: http://www.guardian.co.uk/society/2010/jul/25/female-circumcision-children-british-law
+  [Luke Muehlhauser on feminism]: http://commonsenseatheism.com/?p=10389
+  [the futility of theist vs. atheist debate]: http://www.infidels.org/library/modern/julian_baggini/review-martin.html
+  [Threw It On the Ground]: http://www.youtube.com/watch?v=gAYL5H46QnQ
+  [highly demanding culture]: http://www.slideshare.net/reed2001/culture-1798664

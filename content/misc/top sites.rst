@@ -1,23 +1,21 @@
-top sites
-=========
+---
+date: '2013-06-01'
+tags: list
+title: top sites
+---
 
-:tags: list
-:date: 2013-06-01
+**atheist writing**: [Pharyngula]
 
+**Linux-related news**: [LWN]
 
-**atheist writing**: `Pharyngula`_
+**rationality**: [Less Wrong]
 
-**Linux-related news**: `LWN`_
+**software development**: [Stack Overflow]
 
-**rationality**: `Less Wrong`_
+**HTML5**: [diveintohtml5]
 
-**software development**: `Stack Overflow`_
-
-**HTML5**: `diveintohtml5`_
-
-
-.. _Pharyngula: http://scienceblogs.com/pharyngula/
-.. _LWN: http://lwn.net/
-.. _Less Wrong: http://lesswrong.com/
-.. _Stack Overflow: http://stackoverflow.com/
-.. _diveintohtml5: http://diveintohtml5.info/
+  [Pharyngula]: http://scienceblogs.com/pharyngula/
+  [LWN]: http://lwn.net/
+  [Less Wrong]: http://lesswrong.com/
+  [Stack Overflow]: http://stackoverflow.com/
+  [diveintohtml5]: http://diveintohtml5.info/

@@ -1,31 +1,23 @@
-links 2012-02-15
-================
+---
+date: '2012-02-15'
+tags: 'links, Python'
+title: 'links 2012-02-15'
+---
 
-:date: 2012-02-15
-:tags: links, Python
+-   [The amount of testing] SQLite goes through before each release is
+    impressive.
+-   [A stern slap on the wrist] of noisy people; it\'s a well-informed
+    rebuttal against the famous \"the CPython GIL sucketh\" complaint.
+-   [This subprocess wrapper] looks immensely powerful; I haven\'t
+    needed its extra features yet, but I love the elegance and seeming
+    ease-of-use.
+-   A superb, highly-detailed [code review] by [Winston Ewert].
+-   [This guy][Winston Ewert] (same one mentioned above) exposed [my
+    sloppiness] as a programmer; I was nearly embarassed.
 
-
-
-- `The amount of testing`__ SQLite goes through before each release is
-  impressive.
-
-- `A stern slap on the wrist`__ of noisy people; it's a well-informed
-  rebuttal against the famous "the CPython GIL sucketh" complaint.
-
-- `This subprocess wrapper`__ looks immensely powerful; I haven't
-  needed its extra features yet, but I love the elegance and seeming
-  ease-of-use.
-
-- A superb, highly-detailed `code review`__ by `Winston Ewert`__.
-
-- `This guy`__ (same one mentioned above) exposed `my sloppiness`__ as
-  a programmer; I was nearly embarassed.
-
-
-__ http://www.sqlite.org/testing.html
-__ http://mail.python.org/pipermail/python-ideas/2012-February/013835.html
-__ http://sarge.readthedocs.org/en/latest/index.html
-__ http://codereview.stackexchange.com/a/9003/
-__ http://codereview.stackexchange.com/users/1659/winston-ewert
-__ http://codereview.stackexchange.com/users/1659/winston-ewert
-__ http://codereview.stackexchange.com/a/9009/1346
+  [The amount of testing]: http://www.sqlite.org/testing.html
+  [A stern slap on the wrist]: http://mail.python.org/pipermail/python-ideas/2012-February/013835.html
+  [This subprocess wrapper]: http://sarge.readthedocs.org/en/latest/index.html
+  [code review]: http://codereview.stackexchange.com/a/9003/
+  [Winston Ewert]: http://codereview.stackexchange.com/users/1659/winston-ewert
+  [my sloppiness]: http://codereview.stackexchange.com/a/9009/1346

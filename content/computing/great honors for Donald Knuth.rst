@@ -1,16 +1,14 @@
-great honors for Donald Knuth
-=============================
+---
+date: '2010-10-19'
+tags: quote
+title: great honors for Donald Knuth
+---
 
-:date: 2010-10-19
-:tags: quote
+Such praise isn\'t given everyday:
 
-Such praise isn't given everyday:
+> I would say he is man of a stature similar to the stature of Leonard
+> Euler in mathematics. Such men are not born every century\...
+>
+> \-- [source]
 
-    I would say he is man of a stature similar to the stature of
-    Leonard Euler in mathematics. Such men are not born every
-    century...
-
-    -- source__
-
-
-__ http://www.softpanorama.org/People/Knuth/index.shtml
+  [source]: http://www.softpanorama.org/People/Knuth/index.shtml

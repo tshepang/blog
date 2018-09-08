@@ -1,13 +1,11 @@
-Obama administration not too shabby
-===================================
-
-:date: 2010-11-23
-
-
+---
+date: '2010-11-23'
+title: Obama administration not too shabby
+---
 
 Given that I have very little interest in American politics, I find
-`some of the Obama administration's achievements`_ impressive (with
-great help from a refreshing presentation). (`via`_)
+[some of the Obama administration\'s achievements] impressive (with
+great help from a refreshing presentation). ([via])
 
-.. _some of the Obama administration's achievements: http://whatthefuckhasobamadonesofar.com/
-.. _via: http://commonsenseatheism.com/?p=12294
+  [some of the Obama administration\'s achievements]: http://whatthefuckhasobamadonesofar.com/
+  [via]: http://commonsenseatheism.com/?p=12294

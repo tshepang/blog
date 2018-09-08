@@ -1,24 +1,19 @@
-links 2012-04-08
-================
+---
+date: '2012-04-08'
+tags: 'links, Python'
+title: 'links 2012-04-08'
+---
 
-:date: 2012-04-08
-:tags: links, Python
+-   [a great post] about the advantages of undo over warning dialogs
+-   [the great success of Stack Overflow, and the associated Stack
+    Exchange network] -- lots of light humor
+-   [why Python 3 is more suitable for teaching programming]
+-   [history of HTML] -- the research and presentation is impressive
+-   [a look][a great post] at the high fragmentation of programming
+    languages
 
-
-
--  `a great post`_ about the advantages of undo over warning dialogs
-
--  `the great success of Stack Overflow, and the associated Stack
-   Exchange network`_ – lots of light humor
-
--  `why Python 3 is more suitable for teaching programming`_
-
--  `history of HTML`_ – the research and presentation is impressive
-
--  `a look`_ at the high fragmentation of programming languages
-
-.. _a great post: http://www.alistapart.com/articles/neveruseawarning
-.. _the great success of Stack Overflow, and the associated Stack Exchange network: http://blog.stackoverflow.com/2011/01/state-of-the-stack-2010-a-message-from-your-ceo/
-.. _why Python 3 is more suitable for teaching programming: http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html
-.. _history of HTML: http://diveintohtml5.info/past.html
-.. _a look: http://www.alistapart.com/articles/neveruseawarning
+  [a great post]: http://www.alistapart.com/articles/neveruseawarning
+  [the great success of Stack Overflow, and the associated Stack
+  Exchange network]: http://blog.stackoverflow.com/2011/01/state-of-the-stack-2010-a-message-from-your-ceo/
+  [why Python 3 is more suitable for teaching programming]: http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html
+  [history of HTML]: http://diveintohtml5.info/past.html

@@ -1,27 +1,20 @@
-links 2013-06-01
-================
+---
+date: '2013-06-01'
+tags: 'links, VCS'
+title: 'links 2013-06-01'
+---
 
-:date: 2013-06-01
-:tags: links, VCS
+-   [a detailed look] at the shortcomings of GitHub Pull Requests
+    workflow
+-   it is sad seeing projects using Git, instead of Mercurial; it\'s
+    sadder still seeing them [move from Mercurial to Git]; I am scared
+    that my favorite VCS is becoming less and less relevant
+-   [Using Sphinx to Write Technical Books] - nice guide
+-   [HTML history]
+-   [intro to computer video]
 
-
-
-* `a detailed look`__ at the shortcomings of GitHub Pull Requests workflow
-
-* it is sad seeing projects using Git, instead of Mercurial; it's
-  sadder still seeing them `move from Mercurial to Git`__; I am
-  scared that my favorite VCS is becoming less and less relevant
-
-* `Using Sphinx to Write Technical Books`__ - nice guide
-
-* `HTML history`__
-
-* `intro to computer video`__
-
-
-
-__ http://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation
-__ http://www.sqlalchemy.org/blog/2013/05/25/sqlalchemy-migrated-to-git
-__ http://pedrokroger.net/using-sphinx-write-technical-books
-__ http://diveintohtml5.info/past.html
-__ http://diveintohtml5.info/video.html
+  [a detailed look]: http://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation
+  [move from Mercurial to Git]: http://www.sqlalchemy.org/blog/2013/05/25/sqlalchemy-migrated-to-git
+  [Using Sphinx to Write Technical Books]: http://pedrokroger.net/using-sphinx-write-technical-books
+  [HTML history]: http://diveintohtml5.info/past.html
+  [intro to computer video]: http://diveintohtml5.info/video.html

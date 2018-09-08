@@ -1,12 +1,10 @@
-Rust week of 2016-03-18
-=======================
+---
+date: '2016-03-23'
+tags: Rust
+title: 'Rust week of 2016-03-18'
+---
 
-:date: 2016-03-23
-:tags: Rust
+Just [two][] [changes] this time around.
 
-
-Just two__ changes__ this time around.
-
-
-__ https://github.com/rust-lang/rust/pull/32440
-__ https://github.com/rust-lang/rust/pull/32441
+  [two]: https://github.com/rust-lang/rust/pull/32440
+  [changes]: https://github.com/rust-lang/rust/pull/32441

@@ -1,32 +1,25 @@
-links 2013-10-04
-================
+---
+date: '2013-10-04'
+tags: 'Debian, Python, links'
+title: 'links 2013-10-04'
+---
 
-:date: 2013-10-04
-:tags: Debian, Python, links
+-   [a nicely summarised survey of fresh Debian contributors]
+-   [excellent response to an unpleasant reply] - [I admire Michael
+    Biebl], but don\'t remember him be this harsh
+-   I enjoyed watching [Skyfield and 15 Years of Bad APIs], a far more
+    interesting talk than the earlier [API Design for Library Authors].
+    The former covers API design only in its 2nd half, and the latter is
+    exclusively all API talk. The former is also more polished than the
+    latter, both in terms of video editing, and how presentable the
+    presentation is.
+-   [great kudos for (the great) Guido van Rossum]
+-   [Falsehoods Programmers Believe About Names] - interesting
 
-
-
-* `a nicely summarised survey of fresh Debian contributors`__
-
-* `excellent response to an unpleasant reply`__ - `I admire Michael
-  Biebl`__, but don't remember him be this harsh
-
-* I enjoyed watching `Skyfield and 15 Years of Bad APIs`__, a far more
-  interesting talk than the earlier `API Design for Library
-  Authors`__. The former covers API design only in its 2nd half, and
-  the latter is exclusively all API talk. The former is also more
-  polished than the latter, both in terms of video editing, and how
-  presentable the presentation is.
-
-* `great kudos for (the great) Guido van Rossum`__
-
-* `Falsehoods Programmers Believe About Names`__ - interesting
-
-
-__ https://lists.debian.org/debian-project/2013/08/msg00011.html
-__ http://lists.debian.org/debian-gtk-gnome/2013/09/msg00014.html
-__ http://tshepang.net/developer-of-note-michael-biebl
-__ http://pyvideo.org/video/2325/skyfield-and-15-years-of-bad-apis
-__ http://pyvideo.org/video/1705/api-design-for-library-authors
-__ https://tech.dropbox.com/2012/12/welcome-guido/
-__ http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names
+  [a nicely summarised survey of fresh Debian contributors]: https://lists.debian.org/debian-project/2013/08/msg00011.html
+  [excellent response to an unpleasant reply]: http://lists.debian.org/debian-gtk-gnome/2013/09/msg00014.html
+  [I admire Michael Biebl]: http://tshepang.net/developer-of-note-michael-biebl
+  [Skyfield and 15 Years of Bad APIs]: http://pyvideo.org/video/2325/skyfield-and-15-years-of-bad-apis
+  [API Design for Library Authors]: http://pyvideo.org/video/1705/api-design-for-library-authors
+  [great kudos for (the great) Guido van Rossum]: https://tech.dropbox.com/2012/12/welcome-guido/
+  [Falsehoods Programmers Believe About Names]: http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names

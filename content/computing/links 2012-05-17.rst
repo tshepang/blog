@@ -1,24 +1,18 @@
-links 2012-05-17
-================
+---
+date: '2012-05-17'
+tags: 'links, humor'
+title: 'links 2012-05-17'
+---
 
-:date: 2012-05-17
-:tags: links, humor
+-   [The rate of Linux kernel development is seriously impressive]
+-   [Why bundle stuff in one library instead of a few]
+-   [From humble beginnings to extreme success]
+-   Joel Spolsky is a wonderful writer, and has great humor. Check [his
+    impressive effort] at making an oft-boring task of reading a
+    tutorial fun. Check especially his reference to one obscure tv
+    actor.
 
-
-
-- `The rate of Linux kernel development is seriously impressive`__
-
-- `Why bundle stuff in one library instead of a few`__
-
-- `From humble beginnings to extreme success`__
-
-- Joel Spolsky is a wonderful writer, and has great humor. Check `his
-  impressive effort`__ at making an oft-boring task of reading a
-  tutorial fun. Check especially his reference to one obscure tv
-  actor.
-
-
-__ http://go.linuxfoundation.org/who-writes-linux-2012
-__ http://mail.gnome.org/archives/gtk-devel-list/2007-November/msg00032.html
-__ http://lists.debian.org/debian-devel/2011/04/msg00711.html
-__ http://hginit.com/04.html
+  [The rate of Linux kernel development is seriously impressive]: http://go.linuxfoundation.org/who-writes-linux-2012
+  [Why bundle stuff in one library instead of a few]: http://mail.gnome.org/archives/gtk-devel-list/2007-November/msg00032.html
+  [From humble beginnings to extreme success]: http://lists.debian.org/debian-devel/2011/04/msg00711.html
+  [his impressive effort]: http://hginit.com/04.html

@@ -1,20 +1,18 @@
-links 2013-04-25
-================
+---
+date: '2013-04-25'
+tags: 'hardware, links, Pyramid'
+title: 'links 2013-04-25'
+---
 
-:date: 2013-04-25
-:tags: hardware, links, Pyramid
+-   [Apple is a scary company]
+-   [this is one incredible web designer] ([via])
+-   [nice and detailed post about Pyramid\'s powerful View
+    configuration]
+-   [how to evaluate competing technologies for use]
 
-
-* `Apple is a scary company`__
-
-* `this is one incredible web designer`__ (via__)
-
-* `nice and detailed post about Pyramid's powerful View configuration`__
-
-* `how to evaluate competing technologies for use`__
-
-__ http://stallman.org/apple
-__ http://soziev.com
-__ http://delaguardia.com.mx
-__ http://blog.delaguardia.com.mx/pyramid-view-configuration-let-me-count-the-ways.html
-__ http://meta.stackoverflow.com/a/145813/147166
+  [Apple is a scary company]: http://stallman.org/apple
+  [this is one incredible web designer]: http://soziev.com
+  [via]: http://delaguardia.com.mx
+  [nice and detailed post about Pyramid\'s powerful View configuration]:
+    http://blog.delaguardia.com.mx/pyramid-view-configuration-let-me-count-the-ways.html
+  [how to evaluate competing technologies for use]: http://meta.stackoverflow.com/a/145813/147166

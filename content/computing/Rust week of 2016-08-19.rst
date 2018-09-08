@@ -1,15 +1,13 @@
-Rust week of 2016-08-19
-=======================
+---
+date: '2016-08-25'
+tags: Rust
+title: 'Rust week of 2016-08-19'
+---
 
-:date: 2016-08-25
-:tags: Rust
+There [were] a [few][] [submissions], including [one that took entirely
+many hours].
 
-
-There were__ a few__ submissions__, including `one that took entirely
-many hours`__.
-
-
-__ https://github.com/rust-lang/rust/pull/35948
-__ https://github.com/rust-lang/rust/pull/35949
-__ https://github.com/rust-lang/cargo/pull/3020
-__ https://github.com/rust-lang/cargo/pull/3036
+  [were]: https://github.com/rust-lang/rust/pull/35948
+  [few]: https://github.com/rust-lang/rust/pull/35949
+  [submissions]: https://github.com/rust-lang/cargo/pull/3020
+  [one that took entirely many hours]: https://github.com/rust-lang/cargo/pull/3036

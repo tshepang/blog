@@ -1,13 +1,11 @@
-Rust week of 2016-03-04
-=======================
+---
+date: '2016-03-10'
+tags: Rust
+title: 'Rust week of 2016-03-04'
+---
 
-:date: 2016-03-10
-:tags: Rust
+I was hoping to do better than [last week], but it was even worse\...
+[just one contribution].
 
-
-I was hoping to do better than `last week`__, but it was even
-worse... `just one contribution`__.
-
-
-__ http://tshepang.net/rust-week-of-2016-02-26
-__ https://github.com/rust-lang/cargo/pull/2467
+  [last week]: http://tshepang.net/rust-week-of-2016-02-26
+  [just one contribution]: https://github.com/rust-lang/cargo/pull/2467

@@ -1,25 +1,19 @@
-links 2013-07-17
-================
+---
+date: '2013-07-17'
+tags: links
+title: 'links 2013-07-17'
+---
 
-:date: 2013-07-17
-:tags: links
+-   [why Python 3]
+-   [my first Bitbucket follower]
+-   [Open Products] is an excellent essay by the admirable Chad
+    Whitacre, [Gittip] founder
+-   [impressive Libreoffice clean-up work]
+-   [Money and Open Source] - an insightful opinion piece
 
-
-- `why Python 3`__
-
-- `my first Bitbucket follower`__
-
-- `Open Products`__ is an excellent essay by the admirable Chad
-  Whitacre, Gittip__ founder
-
-- `impressive Libreoffice clean-up work`__
-
-- `Money and Open Source`__ - an insightful opinion piece
-
-
-__ http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html
-__ https://bitbucket.org/tusharmakkar08
-__ http://thechangelog.com/open-products
-__ http://tshepang.net/am-joining-gittip
-__ https://people.gnome.org/~michael/blog/2013-06-13-under-the-hood.html
-__ https://medium.com/open-source-life/d44a1953749c
+  [why Python 3]: http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html
+  [my first Bitbucket follower]: https://bitbucket.org/tusharmakkar08
+  [Open Products]: http://thechangelog.com/open-products
+  [Gittip]: http://tshepang.net/am-joining-gittip
+  [impressive Libreoffice clean-up work]: https://people.gnome.org/~michael/blog/2013-06-13-under-the-hood.html
+  [Money and Open Source]: https://medium.com/open-source-life/d44a1953749c

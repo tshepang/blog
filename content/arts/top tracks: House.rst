@@ -1,42 +1,37 @@
-top tracks: House
-=================
-
-:date: 2014-03-04
-:tags: music, list
+---
+date: '2014-03-04'
+tags: 'music, list'
+title: 'top tracks: House'
+---
 
 *A list needing a lot of love*
 
 landmarks
----------
+=========
 
-* **Kutakatum**: I grew up with, and prefer, the slower version found
-  in *Summer Rawkus* (DJ's At Work), as opposed to `the original`__
-
-* `Love is the Answer`__
-
+-   **Kutakatum**: I grew up with, and prefer, the slower version found
+    in *Summer Rawkus* (DJ\'s At Work), as opposed to [the original]
+-   [Love is the Answer]
 
 masterpieces
-------------
+============
 
-* `Love Revolution (Mysterious Revolution)`__
-
-* `All Night Long (Mood II Swing)`__
-
+-   [Love Revolution (Mysterious Revolution)]
+-   [All Night Long (Mood II Swing)]
 
 excellent
----------
+=========
 
-* `A Summer Song (Be My Friend)`__
-* `New Day (The Return)`__
-* `Pasilda (Afro Medusa)`__
-* `Summer Daze (Nick Holder)`__
+-   [A Summer Song (Be My Friend)]
+-   [New Day (The Return)]
+-   [Pasilda (Afro Medusa)]
+-   [Summer Daze (Nick Holder)]
 
-
-__ http://www.youtube.com/watch?v=LMvEBBW4ZOc
-__ http://www.youtube.com/watch?v=wb8WrrWph94
-__ http://www.youtube.com/watch?v=QzaXh2JL88Q
-__ http://www.youtube.com/watch?v=UGftSf9x2z4
-__ http://www.youtube.com/watch?v=_V41uSeCc2I
-__ http://www.youtube.com/watch?v=3YXsejMKcbA
-__ http://www.youtube.com/watch?v=r28kec2n-gY
-__ http://www.youtube.com/watch?v=j3_7ionO5qo
+  [the original]: http://www.youtube.com/watch?v=LMvEBBW4ZOc
+  [Love is the Answer]: http://www.youtube.com/watch?v=wb8WrrWph94
+  [Love Revolution (Mysterious Revolution)]: http://www.youtube.com/watch?v=QzaXh2JL88Q
+  [All Night Long (Mood II Swing)]: http://www.youtube.com/watch?v=UGftSf9x2z4
+  [A Summer Song (Be My Friend)]: http://www.youtube.com/watch?v=_V41uSeCc2I
+  [New Day (The Return)]: http://www.youtube.com/watch?v=3YXsejMKcbA
+  [Pasilda (Afro Medusa)]: http://www.youtube.com/watch?v=r28kec2n-gY
+  [Summer Daze (Nick Holder)]: http://www.youtube.com/watch?v=j3_7ionO5qo

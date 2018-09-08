@@ -1,32 +1,30 @@
-top tracks: Hugh Masekela
-=========================
+---
+date: '2014-03-15'
+tags: 'music, top-tracks'
+title: 'top tracks: Hugh Masekela'
+---
 
-:date: 2014-03-15
-:tags: music, top-tracks
-
-
-Although he made a lot of trash, Hugh Masekela remains one of the
-great South African artists. After all we judge artists based on their
-best works right? We are nice folk.
+Although he made a lot of trash, Hugh Masekela remains one of the great
+South African artists. After all we judge artists based on their best
+works right? We are nice folk.
 
 2 masterpieces
---------------
+==============
 
-- Ha Lese Le Di Khanna (*Still Grazing* - 2004)
-- Stimela (*Hope* - 1993)
+-   Ha Lese Le Di Khanna (*Still Grazing* - 2004)
+-   Stimela (*Hope* - 1993)
 
 3 excellent works
------------------
+=================
 
-- Grazing In the Grass (*Still Grazing* - 2004)
-- Bajabula Bonke (*Still Grazing* - 2004)
-- Yei Baa Gbe Wolo (*Introducing Hedzoleh Soundz* - 1973)
+-   Grazing In the Grass (*Still Grazing* - 2004)
+-   Bajabula Bonke (*Still Grazing* - 2004)
+-   Yei Baa Gbe Wolo (*Introducing Hedzoleh Soundz* - 1973)
 
-----
+------------------------------------------------------------------------
 
-There are separate posts where I celebrate his two albums,
-`Introducing Hedzoleh Soundz`__ and `Still Grazing`__.
+There are separate posts where I celebrate his two albums, [Introducing
+Hedzoleh Soundz] and [Still Grazing].
 
-
-__ http://tshepang.net/introducing-hedzoleh-soundz-1973
-__ http://tshepang.net/still-grazing-2004
+  [Introducing Hedzoleh Soundz]: http://tshepang.net/introducing-hedzoleh-soundz-1973
+  [Still Grazing]: http://tshepang.net/still-grazing-2004

@@ -1,24 +1,17 @@
-links 2012-04-12
-================
+---
+date: '2012-04-12'
+tags: 'Python, links'
+title: 'links 2012-04-12'
+---
 
-:date: 2012-04-12
-:tags: Python, links
+-   [Books Programmers Don\'t Really Read]
+-   [avoid being too concise] -- a Python example
+-   [excellent review of a book that uses Python to teach kids
+    programming]
+-   [mailing lists are less than ideal for debate/extended discussion]
 
-
-
-- `Books Programmers Don't Really Read`__
-
-- `avoid being too concise`__ – a Python example
-
-- `excellent review of a book that uses Python to teach kids
-  programming`__
-
-- `mailing lists are less than ideal for debate/extended discussion`__
-
-
-
-__ http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html
-__ http://www.b-list.org/weblog/2006/oct/28/python-tips-dont-be-too-concise/
-__ http://inventwithpython.com/blog/2010/09/27/i-want-to-teach-my-kid-how-to-program/
-__ http://tech.blog.aknin.name/2010/05/29/mailing-list-debates-considered-harmful/
-
+  [Books Programmers Don\'t Really Read]: http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html
+  [avoid being too concise]: http://www.b-list.org/weblog/2006/oct/28/python-tips-dont-be-too-concise/
+  [excellent review of a book that uses Python to teach kids
+  programming]: http://inventwithpython.com/blog/2010/09/27/i-want-to-teach-my-kid-how-to-program/
+  [mailing lists are less than ideal for debate/extended discussion]: http://tech.blog.aknin.name/2010/05/29/mailing-list-debates-considered-harmful/

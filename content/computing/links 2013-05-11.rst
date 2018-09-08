@@ -1,29 +1,23 @@
-links 2013-05-11
-================
+---
+date: '2013-05-11'
+tags: 'Python, GNOME, links, Emacs'
+title: 'links 2013-05-11'
+---
 
-:date: 2013-05-11
-:tags: Python, GNOME, links, Emacs
+-   [Python interpreter finally gets tab completion by default]; to see
+    wide use, this will have to wait for 3.4 release, [which will only
+    arrive early 2014].
+-   I submitted [my first bug report for Emacs], perhaps my first ever
+    to a pure GNU project; I say this because GNOME claims to be one,
+    but it\'s really only by name.
+-   [Excellent guide on improving Python performance]; it\'s written
+    with PyPy in mind, but has excellent generic advice.
+-   I enjoyed [this podcast] where Jeff Atwood talks about his new
+    project, [Discourse].
 
-
-
-* `Python interpreter finally gets tab completion by default`__;
-  to see wide use, this will have to wait for 3.4 release,
-  `which will only arrive early 2014`__.
-
-* I submitted `my first bug report for Emacs`__,
-  perhaps my first ever to a pure GNU project;
-  I say this because GNOME claims to be one, but it's really only by name.
-
-* `Excellent guide on improving Python performance`__;
-  it's written with PyPy in mind, but has excellent generic advice.
-
-* I enjoyed `this podcast`__ where Jeff Atwood talks about his new
-  project, Discourse__.
-
-
-__ http://hg.python.org/cpython/rev/d5ef330bac50
-__ http://www.python.org/dev/peps/pep-0429
-__ http://debbugs.gnu.org/cgi/bugreport.cgi?bug=14355
-__ http://www.pypy.org/performance.html
-__ http://thechangelog.com/86
-__ http://www.discourse.org
+  [Python interpreter finally gets tab completion by default]: http://hg.python.org/cpython/rev/d5ef330bac50
+  [which will only arrive early 2014]: http://www.python.org/dev/peps/pep-0429
+  [my first bug report for Emacs]: http://debbugs.gnu.org/cgi/bugreport.cgi?bug=14355
+  [Excellent guide on improving Python performance]: http://www.pypy.org/performance.html
+  [this podcast]: http://thechangelog.com/86
+  [Discourse]: http://www.discourse.org

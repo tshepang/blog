@@ -1,27 +1,19 @@
-links 2015-01-16
-================
+---
+date: '2015-01-16'
+tags: 'Debian, Rust, links'
+title: 'links 2015-01-16'
+---
 
-:date: 2015-01-16
-:tags: Debian, Rust, links
+-   [A well-written article] offering tips on being a good 3D artist
+-   [an epic battle in improving performance of Debian Code Search]
+-   [24 days of Rust] is a nice series of 24 posts related to Rust, each
+    short and concise, which is the way I like it
+-   [Why your first FizzBuzz implementation may not work]
+    -   a very nice Rust mini-tutorial
+-   [151-byte static Linux binary in Rust] - interesting experiment
 
-
-
-* `A well-written article`__ offering tips on being a good 3D artist
-
-* `an epic battle in improving performance of Debian Code Search`__
-
-* `24 days of Rust`__ is a nice series of 24 posts related to Rust,
-  each short and concise, which is the way I like it
-
-* `Why your first FizzBuzz implementation may not work`__
-  - a very nice Rust mini-tutorial
-
-* `151-byte static Linux binary in Rust`__ - interesting experiment
-
-
-
-__ http://glenmoyes.com/articles/to_those_learning_3d
-__ https://people.debian.org/~stapelberg//2014/12/23/code-search-taming-the-latency-tail
-__ https://siciarz.net/tag/24 days of rust
-__ http://chrismorgan.info/blog/rust-fizzbuzz.html
-__ http://mainisusuallyafunction.blogspot.com/2015/01/151-byte-static-linux-binary-in-rust.html
+  [A well-written article]: http://glenmoyes.com/articles/to_those_learning_3d
+  [an epic battle in improving performance of Debian Code Search]: https://people.debian.org/~stapelberg//2014/12/23/code-search-taming-the-latency-tail
+  [24 days of Rust]: https://siciarz.net/tag/24%20days%20of%20rust
+  [Why your first FizzBuzz implementation may not work]: http://chrismorgan.info/blog/rust-fizzbuzz.html
+  [151-byte static Linux binary in Rust]: http://mainisusuallyafunction.blogspot.com/2015/01/151-byte-static-linux-binary-in-rust.html

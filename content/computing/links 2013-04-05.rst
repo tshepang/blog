@@ -1,25 +1,19 @@
-links 2013-04-05
-================
+---
+date: '2013-04-05'
+tags: 'GNOME, Python, non-Python, links'
+title: 'links 2013-04-05'
+---
 
-:date: 2013-04-05
-:tags: GNOME, Python, non-Python, links
+-   I don\'t care much for C\#, but [this \'negative\' book review] by
+    [a luminary] in the .NET community is worthy.
+-   [a video] on the awesome Disqus commenting system
+-   [LibreOffice progress] is quite impressive.
+-   [pros of text over video]
+-   [going from simple to complex in teaching/learning programming]
 
-
-- I don't care much for C#, but `this 'negative' book review`__
-  by `a luminary`__ in the .NET community is worthy.
-
-- `a video`__ on the awesome Disqus commenting system
-
-- `LibreOffice progress`__ is quite impressive.
-
-- `pros of text over video`__
-
--  `going from simple to complex in teaching/learning programming`__
-
-
-__ http://msmvps.com/blogs/jon_skeet/archive/2011/12/05/book-review-fluent-c-rebecca-riordan-sams.aspx
-__ http://www.yoda.arachsys.com/csharp/
-__ http://pycon.blip.tv/file/4880330/
-__ http://people.gnome.org/~michael/blog/2011-06-03-libreoffice-3-4-0.html
-__ http://journal.dedasys.com/2011/07/25/why-i-prefer-text-to-video
-__ http://www.curiousefficiency.org/posts/2011/08/scripting-languages-and-suitable.html
+  [this \'negative\' book review]: http://msmvps.com/blogs/jon_skeet/archive/2011/12/05/book-review-fluent-c-rebecca-riordan-sams.aspx
+  [a luminary]: http://www.yoda.arachsys.com/csharp/
+  [a video]: http://pycon.blip.tv/file/4880330/
+  [LibreOffice progress]: http://people.gnome.org/~michael/blog/2011-06-03-libreoffice-3-4-0.html
+  [pros of text over video]: http://journal.dedasys.com/2011/07/25/why-i-prefer-text-to-video
+  [going from simple to complex in teaching/learning programming]: http://www.curiousefficiency.org/posts/2011/08/scripting-languages-and-suitable.html

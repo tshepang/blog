@@ -1,25 +1,21 @@
-where I live on the web
-=======================
-
-:date: 2014-03-16
-:tags: Debian, Python
-
+---
+date: '2014-03-16'
+tags: 'Debian, Python'
+title: where I live on the web
+---
 
 I spend perhaps too much of my time online, and these are among the
 greatest culprits:
 
-**Debian**: `planet Debian`__, debian-devel__
+**Debian**: [planet Debian], [debian-devel]
 
-**Python**: `planet Python`__, python-dev__, GitHub__
+**Python**: [planet Python], [python-dev], [GitHub]
 
-**misc**: `Stack Exchange`__
+**misc**: [Stack Exchange]
 
-
-__ http://planet.debian.org/
-__ https://lists.debian.org/debian-devel
-
-__ http://planet.python.org/
-__ http://mail.python.org/mailman/listinfo/python-dev
-__ https://github.com/tshepang
-
-__ http://stackexchange.com/users/125744/tshepang
+  [planet Debian]: http://planet.debian.org/
+  [debian-devel]: https://lists.debian.org/debian-devel
+  [planet Python]: http://planet.python.org/
+  [python-dev]: http://mail.python.org/mailman/listinfo/python-dev
+  [GitHub]: https://github.com/tshepang
+  [Stack Exchange]: http://stackexchange.com/users/125744/tshepang

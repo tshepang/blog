@@ -1,17 +1,15 @@
-The B-Sides 1990-2000 (2002)
-============================
+---
+date: '2011-02-22'
+tags: 'music, very-good'
+title: 'The B-Sides 1990-2000 (2002)'
+---
 
-:date: 2011-02-22
-:tags: music, very-good
+I\'m currently enjoying the wonderful \"[The B-Sides 1990-2000]\" (2002)
+by U2. It\'s a bunch of real nice Dance re-mixes.
 
+Here\'s my favorites:
 
+1.  track 8: *Salomé (Zooromancer Remix)*
+2.  track 9: *Even Better Than The Real Thing (The Perfecto Mix)*
 
-I'm currently enjoying the wonderful "`The B-Sides 1990-2000`_" (2002)
-by U2. It's a bunch of real nice Dance re-mixes.
-
-Here's my favorites:
-
-1. track 8: *Salomé (Zooromancer Remix)*
-2. track 9: *Even Better Than The Real Thing (The Perfecto Mix)*
-
-.. _The B-Sides 1990-2000: http://en.wikipedia.org/wiki/The_Best_of_1990–2000#Bonus_B-sides_disc
+  [The B-Sides 1990-2000]: http://en.wikipedia.org/wiki/The_Best_of_1990–2000#Bonus_B-sides_disc

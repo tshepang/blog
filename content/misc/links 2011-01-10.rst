@@ -1,28 +1,23 @@
-links 2011-01-10
-================
+---
+date: '2011-01-10'
+tags: links
+title: 'links 2011-01-10'
+---
 
-:date: 2011-01-10
-:tags: links
+-   [the greatest threat to religion]
+-   [a nice collection of links] regarding scientific studies of
+    religion
+-   [the single most beneficial thing we can do in order to make the
+    world better place], according to Alonzo Fyfe
+-   [How to Save the World] ([via])
+-   among the most controversial of Alonzo Fyfe\'s posts (judging by the
+    huge number of comments), [Tivial Hobbies] talks about the
+    uselessness of things like watching sports and playing video games
 
-
-
--  `the greatest threat to religion`_
-
--  `a nice collection of links`_ regarding scientific studies of
-   religion
-
--  `the single most beneficial thing we can do in order to make the
-   world better place`_, according to Alonzo Fyfe
-
--  `How to Save the World`_ (`via`_)
-
--  among the most controversial of Alonzo Fyfe's posts (judging by the
-   huge number of comments), `Tivial Hobbies`_ talks about the
-   uselessness of things like watching sports and playing video games
-
-.. _the greatest threat to religion: http://www.edge.org/3rd_culture/paul07/paul07_index.html
-.. _a nice collection of links: http://commonsenseatheism.com/?p=13688
-.. _the single most beneficial thing we can do in order to make the world better place: http://commonsenseatheism.com/?p=9539
-.. _How to Save the World: http://lesswrong.com/lw/373/how_to_save_the_world/
-.. _via: http://commonsenseatheism.com/?p=12297
-.. _Tivial Hobbies: http://commonsenseatheism.com/?p=9537
+  [the greatest threat to religion]: http://www.edge.org/3rd_culture/paul07/paul07_index.html
+  [a nice collection of links]: http://commonsenseatheism.com/?p=13688
+  [the single most beneficial thing we can do in order to make the world
+  better place]: http://commonsenseatheism.com/?p=9539
+  [How to Save the World]: http://lesswrong.com/lw/373/how_to_save_the_world/
+  [via]: http://commonsenseatheism.com/?p=12297
+  [Tivial Hobbies]: http://commonsenseatheism.com/?p=9537

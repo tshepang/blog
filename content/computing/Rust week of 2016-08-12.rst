@@ -1,30 +1,34 @@
-Rust week of 2016-08-12
-=======================
+---
+date: '2016-08-18'
+tags: Rust
+title: 'Rust week of 2016-08-12'
+---
 
-:date: 2016-08-18
-:tags: Rust
+I enjoyed a useful (and tiny) library that helps align text nicely.
+Following is an example of its usage:
 
+::: {.sourcecode}
+rust
 
-I enjoyed a useful (and tiny) library that helps align text
-nicely. Following is an example of its usage:
+extern crate unindent; use unindent::unindent;
 
-.. sourcecode:: rust
+fn main() {
 
-   extern crate unindent;
-   use unindent::unindent;
+:   
 
-   fn main() {
-       let text = "
-           A long text is beginning here and not in the previous line,
-           because it wouldn't fit in comfort.
-       "
-       println!("{}", unindent(text));
-   }
+    let text = \"
 
-I submitted to small__ improvements__ to its documentation. I also
-contributed `a style improvement`__ to Cargo, the Rust package manager.
+    :   A long text is beginning here and not in the previous line,
+        because it wouldn\'t fit in comfort.
 
+    \" println!(\"{}\", unindent(text));
 
-__ https://github.com/dtolnay/indoc/pull/4
-__ https://github.com/dtolnay/indoc/pull/5
-__ https://github.com/rust-lang/cargo/pull/3015
+}
+:::
+
+I submitted to [small][] [improvements] to its documentation. I also
+contributed [a style improvement] to Cargo, the Rust package manager.
+
+  [small]: https://github.com/dtolnay/indoc/pull/4
+  [improvements]: https://github.com/dtolnay/indoc/pull/5
+  [a style improvement]: https://github.com/rust-lang/cargo/pull/3015
