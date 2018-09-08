@@ -6,7 +6,7 @@ South Africa 'will continue to function'
 
 
 
-..
+Encouraging:
 
    Despite Zuma, the country will continue to function - because the ANC
    does not do everything wrong, because South Africa has a strong,

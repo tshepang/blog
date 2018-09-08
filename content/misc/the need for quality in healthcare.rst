@@ -4,7 +4,8 @@ the need for quality in healthcare
 :date: 2011-04-11
 :tags: quote
 
-..
+
+Some scary shit:
 
     For every drowned and pulseless child rescued by intensive care,
     there are many more who don't make it—and not just because their
@@ -17,7 +18,7 @@ the need for quality in healthcare
 
     -- `The Checklist`__
 
-That's some scary shit. Read the whole article to get the context
+Read the whole article to get the context
 (i.e. the heroic work involved in saving that girl's life).
 It's a great read.
 

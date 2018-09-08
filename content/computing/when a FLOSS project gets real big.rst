@@ -4,7 +4,7 @@ when a FLOSS project gets real big
 :date: 2012-06-19
 :tags: quote
 
-..
+Serious scale:
 
     Developers typically send their changes to the maintainer of the
     file that is being changed. Those maintainers, who number around

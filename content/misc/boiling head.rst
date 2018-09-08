@@ -6,7 +6,7 @@ boiling head
 
 
 
-..
+Part of `an appeal`__ to not be offended on behalf of others:
 
   I mean, if he'd replied to that hideous and obviously impractical
   macro with "Go boil your head", despite being something you could
@@ -16,7 +16,6 @@ boiling head
   throw some vegetables in with my head when I boiled it to at least
   make a semi-decent "pork" broth.
 
-  -- part of `an appeal`__ to not be offended on behalf of another
 
 
 __ https://users.rust-lang.org/t/the-loop-keyword-doesnt-carry-its-weight/4872/22?u=tshepang

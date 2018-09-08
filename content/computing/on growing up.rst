@@ -4,7 +4,7 @@ on growing up
 :date: 2013-03-01
 :tags: humor, Python, quote
 
-..
+Enjoyed this:
 
     Martijn Faassen used to ask us "how fast is PyPy" so we decided to
     name an option enabling all optimizations "--faassen". Then

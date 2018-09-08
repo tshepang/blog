@@ -6,7 +6,7 @@ what makes Rust unique
 
 
 
-..
+An interesting expansion of "safety without garbage collection":
 
     It's easy to write (a) an unsafe language that has no GC, or (b) a
     safe language that relies on GC for safety. It's also easy to write a
