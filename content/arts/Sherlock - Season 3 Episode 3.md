@@ -6,7 +6,7 @@ title: 'Sherlock - Season 3 Episode 3'
 
 Episode 0 of Season 1, which was remade into Episode 1, got me excited
 about the series. I loved the villain (superb performance), and it had
-great humor (Dr. Watson character). None of the later Episodes could
+great humor (Dr. Watson character). None of the later Episodes could
 match, all but the third (and last) of the third Season. The highlight
 here is the villain, who ranks as the best in the series (Moriarty is
 rather overdone). He represents great character development and is given

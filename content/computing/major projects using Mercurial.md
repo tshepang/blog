@@ -12,7 +12,7 @@ isn\'t being suffocated too much by Git:
 -   [OpenJDK], the top open source implementation of the Java platform
 -   [Netbeans], one of the most popular IDEs
 
-And here is one which is not FLOSS (i.e. proprietary):
+And here is one which is not FLOSS (i.e. proprietary):
 
 -   [Facebook], world number 2 website in terms of visitor numbers
 

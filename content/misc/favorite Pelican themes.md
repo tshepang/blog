@@ -45,7 +45,7 @@ one, despite the following issues:
 -   \[**win**\] displays pages as a list, all but the newest one in the
     view
 -   \[**win**\] me loving the Archives view
--   Categories are not shown in a prominent place (e.g. menu bar)
+-   Categories are not shown in a prominent place (e.g. menu bar)
 -   no Tags on individual Posts
 -   no Categories on individual Posts
 -   ignores Twitter setting
@@ -85,7 +85,7 @@ one, despite the following issues:
 
 -   \[**win**\] the look is different; it feels calm
 -   Archives view is not ideal, though it\'s not in a prominent location
--   Categories are not shown in a prominent place (e.g. on menu bar)
+-   Categories are not shown in a prominent place (e.g. on menu bar)
 -   when [custom fields] are not specified, they are handled in a naive
     manner:
 

@@ -4,8 +4,8 @@ tags: 'Python, VCS'
 title: easing switching between Git and Mercurial
 ---
 
-Each chance I get, I use Mercurial (e.g. personal stuff), and use Git
-when I don\'t have much of a choice (e.g. FLOSS and work). That is, I
+Each chance I get, I use Mercurial (e.g. personal stuff), and use Git
+when I don\'t have much of a choice (e.g. FLOSS and work). That is, I
 use both quite a lot, and too often I find myself running commands for
 one while on another\'s repository\... error. I therefore decided to
 ease the pain my creating [a script] which checks which VCS system I\'m

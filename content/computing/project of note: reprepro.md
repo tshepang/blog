@@ -33,7 +33,7 @@ This one is used to help keep the repository fresh. Check out [this
 post] for an explanation.
 
 Even less frequently, it happens that some package files are no longer
-referenced (i.e. not found in `Package.gz`) for some reason. Here\'s
+referenced (i.e. not found in `Package.gz`) for some reason. Here\'s
 handy command to display them:
 
     $ reprepro --basedir ~/.custom_repo dumpunreferenced

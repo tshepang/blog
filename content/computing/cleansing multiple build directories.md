@@ -5,7 +5,7 @@ title: cleansing multiple build directories
 ---
 
 In my adventures of [building GNOME with JHBuild], it often happens that
-when I tweak something that affects the build environment (e.g. use
+when I tweak something that affects the build environment (e.g. use
 system Python instead of JHBuild-built one), I get a heck of a lot of
 build failures. This will happen even after I run jhbuild clean (which
 runs `make clean` on the modules), testimony to the weakness ofthe GNOME

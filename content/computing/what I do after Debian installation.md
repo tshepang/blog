@@ -72,7 +72,7 @@ packages:
 
 -   `ibase`: basic stuff I got to have, stuff like the components I use
     for my desktop apps, some CLI tools, and some documentation
--   `inondebian`: packages that aren\'t part of Debian, e.g. stuff from
+-   `inondebian`: packages that aren\'t part of Debian, e.g. stuff from
     external repositories, or nonm-free stuff from Debian repos
 -   `itracker`: I always run the git version of [Tracker], so these
     tools help me build it

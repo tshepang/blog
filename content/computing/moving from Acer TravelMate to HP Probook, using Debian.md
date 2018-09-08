@@ -30,7 +30,7 @@ I now got an HP Probook 4530s and its pros:
     upwards to 70MB/s, which I never saw with the older laptop
 -   its Wi-Fi doesn\'t require non-free software
 -   it\'s far more modern (USB3 support) and supposedly faster (Core
-    i5-2410M vs. Core 2 Duo T7500), but my typical workload made even
+    i5-2410M vs. Core 2 Duo T7500), but my typical workload made even
     the TravelMate more than adequate
 
 And the cons:

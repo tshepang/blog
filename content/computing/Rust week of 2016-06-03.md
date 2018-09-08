@@ -10,7 +10,7 @@ project [I mentioned last week]. My favorite parts:
 -   I love the fact that [inotify-rs] ([first mention]) collects events
     in the background, so that when you are done with whatever task you
     were busy with, you can check if there is anything new to act upon
-    (e.g. a new file was created in a watched directory). This allows
+    (e.g. a new file was created in a watched directory). This allows
     one to do away with using threads, reducing code complexity.
 -   Rust error handling is so nice, and forces one to think better about
     code. As an example, when you doing any I/O, you mostly want to do

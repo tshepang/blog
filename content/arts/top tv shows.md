@@ -15,7 +15,7 @@ them.
 -   Girls (seasons 1 and 2)
 -   House of Cards (seasons 1 and 2)
 -   The Knick
--   Mr. Robot
+-   Mr. Robot
 
 **honorable mentions**
 

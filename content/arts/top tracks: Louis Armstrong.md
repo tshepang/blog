@@ -7,7 +7,7 @@ title: 'top tracks: Louis Armstrong'
 1 masterpiece
 =============
 
--   St. James Infirmary
+-   St. James Infirmary
 
 7 excellent works
 =================

@@ -17,7 +17,7 @@ Some scary shit:
 >
 > \-- [The Checklist]
 
-Read the whole article to get the context (i.e. the heroic work involved
+Read the whole article to get the context (i.e. the heroic work involved
 in saving that girl\'s life). It\'s a great read.
 
   [The Checklist]: http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande?currentPage=all

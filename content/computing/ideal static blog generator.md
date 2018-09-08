@@ -9,7 +9,7 @@ missed:
 -   [reStructuredText] support is mandatory. It\'s the only markup
     language I like.
 -   Landing Page should be an Archives View (Post title and date) or a
-    subset (i.e. Recent Posts). I would not mind if the latest Post or
+    subset (i.e. Recent Posts). I would not mind if the latest Post or
     the About Page were displayed, so long as they are followed by this
     Archives View.
 -   Categories should be determined by directory into which a file (the
@@ -17,7 +17,7 @@ missed:
     section of the file should of course take precedence.
 -   Publish date should never be placed at the bottom of a Post. It is
     too important a piece metadata to treat this way.
--   An option to have clean URLs (i.e. trailing `.html` removed).
+-   An option to have clean URLs (i.e. trailing `.html` removed).
 -   Date-based directory structure should not be mandatory (unlike with
     Tinkerer).
 -   Inline literals and literal blocks (for code) should be
