@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: music
-title: top music tracks
----
++++
+date = 2011-01-14
+tags = ['music']
+title = "top music tracks"
++++
 
 All these are landmarks (i.e. beyond masterpiece level):
 

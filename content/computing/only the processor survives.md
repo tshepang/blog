@@ -1,8 +1,8 @@
----
-date: '2008-09-26'
-tags: hardware
-title: only the processor survives
----
++++
+date = 2008-09-26
+tags = ['hardware']
+title = "only the processor survives"
++++
 
 I only recently realized that my oldest computer system, the first I
 ever bought, has all been renewed, bar the processor, an old-style P4

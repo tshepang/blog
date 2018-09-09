@@ -1,8 +1,8 @@
----
-date: '2012-02-21'
-tags: Debian
-title: removing obsolete packages from a local Debian repository
----
++++
+date = 2012-02-21
+tags = ['Debian']
+title = "removing obsolete packages from a local Debian repository"
++++
 
 background info
 ===============

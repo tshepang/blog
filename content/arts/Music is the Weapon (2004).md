@@ -1,8 +1,8 @@
----
-date: '2011-03-05'
-tags: 'decent, documentary, music'
-title: 'Music is the Weapon (2004)'
----
++++
+date = 2011-03-05
+tags = ['decent', 'documentary', 'music']
+title = "Music is the Weapon (2004)"
++++
 
 I have deep respect for Fela Kuti\'s musicianship, and more than any
 other musician I\'ve ever listened to. His intense love for the craft,

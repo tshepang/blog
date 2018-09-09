@@ -1,8 +1,8 @@
----
-date: '2015-08-08'
-tags: 'music, hip-hop'
-title: 'The Score (1996)'
----
++++
+date = 2015-08-08
+tags = ['music', 'hip-hop']
+title = "The Score (1996)"
++++
 
 Second only to *Doggystyle* in the rank of the best hip-hop albums, it
 has only one blight\... No Woman, No Cry.

@@ -1,8 +1,8 @@
----
-date: '2014-03-20'
-tags: 'Debian, non-Debian, project-of-note, quote'
-title: 'project of note: Debian Installer'
----
++++
+date = 2014-03-20
+tags = ['Debian', 'non-Debian', 'project-of-note', 'quote']
+title = "project of note: Debian Installer"
++++
 
 I\'ve looked at pretty installers like that of Ubuntu and Fedora, and
 they are all very easy and slick. But whenever I install Debian, I

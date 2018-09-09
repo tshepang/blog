@@ -1,8 +1,8 @@
----
-date: '2016-03-08'
-tags: 'humor, quote, Rust'
-title: boiling head
----
++++
+date = 2016-03-08
+tags = ['humor', 'quote', 'Rust']
+title = "boiling head"
++++
 
 Part of [an appeal] to not be offended on behalf of others:
 

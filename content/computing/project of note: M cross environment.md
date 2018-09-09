@@ -1,8 +1,8 @@
----
-date: '2013-04-20'
-tags: 'non-Debian, project-of-note, non-Python'
-title: 'project of note: M cross environment'
----
++++
+date = 2013-04-20
+tags = ['non-Debian', 'project-of-note', 'non-Python']
+title = "project of note: M cross environment"
++++
 
 I spend several hours researching how to build a Qt app (written in C++)
 on Debian for users who will run it on Windows. I also wanted it be just
@@ -21,7 +21,7 @@ Windows 7.
 Having a look around, the build system actually looks elegant, and is a
 lot simpler than the scary mess that is [JHBuild].
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I have published two guides on Stack Overflow on how this works, [one
 for Qt 4] and [another for Qt 5].

@@ -1,8 +1,8 @@
----
-date: '2011-02-28'
-tags: travel
-title: another visit to Eastern Cape
----
++++
+date = 2011-02-28
+tags = ['travel']
+title = "another visit to Eastern Cape"
++++
 
 [Last time], I raved about my experiences at a friend\'s home place,
 Nyosini. My memory is not to be completely trusted, but this second (or

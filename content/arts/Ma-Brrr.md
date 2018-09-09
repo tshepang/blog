@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: 'music, theatre'
-title: 'Ma-Brrr'
----
++++
+date = 2011-01-14
+tags = ['music', 'theatre']
+title = "Ma-Brrr"
++++
 
 Following are my experiences of a musical play currently seen at State
 Theatre, Pretoria. It\'s about the life and career of Brenda Fassie, a

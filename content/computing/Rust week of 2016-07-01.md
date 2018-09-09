@@ -1,8 +1,8 @@
----
-date: '2016-07-03'
-tags: Rust
-title: 'Rust week of 2016-07-01'
----
++++
+date = 2016-07-03
+tags = ['Rust']
+title = "Rust week of 2016-07-01"
++++
 
 Made [my first contribution to Servo], the most exciting software
 project on the planet. I also did a [few][] [other][] [small][] [doc][]

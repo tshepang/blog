@@ -1,8 +1,8 @@
----
-date: '2012-04-19'
-tags: Debian
-title: accessibility on Debian
----
++++
+date = 2012-04-19
+tags = ['Debian']
+title = "accessibility on Debian"
++++
 
 [Accessibility] is one of those things we the privileged (those with
 workable eyesight and hearing) tend to forget about; That\'s why

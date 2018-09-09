@@ -1,8 +1,8 @@
----
-date: '2013-05-26'
-tags: 'Python, wajig'
-title: 'shutil.which() rocks'
----
++++
+date = 2013-05-26
+tags = ['Python', 'wajig']
+title = "shutil.which() rocks"
++++
 
 Unix/Linux systems have a simple (but useful) tool named which, whose
 main purpose is to indicate where in the filesystem a particular

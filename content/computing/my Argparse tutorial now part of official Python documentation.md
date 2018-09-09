@@ -1,8 +1,8 @@
----
-date: '2012-05-07'
-tags: Python
-title: my Argparse tutorial now part of official Python documentation
----
++++
+date = 2012-05-07
+tags = ['Python']
+title = "my Argparse tutorial now part of official Python documentation"
++++
 
 I am very glad that [a tutorial] I started writing over 2 months ago has
 finally been added to [the howto section] of CPython documentation. It

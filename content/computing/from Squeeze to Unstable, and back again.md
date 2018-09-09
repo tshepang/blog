@@ -1,8 +1,8 @@
----
-date: '2011-04-26'
-tags: 'Debian, GNOME'
-title: 'from Squeeze to Unstable, and back again'
----
++++
+date = 2011-04-26
+tags = ['Debian', 'GNOME']
+title = "from Squeeze to Unstable, and back again"
++++
 
 With all the noise regarding GNOME 3, I decided to lose patience and go
 check it out. Thing is it\'s currently in Debian Experimental suite, so

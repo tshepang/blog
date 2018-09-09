@@ -1,8 +1,8 @@
----
-date: '2010-07-20'
-tags: 'non-Python, quote, humor'
-title: 'nice review of \''Perl Best Practices\'''
----
++++
+date = 2010-07-20
+tags = ['non-Python', 'quote', 'humor']
+title = "nice review of 'Perl Best Practices'"
++++
 
 I\'m a sucker for humorous religious allegories:
 

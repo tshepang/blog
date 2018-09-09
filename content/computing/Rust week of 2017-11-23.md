@@ -1,8 +1,8 @@
----
-date: '2017-11-29'
-tags: Rust
-title: 'Rust week of 2017-11-23'
----
++++
+date = 2017-11-29
+tags = ['Rust']
+title = "Rust week of 2017-11-23"
++++
 
 There wasn\'t much last week, other than continuing with the functional
 testing work that queries Elasticsearch. This week, however, saw me

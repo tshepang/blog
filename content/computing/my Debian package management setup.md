@@ -1,13 +1,13 @@
----
-date: '2010-09-28'
-tags: Debian
-title: my Debian package management setup
----
++++
+date = 2010-09-28
+tags = ['Debian']
+title = "my Debian package management setup"
++++
 
 Much of this is obsolete: I no longer use `debmirror` and no longer keep
 the entire binary repository of i386 arch.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 There\'s a useful tool in Debian named debmirror. It\'s function is to
 create and manage a partial copy of an official Debian repository, and I
@@ -19,17 +19,17 @@ use it to create 2 repos:
 How this works is that I\'d run the following command (an example for
 the source repo):
 
-    /usr/bin/debmirror 
-     --verbose 
-     --progress 
-     --host=ftp.sun.ac.za 
-     --passive 
-     --dist=squeeze 
-     --root=ftp/debian 
-     --section=main 
-     --method=ftp 
-     --arch=none 
-     /home/wena/.repo_src 
+    /usr/bin/debmirror
+     --verbose
+     --progress
+     --host=ftp.sun.ac.za
+     --passive
+     --dist=squeeze
+     --root=ftp/debian
+     --section=main
+     --method=ftp
+     --arch=none
+     /home/wena/.repo_src
 
 (look at debmirror\'s manpage to see what all those options mean)
 

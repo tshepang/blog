@@ -1,8 +1,8 @@
----
-date: '2010-11-05'
-tags: 'non-FLOSS'
-title: when it seems OK to compromise on software freedom
----
++++
+date = 2010-11-05
+tags = ['non-FLOSS']
+title = "when it seems OK to compromise on software freedom"
++++
 
 [Stack Exchange] is a network of websites built to make the internet
 better by providing quality Answers to Questions on specific topics. Its
@@ -33,9 +33,9 @@ painful dilemma: do I continue using the superior but non-FLOSS service
 or the inferior but FLOSS Shapado. The following evaluation makes the
 choice real easy:
 
--   [Debian Q&A][]: FLOSS (+1) ---\> **total=1**
+-   [Debian Q&A][]: FLOSS (+1) +++\> **total=1**
 -   [Unix & Linux][]: better community (+1), better site experience
-    (+1), caters to more than just Debian (+1) ---\> **total=3**
+    (+1), caters to more than just Debian (+1) +++\> **total=3**
 
   [Stack Exchange]: http://stackexchange.com/sites
   [Stack Overflow]: http://stackoverflow.com/

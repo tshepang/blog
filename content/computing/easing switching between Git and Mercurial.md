@@ -1,8 +1,8 @@
----
-date: '2013-10-16'
-tags: 'Python, VCS'
-title: easing switching between Git and Mercurial
----
++++
+date = 2013-10-16
+tags = ['Python', 'VCS']
+title = "easing switching between Git and Mercurial"
++++
 
 Each chance I get, I use Mercurial (e.g. personal stuff), and use Git
 when I don\'t have much of a choice (e.g. FLOSS and work). That is, I
@@ -40,7 +40,7 @@ This makes my life so much easier, since I no longer have to care which
 VCS I\'m on, at least for the most common of commands. I am pleased with
 self.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 As a sidenote, if you want to cycle between the changesets (Mercurial
 term) or Commits (Git term), use the following search term on your pager

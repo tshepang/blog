@@ -1,8 +1,8 @@
----
-date: '2016-09-29'
-tags: Rust
-title: 'Rust week of 2016-09-23'
----
++++
+date = 2016-09-29
+tags = ['Rust']
+title = "Rust week of 2016-09-23"
++++
 
 Just [one contribution] this week, but I\'ve been continuing coding in
 the field of web development, using Nickel and JWT. It\'s been fun, and

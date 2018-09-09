@@ -1,8 +1,8 @@
----
-date: '2013-08-27'
-tags: list
-title: mentioning alternatives on a prominent place
----
++++
+date = 2013-08-27
+tags = ['list']
+title = "mentioning alternatives on a prominent place"
++++
 
 It\'s an honorable thing to mention alternative and/or competing
 technologies on a project website. It\'s even more interesting when this

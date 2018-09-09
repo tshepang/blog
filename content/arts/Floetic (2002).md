@@ -1,8 +1,8 @@
----
-date: '2011-02-28'
-tags: 'music, very-good'
-title: 'Floetic (2002)'
----
++++
+date = 2011-02-28
+tags = ['music', 'very-good']
+title = "Floetic (2002)"
++++
 
 I love the smooth melody that is [\*Floetic\*] by Floetry. It is the
 sort of sound you find in Jill Scott\'s near-masterpiece of an album,

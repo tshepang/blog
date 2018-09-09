@@ -1,8 +1,8 @@
----
-date: '2012-11-10'
-tags: Debian
-title: what I do after Debian installation
----
++++
+date = 2012-11-10
+tags = ['Debian']
+title = "what I do after Debian installation"
++++
 
 I think anyone who has never done any OS install before can install
 Debian without any issue at all, provided they will not be doing any

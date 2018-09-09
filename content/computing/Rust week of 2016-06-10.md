@@ -1,8 +1,8 @@
----
-date: '2016-06-16'
-tags: Rust
-title: 'Rust week of 2016-06-10'
----
++++
+date = 2016-06-16
+tags = ['Rust']
+title = "Rust week of 2016-06-10"
++++
 
 I was made sad by the complexity of involving STDIN when using
 `std::process` module:
@@ -12,7 +12,7 @@ rust
 
 fn o\_to\_0() -\> std::io::Result\<bool\> {
 
-:   
+:
 
     let mut p = std::process::Command::new(\"tr\")
 
@@ -27,7 +27,7 @@ fn o\_to\_0() -\> std::io::Result\<bool\> {
 
 I wonder if this can be more easy, in other languages and/or libraries.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I made [two][] [submissions], and gave some commentary [on another].
 

@@ -1,8 +1,8 @@
----
-date: '2014-02-23'
-tags: 'music, excellent'
-title: 'the two versions of \''Water No Get Enemy\'''
----
++++
+date = 2014-02-23
+tags = ['music', 'excellent']
+title = "the two versions of 'Water No Get Enemy'"
++++
 
 [The first version of this song] was released in 1975 as part of the
 album, *Expensive Shit*. It\'s among [the best works of Fela Kuti],

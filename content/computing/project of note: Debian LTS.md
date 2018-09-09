@@ -1,8 +1,8 @@
----
-date: '2014-09-11'
-tags: 'project-of-note, Debian'
-title: 'project of note: Debian LTS'
----
++++
+date = 2014-09-11
+tags = ['project-of-note', 'Debian']
+title = "project of note: Debian LTS"
++++
 
 One of the complaints about Debian stable releases is that they reach
 End Of Life too early (\~3 years). This can result in some people

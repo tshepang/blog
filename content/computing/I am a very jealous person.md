@@ -1,7 +1,7 @@
----
-tags: 'Rust, non-Rust'
-title: I am a very jealous person
----
++++
+tags = ['Rust', 'non-Rust']
+title = "I am a very jealous person"
++++
 
 Following is some of the cases where competing software won this or that
 battle, and I am jealous since I want everyone to use what I like:

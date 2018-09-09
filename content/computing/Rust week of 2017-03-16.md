@@ -1,8 +1,8 @@
----
-date: '2017-03-23'
-tags: Rust
-title: 'Rust week of 2017-03-16'
----
++++
+date = 2017-03-23
+tags = ['Rust']
+title = "Rust week of 2017-03-16"
++++
 
 I made [two][] [contributions] this past week. Meanwhile, a friend of
 mine has announced [a Rust guide] he\'s been working on. I made [some

@@ -1,8 +1,8 @@
----
-date: '2012-08-02'
-tags: luck
-title: me got meself another coding job
----
++++
+date = 2012-08-02
+tags = ['luck']
+title = "me got meself another coding job"
++++
 
 Some years ago, I was totally excited by having [my first job working on
 software]. I am very grateful for the chance the owner, who interviewed

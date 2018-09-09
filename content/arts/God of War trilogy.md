@@ -1,8 +1,8 @@
----
-date: '2013-05-31'
-tags: 'excellent, gaming'
-title: God of War trilogy
----
++++
+date = 2013-05-31
+tags = ['excellent', 'gaming']
+title = "God of War trilogy"
++++
 
 The last time I played any of the 3 games from the [God of War] trilogy
 was nearly 2 years ago, but the experience still lives vividly in my

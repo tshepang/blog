@@ -1,8 +1,8 @@
----
-date: '2013-02-24'
-tags: 'good, short'
-title: 'Six Shooter (2005)'
----
++++
+date = 2013-02-24
+tags = ['good', 'short']
+title = "Six Shooter (2005)"
++++
 
 This 27 minute short is worthy mainly due to the loud and fascinating
 young guy sitting next to the lead character on a train trip. He happens

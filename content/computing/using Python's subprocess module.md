@@ -1,8 +1,8 @@
----
-date: '2011-01-26'
-tags: Python
-title: 'using Python\''s subprocess module'
----
++++
+date = 2011-01-26
+tags = ['Python']
+title = "using Python's subprocess module"
++++
 
 There are at least 2 ways to run a simple command like `echo test` in
 Python: via the shell, or directly (via the kernel).

@@ -1,8 +1,8 @@
----
-date: '2017-10-13'
-tags: Rust
-title: 'Rust week of 2017-10-05'
----
++++
+date = 2017-10-13
+tags = ['Rust']
+title = "Rust week of 2017-10-05"
++++
 
 [Continuing with the work project], I replaced the [interfaces] library
 with [pnet], a weird concoction of various network functionality in one

@@ -1,8 +1,8 @@
----
-date: '2011-01-18'
-tags: 'project-of-note, GNOME'
-title: 'project of note: rdiff-backup'
----
++++
+date = 2011-01-18
+tags = ['project-of-note', 'GNOME']
+title = "project of note: rdiff-backup"
++++
 
 So I got my hands on a 250GB 2.5\" portable HDD, which led to me to go
 do proper backups again. I decided to go back to the familiar
@@ -22,7 +22,7 @@ There, `~/conf/rdiff-backup` is a file that has a list of directories I
 want to exclude in the backup, and `/media/backup` is the backup
 destination.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 There is a credible competitor in a form of duplicity, which is probably
 superior since it\'s got encryption. This duplicity also got a bonus of

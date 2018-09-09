@@ -1,8 +1,8 @@
----
-date: '2013-12-02'
-tags: excellent
-title: 'Still Grazing (2004)'
----
++++
+date = 2013-12-02
+tags = ['excellent']
+title = "Still Grazing (2004)"
++++
 
 My favorites from this, the best album by Hugh Masekela:
 

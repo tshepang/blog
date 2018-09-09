@@ -1,8 +1,8 @@
----
-date: '2010-12-03'
-tags: Debian
-title: 'blog of note: We\''ll See (Matt Zimmerman)'
----
++++
+date = 2010-12-03
+tags = ['Debian']
+title = "blog of note: We'll See (Matt Zimmerman)"
++++
 
 I\'m a regular reader of [Planet Debian], so I frequently bump onto Matt
 Zimmerman\'s blog. This a Debian Developer who also happens to do paid

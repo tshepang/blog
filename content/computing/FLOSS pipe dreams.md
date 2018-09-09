@@ -1,7 +1,7 @@
----
-tags: 'Debian, Python, non-FLOSS'
-title: FLOSS pipe dreams
----
++++
+tags = ['Debian', 'Python', 'non-FLOSS']
+title = "FLOSS pipe dreams"
++++
 
 In which I am hoping that [FLOSS] would supplant proprietary
 alternatives:

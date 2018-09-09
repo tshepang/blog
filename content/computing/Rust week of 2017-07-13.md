@@ -1,8 +1,8 @@
----
-date: '2017-07-19'
-tags: Rust
-title: 'Rust week of 2017-07-13'
----
++++
+date = 2017-07-19
+tags = ['Rust']
+title = "Rust week of 2017-07-13"
++++
 
 I am tempted, [once again], to try out [Remacs], a Rust port of GNU
 Emacs. It\'s very encouraging that it tries to be compatible, for the

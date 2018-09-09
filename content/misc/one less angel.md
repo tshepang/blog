@@ -1,7 +1,7 @@
----
-date: '2007-08-07'
-title: one less angel
----
++++
+date = 2007-08-07
+title = "one less angel"
++++
 
 There are not that many people I know personally who are angels, and one
 of those died recently as a result of a car and truck collision. The

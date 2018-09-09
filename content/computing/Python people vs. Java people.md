@@ -1,8 +1,8 @@
----
-date: '2010-05-04'
-tags: 'non-Python, Python'
-title: 'Python people vs. Java people'
----
++++
+date = 2010-05-04
+tags = ['non-Python', 'Python']
+title = "Python people vs. Java people"
++++
 
 Now this is one heck of a controversial quote by the best computer
 programming blogger in my memory:

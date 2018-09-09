@@ -1,8 +1,8 @@
----
-date: '2017-10-22'
-tags: theatre
-title: from offense to delight
----
++++
+date = 2017-10-22
+tags = ['theatre']
+title = "from offense to delight"
++++
 
 I was invited to a show named *Best Friends, Worst Enemies* which I
 described as \"so bad it\'s offensive\". And I actually was offended,

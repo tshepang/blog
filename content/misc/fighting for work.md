@@ -1,7 +1,7 @@
----
-date: '2014-09-09'
-title: fighting for work
----
++++
+date = 2014-09-09
+title = "fighting for work"
++++
 
 Here\'s a story of two siblings, one a 10-year-old girl and the other a
 6-year-old boy. They also happen to be my relatives (kids of my cousin),

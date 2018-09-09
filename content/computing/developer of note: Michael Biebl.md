@@ -1,8 +1,8 @@
----
-date: '2010-04-14'
-tags: 'Debian, developer-of-note, Tracker, GNOME'
-title: 'developer of note: Michael Biebl'
----
++++
+date = 2010-04-14
+tags = ['Debian', 'developer-of-note', 'Tracker', 'GNOME']
+title = "developer of note: Michael Biebl"
++++
 
 So I really do honor all Debian Developers especially when they are
 named [Michael Biebl]. This guy is the lone maintainer of [Tracker] and
@@ -11,9 +11,9 @@ co-maintainer of a large number of GNOME technologies (gnome-session,
 dbus, avahi, gnome-power-manager, gvfs, hal, network-manager\...).
 
 I love especially his role as some sorta QA for Tracker (he\'s done a
-terrific job of it --- most recently offering [a bunch of patches] to
+terrific job of it +++ most recently offering [a bunch of patches] to
 fix some linking problems in the code). Oh, and I\'m not the only one
-who noticed --- [the great Josselin Mouette], [did offer accolades too]
+who noticed +++ [the great Josselin Mouette], [did offer accolades too]
 for Michael\'s other work.
 
   [Michael Biebl]: http://qa.debian.org/developer.php?login=biebl@debian.org

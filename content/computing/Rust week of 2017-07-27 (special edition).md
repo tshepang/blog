@@ -1,8 +1,8 @@
----
-date: '2017-08-04'
-tags: Rust
-title: 'Rust week of 2017-07-27 (special edition)'
----
++++
+date = 2017-08-04
+tags = ['Rust']
+title = "Rust week of 2017-07-27 (special edition)"
++++
 
 I been using this series to help push me into constant Rust activity,
 ensuring I do not skip a week sitting idle. It worked in that, indeed,

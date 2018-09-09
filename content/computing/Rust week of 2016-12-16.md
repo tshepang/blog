@@ -1,8 +1,8 @@
----
-date: '2016-12-18'
-tags: Rust
-title: 'Rust week of 2016-12-16'
----
++++
+date = 2016-12-18
+tags = ['Rust']
+title = "Rust week of 2016-12-16"
++++
 
 I like how easy it seems to create custom template filters, as seen in
 [this post about tera]. I also like the utility of the derive\_builder

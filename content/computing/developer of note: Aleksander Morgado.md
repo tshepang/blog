@@ -1,8 +1,8 @@
----
-date: '2010-05-20'
-tags: 'developer-of-note, GNOME, Tracker'
-title: 'developer of note: Aleksander Morgado'
----
++++
+date = 2010-05-20
+tags = ['developer-of-note', 'GNOME', 'Tracker']
+title = "developer of note: Aleksander Morgado"
++++
 
 The [Tracker] team got this new guy, [Aleksander Morgado], [doing][]
 [fabulous][] [work][] [on] Tracker\'s extraction code. He does so while

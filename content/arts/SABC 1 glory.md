@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: tv
-title: SABC 1 glory
----
++++
+date = 2011-01-14
+tags = ['tv']
+title = "SABC 1 glory"
++++
 
 I got captivated by the new SABC 1 theme presentation (for lack of a
 better name), which is a fusion of computer animation and live footage

@@ -1,8 +1,8 @@
----
-date: '2013-05-28'
-tags: 'developer-of-note, Python'
-title: 'developer of note: Nick Coghlan'
----
++++
+date = 2013-05-28
+tags = ['developer-of-note', 'Python']
+title = "developer of note: Nick Coghlan"
++++
 
 This is easily among the most active of all core CPython developers. His
 productivity is ridiculous, and I seriously wonder how he manages to do

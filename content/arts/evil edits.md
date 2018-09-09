@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: music
-title: evil edits
----
++++
+date = 2011-01-14
+tags = ['music']
+title = "evil edits"
++++
 
 It gets disgusting when re-releases, usually in a form of \'the best of
 X\', gets their tracks\' lengths reduced, all to make space for a larger

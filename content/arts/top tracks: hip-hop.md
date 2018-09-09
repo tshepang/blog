@@ -1,7 +1,7 @@
----
-tags: 'hip-hop, music, list'
-title: 'top tracks: hip-hop'
----
++++
+tags = ['hip-hop', 'music', 'list']
+title = "top tracks: hip-hop"
++++
 
 Not included below are tracks from the best hip-hop albums yet made,
 [Doggystyle] and [The Score].

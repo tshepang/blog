@@ -1,8 +1,8 @@
----
-date: '2014-07-08'
-tags: Python
-title: 'discovering Python \@decorators'
----
++++
+date = 2014-07-08
+tags = ['Python']
+title = "discovering Python @decorators"
++++
 
 There is a project at work where I needed to do the same action on
 various functions. It\'s basically a checkpoint system where I\'d write

@@ -1,8 +1,8 @@
----
-date: '2012-05-15'
-tags: 'Debian, developer-of-note, non-Debian'
-title: 'developer of note: Martin Pitt'
----
++++
+date = 2012-05-15
+tags = ['Debian', 'developer-of-note', 'non-Debian']
+title = "developer of note: Martin Pitt"
++++
 
 I suspect that [PostgreSQL] isn\'t a trivial piece of software, and I
 consider it among the greatest of all FLOSS. It even bills itself the

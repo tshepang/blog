@@ -1,8 +1,8 @@
----
-date: '2011-04-27'
-tags: 'Debian, wajig'
-title: 'wajig 2.1 released'
----
++++
+date = 2011-04-27
+tags = ['Debian', 'wajig']
+title = "wajig 2.1 released"
++++
 
 Today I released [a new version of wajig], first time in about half a
 year. It\'s not even like there\'s some major stuff or anything; I just

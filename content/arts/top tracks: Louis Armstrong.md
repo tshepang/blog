@@ -1,8 +1,8 @@
----
-date: '2015-07-17'
-tags: 'music, top-tracks'
-title: 'top tracks: Louis Armstrong'
----
++++
+date = 2015-07-17
+tags = ['music', 'top-tracks']
+title = "top tracks: Louis Armstrong"
++++
 
 1 masterpiece
 =============

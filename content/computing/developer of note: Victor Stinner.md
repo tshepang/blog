@@ -1,8 +1,8 @@
----
-date: '2012-06-09'
-tags: 'developer-of-note, Python'
-title: 'developer of note: Victor Stinner'
----
++++
+date = 2012-06-09
+tags = ['developer-of-note', 'Python']
+title = "developer of note: Victor Stinner"
++++
 
 Depending on the change, contributing to open source software can be
 intensely challenging. Referring specifically to CPython, the reference

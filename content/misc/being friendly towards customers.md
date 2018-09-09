@@ -1,8 +1,8 @@
----
-date: '2008-07-16'
-tags: quote
-title: being friendly towards customers
----
++++
+date = 2008-07-16
+tags = ['quote']
+title = "being friendly towards customers"
++++
 
 I just a read [a very interesting post] on how to gain market share, and
 what prompted me to post is the following snippet which states the

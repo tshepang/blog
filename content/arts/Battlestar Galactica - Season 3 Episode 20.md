@@ -1,8 +1,8 @@
----
-date: '2011-12-29'
-tags: tv
-title: 'Battlestar Galactica - Season 3 Episode 20'
----
++++
+date = 2011-12-29
+tags = ['tv']
+title = "Battlestar Galactica - Season 3 Episode 20"
++++
 
 *I hardly ever write anything about tv productions regardless of how
 many times I tend to get impressed, and there hasn\'t been a shortage of

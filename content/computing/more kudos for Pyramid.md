@@ -1,8 +1,8 @@
----
-date: '2014-09-08'
-tags: 'Python, quote, Pyramid'
-title: more kudos for Pyramid
----
++++
+date = 2014-09-08
+tags = ['Python', 'quote', 'Pyramid']
+title = "more kudos for Pyramid"
++++
 
 I\'m not sure if there is any one Python web framework as
 well-respected. The great Mike Beyers (SQLAlchemy) also [gave his

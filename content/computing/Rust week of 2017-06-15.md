@@ -1,8 +1,8 @@
----
-date: '2017-06-21'
-tags: Rust
-title: 'Rust week of 2017-06-15'
----
++++
+date = 2017-06-21
+tags = ['Rust']
+title = "Rust week of 2017-06-15"
++++
 
 I used [structopt] for the first time, and found it reduces the pain of
 CLI parsing (via [clap]). Its main shortcoming is [lack of subcommand

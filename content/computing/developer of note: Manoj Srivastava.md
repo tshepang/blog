@@ -1,8 +1,8 @@
----
-date: '2008-12-19'
-tags: 'Debian, developer-of-note'
-title: 'developer of note: Manoj Srivastava'
----
++++
+date = 2008-12-19
+tags = ['Debian', 'developer-of-note']
+title = "developer of note: Manoj Srivastava"
++++
 
 Manoj Srivastava has for a number of years been Project Secretary, a
 very key role in Debian, a role where the incumbent runs project voting.

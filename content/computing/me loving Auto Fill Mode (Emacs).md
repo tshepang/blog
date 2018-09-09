@@ -1,8 +1,8 @@
----
-date: '2013-05-10'
-tags: 'Emacs, Scribes, Geany'
-title: 'me loving Auto Fill Mode (Emacs)'
----
++++
+date = 2013-05-10
+tags = ['Emacs', 'Scribes', 'Geany']
+title = "me loving Auto Fill Mode (Emacs)"
++++
 
 For the past 2 weeks or so, I have been learning Emacs, something I\'ve
 been meaning to do for years now. I decided to do it seriously (not skip

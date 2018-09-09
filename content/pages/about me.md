@@ -1,7 +1,7 @@
----
-tags: page
-title: about me
----
++++
+tags = ["page"]
+title = "about me"
++++
 
 -   Tshepang Lekhonkhobe
 -   <tshepang@gmail.com>

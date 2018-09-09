@@ -1,8 +1,8 @@
----
-date: '2011-01-18'
-tags: 'project-of-note'
-title: 'project of note: Twisted'
----
++++
+date = 2011-01-18
+tags = ['project-of-note']
+title = "project of note: Twisted"
++++
 
 I\'ve been impressed by [the claims made for Twisted], which erased the
 erroneous thought I\'ve been having that it\'s just another web

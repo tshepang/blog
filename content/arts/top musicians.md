@@ -1,7 +1,7 @@
----
-tags: music
-title: top musicians
----
++++
+tags = ['music']
+title = "top musicians"
++++
 
 The best musicians in history, a list created with the help of [a simple
 rating system].

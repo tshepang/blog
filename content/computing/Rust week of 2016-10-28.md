@@ -1,8 +1,8 @@
----
-date: '2016-11-03'
-tags: Rust
-title: 'Rust week of 2016-10-28'
----
++++
+date = 2016-11-03
+tags = ['Rust']
+title = "Rust week of 2016-10-28"
++++
 
 I find the following to be among the most exciting projects in the world
 of Rust:
@@ -10,7 +10,7 @@ of Rust:
 -   [Cretonne], an alternative to LLVM
 -   [Corrode], a C to Rust translator
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I made just [one contribution] this week, and submitted [one issue].
 

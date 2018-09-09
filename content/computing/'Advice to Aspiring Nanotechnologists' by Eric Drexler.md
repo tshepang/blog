@@ -1,8 +1,8 @@
----
-date: '2012-06-10'
-tags: 'future-tech'
-title: '\''Advice to Aspiring Nanotechnologists\'' by Eric Drexler'
----
++++
+date = 2012-06-10
+tags = ['future-tech']
+title = "'Advice to Aspiring Nanotechnologists' by Eric Drexler"
++++
 
 The great Eric Drexler offers [extensive guidance] for those considering
 studying towards molecular nanotech, and that quote is most relevant to

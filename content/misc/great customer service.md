@@ -1,7 +1,7 @@
----
-date: '2010-12-01'
-title: great customer service
----
++++
+date = 2010-12-01
+title = "great customer service"
++++
 
 So these guys at [BMW Bavarian East Pretoria] (it has since been
 closed), a motorbike dealership, got me impressed with their great

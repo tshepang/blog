@@ -1,8 +1,8 @@
----
-date: '2013-10-10'
-tags: Debian
-title: my first server
----
++++
+date = 2013-10-10
+tags = ['Debian']
+title = "my first server"
++++
 
 The closest I ever came to needing own server is for hosting [my blog],
 but I\'ve had plenty of gratis services available to me, latest being

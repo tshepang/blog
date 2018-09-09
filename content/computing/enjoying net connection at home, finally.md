@@ -1,8 +1,8 @@
----
-date: '2008-09-28'
-tags: untagged
-title: 'enjoying net connection at home, finally'
----
++++
+date = 2008-09-28
+tags = ['untagged']
+title = "enjoying net connection at home, finally"
++++
 
 After suffering with being forced to access the net on Windows XP [for
 over 2 weeks], I\'m glad things turned out as I envisioned for I managed

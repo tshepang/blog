@@ -1,8 +1,8 @@
----
-date: '2013-04-04'
-tags: 'project-of-note'
-title: 'project of note: PostgreSQL'
----
++++
+date = 2013-04-04
+tags = ['project-of-note']
+title = "project of note: PostgreSQL"
++++
 
 It is among those rather quite (in terms of controversy) but
 highly-respectable projects. It also looks like no other FLOSS DBMS

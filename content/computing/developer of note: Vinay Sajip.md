@@ -1,8 +1,8 @@
----
-date: '2013-03-31'
-tags: 'developer-of-note, Python'
-title: 'developer of note: Vinay Sajip'
----
++++
+date = 2013-03-31
+tags = ['developer-of-note', 'Python']
+title = "developer of note: Vinay Sajip"
++++
 
 [Vinay Sajip] is the maintainer of [logging], a Python logging
 library/module, available in the standard library. What prompted this

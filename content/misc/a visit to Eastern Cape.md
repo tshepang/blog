@@ -1,8 +1,8 @@
----
-date: '2007-05-07'
-tags: travel
-title: a visit to Eastern Cape
----
++++
+date = 2007-05-07
+tags = ['travel']
+title = "a visit to Eastern Cape"
++++
 
 I enjoyed the beautiful countryside of Nyosini, a small (a few hundred
 households?) rural village nearby a buzzing Mount Frere, a town set atop

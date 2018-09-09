@@ -1,8 +1,8 @@
----
-date: '2009-12-22'
-tags: atheism
-title: my deconversion
----
++++
+date = 2009-12-22
+tags = ['atheism']
+title = "my deconversion"
++++
 
 One of the top atheism bloggers today, [Luke Muehlhauser], posted a
 [gorgeous snippet] by a Christian who happens to be unhappy with the

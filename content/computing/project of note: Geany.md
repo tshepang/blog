@@ -1,8 +1,8 @@
----
-date: '2011-01-19'
-tags: 'project-of-note'
-title: 'project of note: Geany'
----
++++
+date = 2011-01-19
+tags = ['project-of-note']
+title = "project of note: Geany"
++++
 
 I\'ve been a satisfied user of Geany, a lightweight IDE, these past few
 months:

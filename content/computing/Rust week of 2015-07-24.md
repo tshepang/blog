@@ -1,8 +1,8 @@
----
-date: '2015-08-01'
-tags: Rust
-title: 'Rust week of 2015-07-24'
----
++++
+date = 2015-08-01
+tags = ['Rust']
+title = "Rust week of 2015-07-24"
++++
 
 I have been [given the honor] of Friend of the Tree by a member of the
 Rust Library [team]. I never expected to be considered, given the far

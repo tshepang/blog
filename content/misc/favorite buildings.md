@@ -1,8 +1,8 @@
----
-date: '2013-09-30'
-tags: list
-title: favorite buildings
----
++++
+date = 2013-09-30
+tags = ['list']
+title = "favorite buildings"
++++
 
 -   [Burj Khalifa][]:
     -   tallest building on earth
@@ -15,7 +15,7 @@ title: favorite buildings
         beyond)
     -   icon of Chicago skyline
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 The WTC Twin Towers would be here if they were still standing. At the
 time of their destruction, I admired them more than any other buildings

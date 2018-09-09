@@ -1,8 +1,8 @@
----
-date: '2015-05-25'
-tags: Rust
-title: Linux threads are not deterministic
----
++++
+date = 2015-05-25
+tags = ['Rust']
+title = "Linux threads are not deterministic"
++++
 
 By deterministic, I am referring to their scheduling. Here\'s an example
 in Rust:

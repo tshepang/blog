@@ -1,8 +1,8 @@
----
-date: '2015-05-25'
-tags: Rust
-title: various Rust ways of displaying stuff to the screen
----
++++
+date = 2015-05-25
+tags = ['Rust']
+title = "various Rust ways of displaying stuff to the screen"
++++
 
 Here is a simple way of doing it:
 
@@ -49,7 +49,7 @@ use std::io::{self, Write};
 
 fn main() {
 
-:   
+:
 
     match io::stdout().write\_all(b\"some outputn\") {
 
@@ -66,7 +66,7 @@ Some docs:
 -   [core::result::Result::unwrap]
 -   [std::panic!]
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 What if we wanted to do some string formatting:
 
@@ -118,7 +118,7 @@ Some docs:
 -   [std::writeln!]
 -   [std::println!]
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 So, why bother with all these many ways when there\'s a simple
 `println!`? Flexibility. One example I can think of is writing to

@@ -1,8 +1,8 @@
----
-date: '2010-07-16'
-tags: wajig
-title: more on wajig development
----
++++
+date = 2010-07-16
+tags = ['wajig']
+title = "more on wajig development"
++++
 
 I was [given commit access] to wajig project, and did a heck of a lot of
 clean-ups, and in the process, learning much about unit testing. I aimed

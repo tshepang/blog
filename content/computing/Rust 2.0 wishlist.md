@@ -1,7 +1,7 @@
----
-tags: Rust
-title: 'Rust 2.0 wishlist'
----
++++
+tags = ['Rust']
+title = "Rust 2.0 wishlist"
++++
 
 -   Remove the `try!` macro\... it has a better replacement in the form
     of the question\_mark (`?`) operator.

@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: gaming
-title: 'GameSpy\''s \''BioShock\'' review'
----
++++
+date = 2011-01-14
+tags = ['gaming']
+title = "GameSpy's 'BioShock' review"
++++
 
 Last year, I got seduced by GameSpy with their [2006 review], and this
 time around, I got seduced yet again by [their review of BioShock].

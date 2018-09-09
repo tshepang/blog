@@ -1,8 +1,8 @@
----
-date: '2010-09-10'
-tags: 'developer-of-note, GNOME, Tracker'
-title: 'developer of note: Martyn Russell'
----
++++
+date = 2010-09-10
+tags = ['developer-of-note', 'GNOME', 'Tracker']
+title = "developer of note: Martyn Russell"
++++
 
 Martyn Russell is [Tracker]\'s release manager, and being a fan of the
 project since the early pre-1.0 days, I have quite familiar with his

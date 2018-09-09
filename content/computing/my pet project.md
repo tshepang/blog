@@ -1,8 +1,8 @@
----
-date: '2010-06-09'
-tags: Python
-title: my pet project
----
++++
+date = 2010-06-09
+tags = ['Python']
+title = "my pet project"
++++
 
 I\'ve been working on a personal (unofficial) project for some weeks now
 at work whose goal is automated testing of the system I maintain at

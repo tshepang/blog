@@ -1,8 +1,8 @@
----
-date: '2017-09-08'
-tags: Rust
-title: 'Rust week of 2017-08-31'
----
++++
+date = 2017-09-08
+tags = ['Rust']
+title = "Rust week of 2017-08-31"
++++
 
 Week of 2017-08-24 did not really see any Rust activity. This week,
 however, I worked on [mrh], a tool I created in order to look at status

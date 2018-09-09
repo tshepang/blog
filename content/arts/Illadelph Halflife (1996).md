@@ -1,8 +1,8 @@
----
-date: '2009-07-27'
-tags: 'music, hip-hop'
-title: 'Illadelph Halflife (1996)'
----
++++
+date = 2009-07-27
+tags = ['music', 'hip-hop']
+title = "Illadelph Halflife (1996)"
++++
 
 This is undoubtedly the best album by [The Roots], and includes timeless
 acts like:

@@ -1,8 +1,8 @@
----
-date: '2014-02-09'
-tags: 'music, list'
-title: top music videos
----
++++
+date = 2014-02-09
+tags = ['music', 'list']
+title = "top music videos"
++++
 
 These are the best music videos I\'ve seen yet (with a disclaimer that
 the list is largely unmaintained). Excellence in the track concerned

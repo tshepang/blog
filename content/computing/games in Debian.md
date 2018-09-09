@@ -1,8 +1,8 @@
----
-date: '2007-12-03'
-tags: Debian
-title: games in Debian
----
++++
+date = 2007-12-03
+tags = ['Debian']
+title = "games in Debian"
++++
 
 [Blob Wars], which resembles Mario, has become a serious hit with my
 9-year-old brother and a number of friends, which makes me happy since

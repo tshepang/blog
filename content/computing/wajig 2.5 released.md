@@ -1,8 +1,8 @@
----
-date: '2012-04-11'
-tags: wajig
-title: 'wajig 2.5 released'
----
++++
+date = 2012-04-11
+tags = ['wajig']
+title = "wajig 2.5 released"
++++
 
 The release of [wajig 2.3], though important to me, caused varius
 complaints because it changed much of the UI. 2.5 goes a long way

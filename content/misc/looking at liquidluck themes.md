@@ -1,8 +1,8 @@
----
-date: '2013-04-13'
-tags: blogging
-title: looking at liquidluck themes
----
++++
+date = 2013-04-13
+tags = ['blogging']
+title = "looking at liquidluck themes"
++++
 
 Following are demos of all liquidluck themes I could find, all running
 [this source], but each slightly modified to change theme name

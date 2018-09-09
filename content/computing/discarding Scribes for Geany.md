@@ -1,8 +1,8 @@
----
-date: '2009-01-23'
-tags: 'Scribes, Geany'
-title: discarding Scribes for Geany
----
++++
+date = 2009-01-23
+tags = ['Scribes', 'Geany']
+title = "discarding Scribes for Geany"
++++
 
 The [version of Scribes in development] didn\'t prove too satisfactory
 after a while (black background which I didn\'t care to investigate how

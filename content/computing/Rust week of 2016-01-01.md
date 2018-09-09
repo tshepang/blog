@@ -1,8 +1,8 @@
----
-date: '2016-01-05'
-tags: Rust
-title: 'Rust week of 2016-01-01'
----
++++
+date = 2016-01-05
+tags = ['Rust']
+title = "Rust week of 2016-01-01"
++++
 
 I found [an interesting discussion] regarding trade-offs of using C
 libraries instead of writing ones in Rust. I also submitted one doc

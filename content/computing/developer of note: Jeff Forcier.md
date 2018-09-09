@@ -1,8 +1,8 @@
----
-date: '2013-01-15'
-tags: 'Python, developer-of-note'
-title: 'developer of note: Jeff Forcier'
----
++++
+date = 2013-01-15
+tags = ['Python', 'developer-of-note']
+title = "developer of note: Jeff Forcier"
++++
 
 The strength of character that [Jeff \'bitprophet\' Forcier] possesses
 is admirable. He is the lead developer of [fabric], the most popular

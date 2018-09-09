@@ -1,8 +1,8 @@
----
-date: '2017-06-25'
-tags: Rust
-title: 'Rust week of 2017-06-22'
----
++++
+date = 2017-06-25
+tags = ['Rust']
+title = "Rust week of 2017-06-22"
++++
 
 I wrote a tool that helps with [semver] git tagging, which made me
 explore the rather large (and unfriendly) API of [git2-rs library]. It

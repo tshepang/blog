@@ -1,8 +1,8 @@
----
-date: '2017-04-26'
-tags: Rust
-title: 'Rust week of 2017-04-20'
----
++++
+date = 2017-04-26
+tags = ['Rust']
+title = "Rust week of 2017-04-20"
++++
 
 The MQTT client library I mentioned [last week] is in serious need of
 documentation, so I did [a tiny bit]. I also made [a small

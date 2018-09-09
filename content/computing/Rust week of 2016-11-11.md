@@ -1,8 +1,8 @@
----
-date: '2016-11-17'
-tags: Rust
-title: 'Rust week of 2016-11-11'
----
++++
+date = 2016-11-17
+tags = ['Rust']
+title = "Rust week of 2016-11-11"
++++
 
 I enjoyed reading an excellent and detailed [Rust API design guide]. In
 terms of contributions, I submitted [just][] [two].

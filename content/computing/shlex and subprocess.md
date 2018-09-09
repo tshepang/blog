@@ -1,8 +1,8 @@
----
-date: '2011-01-25'
-tags: Python
-title: shlex and subprocess
----
++++
+date = 2011-01-25
+tags = ['Python']
+title = "shlex and subprocess"
++++
 
 I learned about a module called [shlex]. It\'s stated to be a simple
 lexical analyzer, and I don\'t really know what this means, but I found

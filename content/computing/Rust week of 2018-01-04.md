@@ -1,8 +1,8 @@
----
-date: '2018-01-11'
-tags: Rust
-title: 'Rust week of 2018-01-04'
----
++++
+date = 2018-01-11
+tags = ['Rust']
+title = "Rust week of 2018-01-04"
++++
 
 Some more work on [mrh], I added the ability to check if there are
 unpulled commits as well as if there are tags that aren\'t pushed

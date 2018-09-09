@@ -1,8 +1,8 @@
----
-date: '2015-11-10'
-tags: Rust
-title: 'Rust week of 2015-11-06'
----
++++
+date = 2015-11-10
+tags = ['Rust']
+title = "Rust week of 2015-11-06"
++++
 
 I made some [small improvements] to rustc-serialize docs. I also looked
 at parsing JSON, and [it doesn\'t look too bad]. I am mostly interested

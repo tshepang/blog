@@ -1,8 +1,8 @@
----
-date: '2018-02-08'
-tags: Rust
-title: 'Rust week of 2018-02-01'
----
++++
+date = 2018-02-08
+tags = ['Rust']
+title = "Rust week of 2018-02-01"
++++
 
 I used [serde\_rusqlite] for the first time, and thought it was
 fantastic, if leveraging the wonderful serde framework. On a related

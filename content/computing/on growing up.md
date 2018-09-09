@@ -1,8 +1,8 @@
----
-date: '2013-03-01'
-tags: 'humor, Python, quote'
-title: on growing up
----
++++
+date = 2013-03-01
+tags = ['humor', 'Python', 'quote']
+title = "on growing up"
++++
 
 Enjoyed this:
 

@@ -1,8 +1,8 @@
----
-date: '2010-05-10'
-tags: GNOME
-title: xfrun4 rocks
----
++++
+date = 2010-05-10
+tags = ['GNOME']
+title = "xfrun4 rocks"
++++
 
 The one desktop environment I live in is GNOME, which also happens to be
 my favorite too. It\'s got quite a lot of things that can be better of

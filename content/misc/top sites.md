@@ -1,8 +1,8 @@
----
-date: '2013-06-01'
-tags: list
-title: top sites
----
++++
+date = 2013-06-01
+tags = ['list']
+title = "top sites"
++++
 
 **atheist writing**: [Pharyngula]
 

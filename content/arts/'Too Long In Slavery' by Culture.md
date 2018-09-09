@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: music
-title: '\''Too Long In Slavery\'' by Culture'
----
++++
+date = 2011-01-14
+tags = ['music']
+title = "'Too Long In Slavery' by Culture"
++++
 
 The mood of [Too Long In Slavery] (performed by [Culture] and found in
 *Greatest Hits - The Frontlne Years*) matches it\'s title pretty well

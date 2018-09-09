@@ -1,8 +1,8 @@
----
-date: '2016-08-18'
-tags: Rust
-title: 'Rust week of 2016-08-12'
----
++++
+date = 2016-08-18
+tags = ['Rust']
+title = "Rust week of 2016-08-12"
++++
 
 I enjoyed a useful (and tiny) library that helps align text nicely.
 Following is an example of its usage:
@@ -14,7 +14,7 @@ extern crate unindent; use unindent::unindent;
 
 fn main() {
 
-:   
+:
 
     let text = \"
 

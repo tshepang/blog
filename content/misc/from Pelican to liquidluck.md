@@ -1,8 +1,8 @@
----
-date: '2013-10-03'
-tags: blogging
-title: from Pelican to liquidluck
----
++++
+date = 2013-10-03
+tags = ['blogging']
+title = "from Pelican to liquidluck"
++++
 
 **notes**:
 
@@ -76,7 +76,7 @@ issues
 
         diff --git a/liquidluck/_themes/default/static/style.css b/liquidluck/_themes/default/static/style.css
         index e90de80..94fa7e8 100644
-        --- a/liquidluck/_themes/default/static/style.css
+        +++ a/liquidluck/_themes/default/static/style.css
         +++ b/liquidluck/_themes/default/static/style.css
         @@ -112,7 +112,7 @@ pre {
              border-radius: 3px;

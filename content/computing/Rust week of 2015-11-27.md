@@ -1,8 +1,8 @@
----
-date: '2015-12-03'
-tags: Rust
-title: 'Rust week of 2015-11-27'
----
++++
+date = 2015-12-03
+tags = ['Rust']
+title = "Rust week of 2015-11-27"
++++
 
 I added [missing][] [examples] to stdlib documentation. I also learned a
 bit about [Chrono], seemingly the most comprehensive date and time
@@ -18,7 +18,7 @@ use chrono::{NaiveDate, Duration, Local};
 
 fn main() {
 
-:   
+:
 
     for n in 0.. {
 

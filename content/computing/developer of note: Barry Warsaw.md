@@ -1,8 +1,8 @@
----
-date: '2013-05-28'
-tags: 'Debian, developer-of-note, non-Debian, Python'
-title: 'developer of note: Barry Warsaw'
----
++++
+date = 2013-05-28
+tags = ['Debian', 'developer-of-note', 'non-Debian', 'Python']
+title = "developer of note: Barry Warsaw"
++++
 
 This guy, both an official Ubuntu developer and a core [CPython]
 developer, is a great example of a FLOSS collaborator. He is always

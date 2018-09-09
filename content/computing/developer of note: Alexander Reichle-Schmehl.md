@@ -1,8 +1,8 @@
----
-date: '2010-07-24'
-tags: 'Debian, developer-of-note'
-title: 'developer of note: Alexander Reichle-Schmehl'
----
++++
+date = 2010-07-24
+tags = ['Debian', 'developer-of-note']
+title = "developer of note: Alexander Reichle-Schmehl"
++++
 
 Debian got so many people doing what seem like thankless jobs in an
 effort to improve it. One of those guys is Alexander Reichle-Schmehl

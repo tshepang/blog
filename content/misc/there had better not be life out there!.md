@@ -1,8 +1,8 @@
----
-date: '2009-09-17'
-tags: 'future-tech'
-title: 'there had better not be life out there!'
----
++++
+date = 2009-09-17
+tags = ['future-tech']
+title = "there had better not be life out there!"
++++
 
 I thoroughly enjoyed re-reading [an essay] on why we better hope we
 don\'t discover extra-terrestrial life. It\'s 8 pages of superb writing

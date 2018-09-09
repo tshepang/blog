@@ -1,8 +1,8 @@
----
-date: '2016-09-22'
-tags: Rust
-title: 'Rust week of 2016-09-16'
----
++++
+date = 2016-09-22
+tags = ['Rust']
+title = "Rust week of 2016-09-16"
++++
 
 I looked at [bcrypt], which helps with secure password storage. I don\'t
 quite understand how it works, but I\'ve seen that it prevents

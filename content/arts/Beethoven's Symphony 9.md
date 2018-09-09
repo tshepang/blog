@@ -1,8 +1,8 @@
----
-date: '2011-02-24'
-tags: 'classical, music'
-title: 'Beethoven\''s Symphony 9'
----
++++
+date = 2011-02-24
+tags = ['classical', 'music']
+title = "Beethoven's Symphony 9"
++++
 
 I was led to listen to Beethoven\'s [critically-acclaimed] \"Symphony
 No. 9\". Well, this may be because I\'m a novice regarding Classical

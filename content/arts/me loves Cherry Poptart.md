@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: comic
-title: me loves Cherry Poptart
----
++++
+date = 2011-01-14
+tags = ['comic']
+title = "me loves Cherry Poptart"
++++
 
 This morning I read \"Cherry Does the Time Warp\", part of the funny and
 politically satirical adult comic series, [Cherry]. It\'s not the first

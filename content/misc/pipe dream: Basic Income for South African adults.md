@@ -1,8 +1,8 @@
----
-date: '2014-04-02'
-tags: untagged
-title: 'pipe dream: Basic Income for South African adults'
----
++++
+date = 2014-04-02
+tags = ['untagged']
+title = "pipe dream: Basic Income for South African adults"
++++
 
 There are too many people suffering from poverty in South Africa, and
 the quickest way to eliminate it is to provide income for all adult

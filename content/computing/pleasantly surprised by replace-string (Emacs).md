@@ -1,8 +1,8 @@
----
-date: '2013-11-26'
-tags: Emacs
-title: 'pleasantly surprised by replace-string (Emacs)'
----
++++
+date = 2013-11-26
+tags = ['Emacs']
+title = "pleasantly surprised by replace-string (Emacs)"
++++
 
 If you want to replace some string in Emacs, the primary function to use
 is **replace-string** (I think). If the strings, \'old\' and \'new\' are

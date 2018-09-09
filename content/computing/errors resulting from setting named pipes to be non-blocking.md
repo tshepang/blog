@@ -1,8 +1,8 @@
----
-date: '2012-11-18'
-tags: 'non-Python'
-title: 'errors resulting from setting named pipes to be non-blocking'
----
++++
+date = 2012-11-18
+tags = ['non-Python']
+title = "errors resulting from setting named pipes to be non-blocking"
++++
 
 Using C, I have been writing to named pipes in a non-blocking way and
 have been getting a whole bunch of EAGAIN errors. I have spent way too

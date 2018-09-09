@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: comic
-title: Body Bags
----
++++
+date = 2011-01-14
+tags = ['comic']
+title = "Body Bags"
++++
 
 I was reading [Body Bags comic] early this morning and it\'s
 devastatingly unique and fresh, with some seriously interesting

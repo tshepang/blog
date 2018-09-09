@@ -1,7 +1,7 @@
----
-tags: blogging
-title: ideal static blog generator
----
++++
+tags = ['blogging']
+title = "ideal static blog generator"
++++
 
 Anything not listed below is either stuff I take for granted or simply
 missed:

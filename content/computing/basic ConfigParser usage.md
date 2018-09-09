@@ -1,8 +1,8 @@
----
-date: '2011-01-28'
-tags: Python
-title: basic ConfigParser usage
----
++++
+date = 2011-01-28
+tags = ['Python']
+title = "basic ConfigParser usage"
++++
 
 Reading `.INI` files is very easy with Python. Say you had a file,
 \"*config.cfg*\", with this content:
@@ -52,7 +52,7 @@ use a key and not an index:
 >>> d = {1: 'one'}
 >>> d[0]
 Traceback (most recent call last):
-  File "", line 1, in 
+  File "", line 1, in
 KeyError: 0
 >>> d[1]
 'one'

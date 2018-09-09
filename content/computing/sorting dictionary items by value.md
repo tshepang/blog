@@ -1,8 +1,8 @@
----
-date: '2012-06-26'
-tags: Python
-title: sorting dictionary items by value
----
++++
+date = 2012-06-26
+tags = ['Python']
+title = "sorting dictionary items by value"
++++
 
 Following should be self-explanatory:
 

@@ -1,8 +1,8 @@
----
-date: '2011-04-08'
-tags: 'Debian, developer-of-note, GNOME'
-title: 'developer of note: Josselin Mouette'
----
++++
+date = 2011-04-08
+tags = ['Debian', 'developer-of-note', 'GNOME']
+title = "developer of note: Josselin Mouette"
++++
 
 The efforts that Josselin Mouette puts into maintaining Debian\'s GNOME
 are amazing (and seemingly thankless). He is the most visible member of

@@ -1,8 +1,8 @@
----
-date: '2014-02-24'
-tags: 'developer-of-note, Python, Gittip'
-title: 'developer of note: Brett Cannon'
----
++++
+date = 2014-02-24
+tags = ['developer-of-note', 'Python', 'Gittip']
+title = "developer of note: Brett Cannon"
++++
 
 [A core CPython developer], Dr. Brett Cannon is among the key people
 pushing Python 3 forward, examples being:

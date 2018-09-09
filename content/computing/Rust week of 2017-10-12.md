@@ -1,8 +1,8 @@
----
-date: '2017-10-18'
-tags: Rust
-title: 'Rust week of 2017-10-12'
----
++++
+date = 2017-10-18
+tags = ['Rust']
+title = "Rust week of 2017-10-12"
++++
 
 I enjoyed [a humorous joke post] poking fun at inconsistent Rust naming
 of some stdlib types. I also expanded [the work project] I been working

@@ -1,8 +1,8 @@
----
-date: '2010-09-23'
-tags: 'Debian, wajig'
-title: 'apt-get vs. aptitude'
----
++++
+date = 2010-09-23
+tags = ['Debian', 'wajig']
+title = "apt-get vs. aptitude"
++++
 
 Did I mention that [I love Stack Overflow]? It\'s a Q&A site for
 anything that is related to computer programing, and the creators

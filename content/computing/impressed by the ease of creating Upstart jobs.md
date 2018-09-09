@@ -1,8 +1,8 @@
----
-date: '2014-10-30'
-tags: 'non-Debian'
-title: impressed by the ease of creating Upstart jobs
----
++++
+date = 2014-10-30
+tags = ['non-Debian']
+title = "impressed by the ease of creating Upstart jobs"
++++
 
 At work, we run our systems on Ubuntu, which so far means the init
 system is Upstart. I needed to have one binary to start when the system

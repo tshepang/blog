@@ -1,8 +1,8 @@
----
-date: '2015-08-08'
-tags: 'music, hip-hop'
-title: 'Doggystyle (1993)'
----
++++
+date = 2015-08-08
+tags = ['music', 'hip-hop']
+title = "Doggystyle (1993)"
++++
 
 The best hip-hop album I\'ve ever come across, it has not one let-down
 of a track. The closest competitor is *The Score* (there is only 1

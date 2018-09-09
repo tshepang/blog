@@ -1,8 +1,8 @@
----
-date: '2015-11-25'
-tags: Rust
-title: 'Rust week of 2015-11-20'
----
++++
+date = 2015-11-25
+tags = ['Rust']
+title = "Rust week of 2015-11-20"
++++
 
 I submitted [some improvements] to new Rust stdlib APIS,
 [std::time::Instant] and [std::time::SystemTime]. I also submitted [the

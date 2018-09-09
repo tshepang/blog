@@ -1,8 +1,8 @@
----
-date: '2007-08-19'
-tags: 'Scribes, QuodLibet'
-title: Quod Libet and arrogance
----
++++
+date = 2007-08-19
+tags = ['Scribes', 'QuodLibet']
+title = "Quod Libet and arrogance"
++++
 
 I\'ve just seen, for the first time in memory, a concept of arrogant
 design stated [publicly], a concept whose awareness previously existed

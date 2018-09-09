@@ -1,8 +1,8 @@
----
-date: '2012-03-25'
-tags: 'Debian, Python, wajig'
-title: 'wajig 2.3 released'
----
++++
+date = 2012-03-25
+tags = ['Debian', 'Python', 'wajig']
+title = "wajig 2.3 released"
++++
 
 It\'s been many months since wajig was released, but this was about as
 good as any since I probably did far more work on it than on any other
@@ -33,7 +33,7 @@ release so far:
 
         wajig REMOVEORPHANS
         wajig REMOVE-ORPHANS
-        wajig R-____EMOVE-ORPH----___AN_S
+        wajig R-____EMOVE-ORPH+++-___AN_S
 
     What wajig did was simply sanitise the commands, getting rid of the
     junk. Well, I don\'t like that, but since I didn\'t want to break

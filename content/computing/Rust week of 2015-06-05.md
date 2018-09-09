@@ -1,8 +1,8 @@
----
-date: '2015-06-11'
-tags: Rust
-title: 'Rust week of 2015-06-05'
----
++++
+date = 2015-06-11
+tags = ['Rust']
+title = "Rust week of 2015-06-05"
++++
 
 -   I submitted [a change] to remove a sentence that is not clear in the
     chapter on Generics in Rust Book.

@@ -1,12 +1,12 @@
----
-date: '2008-12-12'
-tags: Debian
-title: reprepro saved my live
----
++++
+date = 2008-12-12
+tags = ['Debian']
+title = "reprepro saved my live"
++++
 
 Much of this is obsolete: I no longer build my own Debian packages.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 That\'s a joke title, but [that fabulous tool] really did help me a lot.
 When doing package builds, all I need to run is the following after a
@@ -47,7 +47,7 @@ using Ubuntu\'s package, a much improved and re-written 0.1.98, as
 opposed to Debian\'s \'bug-free\' 0.1 (though I later discovered the bug
 to exist when running the package in Ubuntu 8.10 too).
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 [an update on how I do things now]
 

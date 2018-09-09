@@ -1,8 +1,8 @@
----
-date: '2015-01-15'
-tags: untagged
-title: 'zerofree rocks!'
----
++++
+date = 2015-01-15
+tags = ['untagged']
+title = "zerofree rocks!"
++++
 
 At work, we tend to use the same base image for multiple installations.
 I would often copy a whole-disk image of a system as a matter of

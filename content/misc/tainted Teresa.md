@@ -1,8 +1,8 @@
----
-date: '2009-09-24'
-tags: 'ethics, quote'
-title: tainted Teresa
----
++++
+date = 2009-09-24
+tags = ['ethics', 'quote']
+title = "tainted Teresa"
++++
 
 While I was thinking of the topic I covered in [noble dreams], Mother
 Teresa appeared in my mind due the imagery of nobility that she

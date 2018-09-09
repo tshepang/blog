@@ -1,8 +1,8 @@
----
-date: '2016-03-03'
-tags: Rust
-title: 'Rust week of 2016-02-26'
----
++++
+date = 2016-03-03
+tags = ['Rust']
+title = "Rust week of 2016-02-26"
++++
 
 I enjoyed [Comparing Rust and Java], the first such comparison I
 remember reading. It\'s also special in that the author hates none of

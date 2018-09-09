@@ -1,8 +1,8 @@
----
-date: '2012-04-15'
-tags: 'Debian, developer-of-note'
-title: 'developer of note: Stefano Zacchiroli'
----
++++
+date = 2012-04-15
+tags = ['Debian', 'developer-of-note']
+title = "developer of note: Stefano Zacchiroli"
++++
 
 I admire [this guy] a lot:
 

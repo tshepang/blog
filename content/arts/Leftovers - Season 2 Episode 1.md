@@ -1,8 +1,8 @@
----
-date: '2016-02-13'
-tags: 'excellent, tv'
-title: 'Leftovers - Season 2 Episode 1'
----
++++
+date = 2016-02-13
+tags = ['excellent', 'tv']
+title = "Leftovers - Season 2 Episode 1"
++++
 
 Few tv episodes have left as much an impact on me as this bizarre one. I
 was reeling from it for days after watching it first time, and I hardly

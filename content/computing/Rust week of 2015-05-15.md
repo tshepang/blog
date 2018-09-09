@@ -1,8 +1,8 @@
----
-date: '2015-05-23'
-tags: Rust
-title: 'Rust week of 2015-05-15'
----
++++
+date = 2015-05-23
+tags = ['Rust']
+title = "Rust week of 2015-05-15"
++++
 
 This is the first of what I intend to be a weekly series of posts
 related to my favorite programming language. I here take Rust weeks to
@@ -10,7 +10,7 @@ begin each Friday, since Stable releases of the Rust distribution
 (language and included libraries) are to be released on that week day.
 This is also a great excuse to write more regularly.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 -   I read a high quality post titled [Rust ownership, the hard way]. I
     learned quite a bit going through it, like the meaning of

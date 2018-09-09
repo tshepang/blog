@@ -1,8 +1,8 @@
----
-date: '2009-05-05'
-tags: 'non-Python, Python'
-title: 'Python, Perl, and now Java'
----
++++
+date = 2009-05-05
+tags = ['non-Python', 'Python']
+title = "Python, Perl, and now Java"
++++
 
 I\'m grateful that there\'s so much I\'m learning at [my new job], stuff
 I wouldn\'t really learn on my own, like Perl (this one out of
@@ -16,7 +16,7 @@ GNOME, Python), a world that proclaim it to be a disgusting pile of
 shit. Anyways let\'s see how the ride will pan out.
 
 As for Perl, I found its string-handling capabilities exceedingly
-powerful but its syntax ugly and over-varied --- too much of a free-form
+powerful but its syntax ugly and over-varied +++ too much of a free-form
 language. That\'s bad for someone used to the gracious elegance of
 mighty Python. If I could stay away from it, I would!
 

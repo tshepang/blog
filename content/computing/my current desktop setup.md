@@ -1,14 +1,14 @@
----
-date: '2014-02-16'
-tags: 'GNOME, Debian'
-title: my current desktop setup
----
++++
+date = 2014-02-16
+tags = ['GNOME', 'Debian']
+title = "my current desktop setup"
++++
 
 Following is how my GUI environment is set-up on [my home machine] (a
 laptop) and work machine (a desktop). For the (libre) tools I frequently
 use, see [this post] instead.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 With recent Debian GNOME updates (late 2013), something got broken
 enough that I could not login to my account. I saw this as a good
@@ -38,7 +38,7 @@ wouldn\'t pull in dozens of packages that I won\'t use. For example:
 
     $ sudo apt-get install --no-install-recommends gdm3
     Reading package lists... Done
-    Building dependency tree       
+    Building dependency tree
     Reading state information... Done
     The following extra packages will be installed:
       bluez dconf-cli evolution-data-server evolution-data-server-common
@@ -147,7 +147,7 @@ Finally, this is what my dwm config changes look like ([config.def.h]):
 
     diff --git a/config.def.h b/config.def.h
     index 77ff358..78af5d6 100644
-    --- a/config.def.h
+    +++ a/config.def.h
     +++ b/config.def.h
     @@ -14,12 +14,15 @@ static const Bool showbar           = True;     /*
     False means no bar */

@@ -1,8 +1,8 @@
----
-date: '2013-10-19'
-tags: 'list, Emacs, Python'
-title: projects with excellent documentation
----
++++
+date = 2013-10-19
+tags = ['list', 'Emacs', 'Python']
+title = "projects with excellent documentation"
++++
 
 Here is a list of projects whose documentation I found to be
 highly-detailed and well-written.

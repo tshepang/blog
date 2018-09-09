@@ -1,8 +1,8 @@
----
-date: '2012-04-03'
-tags: quote
-title: '\''Finding Great Developers\'' by Joel Spolsky'
----
++++
+date = 2012-04-03
+tags = ['quote']
+title = "'Finding Great Developers' by Joel Spolsky"
++++
 
 Reading [the article] today reinforced my view that Joel Spolsky is
 among the best bloggers on the topic of software development. Here he

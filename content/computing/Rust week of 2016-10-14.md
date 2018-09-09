@@ -1,8 +1,8 @@
----
-date: '2016-10-21'
-tags: Rust
-title: 'Rust week of 2016-10-14'
----
++++
+date = 2016-10-21
+tags = ['Rust']
+title = "Rust week of 2016-10-14"
++++
 
 -   I asked [a Nickel-related question], after searching and failing.
 -   [This post about ripgrep] is a masterpiece!

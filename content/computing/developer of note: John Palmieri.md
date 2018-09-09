@@ -1,8 +1,8 @@
----
-date: '2011-09-20'
-tags: 'developer-of-note, GNOME, Python'
-title: 'developer of note: John Palmieri'
----
++++
+date = 2011-09-20
+tags = ['developer-of-note', 'GNOME', 'Python']
+title = "developer of note: John Palmieri"
++++
 
 Every so often, there appears a developer who pressures me away from my
 lazy, unfocused, and undisciplined ass to go do some useful programming.

@@ -1,9 +1,9 @@
----
-date: '2013-10-27'
-summary: comparing performance of my laptop and my work machine
-tags: Python
-title: a bit of benchmarking
----
++++
+date = 2013-10-27
+summary = "comparing performance of my laptop and my work machine"
+tags = ['Python']
+title = "a bit of benchmarking"
++++
 
 I was curious how my home machine performs compared to my work machine.
 Each of these have 4 logical processors (and 8GB of RAM), so are sort of
@@ -44,7 +44,7 @@ development branch:
     b6a1a78818fe default
 
 Build
------
++++--
 
 Here\'s the command I used:
 
@@ -71,7 +71,7 @@ VPS:
     sys     0m16.592s
 
 Test suite
-----------
++++++++++-
 
 Here\'s the command I used:
 
@@ -119,7 +119,7 @@ Here\'s the commands I used:
     make distclean && make defconfig && time make
 
 Results
--------
+++++++-
 
 Home machine:
 

@@ -1,8 +1,8 @@
----
-date: '2013-08-27'
-tags: 'Debian, non-Python'
-title: packaging my first Qt app
----
++++
+date = 2013-08-27
+tags = ['Debian', 'non-Python']
+title = "packaging my first Qt app"
++++
 
 Someone asked me to try get some KDE package into Debian. I estimated
 that it would take me around 10 hours to get it into good enough shape

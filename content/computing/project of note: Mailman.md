@@ -1,8 +1,8 @@
----
-date: '2011-01-18'
-tags: 'project-of-note'
-title: 'project of note: Mailman'
----
++++
+date = 2011-01-18
+tags = ['project-of-note']
+title = "project of note: Mailman"
++++
 
 [Mailman] is most likely the most popular mailing list manager in the
 FLOSS ecosystem. What I like about it is the ease-of-use it provides for

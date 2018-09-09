@@ -1,8 +1,8 @@
----
-date: '2015-11-19'
-tags: Rust
-title: 'Rust week of 2015-11-13'
----
++++
+date = 2015-11-19
+tags = ['Rust']
+title = "Rust week of 2015-11-13"
++++
 
 I submitted [fixes] for small nits on Ramp, the Rust Arithmetic in
 Multiple Precision library. The project was brought to my attention for

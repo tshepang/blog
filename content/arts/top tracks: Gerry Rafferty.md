@@ -1,8 +1,8 @@
----
-date: '2015-07-26'
-tags: 'music, top-tracks'
-title: 'top tracks: Gerry Rafferty'
----
++++
+date = 2015-07-26
+tags = ['music', 'top-tracks']
+title = "top tracks: Gerry Rafferty"
++++
 
 1 masterpiece
 =============

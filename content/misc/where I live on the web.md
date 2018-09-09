@@ -1,8 +1,8 @@
----
-date: '2014-03-16'
-tags: 'Debian, Python'
-title: where I live on the web
----
++++
+date = 2014-03-16
+tags = ['Debian', 'Python']
+title = "where I live on the web"
++++
 
 I spend perhaps too much of my time online, and these are among the
 greatest culprits:

@@ -1,8 +1,8 @@
----
-date: '2011-01-27'
-tags: Python
-title: 'basic usage of Python with Oracle DB, in Debian'
----
++++
+date = 2011-01-27
+tags = ['Python']
+title = "basic usage of Python with Oracle DB, in Debian"
++++
 
 What if you wanted to access Oracle using Python? Once you are [set up],
 it\'s real easy. We use [cx\_Oracle], the most popular Python library to

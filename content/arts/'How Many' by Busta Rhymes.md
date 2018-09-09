@@ -1,8 +1,8 @@
----
-date: '2013-04-28'
-tags: 'music, hip-hop'
-title: '\''How Many\'' by Busta Rhymes'
----
++++
+date = 2013-04-28
+tags = ['music', 'hip-hop']
+title = "'How Many' by Busta Rhymes"
++++
 
 [Busta Rhymes] has a mixtape named *Cut Master C With Busta Rhymes*, and
 in there is a version of **How Many Mics** from the album, [The Score]

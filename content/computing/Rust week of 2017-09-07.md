@@ -1,8 +1,8 @@
----
-date: '2017-09-14'
-tags: Rust
-title: 'Rust week of 2017-09-07'
----
++++
+date = 2017-09-14
+tags = ['Rust']
+title = "Rust week of 2017-09-07"
++++
 
 I had the fortune of building a Rust project at work, and following are
 the libraries I used:

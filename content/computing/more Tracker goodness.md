@@ -1,8 +1,8 @@
----
-date: '2008-03-04'
-tags: Tracker
-title: more Tracker goodness
----
++++
+date = 2008-03-04
+tags = ['Tracker']
+title = "more Tracker goodness"
++++
 
 [Tracker]\'s applet has recently received a revamp which, when clicked,
 launches Tracker Search Tool instead of displaying the search box.

@@ -1,8 +1,8 @@
----
-date: '2011-03-26'
-tags: 'Python, GNOME'
-title: cleansing multiple build directories
----
++++
+date = 2011-03-26
+tags = ['Python', 'GNOME']
+title = "cleansing multiple build directories"
++++
 
 In my adventures of [building GNOME with JHBuild], it often happens that
 when I tweak something that affects the build environment (e.g. use

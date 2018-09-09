@@ -1,8 +1,8 @@
----
-date: '2012-08-09'
-tags: 'developer-of-note'
-title: 'developer of note: Michael Meeks'
----
++++
+date = 2012-08-09
+tags = ['developer-of-note']
+title = "developer of note: Michael Meeks"
++++
 
 Being the most visible LibreOffice (and formerly, OpenOffice.org)
 developer for a number of years now, he is also a tireless communicator

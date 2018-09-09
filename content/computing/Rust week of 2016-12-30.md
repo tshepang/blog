@@ -1,12 +1,12 @@
----
-date: '2017-01-03'
-tags: Rust
-title: 'Rust week of 2016-12-30'
----
++++
+date = 2017-01-03
+tags = ['Rust']
+title = "Rust week of 2016-12-30"
++++
 
 We need more quality code reviews like [this one] for ripgrep.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I used [reqwest] for the first time, and was made sad because using HTTP
 headers is as hard as doing the same for [hyper], especially given that
@@ -34,7 +34,7 @@ client.get(\"example.com\").header(auth\_bearer).send();
 I did not think much about this, so maybe there are issues with the
 desired.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Just [one contribution] this time.
 

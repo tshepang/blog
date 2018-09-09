@@ -1,8 +1,8 @@
----
-date: '2015-05-30'
-tags: Rust
-title: 'Rust week of 2015-05-29'
----
++++
+date = 2015-05-30
+tags = ['Rust']
+title = "Rust week of 2015-05-29"
++++
 
 -   I was surprised by the somewhat magical Rust type inference:
 

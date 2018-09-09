@@ -1,8 +1,8 @@
----
-date: '2017-10-22'
-tags: Rust
-title: 'Rust week of 2017-10-19'
----
++++
+date = 2017-10-22
+tags = ['Rust']
+title = "Rust week of 2017-10-19"
++++
 
 I released [mrh] v0.2.0, which takes into account that when latest
 upstream git reference does not match one that\'s checked out, it could

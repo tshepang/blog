@@ -1,8 +1,8 @@
----
-date: '2011-07-16'
-tags: 'Debian, hardware'
-title: 'moving from Acer TravelMate to HP Probook, using Debian'
----
++++
+date = 2011-07-16
+tags = ['Debian', 'hardware']
+title = "moving from Acer TravelMate to HP Probook, using Debian"
++++
 
 I have been using an Acer TravelMate 6592 laptop for close to 3 years
 (ever since I got [my coding job]). It had some issues:

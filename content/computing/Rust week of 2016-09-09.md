@@ -1,8 +1,8 @@
----
-date: '2016-09-14'
-tags: Rust
-title: 'Rust week of 2016-09-09'
----
++++
+date = 2016-09-14
+tags = ['Rust']
+title = "Rust week of 2016-09-09"
++++
 
 I used [the postgres] crate for the first time. I played with Diesel
 before (ORM), but it has some strange `unresolved import` issue, so will

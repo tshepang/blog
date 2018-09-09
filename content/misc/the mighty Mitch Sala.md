@@ -1,7 +1,7 @@
----
-date: '2009-02-13'
-title: the mighty Mitch Sala
----
++++
+date = 2009-02-13
+title = "the mighty Mitch Sala"
++++
 
 If ever you admire someone excessively to a point of nearly letting out
 a tear, you tend to get worried, perhaps due to pride, that you may be

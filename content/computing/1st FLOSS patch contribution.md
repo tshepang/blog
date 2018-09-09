@@ -1,8 +1,8 @@
----
-date: '2007-04-03'
-tags: 'GNOME, Tracker'
-title: 1st FLOSS patch contribution
----
++++
+date = 2007-04-03
+tags = ['GNOME', 'Tracker']
+title = "1st FLOSS patch contribution"
++++
 
 Back in January 2007, I sent a patch that slightly improved the README
 file found in the root directory of [Tracker], an exciting project that

@@ -1,8 +1,8 @@
----
-date: '2015-10-21'
-tags: Rust
-title: 'Rust week of 2015-10-16'
----
++++
+date = 2015-10-21
+tags = ['Rust']
+title = "Rust week of 2015-10-16"
++++
 
 I made [three][] [documentation][] [changes] and [one] rustfmt-assisted
 formatting.

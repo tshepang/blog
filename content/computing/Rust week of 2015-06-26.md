@@ -1,8 +1,8 @@
----
-date: '2015-07-01'
-tags: Rust
-title: 'Rust week of 2015-06-26'
----
++++
+date = 2015-07-01
+tags = ['Rust']
+title = "Rust week of 2015-06-26"
++++
 
 I [removed a sentence] that is not needed from Cargo documentation. I
 also added [ability to read from \$EMAIL environment variable] to the

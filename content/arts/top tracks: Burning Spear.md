@@ -1,7 +1,7 @@
----
-tags: 'music, top-tracks'
-title: 'top tracks: Burning Spear'
----
++++
+tags = ['music', 'top-tracks']
+title = "top tracks: Burning Spear"
++++
 
 1 landmark
 ==========

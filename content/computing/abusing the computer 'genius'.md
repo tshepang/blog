@@ -1,8 +1,8 @@
----
-date: '2010-10-28'
-tags: untagged
-title: 'abusing the computer \''genius\'''
----
++++
+date = 2010-10-28
+tags = ['untagged']
+title = "abusing the computer 'genius'"
++++
 
 Here\'s a part-fictional account of events that are largely my fault:
 

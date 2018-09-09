@@ -1,13 +1,13 @@
----
-date: '2010-11-02'
-tags: blogging
-title: Tumblr suckage
----
++++
+date = 2010-11-02
+tags = ['blogging']
+title = "Tumblr suckage"
++++
 
 **update**: after an unbearably-long downtime, I decided to make the
 switch, this time to **Posterous** (now-defunct).
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 As much as I love Tumblr, I got a few complaints:
 

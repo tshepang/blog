@@ -1,8 +1,8 @@
----
-date: '2013-10-17'
-tags: 'project-of-note, VCS'
-title: 'project of note: git-cola'
----
++++
+date = 2013-10-17
+tags = ['project-of-note', 'VCS']
+title = "project of note: git-cola"
++++
 
 I use [git-cola] mostly when I want to commit various hunks separately;
 it makes that task real easy.

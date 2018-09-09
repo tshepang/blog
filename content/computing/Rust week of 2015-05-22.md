@@ -1,8 +1,8 @@
----
-date: '2015-05-25'
-tags: Rust
-title: 'Rust week of 2015-05-22'
----
++++
+date = 2015-05-25
+tags = ['Rust']
+title = "Rust week of 2015-05-22"
++++
 
 -   I bumped onto [an oddity regarding \'pow\' method]\... there is no
     fallback.
@@ -30,7 +30,7 @@ title: 'Rust week of 2015-05-22'
 
     impl Invert for i32 {
 
-    :   
+    :
 
         fn invert(&self) -\> f64 {
 
@@ -95,7 +95,7 @@ title: 'Rust week of 2015-05-22'
 
     impl Invert for f64 {
 
-    :   
+    :
 
         fn invert(&self) -\> f64 {
 

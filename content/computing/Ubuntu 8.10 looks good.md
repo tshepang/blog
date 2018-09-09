@@ -1,8 +1,8 @@
----
-date: '2008-10-03'
-tags: 'non-Debian, GNOME'
-title: 'Ubuntu 8.10 looks good'
----
++++
+date = 2008-10-03
+tags = ['non-Debian', 'GNOME']
+title = "Ubuntu 8.10 looks good"
++++
 
 Ubuntu 8.10 Beta has been released and, if [the annoucement] is to be
 relied upon, things look good.

@@ -1,8 +1,8 @@
----
-date: '2013-05-27'
-tags: 'wajig, Python, Tracker'
-title: my current plans for wajig
----
++++
+date = 2013-05-27
+tags = ['wajig', 'Python', 'Tracker']
+title = "my current plans for wajig"
++++
 
 Some stuff I might work on in future:
 
@@ -20,7 +20,7 @@ But ultimately, I would love for the standard Debian packaging tools to
 get the point where they make wajig irrelevant. After all, wajig was
 created to be a wrapper that helps ease the mess.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Here\'s the work I did in the past working on wajig, have a look at [its
 tag]. Off the top of my head:

@@ -1,8 +1,8 @@
----
-date: '2018-02-01'
-tags: Rust
-title: 'Rust week of 2018-01-25'
----
++++
+date = 2018-02-01
+tags = ['Rust']
+title = "Rust week of 2018-01-25"
++++
 
 Continuing on [a work project] I mentioned months ago, I had [a failure
 related to cross-building pnet], a library I was using to get network

@@ -1,8 +1,8 @@
----
-date: '2011-11-02'
-tags: 'non-Python, Python'
-title: Java gripes
----
++++
+date = 2011-11-02
+tags = ['non-Python', 'Python']
+title = "Java gripes"
++++
 
 Okay, so Java sucks \'a bit\', but the following surprised me:
 

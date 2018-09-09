@@ -1,8 +1,8 @@
----
-date: '2012-04-09'
-tags: Python
-title: 'David Beazley\''s PyCon US 2012 Keynote'
----
++++
+date = 2012-04-09
+tags = ['Python']
+title = "David Beazley's PyCon US 2012 Keynote"
++++
 
 [David Beazley\'s PyCon 2012 key note talk] is among the best I\'ve seen
 in the field of software development. It\'s not even the content (the

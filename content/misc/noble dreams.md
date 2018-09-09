@@ -1,13 +1,13 @@
----
-date: '2009-09-17'
-title: noble dreams
----
++++
+date = 2009-09-17
+title = "noble dreams"
++++
 
 **update**: I am not running a business anymore (I gave up trying), and
 the major dream mentioned here died with it. So am keeping this here for
 its historical value\... it\'s also not bad writing.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I was having a discussion with a colleague over chat software, asking
 her about her major dreams. After some deliberations, and after

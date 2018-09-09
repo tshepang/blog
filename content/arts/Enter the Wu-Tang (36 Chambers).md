@@ -1,8 +1,8 @@
----
-date: '2013-05-23'
-tags: 'music, very-good'
-title: 'Enter the Wu-Tang (36 Chambers)'
----
++++
+date = 2013-05-23
+tags = ['music', 'very-good']
+title = "Enter the Wu-Tang (36 Chambers)"
++++
 
 I very much enjoyed listening to this album, which also happens to be
 the first by the group, [Wu-Tang Clan]. My favorite tracks:

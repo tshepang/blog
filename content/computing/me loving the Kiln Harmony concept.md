@@ -1,8 +1,8 @@
----
-date: '2013-04-03'
-tags: 'non-FLOSS, VCS'
-title: me loving the Kiln Harmony concept
----
++++
+date = 2013-04-03
+tags = ['non-FLOSS', 'VCS']
+title = "me loving the Kiln Harmony concept"
++++
 
 I tend to work a lot with both Git and Mercurial, and to ease the pain
 of forgetting which I\'m using at a given moment, I created a setup I

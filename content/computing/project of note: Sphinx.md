@@ -1,8 +1,8 @@
----
-date: '2013-08-08'
-tags: 'project-of-note, Python, Pyramid'
-title: 'project of note: Sphinx'
----
++++
+date = 2013-08-08
+tags = ['project-of-note', 'Python', 'Pyramid']
+title = "project of note: Sphinx"
++++
 
 [Sphinx] is a tool that is used to generate documentation from
 [reStructuredText] (rST) markup language, and is mainly used in the

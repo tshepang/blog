@@ -1,8 +1,8 @@
----
-date: '2011-02-09'
-tags: 'Debian, Python'
-title: comparing Debian repositories
----
++++
+date = 2011-02-09
+tags = ['Debian', 'Python']
+title = "comparing Debian repositories"
++++
 
 If you got two Debian repositories, it\'s quite easy to check the
 differences in package versions between them:

@@ -1,8 +1,8 @@
----
-date: '2012-07-14'
-tags: politics
-title: Valve appears anarchistic
----
++++
+date = 2012-07-14
+tags = ['politics']
+title = "Valve appears anarchistic"
++++
 
 While reading [how this legendary game creator is run] (or at least used
 to be), I was pretty much reminded that\'s kinda how an anarchistic

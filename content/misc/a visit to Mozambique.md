@@ -1,8 +1,8 @@
----
-date: '2015-02-06'
-tags: travel
-title: a visit to Mozambique
----
++++
+date = 2015-02-06
+tags = ['travel']
+title = "a visit to Mozambique"
++++
 
 Outside my country, South Africa, I have only been to Botswana,
 Swaziland, and Lesotho. I recently visited Mozambique, and it feels far

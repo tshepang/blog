@@ -1,8 +1,8 @@
----
-date: '2016-12-29'
-tags: Rust
-title: 'Rust week of 2016-12-23'
----
++++
+date = 2016-12-29
+tags = ['Rust']
+title = "Rust week of 2016-12-23"
++++
 
 I enjoyed going through the tutorial on [slog], which helped reduce the
 complexity I experienced some time ago when I first looked.

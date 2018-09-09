@@ -1,8 +1,8 @@
----
-date: '2011-01-18'
-tags: 'project-of-note'
-title: 'project of note: linkchecker'
----
++++
+date = 2011-01-18
+tags = ['project-of-note']
+title = "project of note: linkchecker"
++++
 
 Weeks ago, I looked for a utility that would help me check for my
 blog\'s dead links, and I bumped onto [LinkChecker] (version on my

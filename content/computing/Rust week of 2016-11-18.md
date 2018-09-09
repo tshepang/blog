@@ -1,8 +1,8 @@
----
-date: '2016-11-24'
-tags: Rust
-title: 'Rust week of 2016-11-18'
----
++++
+date = 2016-11-24
+tags = ['Rust']
+title = "Rust week of 2016-11-18"
++++
 
 I was surprised by the ease of use of [libflate] when decompressing a
 gzip\'ed file:
@@ -26,7 +26,7 @@ And that\'s it, `file` is now like a normal file!
 Another module I used for the first time is [regex], which seems to have
 such a well-designed API actually.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I made just [one contribution] this week.
 

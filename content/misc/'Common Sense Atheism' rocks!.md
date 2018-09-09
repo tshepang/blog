@@ -1,8 +1,8 @@
----
-date: '2010-01-08'
-tags: atheism
-title: '\''Common Sense Atheism\'' rocks!'
----
++++
+date = 2010-01-08
+tags = ['atheism']
+title = "'Common Sense Atheism' rocks!"
++++
 
 I\'ve read dozens of posts by [Luke Muehlhauser] at his [Common Sense
 Atheism] site, among the best blogs I\'ve read ever, which also happens

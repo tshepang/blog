@@ -1,8 +1,8 @@
----
-date: '2013-10-13'
-tags: 'Debian, wajig'
-title: my first Debian upload
----
++++
+date = 2013-10-13
+tags = ['Debian', 'wajig']
+title = "my first Debian upload"
++++
 
 Output of my first ever upload to Debian (using [dput]):
 
@@ -24,7 +24,7 @@ Output of my first ever upload to Debian (using [dput]):
 
 ([the package was accepted within 30 minutes])
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 And, yeah, that means [I am now Debian Maintainer]. Other than giving me
 more freedom, this helps reduce the workload on [Dirk Eddelbuettel], who

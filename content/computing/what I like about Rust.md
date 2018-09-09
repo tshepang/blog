@@ -1,7 +1,7 @@
----
-tags: Rust
-title: what I like about Rust
----
++++
+tags = ['Rust']
+title = "what I like about Rust"
++++
 
 -   Ambitious: the aim of being memory safe without the use of a garbage
     collector, allowing it to achieve C++ execution speeds.

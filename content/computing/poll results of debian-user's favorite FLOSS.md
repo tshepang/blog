@@ -1,8 +1,8 @@
----
-date: '2011-01-15'
-tags: Debian
-title: 'poll results of debian-user\''s favorite FLOSS'
----
++++
+date = 2011-01-15
+tags = ['Debian']
+title = "poll results of debian-user's favorite FLOSS"
++++
 
 Here\'s an index of the poll results where I asked on debian-user
 mailing list what their favorite FLOSS is. It\'s a yearly poll which has

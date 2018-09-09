@@ -1,8 +1,8 @@
----
-date: '2010-04-06'
-tags: 'GNOME, Tracker'
-title: my patches committed
----
++++
+date = 2010-04-06
+tags = ['GNOME', 'Tracker']
+title = "my patches committed"
++++
 
 So, two of the [patches I created] for [Tracker] have been committed
 (commit [1][patches I created], [2])!
@@ -11,7 +11,7 @@ I consumed much info (and time) during the process, which entailed
 looking at Git usage (branch, checkout, commit, format-patch, \...)
 through [Philip van Hoof]\'s guidance.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Philip van Hoof also [fixed] a hard-to-reproduce bug which was a pain
 for me. The fix is a workaround for a [GTK+] bug.

@@ -1,8 +1,8 @@
----
-date: '2016-10-27'
-tags: Rust
-title: 'Rust week of 2016-10-21'
----
++++
+date = 2016-10-27
+tags = ['Rust']
+title = "Rust week of 2016-10-21"
++++
 
 I very much enjoyed reading [the announcement for 1.12.1], the first
 patch release of Rust. Reading it is a good reminder of the great work

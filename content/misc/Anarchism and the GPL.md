@@ -1,8 +1,8 @@
----
-date: '2007-08-16'
-tags: politics
-title: Anarchism and the GPL
----
++++
+date = 2007-08-16
+tags = ['politics']
+title = "Anarchism and the GPL"
++++
 
 I was reading some old Debian posts where there was an argument brewing
 regarding the existence of anarchy within Debian. A notable point raised

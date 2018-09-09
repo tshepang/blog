@@ -1,8 +1,8 @@
----
-date: '2014-09-04'
-tags: Emacs
-title: 'loving the SSH multi-hop feature of Emacs'
----
++++
+date = 2014-09-04
+tags = ['Emacs']
+title = "loving the SSH multi-hop feature of Emacs"
++++
 
 I\'m at home and want to access some system at work. I cannot access
 this system directly, so will have to use a VPN or sshfs, but I don\'t

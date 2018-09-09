@@ -1,8 +1,8 @@
----
-date: '2013-04-07'
-tags: quote
-title: a bit of poetry
----
++++
+date = 2013-04-07
+tags = ['quote']
+title = "a bit of poetry"
++++
 
 English can be a beautiful language:
 

@@ -1,8 +1,8 @@
----
-date: '2010-04-22'
-tags: untagged
-title: '\''Stack Overflow\'' rocks hard!'
----
++++
+date = 2010-04-22
+tags = ['untagged']
+title = "'Stack Overflow' rocks hard!"
++++
 
 I can\'t believe that I only now discovered [Stack Overflow]. It\'s an
 excellent programming Q&A site which also happens to possess the best

@@ -1,8 +1,8 @@
----
-date: '2013-12-12'
-tags: politics
-title: 'the one I revere most, after losing Madiba'
----
++++
+date = 2013-12-12
+tags = ['politics']
+title = "the one I revere most, after losing Madiba"
++++
 
 As far as I can remember, there was not a single living individual I
 respected more than I did Madiba. That would explain the fact of my

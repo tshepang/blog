@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: music
-title: '\''Toxic\'' by Britney Spears'
----
++++
+date = 2011-01-14
+tags = ['music']
+title = "'Toxic' by Britney Spears"
++++
 
 I had developed a negative attitude towards Britney Spear\'s music due
 bad quality (though to be fair, I haven\'t listened to much of her work,

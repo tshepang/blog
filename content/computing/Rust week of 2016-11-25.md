@@ -1,8 +1,8 @@
----
-date: '2016-12-01'
-tags: Rust
-title: 'Rust week of 2016-11-25'
----
++++
+date = 2016-12-01
+tags = ['Rust']
+title = "Rust week of 2016-11-25"
++++
 
 I been wanting to write a Rust reStructuredText parser for the longest
 time, and surprised to find that [one has been around for months]. I do

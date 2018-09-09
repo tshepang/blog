@@ -1,14 +1,14 @@
----
-date: '2016-06-30'
-tags: Rust
-title: 'Rust week of 2016-06-24'
----
++++
+date = 2016-06-30
+tags = ['Rust']
+title = "Rust week of 2016-06-24"
++++
 
 I struggled hard enough with a `does not live long enough` that I
 decided to ask for help, and the [solution to my problem] was actually
 quite simple.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I submitted [some][] [doc][] [fixes] to various projects, and reported
 [an issue] that promptly fixed on yet another. [I also ran rustfmt] on

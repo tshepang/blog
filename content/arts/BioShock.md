@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: gaming
-title: BioShock
----
++++
+date = 2011-01-14
+tags = ['gaming']
+title = "BioShock"
++++
 
 I enjoyed a [negative review of BioShock] partly because everything else
 I\'ve read so far was full of praise, and partly because, immersive as

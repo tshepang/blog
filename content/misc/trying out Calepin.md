@@ -1,14 +1,14 @@
----
-date: '2012-04-02'
-tags: blogging
-title: trying out Calepin
----
++++
+date = 2012-04-02
+tags = ['blogging']
+title = "trying out Calepin"
++++
 
 **update**: The lack of reliability, worst of which was constant
 unavailability of my blog, led me to move on. This time it\'s [Pelican],
 hosted by [GitHub Pages]. [Here\'s the setup].
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I\'ve been meaning to move my blog(s) away from Posterous, due to its UI
 problems and ridiculously-slow page loads. I finally did it with the

@@ -1,8 +1,8 @@
----
-date: '2011-03-19'
-tags: GNOME
-title: my JHBuild setup
----
++++
+date = 2011-03-19
+tags = ['GNOME']
+title = "my JHBuild setup"
++++
 
 JHBuild is a [powerful] and [flexible] build tool for GNOME. It does
 takes some getting used to in terms of set-up, but this [wiki page] is
@@ -70,7 +70,7 @@ one for each module. The file \"index.html\" will give a decent page
 that acts like a summary of the entire build process, showing which
 modules failed, and on what build stages. Gorgeous!
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **sidenotes**:
 

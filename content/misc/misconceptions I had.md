@@ -1,7 +1,7 @@
----
-date: '2012-12-26'
-title: misconceptions I had
----
++++
+date = 2012-12-26
+title = "misconceptions I had"
++++
 
 From [one of the most important articles on Wikipedia][]:
 

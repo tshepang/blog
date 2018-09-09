@@ -1,8 +1,8 @@
----
-date: '2008-02-01'
-tags: Tracker
-title: Tracker goodness
----
++++
+date = 2008-02-01
+tags = ['Tracker']
+title = "Tracker goodness"
++++
 
 [Tracker] hasn\'t been around as long as Beagle has but seems more
 advanced, possessing various utilities like the applet which can be used

@@ -1,7 +1,7 @@
----
-date: '2008-02-05'
-title: WTC twin towers and the BBC documentary
----
++++
+date = 2008-02-05
+title = "WTC twin towers and the BBC documentary"
++++
 
 I normally dislike documentaries which tend to be dumbed-down,
 over-emphasizing certain concepts, and worse still, treated with

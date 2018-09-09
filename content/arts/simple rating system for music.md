@@ -1,8 +1,8 @@
----
-date: '2011-01-14'
-tags: music
-title: simple rating system for music
----
++++
+date = 2011-01-14
+tags = ['music']
+title = "simple rating system for music"
++++
 
 I use a simplistic point system to rate top music tracks:
 

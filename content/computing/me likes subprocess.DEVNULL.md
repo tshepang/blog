@@ -1,8 +1,8 @@
----
-date: '2013-04-11'
-tags: 'Python, VCS'
-title: 'me likes subprocess.DEVNULL'
----
++++
+date = 2013-04-11
+tags = ['Python', 'VCS']
+title = "me likes subprocess.DEVNULL"
++++
 
 If you want to run an external process from within Python, and are not
 interested in any errors that process may emit, there are a few ways you

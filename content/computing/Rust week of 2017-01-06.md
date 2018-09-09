@@ -1,21 +1,21 @@
----
-date: '2017-01-13'
-tags: Rust
-title: 'Rust week of 2017-01-06'
----
++++
+date = 2017-01-13
+tags = ['Rust']
+title = "Rust week of 2017-01-06"
++++
 
 I asked [two][] [questions] on Stack Overflow. The first led me to use
 the nifty [lazy\_static] macro for the first time, The second led me to
 submit [a complaint] (which got fixed within 3 minutes by the way).
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I am looking forward to two projects:
 
 -   [Alacritty], a fast terminal emulator
 -   [Remacs], Emacs gradually implemented in Rust
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 As for contributions, I [made][] [just][] [three].
 

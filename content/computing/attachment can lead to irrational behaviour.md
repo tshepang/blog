@@ -1,8 +1,8 @@
----
-date: '2012-02-01'
-tags: 'Debian, non-Python'
-title: attachment can lead to irrational behaviour
----
++++
+date = 2012-02-01
+tags = ['Debian', 'non-Python']
+title = "attachment can lead to irrational behaviour"
++++
 
 In [my previous job], we used to use some Java framework, [Mule ESB],
 for our clients. The project is distributed with a lot of jar files,

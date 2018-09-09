@@ -1,8 +1,8 @@
----
-date: '2008-11-13'
-tags: hardware
-title: '1 more machine, 2 less'
----
++++
+date = 2008-11-13
+tags = ['hardware']
+title = "1 more machine, 2 less"
++++
 
 Since I\'ve departed from previous job, I\'ve lost access to [two
 machines], but more than made up for it by acquiring an Acer Travelmate

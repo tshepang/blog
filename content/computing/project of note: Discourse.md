@@ -1,8 +1,8 @@
----
-date: '2013-05-11'
-tags: 'non-Python, non-Debian, project-of-note'
-title: 'project of note: Discourse'
----
++++
+date = 2013-05-11
+tags = ['non-Python', 'non-Debian', 'project-of-note']
+title = "project of note: Discourse"
++++
 
 [The announcement] by project lead, Jeff Atwood, sold me. This is one
 rather incredible guy, a game changer of sorts, most notable for helping

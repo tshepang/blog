@@ -1,8 +1,8 @@
----
-date: '2008-11-26'
-tags: GNOME
-title: GNOME killer app
----
++++
+date = 2008-11-26
+tags = ['GNOME']
+title = "GNOME killer app"
++++
 
 GNOME system monitor applet it is.
 
@@ -15,7 +15,7 @@ curious what\'s up with my system). Given how useful it is, I now wonder
 why Debian doesn\'t add it on the panel by default, especially that many
 new users won\'t even be aware it exists in the first place.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Clicking on that applet launches a more comprehensive system monitor
 which has 4 tabs (notebooks in GTK+ speak):

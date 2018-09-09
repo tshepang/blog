@@ -1,8 +1,8 @@
----
-date: '2011-12-31'
-tags: 'project-of-note, Python'
-title: 'project of note: Requests'
----
++++
+date = 2011-12-31
+tags = ['project-of-note', 'Python']
+title = "project of note: Requests"
++++
 
 Requests is a Python module that makes it real easy to deal with HTTP.
 As an example, something as scary as fetching a web page that needs

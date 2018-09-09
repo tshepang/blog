@@ -1,8 +1,8 @@
----
-date: '2015-11-06'
-tags: Rust
-title: 'Rust week of 2015-10-30'
----
++++
+date = 2015-11-06
+tags = ['Rust']
+title = "Rust week of 2015-10-30"
++++
 
 Just [one submission] this time around. Yep! I did however spend time
 pondering the magical forward type inference that I first experienced

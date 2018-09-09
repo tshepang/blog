@@ -1,8 +1,8 @@
----
-date: '2011-01-22'
-tags: atheism
-title: getting rid of junk
----
++++
+date = 2011-01-22
+tags = ['atheism']
+title = "getting rid of junk"
++++
 
 PZ Myers of [Pharyngula] fame is the best atheist writer I\'ve read yet,
 and his blog challenges that of Luke Muehlhauser\'s [Common Sense

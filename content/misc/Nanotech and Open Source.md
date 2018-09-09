@@ -1,8 +1,8 @@
----
-date: '2007-05-18'
-tags: 'future-tech'
-title: Nanotech and Open Source
----
++++
+date = 2007-05-18
+tags = ['future-tech']
+title = "Nanotech and Open Source"
++++
 
 I was fascinated to find that Christine Peterson of Nanotech fame
 [coined] the term Open Source (more or less, a business-friendly name

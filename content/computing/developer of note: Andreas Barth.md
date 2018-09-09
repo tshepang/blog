@@ -1,8 +1,8 @@
----
-date: '2008-06-10'
-tags: 'Debian, developer-of-note'
-title: 'developer of note: Andreas Barth'
----
++++
+date = 2008-06-10
+tags = ['Debian', 'developer-of-note']
+title = "developer of note: Andreas Barth"
++++
 
 Andreas Barth is about as a great a Debian release manager as Steve
 Langasek, and though he recently stated [the wish to reduce time on

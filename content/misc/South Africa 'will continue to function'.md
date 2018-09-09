@@ -1,8 +1,8 @@
----
-date: '2014-05-10'
-tags: 'quote, politics'
-title: 'South Africa \''will continue to function\'''
----
++++
+date = 2014-05-10
+tags = ['quote', 'politics']
+title = "South Africa 'will continue to function'"
++++
 
 Encouraging:
 

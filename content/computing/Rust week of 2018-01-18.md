@@ -1,8 +1,8 @@
----
-date: '2018-01-25'
-tags: Rust
-title: 'Rust week of 2018-01-18'
----
++++
+date = 2018-01-25
+tags = ['Rust']
+title = "Rust week of 2018-01-18"
++++
 
 I did very little Rust on week of 2018-01-11, but [added
 \--ignore-uncommitted-repos to mrh].

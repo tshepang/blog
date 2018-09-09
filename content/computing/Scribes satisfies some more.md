@@ -1,8 +1,8 @@
----
-date: '2008-11-26'
-tags: Scribes
-title: Scribes satisfies some more
----
++++
+date = 2008-11-26
+tags = ['Scribes']
+title = "Scribes satisfies some more"
++++
 
 I\'m currently running development version of Scribes (from bzr repo)
 and it got fixes for two very annoying bugs:
@@ -17,7 +17,7 @@ and it got fixes for two very annoying bugs:
 
 All what this means is that Scribes remains installed on my machine(s).
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **sidenote**: Code-folding is still absent although I won\'t need to use
 it since [Geany] does a nice job already.

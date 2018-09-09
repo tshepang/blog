@@ -1,8 +1,8 @@
----
-date: '2011-03-15'
-tags: 'non-Python, Python'
-title: 'cat, Python, and Perl'
----
++++
+date = 2011-03-15
+tags = ['non-Python', 'Python']
+title = "cat, Python, and Perl"
++++
 
 I came across [a tutorial] that showes how to implement a simple cat in
 Perl. I\'ve modified their example for the sake of simplicity:

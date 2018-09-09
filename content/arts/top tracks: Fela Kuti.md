@@ -1,7 +1,7 @@
----
-tags: 'music, top-tracks'
-title: 'top tracks: Fela Kuti'
----
++++
+tags = ['music', 'top-tracks']
+title = "top tracks: Fela Kuti"
++++
 
 3 landmarks
 ===========

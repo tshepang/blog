@@ -1,8 +1,8 @@
----
-date: '2014-05-10'
-tags: 'Python, non-Python'
-title: a better Python
----
++++
+date = 2014-05-10
+tags = ['Python', 'non-Python']
+title = "a better Python"
++++
 
 [This post] led me to an interesting paper titled *An Empirical
 Investigation into Programming Language Syntax*. Now, since I\'m a
@@ -10,7 +10,7 @@ Python sucker, here is what I would change in Python in order to follow
 advice from [that paper][]:
 
     before       after
-    ------       -----
+    ++++++       +++--
      !=          not=
       %          mod
 
@@ -18,11 +18,11 @@ advice from [that paper][]:
 
 > try-except check-error
 >
-> :   
+> :
 >
 >     finally always
 >
->     :   
+>     :
 >
 >         raise alert
 >

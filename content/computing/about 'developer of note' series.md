@@ -1,7 +1,7 @@
----
-tags: 'developer-of-note'
-title: 'about \''developer of note\'' series'
----
++++
+tags = ['developer-of-note']
+title = "about 'developer of note' series"
++++
 
 I respect a lot of software developers, but many of those are not going
 to have an entry in [this series], and not because they are lesser in my

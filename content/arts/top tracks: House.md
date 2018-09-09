@@ -1,8 +1,8 @@
----
-date: '2014-03-04'
-tags: 'music, list'
-title: 'top tracks: House'
----
++++
+date = 2014-03-04
+tags = ['music', 'list']
+title = "top tracks: House"
++++
 
 *A list needing a lot of love*
 

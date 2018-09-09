@@ -1,8 +1,8 @@
----
-date: '2013-01-17'
-tags: 'non-Debian'
-title: nice review of Fedora 18
----
++++
+date = 2013-01-17
+tags = ['non-Debian']
+title = "nice review of Fedora 18"
++++
 
 I really enjoyed reading [this review] of the experience of installing
 Fedora 18 and first use. Other than being well-written, I like the fact

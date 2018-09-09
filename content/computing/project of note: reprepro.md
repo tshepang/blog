@@ -1,15 +1,15 @@
----
-date: '2012-05-11'
-tags: 'Debian, project-of-note'
-title: 'project of note: reprepro'
----
++++
+date = 2012-05-11
+tags = ['Debian', 'project-of-note']
+title = "project of note: reprepro"
++++
 
 I have given kudos to [reprepro][] [twice][] [before], and though those
 2 posts are actually outdated, I still keep a custom repository, a
 subset of the official repository of a specific arch, but only of
 packages that I ever install.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Every once in a while, I run this command:
 

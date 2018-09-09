@@ -1,14 +1,14 @@
----
-date: '2013-10-13'
-tags: 'developer-of-note, Python, quote'
-title: 'developer of note: Armin Rigo'
----
++++
+date = 2013-10-13
+tags = ['developer-of-note', 'Python', 'quote']
+title = "developer of note: Armin Rigo"
++++
 
 Co-founder and lead developer of arguably the most exciting project in
 the Python ecosystem, [PyPy]. He is also credited with doing the bulk of
 the work in building its [legendary RPython translation framework].
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 What inspired this post (originally published 2013-03-31) is the
 incredible honor given by the great Raymond Hettinger in [one of his

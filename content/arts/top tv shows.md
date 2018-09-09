@@ -1,7 +1,7 @@
----
-tags: tv
-title: top tv shows
----
++++
+tags = ['tv']
+title = "top tv shows"
++++
 
 I specify seasons only if the rest of series was not so excellent. The
 list is roughly in the chronological order of the first time I watched

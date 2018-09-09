@@ -1,8 +1,8 @@
----
-date: '2008-11-07'
-tags: Python
-title: my 1st Python tool
----
++++
+date = 2008-11-07
+tags = ['Python']
+title = "my 1st Python tool"
++++
 
 A senior of mine at my current job has asked me to write a tool to
 convert from [UFF format] to csv for easy spreadsheet processing,

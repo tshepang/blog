@@ -1,8 +1,8 @@
----
-date: '2015-08-26'
-tags: Rust
-title: 'Rust week of 2015-08-21'
----
++++
+date = 2015-08-26
+tags = ['Rust']
+title = "Rust week of 2015-08-21"
++++
 
 This time around, my contributions were just [three][] [doc][] [changes]
 and one [style fix].

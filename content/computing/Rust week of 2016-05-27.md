@@ -1,8 +1,8 @@
----
-date: '2016-06-02'
-tags: Rust
-title: 'Rust week of 2016-05-27'
----
++++
+date = 2016-06-02
+tags = ['Rust']
+title = "Rust week of 2016-05-27"
++++
 
 Being a fanboy, I found the discussion [Why aren\'t you using Rust at
 work?] rather depressing. It\'s also relevant to me since I am currently
@@ -10,17 +10,17 @@ writing some internal tool at work, and wonder how far it will go before
 re-writing in something *more acceptable*, like Python. To be fair,
 there was also [some great praise] of the ecosystem.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I read the intro of [rust-postgres] and even made [a small
 contribution]. I also made a [doc contribution] to stdlib.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I was surprised that [there is no Rust set type that preserves insertion
 order].
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Something I learned about running system commands, imagine you had a
 complex command like:

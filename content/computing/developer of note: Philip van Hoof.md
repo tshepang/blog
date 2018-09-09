@@ -1,8 +1,8 @@
----
-date: '2010-08-13'
-tags: 'developer-of-note, GNOME, Tracker'
-title: 'developer of note: Philip van Hoof'
----
++++
+date = 2010-08-13
+tags = ['developer-of-note', 'GNOME', 'Tracker']
+title = "developer of note: Philip van Hoof"
++++
 
 There hasn\'t been anyone who has [publicly talked about Tracker] as
 hard as Phillip van Hoof ever since the project was started a few years

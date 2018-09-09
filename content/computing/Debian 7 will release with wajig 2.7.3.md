@@ -1,8 +1,8 @@
----
-date: '2012-07-17'
-tags: 'wajig, Debian'
-title: 'Debian 7 will release with wajig 2.7.3'
----
++++
+date = 2012-07-17
+tags = ['wajig', 'Debian']
+title = "Debian 7 will release with wajig 2.7.3"
++++
 
 I once claimed that Debian 7 \"wheezy\" will release with version 2.7 of
 wajig, but soon after, I experienced an exception that occurs if you run

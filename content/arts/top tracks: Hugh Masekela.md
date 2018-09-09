@@ -1,8 +1,8 @@
----
-date: '2014-03-15'
-tags: 'music, top-tracks'
-title: 'top tracks: Hugh Masekela'
----
++++
+date = 2014-03-15
+tags = ['music', 'top-tracks']
+title = "top tracks: Hugh Masekela"
++++
 
 Although he made a lot of trash, Hugh Masekela remains one of the great
 South African artists. After all we judge artists based on their best
@@ -21,7 +21,7 @@ works right? We are nice folk.
 -   Bajabula Bonke (*Still Grazing* - 2004)
 -   Yei Baa Gbe Wolo (*Introducing Hedzoleh Soundz* - 1973)
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 There are separate posts where I celebrate his two albums, [Introducing
 Hedzoleh Soundz] and [Still Grazing].

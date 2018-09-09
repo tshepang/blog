@@ -1,8 +1,8 @@
----
-date: '2007-11-09'
-tags: 'developer-of-note, GNOME'
-title: 'developer of note: Alexander Larsson'
----
++++
+date = 2007-11-09
+tags = ['developer-of-note', 'GNOME']
+title = "developer of note: Alexander Larsson"
++++
 
 I could not keep away from admiring the tremendous amount of work she
 does, most recently [GVFS and GIO] (both of which have just been

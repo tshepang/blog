@@ -1,8 +1,8 @@
----
-date: '2012-12-21'
-tags: 'top-tracks, music, hip-hop'
-title: 'top tracks: The Roots'
----
++++
+date = 2012-12-21
+tags = ['top-tracks', 'music', 'hip-hop']
+title = "top tracks: The Roots"
++++
 
 1 masterpiece
 =============

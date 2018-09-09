@@ -1,8 +1,8 @@
----
-date: '2010-06-02'
-tags: blogging
-title: new blogging platform
----
++++
+date = 2010-06-02
+tags = ['blogging']
+title = "new blogging platform"
++++
 
 Blogger\'s post editor is so bad that I\'ve been promising myself to
 move elsewhere for quite a while. I checked on [Super User] what their

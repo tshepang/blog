@@ -1,8 +1,8 @@
----
-date: '2011-02-01'
-tags: 'Python, non-Python'
-title: splitting strings
----
++++
+date = 2011-02-01
+tags = ['Python', 'non-Python']
+title = "splitting strings"
++++
 
 If I have a string with spaces, and wanted to split it into a
 list/array, I would use this:

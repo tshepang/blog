@@ -1,8 +1,8 @@
----
-date: '2011-11-02'
-tags: 'music, top-tracks'
-title: 'top tracks: Salif Keita'
----
++++
+date = 2011-11-02
+tags = ['music', 'top-tracks']
+title = "top tracks: Salif Keita"
++++
 
 5 masterpieces
 ==============

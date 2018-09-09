@@ -1,8 +1,8 @@
----
-date: '2017-07-24'
-tags: Rust
-title: 'Rust week of 2017-07-20'
----
++++
+date = 2017-07-24
+tags = ['Rust']
+title = "Rust week of 2017-07-20"
++++
 
 I am surprised by the ease of changing default Rust toolchain:
 
@@ -17,7 +17,7 @@ non-default toolchain, though that approach is not too bad either:
     # build with nightly
     cargo +nightly build
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I made [two][] [complaints], [as][] [well][] [as][1] [five][]
 [contributions].

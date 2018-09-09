@@ -1,8 +1,8 @@
----
-date: '2017-04-13'
-tags: Rust
-title: 'Rust week of 2017-04-06'
----
++++
+date = 2017-04-13
+tags = ['Rust']
+title = "Rust week of 2017-04-06"
++++
 
 I enjoyed working with [probor], which is a protocol built on top of
 CBOR data format. I made [a submission] to fix the example in the

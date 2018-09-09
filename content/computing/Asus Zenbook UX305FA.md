@@ -1,8 +1,8 @@
----
-date: '2016-01-21'
-tags: hardware
-title: Asus Zenbook UX305FA
----
++++
+date = 2016-01-21
+tags = ['hardware']
+title = "Asus Zenbook UX305FA"
++++
 
 On 2015-12-14, I got me the UX305. It\'s the base level model in the
 range, with 4GB RAM, 128GB SSD, an FHD screen, and Intel Core M CPU

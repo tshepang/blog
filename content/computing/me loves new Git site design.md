@@ -1,8 +1,8 @@
----
-date: '2012-05-16'
-tags: VCS
-title: me loves new Git site design
----
++++
+date = 2012-05-16
+tags = ['VCS']
+title = "me loves new Git site design"
++++
 
 I really like the [new website design] of the Git project ([story]). It
 even gained a nice and fresh icon, replacing the old which looked like

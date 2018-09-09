@@ -1,8 +1,8 @@
----
-date: '2011-11-02'
-tags: 'music, top-tracks'
-title: 'top tracks: Bob Marley'
----
++++
+date = 2011-11-02
+tags = ['music', 'top-tracks']
+title = "top tracks: Bob Marley"
++++
 
 1 landmark
 ==========

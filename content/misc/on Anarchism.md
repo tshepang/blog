@@ -1,8 +1,8 @@
----
-date: '2010-09-14'
-tags: politics
-title: on Anarchism
----
++++
+date = 2010-09-14
+tags = ['politics']
+title = "on Anarchism"
++++
 
 There have been many great benefits I got from [the Debian project],
 among the most important being an introduction to Anarchism, a radical

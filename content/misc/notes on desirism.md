@@ -1,8 +1,8 @@
----
-date: '2013-04-21'
-tags: ethics
-title: notes on desirism
----
++++
+date = 2013-04-21
+tags = ['ethics']
+title = "notes on desirism"
++++
 
 Stuff I scribbled down after listening to the first Season of a
 now-defunct [series on applied ethics], all an attempt to make sense of

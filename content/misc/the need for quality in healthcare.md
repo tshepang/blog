@@ -1,18 +1,18 @@
----
-date: '2011-04-11'
-tags: quote
-title: the need for quality in healthcare
----
++++
+date = 2011-04-11
+tags = ['quote']
+title = "the need for quality in healthcare"
++++
 
 Some scary shit:
 
 > For every drowned and pulseless child rescued by intensive care, there
-> are many more who don\'t make it---and not just because their bodies
+> are many more who don\'t make it+++and not just because their bodies
 > are too far gone. Machines break down; a team can\'t get moving fast
 > enough; a simple step is forgotten. Such cases don\'t get written up
 > in The Annals of Thoracic Surgery, but they are the norm.
 > Intensive-care medicine has become the art of managing extreme
-> complexity---and a test of whether such complexity can, in fact, be
+> complexity+++and a test of whether such complexity can, in fact, be
 > humanly mastered.
 >
 > \-- [The Checklist]

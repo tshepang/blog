@@ -1,8 +1,8 @@
----
-date: '2011-02-17'
-tags: Python
-title: plotting with matplotlib
----
++++
+date = 2011-02-17
+tags = ['Python']
+title = "plotting with matplotlib"
++++
 
 Here\'s drawing a simple graph:
 

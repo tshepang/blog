@@ -1,7 +1,7 @@
----
-tags: 'VCS, non-FLOSS, list'
-title: major projects using Mercurial
----
++++
+tags = ['VCS', 'non-FLOSS', 'list']
+title = "major projects using Mercurial"
++++
 
 Mercurial is the only version control system that I actually like, and I
 do celebrate each time I see a project use it. So, here I list the most

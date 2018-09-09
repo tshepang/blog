@@ -1,8 +1,8 @@
----
-date: '2010-03-23'
-tags: atheism
-title: 'debate: Mike Licona vs Richard Carrier'
----
++++
+date = 2010-03-23
+tags = ['atheism']
+title = "debate: Mike Licona vs Richard Carrier"
++++
 
 I recently listened to a 2.5 hour-long [debate] between two scholars,
 [Richard Carrier] and [Mike Licona], which alerted me to the fact that
@@ -28,7 +28,7 @@ Based on these points, I vote for Richard as the winner, with the
 disclaimer that the latter part of the debate was getting too technical
 for me to follow thoroughly.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **sidenotes**:
 

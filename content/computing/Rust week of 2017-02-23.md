@@ -1,8 +1,8 @@
----
-date: '2017-03-02'
-tags: Rust
-title: 'Rust week of 2017-02-23'
----
++++
+date = 2017-03-02
+tags = ['Rust']
+title = "Rust week of 2017-02-23"
++++
 
 I was glad to have the Python equivalent of the [shlex] crate, which
 understands shell quoting, helping in transforming command arguments
@@ -45,7 +45,7 @@ Output should then be like:
 -   \--message
 -   git eat world
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 [Just one contribution] this week, and it\'s not even that great\... not
 sure it\'s an improvement

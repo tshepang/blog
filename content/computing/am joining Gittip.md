@@ -1,8 +1,8 @@
----
-date: '2013-04-13'
-tags: 'Python, Gittip'
-title: am joining Gittip
----
++++
+date = 2013-04-13
+tags = ['Python', 'Gittip']
+title = "am joining Gittip"
++++
 
 In [Why I\'m signing up for Gittip], a core CPython commiter, Brett
 Cannon, mentions a great reason to reward FLOSS contributors

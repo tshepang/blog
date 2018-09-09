@@ -1,7 +1,7 @@
----
-date: '2008-11-07'
-title: farewell at old job
----
++++
+date = 2008-11-07
+title = "farewell at old job"
++++
 
 I was yesterday honored with a farewell party at my company, at which I
 worked as integration technician (opto-electro-mechanical engineering

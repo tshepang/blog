@@ -1,7 +1,7 @@
----
-date: '2010-11-23'
-title: Obama administration not too shabby
----
++++
+date = 2010-11-23
+title = "Obama administration not too shabby"
++++
 
 Given that I have very little interest in American politics, I find
 [some of the Obama administration\'s achievements] impressive (with

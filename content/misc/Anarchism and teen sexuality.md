@@ -1,8 +1,8 @@
----
-date: '2007-06-01'
-tags: politics
-title: Anarchism and teen sexuality
----
++++
+date = 2007-06-01
+tags = ['politics']
+title = "Anarchism and teen sexuality"
++++
 
 There\'s a well-researched document named The Anarchist FAQ (AFAQ)
 included in Debian which I spent some time reading. This wasn\'t a

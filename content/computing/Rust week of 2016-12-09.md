@@ -1,8 +1,8 @@
----
-date: '2016-12-15'
-tags: Rust
-title: 'Rust week of 2016-12-09'
----
++++
+date = 2016-12-15
+tags = ['Rust']
+title = "Rust week of 2016-12-09"
++++
 
 I played some with serde-yaml and rust-yaml. I last looked at YAML some
 years ago, and looking again, I am surprised by its complexity.

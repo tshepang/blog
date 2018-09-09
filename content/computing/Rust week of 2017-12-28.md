@@ -1,8 +1,8 @@
----
-date: '2018-01-04'
-tags: Rust
-title: 'Rust week of 2017-12-28'
----
++++
+date = 2018-01-04
+tags = ['Rust']
+title = "Rust week of 2017-12-28"
++++
 
 Very little Rust last week, but this week I played some with [termion]
 for some user interface on a private project. I borrowed some of the
@@ -11,7 +11,7 @@ library for the first time. As was the case with that project, I found
 handling of keyboard input tedious and non-intuitive, and imagine there
 must be an easier way.
 
-------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 We had [another monthly meetup] (we\'ve had several of them so far),
 which was the usual random informal discussion of the exciting ecosystem

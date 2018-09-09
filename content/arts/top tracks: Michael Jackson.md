@@ -1,8 +1,8 @@
----
-date: '2015-07-26'
-tags: 'music, top-tracks'
-title: 'top tracks: Michael Jackson'
----
++++
+date = 2015-07-26
+tags = ['music', 'top-tracks']
+title = "top tracks: Michael Jackson"
++++
 
 10 excellent works
 ==================

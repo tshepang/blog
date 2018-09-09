@@ -1,8 +1,8 @@
----
-date: '2014-08-04'
-tags: Rust
-title: trying to understand stack memory
----
++++
+date = 2014-08-04
+tags = ['Rust']
+title = "trying to understand stack memory"
++++
 
 Python is a language that is so high level that concepts like stack and
 heap memory are hidden from its users. Not so with lower-level languages

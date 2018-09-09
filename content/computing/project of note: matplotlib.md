@@ -1,8 +1,8 @@
----
-date: '2011-02-17'
-tags: 'project-of-note, Python'
-title: 'project of note: matplotlib'
----
++++
+date = 2011-02-17
+tags = ['project-of-note', 'Python']
+title = "project of note: matplotlib"
++++
 
 I believe [matplotlib] is THE plotting library for Python. It happens to
 be highly advanced too, and has [extensive documentation] to show up for

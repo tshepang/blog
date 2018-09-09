@@ -1,8 +1,8 @@
----
-date: '2013-09-30'
-tags: blogging
-title: favorite Pelican themes
----
++++
+date = 2013-09-30
+tags = ['blogging']
+title = "favorite Pelican themes"
++++
 
 I don\'t like the default [Pelican] theme, `notmyidea`:
 

@@ -1,8 +1,8 @@
----
-date: '2015-02-01'
-tags: travel
-title: a visit to Lesotho
----
++++
+date = 2015-02-01
+tags = ['travel']
+title = "a visit to Lesotho"
++++
 
 Maseru is a lot better than I thought:
 

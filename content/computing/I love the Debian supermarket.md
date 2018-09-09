@@ -1,8 +1,8 @@
----
-date: '2010-05-05'
-tags: Debian
-title: I love the Debian supermarket
----
++++
+date = 2010-05-05
+tags = ['Debian']
+title = "I love the Debian supermarket"
++++
 
 I love the fact that whenever someone mentions a piece of software, I
 can quickly do a `aptitude search piece-of-software` knowing that

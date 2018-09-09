@@ -1,8 +1,8 @@
----
-date: '2010-08-30'
-tags: 'atheism, humor'
-title: Argument from Beauty
----
++++
+date = 2010-08-30
+tags = ['atheism', 'humor']
+title = "Argument from Beauty"
++++
 
 So there\'s a bunch of [arguments for the existence of God], and
 learning about them is actually fun for me. I find the [Argument from

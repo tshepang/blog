@@ -1,13 +1,13 @@
----
-date: '2010-04-13'
-tags: travel
-title: a visit to Botswana
----
++++
+date = 2010-04-13
+tags = ['travel']
+title = "a visit to Botswana"
++++
 
 This past weekend, I finally went to this neighbouring country of ours,
 Botswana. This was the first time I ever left South Africa. I was
 welcomed by wonderful people, and the visit was limited to its largest
-city --- Gaborone --- which is beautiful, sparse, and vast, when
+city +++ Gaborone +++ which is beautiful, sparse, and vast, when
 compared to my country\'s own cities.
 
 One of its residents got shocked when I argued that South Africa
