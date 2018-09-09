@@ -2,7 +2,7 @@
 
 OUTPUTDIR='.output'
 gutenberg build
-cp public/* $OUTPUTDIR
+cp --recursive public/* $OUTPUTDIR
 cd $OUTPUTDIR
 git add --all
 git commit --message "build"

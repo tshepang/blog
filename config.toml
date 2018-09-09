@@ -1,0 +1,11 @@
+title = "Tshepang logs"
+base_url = "http://tshepang.net"
+compile_sass = true
+highlight_code = true
+theme = "hyde"
+
+[extra]
+hyde_links = [
+  { name = 'twitter', url = 'https://twitter.com/tshepang_dev' },
+  { name = 'github', url = 'https://github.com/tshepang' },
+]
