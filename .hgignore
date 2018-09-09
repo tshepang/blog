@@ -1,7 +1,2 @@
-cache/ArticlesGenerator-Readers
-cache/PagesGenerator-Readers
-
-syntax: glob
-*~
-*.pyc
 .output
+themes
