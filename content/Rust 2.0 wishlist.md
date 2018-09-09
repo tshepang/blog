@@ -11,12 +11,13 @@ date = 2017-12-09
 -   Assigning values to struct bindings should use the equal sign, not
     the colon:
 
-    ::: {.sourcecode}
-    rust
+    ```rust
 
-    // now Shoe { size: 10, style: \"sneaker\") }, // dream Shoe { size
-    = 10, style = \"sneaker\" };
-    :::
+    // now
+    Shoe { size: 10, style: "sneaker") };
+    // dream
+    Shoe { size = 10, style = "sneaker" };
+    ```
 
     This would be consistent with the rest of the language.
 
