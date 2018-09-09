@@ -1,6 +1,7 @@
 +++
 tags = ['VCS', 'non-FLOSS', 'list']
 title = "major projects using Mercurial"
+date = 2017-08-30
 +++
 
 Mercurial is the only version control system that I actually like, and I

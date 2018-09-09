@@ -1,6 +1,7 @@
 +++
 tags = ['list']
 title = "FLOSS I use a-lot"
+date = 2017-05-27
 +++
 
 Following are tools I use a lot, but am not necessarily loving. There is

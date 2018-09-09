@@ -1,6 +1,7 @@
 +++
 tags = ['blogging']
 title = "ideal static blog generator"
+date = 2015-01-11
 +++
 
 Anything not listed below is either stuff I take for granted or simply

@@ -1,6 +1,7 @@
 +++
 tags = ['Rust', 'non-Rust']
 title = "I am a very jealous person"
+date = 2018-02-02
 +++
 
 Following is some of the cases where competing software won this or that

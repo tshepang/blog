@@ -1,6 +1,7 @@
 +++
 tags = ['hip-hop', 'music', 'list']
 title = "top tracks: hip-hop"
+date = 2015-08-28
 +++
 
 Not included below are tracks from the best hip-hop albums yet made,

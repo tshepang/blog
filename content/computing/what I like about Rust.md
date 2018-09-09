@@ -1,6 +1,7 @@
 +++
 tags = ['Rust']
 title = "what I like about Rust"
+date = 2015-12-31
 +++
 
 -   Ambitious: the aim of being memory safe without the use of a garbage
