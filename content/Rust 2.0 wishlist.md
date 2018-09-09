@@ -12,7 +12,6 @@ date = 2017-12-09
     the colon:
 
     ```rust
-
     // now
     Shoe { size: 10, style: "sneaker") };
     // dream
