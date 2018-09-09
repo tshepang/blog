@@ -13,7 +13,7 @@ date = 2017-12-09
 
     ```rust
     // now
-    Shoe { size: 10, style: "sneaker") };
+    Shoe { size: 10, style: "sneaker" };
     // dream
     Shoe { size = 10, style = "sneaker" };
     ```
