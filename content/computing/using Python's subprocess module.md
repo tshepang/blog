@@ -55,7 +55,7 @@ that I had to use the `end` argument on the [print function], was to
 avoid an empty line on the terminal output.
 
 As can be seen, this means we do much of the work ourself, but the
-benefit is that we now have finer-grained control (e.g. we get to
+benefit is that we now have finer-grained control (e.g. we get to
 control when to display the output). Another benefit is that it is more
 secure to do it this way (I don\'t know the details, so see [shell
 injection] for the argument).
