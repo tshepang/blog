@@ -11,7 +11,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **web browser**: Firefox
 
-**development**: [Rust], Emacs, Meld, [Mercurial]
+**development**: [Rust], Emacs, Meld
 
 **file manager**: Bash, Emacs (Dired mode)
 
@@ -23,7 +23,6 @@ Roller, youtube-dl
   [FLOSS]: http://en.wikipedia.org/wiki/Free_and_open-source_software
   [dwm]: http://dwm.suckless.org
   [Rust]: http://rust-lang.org
-  [Mercurial]: http://mercurial.selenic.com
   [ripgrep]: http://blog.burntsushi.net/ripgrep
   [Sudo]: http://tshepang.net/project-of-note-sudo
   [LinkChecker]: http://tshepang.net/project-of-note-linkchecker
