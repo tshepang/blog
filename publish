@@ -2,6 +2,7 @@
 
 OUTPUTDIR='.output'
 gutenberg build
+rm --recursive $OUTPUTDIR/*
 cp --recursive public/* $OUTPUTDIR
 cd $OUTPUTDIR
 git add --all
