@@ -1,7 +1,7 @@
 +++
 tags = ['list']
 title = "favorite FLOSS"
-date = 2017-05-24
+date = 2018-09-11
 +++
 
 For a piece of [FLOSS] (free/libre and open source software) to be here,
