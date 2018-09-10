@@ -13,7 +13,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **development**: [Rust], Emacs, Meld
 
-**file manager**: Bash, Emacs (Dired mode)
+**file manager**: Emacs (Dired mode)
 
 **misc utilities:** [ripgrep], [Sudo], Lsof, less, procps (top, watch),
 Ex Falso, autojump, gnumeric, coreutils (cat, head, tail),
