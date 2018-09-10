@@ -16,7 +16,7 @@ it has to both be personally useful and I have to like it a lot:
 **file manager**: Emacs (Dired mode)
 
 **misc utilities:** [ripgrep], [Sudo], Lsof, less, procps (top, watch),
-Ex Falso, autojump, gnumeric, coreutils (cat, head, tail),
+Ex Falso, gnumeric, coreutils (head, tail),
 [LinkChecker], [Iotop], [rdiff-backup], OpenSSH, [vnstat], [tmux], File
 Roller, youtube-dl
 
