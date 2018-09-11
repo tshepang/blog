@@ -17,7 +17,7 @@ Following are tools I use a lot, but am not necessarily loving. There is
 software development
 
 -   **Emacs**: I also use it as a general purpose text editor
--   **Git**: as if I had a choice\... work and open source
+-   **Git**: as if I had a choice... work and open source
 -   **Mercurial**: my favorite
 -   **Rust**: this has since replaced Python as my favorite language,
     and I spend far more time with it than any other
@@ -49,7 +49,7 @@ miscellaneous tools
 -   [less][]: indispensable!
 -   **OpenSSH**: duh!
 -   [autojump][]: makes navigating the filesystem a joy
--   [Fabric][]: I use it to build and deploy my blogs\... it\'s some
+-   [Fabric][]: I use it to build and deploy my blogs... it's some
     sort of replacement for shell scripting
 -   [youtube-dl][]: I prefer watching videos locally, with VLC
 
