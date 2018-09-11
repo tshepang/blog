@@ -4,10 +4,10 @@ title = "FLOSS I use a-lot"
 date = 2017-05-27
 +++
 
-Following are tools I use a lot, but am not necessarily loving (There is
-[a separate post] for those).
+Following are tools I use a lot, but am not necessarily loving...
+There is [a separate post] for those.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 **Debian**: my primary OS, and also my favorite
 
