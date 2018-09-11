@@ -36,7 +36,6 @@ GUI applications
 
 -   **Xfce Terminal**
 -   **Firefox**
--   [Liferea][]: I like it, ugly and unkool as it is
 -   [Transmission][]: the only torrent client I have ever used
 -   **Nautilus**: decent GUI file manager
 
@@ -47,18 +46,15 @@ miscellaneous tools
 -   **head** and **tail**: included in GNU coreutils suite of tools
 -   [less][]: indispensable!
 -   **OpenSSH**: duh!
--   [autojump][]: makes navigating the filesystem a joy
 -   [Fabric][]: I use it to build and deploy my blogs... it's some
     sort of replacement for shell scripting
 -   [youtube-dl][]: I prefer watching videos locally, with VLC
 
   [a separate post]: http://tshepang.net/favorite-floss
   [I used to maintain it]: http://tshepang.net/tags#wajig-ref
-  [Liferea]: http://lzone.de/liferea
   [Transmission]: http://www.transmissionbt.com
   [dwm]: http://tshepang.net/my-current-desktop-setup
   [tmux]: http://tmux.sourceforge.net
   [less]: http://www.greenwoodsoftware.com/less
-  [autojump]: https://github.com/joelthelion/autojump
   [Fabric]: http://fabfile.org
   [youtube-dl]: http://rg3.github.io/youtube-dl
