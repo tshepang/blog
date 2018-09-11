@@ -4,23 +4,22 @@ title = "FLOSS I use a-lot"
 date = 2017-05-27
 +++
 
-Following are tools I use a lot, but am not necessarily loving. There is
-[a separate post] for those.
+Following are tools I use a lot, but am not necessarily loving (There is
+[a separate post] for those).
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **Debian**: my primary OS, and also my favorite
 
--   **wajig**: [I also develop and maintain it]
+-   **wajig**: [I used to maintain it]
 -   **APT**: a collection of Debian package management tools
 
 software development
 
 -   **Emacs**: I also use it as a general purpose text editor
 -   **Git**: as if I had a choice... work and open source
--   **Mercurial**: my favorite
--   **Rust**: this has since replaced Python as my favorite language,
-    and I spend far more time with it than any other
+-   **Mercurial**: slight preference of Git
+-   **Rust**: primary language, and a great favorite
 
 work
 
@@ -43,7 +42,7 @@ GUI applications
 
 miscellaneous tools
 
--   [dwm]
+-   [dwm]: simple and clean window management
 -   [tmux][]: amazingly powerful, but I wish it had less rendering bugs
 -   **head** and **tail**: included in GNU coreutils suite of tools
 -   [less][]: indispensable!
@@ -54,7 +53,7 @@ miscellaneous tools
 -   [youtube-dl][]: I prefer watching videos locally, with VLC
 
   [a separate post]: http://tshepang.net/favorite-floss
-  [I also develop and maintain it]: http://tshepang.net/tags#wajig-ref
+  [I used to maintain it]: http://tshepang.net/tags#wajig-ref
   [Liferea]: http://lzone.de/liferea
   [Transmission]: http://www.transmissionbt.com
   [dwm]: http://tshepang.net/my-current-desktop-setup
