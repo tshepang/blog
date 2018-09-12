@@ -4,6 +4,7 @@ title = "Requiem For A Dream (2000)"
 
 [taxonomies]
 tags = ['masterpiece']
+categories = ['movies']
 +++
 
 It\'s only truly masterful/great movies which offer great experiences on

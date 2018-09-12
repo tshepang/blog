@@ -4,6 +4,7 @@ title = "John Carter (2012)"
 
 [taxonomies]
 tags = ['substandard', '2013-movie']
+categories = ['movies']
 +++
 
 Bizarre story (powerful beings screw around with affairs of entire

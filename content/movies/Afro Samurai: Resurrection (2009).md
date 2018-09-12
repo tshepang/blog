@@ -4,6 +4,7 @@ title = "Afro Samurai: Resurrection (2009)"
 
 [taxonomies]
 tags = ['good', '2010-movie']
+categories = ['movies']
 +++
 
 The character design (from the title character to the colorful trio of

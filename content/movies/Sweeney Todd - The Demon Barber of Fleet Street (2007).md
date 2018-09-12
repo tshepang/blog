@@ -4,6 +4,7 @@ title = "Sweeney Todd - The Demon Barber of Fleet Street (2007)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Great set design, camerawork, and costume design; a very dark story with

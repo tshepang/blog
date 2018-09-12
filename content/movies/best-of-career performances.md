@@ -4,6 +4,7 @@ date = 2015-04-01
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 -   Brat Pitt ([Fight Club]); honorable mention ([The Counselor])

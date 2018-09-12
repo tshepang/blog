@@ -4,6 +4,7 @@ title = "The Martian"
 
 [taxonomies]
 tags = ['2015', 'decent']
+categories = ['movies']
 +++
 
 It\'s a rare experience for me to watch a movie after reading the novel

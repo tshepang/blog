@@ -4,6 +4,7 @@ title = "A Prophet (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Some serious storytelling here and is unlike anything I\'ve seen before,

@@ -4,6 +4,7 @@ title = "Green Lantern (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 I didn\'t expect much from this one because I watched the trailer, which

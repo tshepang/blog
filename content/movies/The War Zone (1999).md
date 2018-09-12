@@ -4,6 +4,7 @@ title = "The War Zone (1999)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 The female leads, the mother (Tilda Swinton) and the daughter, are given

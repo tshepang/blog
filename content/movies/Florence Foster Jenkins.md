@@ -4,6 +4,7 @@ title = "Florence Foster Jenkins"
 
 [taxonomies]
 tags = ['good', '2016']
+categories = ['movies']
 +++
 
 If you can get past the boring setting will find an unusual and

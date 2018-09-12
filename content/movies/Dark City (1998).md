@@ -4,6 +4,7 @@ title = "Dark City (1998)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 Innovative story concept, excellent elements (direction, cinematography,

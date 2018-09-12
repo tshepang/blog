@@ -4,6 +4,7 @@ title = "The Sunset Limited (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'substandard']
+categories = ['movies']
 +++
 
 This I watched merely for the sake of curiosity: the entire movie takes

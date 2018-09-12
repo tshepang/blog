@@ -4,6 +4,7 @@ title = "The Passion of the Christ (2004)"
 
 [taxonomies]
 tags = ['substandard']
+categories = ['movies']
 +++
 
 Not much of a story, and all could have fit inside an hour, but the

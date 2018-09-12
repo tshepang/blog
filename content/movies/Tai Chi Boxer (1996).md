@@ -4,6 +4,7 @@ title = "Tai Chi Boxer (1996)"
 
 [taxonomies]
 tags = ['substandard']
+categories = ['movies']
 +++
 
 Another case where white people are portrayed as both retarded and

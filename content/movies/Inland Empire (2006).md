@@ -4,6 +4,7 @@ title = "Inland Empire (2006)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Excessively bizarre, and disturbing at times I couldn\'t figure what the

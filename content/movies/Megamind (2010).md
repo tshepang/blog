@@ -4,6 +4,7 @@ title = "Megamind (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 These 5 movies offered some of the best first-time viewing experiences I

@@ -4,6 +4,7 @@ title = "Snow White and the Huntsman (2012)"
 
 [taxonomies]
 tags = ['substandard', '2012-movie']
+categories = ['movies']
 +++
 
 I went into this one with high anticipation, only to be met with lots of

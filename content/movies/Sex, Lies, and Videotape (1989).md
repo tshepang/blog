@@ -4,6 +4,7 @@ title = "Sex, Lies, and Videotape (1989)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 I have just one piece of memory of this movie, and it\'s of James Spader

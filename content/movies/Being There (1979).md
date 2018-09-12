@@ -4,6 +4,7 @@ title = "Being There (1979)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 1st review:

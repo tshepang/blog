@@ -4,6 +4,7 @@ title = "Mandela: Long Walk to Freedom (2013)"
 
 [taxonomies]
 tags = ['average', '2013-movie']
+categories = ['movies']
 +++
 
 Good cinematography, production design, sound, and performance of the

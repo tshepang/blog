@@ -4,6 +4,7 @@ title = "Final Destination (2000)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 The initial scene, leading up to the point where wonderboy saves a few

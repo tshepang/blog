@@ -4,6 +4,7 @@ title = "2007 review"
 
 [taxonomies]
 tags = ['year-review', '2007']
+categories = ['movies']
 +++
 
 The **best dialog** is in [The Man from Earth].

@@ -4,6 +4,7 @@ title = "Zombies of Mass Destruction (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 **pros**

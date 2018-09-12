@@ -1,6 +1,9 @@
 +++
 date = 2008-02-01
 title = "recent movies 2008-02-01"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I don\'t remember seeing vampires as well-realised as in *30 Days of

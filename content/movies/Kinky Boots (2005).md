@@ -4,6 +4,7 @@ title = "Kinky Boots (2005)"
 
 [taxonomies]
 tags = ['2013-movie', 'decent']
+categories = ['movies']
 +++
 
 I watched this only due to the presence of [Chiwetel Ejiofor], who

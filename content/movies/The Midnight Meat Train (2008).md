@@ -4,6 +4,7 @@ title = "The Midnight Meat Train (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 After watching what felt like a waste of time, I was surprised to find

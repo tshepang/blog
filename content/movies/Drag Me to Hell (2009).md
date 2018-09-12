@@ -4,6 +4,7 @@ title = "Drag Me to Hell (2009)"
 
 [taxonomies]
 tags = ['good', '2013-movie']
+categories = ['movies']
 +++
 
 If we ignore certain arbitrary and stupid happenings, this movie is

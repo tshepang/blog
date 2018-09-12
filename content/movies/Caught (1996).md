@@ -4,6 +4,7 @@ title = "Caught (1996)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 I fell in love with this one years ago when I watched it first time, and

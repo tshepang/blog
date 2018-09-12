@@ -1,6 +1,9 @@
 +++
 date = 2010-07-26
 title = "revisiting 'Ghost Dog'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 It\'s rare that one would enjoy a movie as well as first time. That\'s

@@ -4,6 +4,7 @@ title = "Total Recall (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 The movie is so different from the first same-titled one from 1990 such

@@ -4,6 +4,7 @@ title = "Kung Fu Hustle (2004)"
 
 [taxonomies]
 tags = ['good', '2005-movie']
+categories = ['movies']
 +++
 
 One of the most entertaining I have seen yet, I couldn\'t get enough of

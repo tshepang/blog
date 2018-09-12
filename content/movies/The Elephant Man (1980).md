@@ -4,6 +4,7 @@ title = "The Elephant Man (1980)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 The filmmakers made sure that the disfigured man looked really

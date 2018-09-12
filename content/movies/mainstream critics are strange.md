@@ -1,6 +1,9 @@
 +++
 date = 2014-03-21
 title = "mainstream critics are strange"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Following is my experiences of movies on the [Sight & Sound list] of the

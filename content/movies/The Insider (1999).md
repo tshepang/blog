@@ -4,6 +4,7 @@ title = "The Insider (1999)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 It\'s one important movie, not only because of its excellence, but

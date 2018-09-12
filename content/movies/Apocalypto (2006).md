@@ -4,6 +4,7 @@ title = "Apocalypto (2006)"
 
 [taxonomies]
 tags = ['2007-movie', 'excellent']
+categories = ['movies']
 +++
 
 There\'s a bunch of movies that showcase primitive cultures, the kind

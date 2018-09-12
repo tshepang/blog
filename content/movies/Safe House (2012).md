@@ -4,6 +4,7 @@ title = "Safe House (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 It was interesting to see a movie so big with action so intense set in

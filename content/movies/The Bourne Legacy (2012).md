@@ -4,6 +4,7 @@ title = "The Bourne Legacy (2012)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 The two facts, that the lead character is not Jason Bourne and that the

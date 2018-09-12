@@ -4,6 +4,7 @@ title = "Godzilla (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'average']
+categories = ['movies']
 +++
 
 I found this so unpleasant that it made me miss the 1998 movie. None of

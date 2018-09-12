@@ -1,6 +1,9 @@
 +++
 date = 2008-06-12
 title = "recent movies 2008-06-12"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 John Leguizamo is among the most intense of actors (see *Summer of Sam*)

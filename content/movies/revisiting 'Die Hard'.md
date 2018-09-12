@@ -1,6 +1,9 @@
 +++
 date = 2007-06-12
 title = "revisiting 'Die Hard'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I was surprised that *Die Hard*, which I used to claim as a masterpiece,

@@ -4,6 +4,7 @@ title = "Monsters (2010)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Although directing/editing style is not new, it still feels fresh. The

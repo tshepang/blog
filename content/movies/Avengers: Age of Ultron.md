@@ -4,6 +4,7 @@ date = 2016-05-07
 
 [taxonomies]
 tags = ['2015', 'good']
+categories = ['movies']
 +++
 
 I was not so impressed when I saw this one first time:

@@ -4,6 +4,7 @@ title = "Black Death (2010)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 A very grim portrayal of a witch hunt motivated by an epidemic in some

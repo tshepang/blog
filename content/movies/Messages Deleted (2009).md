@@ -4,6 +4,7 @@ title = "Messages Deleted (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I enjoyed all the performances, and this was helped by me being a fan of

@@ -4,6 +4,7 @@ title = "The Ministers (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 An especially shocking first scene got me excited, and whatever happened

@@ -1,6 +1,9 @@
 +++
 date = 2010-09-15
 title = "recent movies 2010-09-15"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 *Death At the Funeral* got excellent set-design (check the furniture)

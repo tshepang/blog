@@ -1,6 +1,9 @@
 +++
 date = 2008-10-04
 title = "good 'Dark Knight' review"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I just read [a real good Dark Knight review], which does a good job of

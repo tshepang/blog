@@ -4,6 +4,7 @@ title = "2010 movie review"
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 The **best movie** I have seen this year is [Precious], and runner-up is

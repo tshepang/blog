@@ -4,6 +4,7 @@ title = "The Next Three Days (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Superb direction ensures that we are kept on edge of seat for much of

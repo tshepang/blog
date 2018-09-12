@@ -4,6 +4,7 @@ date = 2014-12-22
 
 [taxonomies]
 tags = ['untagged']
+categories = ['movies']
 +++
 
 Here is what I mean by the rating tags:

@@ -4,6 +4,7 @@ title = "Clash of the Titans (2010)"
 
 [taxonomies]
 tags = ['2010-movie', 'decent']
+categories = ['movies']
 +++
 
 I like a few of the characters:

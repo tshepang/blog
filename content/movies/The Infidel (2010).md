@@ -4,6 +4,7 @@ title = "The Infidel (2010)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 A very different comedy with a very unlikely lead; I loved the

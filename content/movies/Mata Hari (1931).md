@@ -4,6 +4,7 @@ title = "Mata Hari (1931)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 This looks good for a movie so old. I expected some creaky stuff, due to

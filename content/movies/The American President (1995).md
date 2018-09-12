@@ -4,6 +4,7 @@ title = "The American President (1995)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 It feels dated and Annette Benning is so damn pretty. It was hard not to

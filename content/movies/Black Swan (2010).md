@@ -4,6 +4,7 @@ title = "Black Swan (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Excessively depressing and disturbing (all the blood and physical harm;

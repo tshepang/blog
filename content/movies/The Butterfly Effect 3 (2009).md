@@ -4,6 +4,7 @@ title = "The Butterfly Effect 3 (2009)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 Far better than its [immediate predecessor], and a worthy successor to

@@ -4,6 +4,7 @@ title = "Limitless (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Possessing a great story concept, this movie centers around an

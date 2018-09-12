@@ -1,6 +1,9 @@
 +++
 date = 2009-07-01
 title = "recent ex-anticipated movies"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Farewell My Concubine was the most memorable of those Chen Kaige/Zhang

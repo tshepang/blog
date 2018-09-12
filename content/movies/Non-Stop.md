@@ -4,6 +4,7 @@ title = "Non-Stop"
 
 [taxonomies]
 tags = ['2014', 'good']
+categories = ['movies']
 +++
 
 Liam Neeson gets to be tough guy nearly as impressive as his character

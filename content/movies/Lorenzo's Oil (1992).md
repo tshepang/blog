@@ -4,6 +4,7 @@ title = "Lorenzo's Oil (1992)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 Offers some insight in medical science processes, but there is at least

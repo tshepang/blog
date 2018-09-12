@@ -1,6 +1,9 @@
 +++
 date = 2009-09-30
 title = "recent movies 2009-09-30"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Jia Zhangke\'s *Still Life* is surprisingly-good, partly because it\'s

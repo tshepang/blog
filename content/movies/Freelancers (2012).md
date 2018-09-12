@@ -4,6 +4,7 @@ title = "Freelancers (2012)"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 My brother trashed this one, so I watched anticipating the badness, but

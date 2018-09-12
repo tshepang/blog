@@ -4,6 +4,7 @@ date = 2018-09-12
 
 [taxonomies]
 tags = ['page']
+categories = ['movies']
 +++
 
 -   [top movies]

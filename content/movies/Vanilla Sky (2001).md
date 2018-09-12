@@ -4,6 +4,7 @@ title = "Vanilla Sky (2001)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 How do I review this? It\'s a little weird and it makes me wonder why it

@@ -4,6 +4,7 @@ title = "Funny Games (1997)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 The lady playing wife gives an amazing performance, most visible in the

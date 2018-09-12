@@ -4,6 +4,7 @@ title = "The Idiots (1998)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Full of powerful moments and superb acting; a very original story and

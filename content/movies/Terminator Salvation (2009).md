@@ -4,6 +4,7 @@ title = "Terminator Salvation (2009)"
 
 [taxonomies]
 tags = ['2009-movie', 'average']
+categories = ['movies']
 +++
 
 I liked the concept of the robo-bikes and\... nothing else. The movie is

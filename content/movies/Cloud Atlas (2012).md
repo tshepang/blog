@@ -4,6 +4,7 @@ title = "Cloud Atlas (2012)"
 
 [taxonomies]
 tags = ['2013-movie', 'average']
+categories = ['movies']
 +++
 
 Bizarre treat, far more enjoyable in its first half. Lots of

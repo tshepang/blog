@@ -4,6 +4,7 @@ title = "Source Code (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Though engaging, it\'s not very exciting, but the leading guy, Jake

@@ -4,6 +4,7 @@ title = "Prisoners (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Hugh Jackman gives his best performance I\'ve seen, and none of the

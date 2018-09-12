@@ -4,6 +4,7 @@ title = "Tango & Cash (1989)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 A faity-tale of a story with plenty of holes, but is a whole lot of fun.

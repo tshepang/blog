@@ -4,6 +4,7 @@ title = "Atonement (2007)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Superb performances by all 3 people playing the writer girl, my favorite

@@ -4,6 +4,7 @@ title = "J. Edgar (2011)"
 
 [taxonomies]
 tags = ['average', '2012-movie']
+categories = ['movies']
 +++
 
 The production design is top-class (impeccable set design and props),

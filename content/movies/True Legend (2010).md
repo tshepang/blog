@@ -4,6 +4,7 @@ title = "True Legend (2010)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 Real nice opening credits visuals, some interesting martial arts, and a

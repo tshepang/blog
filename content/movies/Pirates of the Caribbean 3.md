@@ -1,6 +1,9 @@
 +++
 date = 2007-05-23
 title = "Pirates of the Caribbean 3"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 A friend asked me of my experience of this spectacle and I could only

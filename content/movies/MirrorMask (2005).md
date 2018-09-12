@@ -4,6 +4,7 @@ title = "MirrorMask (2005)"
 
 [taxonomies]
 tags = ['2013-movie', 'decent']
+categories = ['movies']
 +++
 
 A very effective alternative to sleeping pills, but filled with curious

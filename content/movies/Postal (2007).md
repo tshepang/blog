@@ -4,6 +4,7 @@ title = "Postal (2007)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 This one is special for being the first movie I saw poking fun at the

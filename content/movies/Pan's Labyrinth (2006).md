@@ -4,6 +4,7 @@ title = "Pan's Labyrinth (2006)"
 
 [taxonomies]
 tags = ['decent', '2007-movie']
+categories = ['movies']
 +++
 
 Not very interesting, except for the scene with the child killer, which

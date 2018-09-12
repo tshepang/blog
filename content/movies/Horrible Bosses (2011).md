@@ -4,6 +4,7 @@ title = "Horrible Bosses (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 There is no shortage of hilarious moments, though none is as great as

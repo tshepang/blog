@@ -4,6 +4,7 @@ title = "Austin Powers in Goldmember (2002)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 The least interesting of the three movies in the series, complete with a

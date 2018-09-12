@@ -4,6 +4,7 @@ title = "Crash (2004)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 I saw this first time some years ago, and it remains a quality movie.

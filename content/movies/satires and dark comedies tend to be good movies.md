@@ -4,6 +4,7 @@ title = "satires and dark comedies tend to be good movies"
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 Many satires tend to be (dark) comedies, and that\'s why I made one list

@@ -4,6 +4,7 @@ title = "The King (2005)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 There is no shortage of good performances (I enjoyed watching the sweet

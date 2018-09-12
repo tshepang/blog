@@ -4,6 +4,7 @@ title = "Felon (2008)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 It\'s a strange one because it feels so pointless by the end of it,

@@ -4,6 +4,7 @@ title = "Goodbye Uncle Tom (1971)"
 
 [taxonomies]
 tags = ['good', '2013-movie']
+categories = ['movies']
 +++
 
 The most brutal slavery movie I\'ve seen yet, though peppered with humor

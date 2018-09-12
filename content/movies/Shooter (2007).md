@@ -4,6 +4,7 @@ title = "Shooter (2007)"
 
 [taxonomies]
 tags = ['2008-movie', 'good']
+categories = ['movies']
 +++
 
 Similar in style to the *Bourne* series, it also happens to be quite

@@ -1,6 +1,9 @@
 +++
 date = 2009-05-04
 title = "recent movies 2009-05-04"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 The best performer in *Raise the Red Lantern* is the lady who gave up

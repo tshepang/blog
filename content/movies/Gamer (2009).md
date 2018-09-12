@@ -4,6 +4,7 @@ title = "Gamer (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Intensely violent with some decent visuals here and there. Tries too

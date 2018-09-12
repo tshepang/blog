@@ -4,6 +4,7 @@ title = "Change of Plans (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 [Brooke White], the lead female performer, scores quite high on the

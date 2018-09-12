@@ -1,6 +1,9 @@
 +++
 date = 2008-10-21
 title = "recent movies 2008-10-21"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 A really good drama can be found in the very engaging (and painful)

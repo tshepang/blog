@@ -4,6 +4,7 @@ date = 2016-05-07
 
 [taxonomies]
 tags = ['year-review', '2015']
+categories = ['movies']
 +++
 
 The best **visual effects** can be found in the Hulk vs. Hulkbuster

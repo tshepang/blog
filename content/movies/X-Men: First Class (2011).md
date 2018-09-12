@@ -4,6 +4,7 @@ title = "X-Men: First Class (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 A decent attempt at telling the origins of Magneto and Xavier, their

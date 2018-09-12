@@ -4,6 +4,7 @@ title = "Dogville (2003)"
 
 [taxonomies]
 tags = ['2006-movie', 'good']
+categories = ['movies']
 +++
 
 It\'s hard to imagine the movie having as much impact had it been told

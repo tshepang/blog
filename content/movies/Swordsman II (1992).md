@@ -4,6 +4,7 @@ title = "Swordsman II (1992)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 The romantic relationship between Jet Li\'s lead character and that of

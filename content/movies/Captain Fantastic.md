@@ -4,6 +4,7 @@ title = "Captain Fantastic"
 
 [taxonomies]
 tags = ['2016', 'excellent']
+categories = ['movies']
 +++
 
 I found the writing and direction excellent, and the acting very

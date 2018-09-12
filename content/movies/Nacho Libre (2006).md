@@ -4,6 +4,7 @@ title = "Nacho Libre (2006)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 This is some oddball comedy, with highly-skilled direction, comic

@@ -4,6 +4,7 @@ title = "The Headless Woman (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I had to watch this one a few times in pieces because it was too boring

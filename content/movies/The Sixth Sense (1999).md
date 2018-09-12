@@ -4,6 +4,7 @@ title = "The Sixth Sense (1999)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 A rather tired supernatural thriller about a boy tormented by ghosts and

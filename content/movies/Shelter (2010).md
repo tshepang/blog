@@ -4,6 +4,7 @@ title = "Shelter (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 The movie is full of excellent performances:

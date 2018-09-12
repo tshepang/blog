@@ -1,6 +1,9 @@
 +++
 date = 2008-11-06
 title = "recent movies 2008-11-06"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Smart dialog can be found in *The Squid & the Whale*, which portrays an

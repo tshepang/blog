@@ -4,6 +4,7 @@ title = "The Hobbit: The Battle of the Five Armies"
 
 [taxonomies]
 tags = ['average', '2014']
+categories = ['movies']
 +++
 
 I found the creature design of the dragon amazing; best dragon design

@@ -4,6 +4,7 @@ title = "The Cat In The Hat (2003)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 One of these days I\'m simply going to have to admit the world\'s movie

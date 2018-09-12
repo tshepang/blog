@@ -4,6 +4,7 @@ title = "Harry Potter and the Chamber of Secrets (2002)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 Not as enchanting as [the first one] but scarier with far bigger

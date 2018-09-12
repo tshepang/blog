@@ -1,6 +1,9 @@
 +++
 date = 2010-10-04
 title = "recent movies 2010-10-04"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 There\'s a bunch of people for whom acting seems as effortless as

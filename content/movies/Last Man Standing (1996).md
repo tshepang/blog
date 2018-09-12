@@ -4,6 +4,7 @@ title = "Last Man Standing (1996)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 Good stuntwork, especially the very first killing, even if it defies the

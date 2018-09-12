@@ -5,6 +5,7 @@ title = "overly complex action sequences"
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 I am a fan of action sequences in movies, but only if the complexity is

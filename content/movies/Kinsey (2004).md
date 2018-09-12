@@ -4,6 +4,7 @@ title = "Kinsey (2004)"
 
 [taxonomies]
 tags = ['2008-movie', 'good']
+categories = ['movies']
 +++
 
 The title character of Kinsey, who is granted a committed performance by

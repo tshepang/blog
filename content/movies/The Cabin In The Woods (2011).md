@@ -4,6 +4,7 @@ title = "The Cabin In The Woods (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 This must be the weirdest of horror movies I\'ve seen, and also

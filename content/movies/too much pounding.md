@@ -5,6 +5,7 @@ title = "too much pounding"
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 I hate it when characters that do not have supernatural powers survive

@@ -4,6 +4,7 @@ title = "Monty Python's Quest for the Holy Grail (1975)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 There\'s funny moments but the whole thing feels more like a collection

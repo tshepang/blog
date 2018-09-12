@@ -5,6 +5,7 @@ title = "favorite movie titles"
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 1.  Eternal Sunshine of the Spotless Mind

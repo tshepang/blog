@@ -4,6 +4,7 @@ title = "Robin Hood: Prince of Thieves (1991)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 It isn\'t aging well and has nothing going for it: not it\'s story,

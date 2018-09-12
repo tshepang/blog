@@ -4,6 +4,7 @@ title = "Tron: Legacy (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Bizarre sci-fi taking place mostly in a computer system, about an

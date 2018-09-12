@@ -4,6 +4,7 @@ title = "Johnny English Reborn (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 I enjoyed this a lot due to the delicious humor, best of which was the

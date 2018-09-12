@@ -4,6 +4,7 @@ title = "Gangster Squad (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'average']
+categories = ['movies']
 +++
 
 Mireille Enos, who plays the wife, gives a really nice performance. Sean

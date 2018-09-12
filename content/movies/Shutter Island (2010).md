@@ -4,6 +4,7 @@ title = "Shutter Island (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Me did not enjoy this psychological thriller starring an uninteresting

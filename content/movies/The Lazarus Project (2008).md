@@ -4,6 +4,7 @@ title = "The Lazarus Project (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 Slow pacing gives it a feeling of self-importance, and makes it boring,

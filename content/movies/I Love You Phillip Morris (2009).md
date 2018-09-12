@@ -4,6 +4,7 @@ title = "I Love You Phillip Morris (2009)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 Too often if happens that a movie starts promisingly well, and in this

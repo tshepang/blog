@@ -4,6 +4,7 @@ title = "Final Fantasy VII Advent Children (2005)"
 
 [taxonomies]
 tags = ['substandard', '2008-movie']
+categories = ['movies']
 +++
 
 I was a lot more impressed the first time I saw this:

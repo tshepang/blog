@@ -4,6 +4,7 @@ title = "Shaolin Soccer (2001)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Very shallow story, very entertaining direction (best of which are the

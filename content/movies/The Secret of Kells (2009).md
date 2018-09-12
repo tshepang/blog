@@ -4,6 +4,7 @@ title = "The Secret of Kells (2009)"
 
 [taxonomies]
 tags = ['2010-movie', 'decent']
+categories = ['movies']
 +++
 
 It\'s bizarre in a way similar to [The Triplets of Belleville] and has

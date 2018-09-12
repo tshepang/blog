@@ -4,6 +4,7 @@ title = "Point Blank (1967)"
 
 [taxonomies]
 tags = ['2013-movie', 'decent']
+categories = ['movies']
 +++
 
 If you look past the ugliness of having been made in 1967 (awkward

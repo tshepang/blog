@@ -1,6 +1,9 @@
 +++
 date = 2007-07-04
 title = "'Zodiac' and David Fincher"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 There\'s no better movie director in my mind than David Fincher, an

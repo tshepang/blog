@@ -4,6 +4,7 @@ title = "Tokyo Story (1953)"
 
 [taxonomies]
 tags = ['2009-movie', 'good']
+categories = ['movies']
 +++
 
 Weird why this gets such great accolades from top critics. Sure it\'s

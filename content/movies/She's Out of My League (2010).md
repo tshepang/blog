@@ -4,6 +4,7 @@ title = "She's Out of My League (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I hardly ever enjoy romantic comedies because they tend to be cheap

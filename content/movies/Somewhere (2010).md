@@ -4,6 +4,7 @@ title = "Somewhere (2010)"
 
 [taxonomies]
 tags = ['excellent', '2010-movie']
+categories = ['movies']
 +++
 
 The lead character of rich, famous, and easily fucks ultra-hot gals, yet

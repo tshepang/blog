@@ -4,6 +4,7 @@ title = "Birth (2004)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 Nicole Kidman is kick-ass and so is her acting +++ check the almost

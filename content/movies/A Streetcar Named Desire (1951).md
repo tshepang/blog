@@ -4,6 +4,7 @@ title = "A Streetcar Named Desire (1951)"
 
 [taxonomies]
 tags = ['2012-movie', 'substandard']
+categories = ['movies']
 +++
 
 The direction is shitty and the performances unbearably-irritating, most

@@ -4,6 +4,7 @@ title = "Unstoppable (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 I thought that the critics would be with me with this for being not

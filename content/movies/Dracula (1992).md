@@ -4,6 +4,7 @@ title = "Dracula (1992)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 An unbearably-uninteresting and badly-made take on the legend of Dracula

@@ -1,6 +1,9 @@
 +++
 date = 2008-05-19
 title = "recent movies 2008-05-19"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Basic Instinct has nothing of value to say and there\'s no way the

@@ -4,6 +4,7 @@ title = "The Amazing Spider-Man 2 (2014)"
 
 [taxonomies]
 tags = ['average', '2014-movie']
+categories = ['movies']
 +++
 
 I feel like this is even worse than the 2002 movie, which I considered

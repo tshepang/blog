@@ -4,6 +4,7 @@ title = "Gulliver's Travels (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 To make up for its extreme shallowness, the movie is very exciting. I

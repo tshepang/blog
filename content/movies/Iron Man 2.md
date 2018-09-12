@@ -4,6 +4,7 @@ title = "Iron Man 2"
 
 [taxonomies]
 tags = ['2010', 'good']
+categories = ['movies']
 +++
 
 When the movie does not take shortcuts with the story (the villain is

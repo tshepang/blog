@@ -4,6 +4,7 @@ title = "Goodbye Bafana (2007)"
 
 [taxonomies]
 tags = ['average', '2013-movie']
+categories = ['movies']
 +++
 
 Watching [Mandela: Long Walk to Freedom] led me to check this one out,

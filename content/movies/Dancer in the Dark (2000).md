@@ -4,6 +4,7 @@ title = "Dancer in the Dark (2000)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 As was with his previous [Breaking the Waves], Lars von Trier, the

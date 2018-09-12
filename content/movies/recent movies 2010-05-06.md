@@ -1,6 +1,9 @@
 +++
 date = 2010-05-06
 title = "recent movies 2010-05-06"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 There is not a single performance (and I mean that) in *An Education*

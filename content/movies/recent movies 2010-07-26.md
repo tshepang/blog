@@ -1,6 +1,9 @@
 +++
 date = 2010-07-26
 title = "recent movies 2010-07-26"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 There\'s a gem here and there in *Chicago*, but my favorite is the

@@ -4,6 +4,7 @@ title = "True Grit (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Quality dialog throughout and decent acting. Some big names are

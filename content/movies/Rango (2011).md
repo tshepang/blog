@@ -4,6 +4,7 @@ title = "Rango (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Given the top-of-the-range quality of the animation and character

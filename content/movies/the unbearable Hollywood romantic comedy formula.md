@@ -1,6 +1,9 @@
 +++
 title = "the unbearable Hollywood romantic comedy formula"
 date = 1970-01-01
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I don\'t mind formulas much, but I\'m a little picky on which are

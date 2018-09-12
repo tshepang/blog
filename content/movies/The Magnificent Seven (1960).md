@@ -4,6 +4,7 @@ title = "The Magnificent Seven (1960)"
 
 [taxonomies]
 tags = ['2008-movie']
+categories = ['movies']
 +++
 
 I find the effort to remake [Seven Samurai] into a western, The

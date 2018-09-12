@@ -4,6 +4,7 @@ title = "Semi-Pro (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Very funny (favorite moment is the unloaded gun scene), and some of the

@@ -4,6 +4,7 @@ title = "Gone Baby Gone (2008)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 Nearly a year after the initial viewing, I am a bit puzzled why I was so

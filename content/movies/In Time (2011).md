@@ -4,6 +4,7 @@ title = "In Time (2011)"
 
 [taxonomies]
 tags = ['2014-movie', 'decent']
+categories = ['movies']
 +++
 
 We here see a world where people stop physically aging when they reach

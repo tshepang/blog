@@ -1,6 +1,9 @@
 +++
 date = 2008-09-18
 title = "'Catch A Fire' and South African cinema"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Less-than-average attempt to capture the life of an Apartheid-era

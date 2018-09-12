@@ -4,6 +4,7 @@ title = "Fist of Legend (1994)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 I don\'t know how many times I saw this one as a kid, but I loved it

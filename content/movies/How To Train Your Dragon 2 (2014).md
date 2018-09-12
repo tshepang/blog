@@ -4,6 +4,7 @@ title = "How To Train Your Dragon 2 (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 I loved the character design of the mother, and that includes both the

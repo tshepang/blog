@@ -4,6 +4,7 @@ title = "Priest (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 Ever went into a movie and realise within the first minute it\'s not

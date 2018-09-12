@@ -4,6 +4,7 @@ title = "Monty Python's Life of Brian (1979)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Poking a lotta fun at some the blind adherance and factionalism that is

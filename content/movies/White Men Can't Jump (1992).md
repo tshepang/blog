@@ -4,6 +4,7 @@ title = "White Men Can't Jump (1992)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 It\'s about basketball, romantic relationships, and money, and it\'s not

@@ -4,6 +4,7 @@ title = "The Adjustment Bureau (2011)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 A well-made and unusual sci-fi about some humanoid super-beings that run

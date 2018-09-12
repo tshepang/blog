@@ -4,6 +4,7 @@ date = 2014-10-05
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 -   Antonio Banderas ([The Expendables 3])

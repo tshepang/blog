@@ -4,6 +4,7 @@ title = "Harry Potter and the Half-Blood Prince (2009)"
 
 [taxonomies]
 tags = ['average', '2012-movie']
+categories = ['movies']
 +++
 
 Though bearable, this is the worst so far in the series. Too much of it

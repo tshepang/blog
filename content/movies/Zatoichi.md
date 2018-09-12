@@ -4,6 +4,7 @@ title = "Zatoichi"
 
 [taxonomies]
 tags = ['good', '2003']
+categories = ['movies']
 +++
 
 good:

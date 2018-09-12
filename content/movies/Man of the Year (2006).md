@@ -4,6 +4,7 @@ title = "Man of the Year (2006)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 I was surprised that [critics disliked this one] for I enjoyed it much.

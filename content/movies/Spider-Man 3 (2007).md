@@ -4,6 +4,7 @@ title = "Spider-Man 3 (2007)"
 
 [taxonomies]
 tags = ['2007-movie']
+categories = ['movies']
 +++
 
 I saw this one with greater expectations than it managed to fulfill,

@@ -1,6 +1,9 @@
 +++
 date = 2008-06-04
 title = "Why Did I Watch This Crap?"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Why did I watch Why Did I Get Married? To answer the question, it was

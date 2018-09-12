@@ -4,6 +4,7 @@ title = "Letters To Juliet (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Exquisite cinematography, (excessively) loving characters, and some of

@@ -1,6 +1,9 @@
 +++
 date = 2007-04-11
 title = "Davey Jones vs. Kong"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 The star of *King Kong*, which I saw in late 2005, was easily the

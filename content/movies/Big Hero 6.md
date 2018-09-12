@@ -4,6 +4,7 @@ title = "Big Hero 6"
 
 [taxonomies]
 tags = ['2014', 'average']
+categories = ['movies']
 +++
 
 The level of fantasy in [Cloudy With A Chance of Meatballs] went to

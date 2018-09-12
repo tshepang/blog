@@ -4,6 +4,7 @@ title = "Jimmy's Hall"
 
 [taxonomies]
 tags = ['good', '2014']
+categories = ['movies']
 +++
 
 My bad memory tells me that this is the first pro-socialist movie I\'ve

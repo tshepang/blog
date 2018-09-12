@@ -4,6 +4,7 @@ title = "Izulu Lami (2008)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 I enjoyed the natural-looking performance of Tshepang Mohlomi, who plays

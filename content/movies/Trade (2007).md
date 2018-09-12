@@ -4,6 +4,7 @@ title = "Trade (2007)"
 
 [taxonomies]
 tags = ['2012-movie', 'substandard']
+categories = ['movies']
 +++
 
 The pretty brother of the gal who gets kidnapped for sex should have

@@ -4,6 +4,7 @@ title = "The Science of Sleep (2006)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 Much like the first experience I had with *Underground*, I found this

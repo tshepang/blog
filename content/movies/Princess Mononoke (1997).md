@@ -4,6 +4,7 @@ title = "Princess Mononoke (1997)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 I watched this with high expectation, due the high critical acclaim it

@@ -1,6 +1,9 @@
 +++
 date = 2009-02-27
 title = "many recent movies 2009-02-27"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I don\'t remember any movie based in India quite as rich and vivid as

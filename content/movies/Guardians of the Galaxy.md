@@ -4,6 +4,7 @@ title = "Guardians of the Galaxy"
 
 [taxonomies]
 tags = ['2014', 'decent']
+categories = ['movies']
 +++
 
 The most interesting performances:

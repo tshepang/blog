@@ -4,6 +4,7 @@ title = "Colors (1988)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 This was much more engaging when I was a kid, and it hasn\'t aged well

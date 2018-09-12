@@ -4,6 +4,7 @@ title = "Cloverfield (2008)"
 
 [taxonomies]
 tags = ['good', '2008-movie']
+categories = ['movies']
 +++
 
 [I once compared this movie with I Am Legend], and I then I had the

@@ -1,6 +1,9 @@
 +++
 date = 2010-12-31
 title = "many many recent movies"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 *A break from work meant that much of the previous few weeks were spent

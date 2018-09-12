@@ -4,6 +4,7 @@ title = "The Butler (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'average']
+categories = ['movies']
 +++
 
 The most shocking thing about this overrated bore is that it was made by

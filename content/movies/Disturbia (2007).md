@@ -4,6 +4,7 @@ title = "Disturbia (2007)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 This displeasing movie is so ridiculous that it would have been salvaged

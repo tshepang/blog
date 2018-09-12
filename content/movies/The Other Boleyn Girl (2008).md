@@ -4,6 +4,7 @@ title = "The Other Boleyn Girl (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 I don\'t remember enjoying any of Eric Bana\'s performances until now;

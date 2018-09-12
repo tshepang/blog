@@ -4,6 +4,7 @@ title = "Battle In Heaven (2005)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 Never in my movie-watching history have I seen a character as dull as

@@ -4,6 +4,7 @@ title = "Silent Hill (2006)"
 
 [taxonomies]
 tags = ['2008-movie', 'average']
+categories = ['movies']
 +++
 
 Some of the creature design which is quite good, best of which is

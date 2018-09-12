@@ -4,6 +4,7 @@ title = "Tsotsi (2005)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 The lead character has got talent (I\'ve seen him on stage), but either

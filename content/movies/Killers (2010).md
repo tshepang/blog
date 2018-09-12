@@ -4,6 +4,7 @@ title = "Killers (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 I remember enjoying the movie a lot more first time, most especially

@@ -4,6 +4,7 @@ title = "Nanny McPhee And The Big Bang (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I just found out that this is a sequel. It\'s a feel-good fantasy, made

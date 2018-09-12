@@ -4,6 +4,7 @@ title = "Nightcrawler"
 
 [taxonomies]
 tags = ['excellent', '2014']
+categories = ['movies']
 +++
 
 The movie is overall well-made and got a story that feels fresh, and one

@@ -4,6 +4,7 @@ title = "Tangled (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 An enchanting fantasy with superb character design (the evil old lady,

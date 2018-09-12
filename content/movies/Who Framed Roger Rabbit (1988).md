@@ -4,6 +4,7 @@ title = "Who Framed Roger Rabbit (1988)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 A mostly uninteresting and irritating mixture of 2D animation and live

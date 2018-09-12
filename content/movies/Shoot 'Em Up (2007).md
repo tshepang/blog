@@ -4,6 +4,7 @@ title = "Shoot 'Em Up (2007)"
 
 [taxonomies]
 tags = ['2009-movie', 'decent']
+categories = ['movies']
 +++
 
 The main villain is annoying to watch and the gorgeous love prostitute

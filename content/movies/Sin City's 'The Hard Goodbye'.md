@@ -1,6 +1,9 @@
 +++
 date = 2008-04-11
 title = "Sin City's 'The Hard Goodbye'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Watching Mickey Rourke\'s character as he goes on violently

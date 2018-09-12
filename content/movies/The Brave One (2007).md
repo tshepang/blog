@@ -1,6 +1,9 @@
 +++
 date = 2008-05-01
 title = "The Brave One (2007)"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I found The Brave One highly entertaining, and superbly-made, complete

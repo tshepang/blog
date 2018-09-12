@@ -4,6 +4,7 @@ title = "Perfume (2006)"
 
 [taxonomies]
 tags = ['good', '2006-movie']
+categories = ['movies']
 +++
 
 The impression from the first viewing:

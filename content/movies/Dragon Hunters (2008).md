@@ -4,6 +4,7 @@ title = "Dragon Hunters (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 The character design is quite impressive, all but the purple dog and the

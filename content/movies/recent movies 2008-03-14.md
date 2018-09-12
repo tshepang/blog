@@ -1,6 +1,9 @@
 +++
 date = 2008-03-14
 title = "recent movies 2008-03-14"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 *Kaena: The Prophecy* has an obvious influence on [Beowulf] regarding

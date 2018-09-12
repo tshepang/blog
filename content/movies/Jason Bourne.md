@@ -4,6 +4,7 @@ title = "Jason Bourne"
 
 [taxonomies]
 tags = ['2016', 'decent']
+categories = ['movies']
 +++
 
 Not a worthy successor to the first 3 movies: whole thing feels stale,

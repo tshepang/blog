@@ -4,6 +4,7 @@ date = 2015-06-19
 
 [taxonomies]
 tags = ['year-review', '2014']
+categories = ['movies']
 +++
 
 The best **action** can be found in the fight scenes of [Non-Stop], but

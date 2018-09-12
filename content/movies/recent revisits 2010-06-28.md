@@ -1,6 +1,9 @@
 +++
 date = 2010-06-28
 title = "recent revisits 2010-06-28"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 *Amores Perros* is very rich, but also very disturbing and full of pain:

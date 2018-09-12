@@ -4,6 +4,7 @@ title = "I Am Love (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Good quality but stale tale of forbidden romance. It has decent acting

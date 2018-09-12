@@ -1,6 +1,9 @@
 +++
 date = 2008-06-26
 title = "recent movies 2008-06-26"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I pretty much enjoyed the popcorn biking movie, *Torque*, despite being

@@ -1,6 +1,9 @@
 +++
 date = 2008-02-18
 title = "recent movies 2008-02-18"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Stanley Tucci is wonderful in *The Devil Wears Prada*, a movie which

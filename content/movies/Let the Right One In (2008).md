@@ -4,6 +4,7 @@ title = "Let the Right One In (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 This is the most original of all vampire movies I\'ve seen. Nice

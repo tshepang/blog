@@ -4,6 +4,7 @@ title = "Gladiator (2000)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 This time around, I enjoyed this over-rated movie more than previously,

@@ -4,6 +4,7 @@ title = "Deadpool"
 
 [taxonomies]
 tags = ['2016', 'excellent']
+categories = ['movies']
 +++
 
 I found this the most fun (lots and lots of good humor) of all superhero

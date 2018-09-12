@@ -4,6 +4,7 @@ title = "The Air I Breathe (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 The movie has three parts: the first got me excited due to superb

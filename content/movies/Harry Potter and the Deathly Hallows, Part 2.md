@@ -4,6 +4,7 @@ title = "Harry Potter and the Deathly Hallows, Part 2"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 Lots more action than [the previous movie], perhaps more than all the

@@ -4,6 +4,7 @@ title = "Good Will Hunting (1997)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 I love stories about genius, but this one is as depressing as fuck.

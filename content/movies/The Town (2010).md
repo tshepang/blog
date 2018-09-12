@@ -4,6 +4,7 @@ title = "The Town (2010)"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 Well-directed robbery scenes and well-written story, but nothing really

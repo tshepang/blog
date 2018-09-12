@@ -4,6 +4,7 @@ title = "Spirited Away (2001)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 It\'s interesting to have a movie that is both spooky and enchanting.

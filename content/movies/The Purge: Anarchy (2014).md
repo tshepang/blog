@@ -4,6 +4,7 @@ title = "The Purge: Anarchy (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Intensely brutal story about a United States where, on one night of the

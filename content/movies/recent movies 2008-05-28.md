@@ -1,6 +1,9 @@
 +++
 date = 2008-05-28
 title = "recent movies 2008-05-28"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Me being a big sucker for martial arts shows, especially when it gets as

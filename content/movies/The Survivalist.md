@@ -4,6 +4,7 @@ title = "The Survivalist"
 
 [taxonomies]
 tags = ['good', '2015']
+categories = ['movies']
 +++
 
 Amazing direction keeps one absorbed throughout the movie, even given

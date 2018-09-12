@@ -4,6 +4,7 @@ title = "Mississippi Burning (1988)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 A mildly entertaining drama about some FBI guys investigating some

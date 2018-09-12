@@ -4,6 +4,7 @@ title = "Zoolander (2001)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 Ben Stiller gives [the most interesting performance of his career], and

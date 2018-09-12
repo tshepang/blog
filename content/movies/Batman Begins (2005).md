@@ -4,6 +4,7 @@ title = "Batman Begins (2005)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 It is sad that this turned out a lot less impressive on a revisit,

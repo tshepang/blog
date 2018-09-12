@@ -4,6 +4,7 @@ title = "In Bruges (2008)"
 
 [taxonomies]
 tags = ['2013-movie', 'excellent']
+categories = ['movies']
 +++
 
 Far better than the more expensive and colorful later work of this

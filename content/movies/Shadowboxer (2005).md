@@ -4,6 +4,7 @@ title = "Shadowboxer (2005)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 The main plot, that of an assassin softened by an innocent being, has

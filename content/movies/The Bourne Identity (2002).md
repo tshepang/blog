@@ -4,6 +4,7 @@ title = "The Bourne Identity (2002)"
 
 [taxonomies]
 tags = ['good', '2008-movie']
+categories = ['movies']
 +++
 
 Very enjoyable and well-made, but it feels a little thin in terms of

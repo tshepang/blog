@@ -4,6 +4,7 @@ title = "Remember Me (2010)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 It starts in a very promising way, with a well-directed

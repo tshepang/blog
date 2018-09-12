@@ -4,6 +4,7 @@ title = "The Castle (1997)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 An awkward but witty comedy about a simple (and dumb) family on the

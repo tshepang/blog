@@ -4,6 +4,7 @@ title = "Despicable Me (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 The were moments of good humor (e.g. when lead character was stealing

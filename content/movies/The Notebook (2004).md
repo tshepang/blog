@@ -4,6 +4,7 @@ title = "The Notebook (2004)"
 
 [taxonomies]
 tags = ['2008-movie', 'substandard']
+categories = ['movies']
 +++
 
 If found the largest part of the movie unbearably bad, and the very

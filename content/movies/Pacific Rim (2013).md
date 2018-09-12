@@ -4,6 +4,7 @@ title = "Pacific Rim (2013)"
 
 [taxonomies]
 tags = ['average', '2013-movie']
+categories = ['movies']
 +++
 
 For a movie this expensive, I found none of the visual effects

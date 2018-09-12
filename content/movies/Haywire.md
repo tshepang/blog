@@ -4,6 +4,7 @@ title = "Haywire"
 
 [taxonomies]
 tags = ['2011', 'excellent']
+categories = ['movies']
 +++
 
 This is a rather unusual and very well-made Bourne-style movie. It also

@@ -4,6 +4,7 @@ title = "Warrior (2011)"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 The two toughest guys, the brother and the Russian guy, are scary as

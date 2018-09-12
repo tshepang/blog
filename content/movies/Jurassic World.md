@@ -4,6 +4,7 @@ title = "Jurassic World"
 
 [taxonomies]
 tags = ['2015', 'decent']
+categories = ['movies']
 +++
 
 Though the story is shallow and full of shortcuts, the movie is very

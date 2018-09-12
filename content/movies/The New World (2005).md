@@ -4,6 +4,7 @@ title = "The New World (2005)"
 
 [taxonomies]
 tags = ['2008-movie', 'unrated']
+categories = ['movies']
 +++
 
 I\'ve since watched Disney\'s *Pocahontas* over a decade ago and

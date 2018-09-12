@@ -1,6 +1,9 @@
 +++
 date = 2010-11-30
 title = "recent movies 2010-11-30"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Although there\'s nothing new, *Our Family Wedding* is such a delight,

@@ -4,6 +4,7 @@ title = "Savages (2012)"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 It is entertaining throughout its entire 140+ minute run-time, but it

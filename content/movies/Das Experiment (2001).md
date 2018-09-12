@@ -4,6 +4,7 @@ title = "Das Experiment (2001)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Lacking the intensity of its [remake] and its lead character not as

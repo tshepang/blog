@@ -4,6 +4,7 @@ title = "Harry Potter and the Deathly Hallows, Part 1"
 
 [taxonomies]
 tags = ['average', '2012-movie']
+categories = ['movies']
 +++
 
 The story of the Deathly Hallows makes for some of the best animation

@@ -4,6 +4,7 @@ title = "Hancock (2008)"
 
 [taxonomies]
 tags = ['2008-movie']
+categories = ['movies']
 +++
 
 I believe something got seriously fucked-up during the production of

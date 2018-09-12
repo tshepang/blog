@@ -4,6 +4,7 @@ title = "Grown Ups (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 There isn\'t much going for this one, except I admire one of the

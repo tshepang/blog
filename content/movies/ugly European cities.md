@@ -1,6 +1,9 @@
 +++
 date = 2008-02-17
 title = "ugly European cities"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I recently saw Ronin, whose non-glossy action reminds me of the 70\'s

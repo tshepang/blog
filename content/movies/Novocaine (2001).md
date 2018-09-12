@@ -4,6 +4,7 @@ title = "Novocaine (2001)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 I once declared this one a masterpiece, perhaps due to the superb

@@ -1,6 +1,9 @@
 +++
 date = 2009-10-23
 title = "recent movies 2009-10-23"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 On a much lighter note, I found *Sponge Bob* surprisingly good, given

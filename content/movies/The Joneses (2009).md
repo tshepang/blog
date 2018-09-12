@@ -4,6 +4,7 @@ title = "The Joneses (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Demi Moore is still so damn gorgeous after all these years! The movie is

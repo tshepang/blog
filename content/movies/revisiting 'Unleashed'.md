@@ -1,6 +1,9 @@
 +++
 date = 2007-06-11
 title = "revisiting 'Unleashed'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Bob Hoskins is not convincing in his villain role nor is Jet Li who is

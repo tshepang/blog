@@ -4,6 +4,7 @@ title = "The Green Mile (1999)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 The writers probably did not appear to care of looking silly, given the

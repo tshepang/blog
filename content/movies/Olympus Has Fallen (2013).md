@@ -4,6 +4,7 @@ title = "Olympus Has Fallen (2013)"
 
 [taxonomies]
 tags = ['2013-movie', 'average']
+categories = ['movies']
 +++
 
 This is unique in that movies showing The White House being attacked are

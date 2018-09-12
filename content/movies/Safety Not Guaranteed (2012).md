@@ -4,6 +4,7 @@ title = "Safety Not Guaranteed (2012)"
 
 [taxonomies]
 tags = ['good', '2014-movie']
+categories = ['movies']
 +++
 
 Decent humor and an interesting lead make this watchable. There is good

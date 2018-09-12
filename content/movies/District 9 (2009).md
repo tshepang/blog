@@ -4,6 +4,7 @@ title = "District 9 (2009)"
 
 [taxonomies]
 tags = ['2009-movie', 'excellent']
+categories = ['movies']
 +++
 
 The documentary style has been employed elsewhere before, but there\'s

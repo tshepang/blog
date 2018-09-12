@@ -1,6 +1,9 @@
 +++
 date = 2007-10-31
 title = "revisiting 'Amadeus'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 The highlight of the movie is the narrator (played so well by F. Murray

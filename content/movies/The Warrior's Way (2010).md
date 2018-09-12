@@ -4,6 +4,7 @@ title = "The Warrior's Way (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 There is extreme brutality and violence, in this super-exciting fusion

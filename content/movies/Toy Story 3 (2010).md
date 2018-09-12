@@ -4,6 +4,7 @@ title = "Toy Story 3 (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 This is the best *Toy Story* movie, and the only one I truly enjoyed.

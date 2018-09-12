@@ -1,6 +1,9 @@
 +++
 date = 2009-01-09
 title = "'Ghost Dog'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 It has the common basic story of a contract killer forced to target own

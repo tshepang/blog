@@ -4,6 +4,7 @@ title = "Appleseed Alpha (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'decent']
+categories = ['movies']
 +++
 
 More a showcase of animation technology than a satisfying story for a

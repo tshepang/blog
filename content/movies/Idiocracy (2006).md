@@ -4,6 +4,7 @@ title = "Idiocracy (2006)"
 
 [taxonomies]
 tags = ['average', '2012-movie']
+categories = ['movies']
 +++
 
 It started pretty well, with nice humor, but the idiocy of a future

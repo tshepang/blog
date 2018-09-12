@@ -4,6 +4,7 @@ title = "Bill & Ted's Bogus Journey (1991)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I expected this sequel to be junk, but was pleasantly surprised to find

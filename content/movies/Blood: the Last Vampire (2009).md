@@ -4,6 +4,7 @@ title = "Blood: the Last Vampire (2009)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 Some of the imagery is beautiful, and so is the lead character. The

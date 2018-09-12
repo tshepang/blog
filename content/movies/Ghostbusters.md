@@ -4,6 +4,7 @@ title = "Ghostbusters"
 
 [taxonomies]
 tags = ['decent', '2016']
+categories = ['movies']
 +++
 
 It\'s nothing new, but it was fun watching [Kristen Wiig] oogle over

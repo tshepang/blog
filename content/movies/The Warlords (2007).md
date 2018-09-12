@@ -4,6 +4,7 @@ title = "The Warlords (2007)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Among the best movies I\'ve ever seen Jet Li star in, this is an

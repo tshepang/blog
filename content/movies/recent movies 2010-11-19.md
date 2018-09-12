@@ -1,6 +1,9 @@
 +++
 date = 2010-11-19
 title = "recent movies 2010-11-19"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 There are 2 main stories in *Sophie\'s Choice*, one a fun-filled/stormy

@@ -4,6 +4,7 @@ title = "Waist Deep (2006)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 A fun ride, following a former gangster trying to collect enough ransom

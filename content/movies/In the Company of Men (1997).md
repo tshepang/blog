@@ -4,6 +4,7 @@ title = "In the Company of Men (1997)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Rather captivating with unusual dialogue, making it feel realistic, and

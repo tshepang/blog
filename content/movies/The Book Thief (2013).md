@@ -4,6 +4,7 @@ title = "The Book Thief (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'decent']
+categories = ['movies']
 +++
 
 Geoffrey Rush gives a very touching performance as kindly guardian of a

@@ -4,6 +4,7 @@ title = "Cooley High (1975)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 A great childhood favorite of mine, this is a small, fast-moving, and

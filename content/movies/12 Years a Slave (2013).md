@@ -4,6 +4,7 @@ title = "12 Years a Slave (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'average']
+categories = ['movies']
 +++
 
 I expected a lot more, and got disappointed by the less-than-impressive

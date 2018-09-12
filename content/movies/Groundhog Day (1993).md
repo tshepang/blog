@@ -4,6 +4,7 @@ title = "Groundhog Day (1993)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Would be kinda nice to be caught in an eternal day. Imagine all the

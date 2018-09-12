@@ -4,6 +4,7 @@ title = "The Seventh Seal (1957)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I don\'t know if we were to take this as comic farce or serious fantasy

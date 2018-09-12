@@ -1,6 +1,9 @@
 +++
 date = 2007-07-20
 title = "recent movies 2007-07-20"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I was surprised to find Leonardo DiCaprio and Matt Damon bearable in

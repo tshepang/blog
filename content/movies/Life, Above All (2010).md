@@ -4,6 +4,7 @@ title = "Life, Above All (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 There is much authenticity and freshness in the treament of poor South

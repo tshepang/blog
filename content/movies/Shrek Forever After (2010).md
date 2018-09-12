@@ -4,6 +4,7 @@ title = "Shrek Forever After (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I didn\'t expect much from this one, given that I find the series rather

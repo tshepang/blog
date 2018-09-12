@@ -4,6 +4,7 @@ title = "Midnight in Paris (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 I watched this only because Woody Allen made it, and now I wish he was

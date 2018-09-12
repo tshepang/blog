@@ -4,6 +4,7 @@ title = "Just Go With It (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 It does not even try to be a good movie, but then again it is an Adam

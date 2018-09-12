@@ -4,6 +4,7 @@ title = "Insidious (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 Stupid stories can be told well (remember *The Matrix*), but not this

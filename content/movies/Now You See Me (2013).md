@@ -4,6 +4,7 @@ title = "Now You See Me (2013)"
 
 [taxonomies]
 tags = ['2013-movie', 'decent']
+categories = ['movies']
 +++
 
 A ridiculous plot twist (I do not mind being fooled, but this is going

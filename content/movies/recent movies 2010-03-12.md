@@ -1,6 +1,9 @@
 +++
 date = 2010-03-12
 title = "recent movies 2010-03-12"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Climaxed by the very last scene which is damn too hard to swallow, *The

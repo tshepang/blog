@@ -4,6 +4,7 @@ title = "Confidence (2002)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 There\'s too much of an attempt at doing kool, much like *Lucky Number

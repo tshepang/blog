@@ -4,6 +4,7 @@ title = "Dracula Untold"
 
 [taxonomies]
 tags = ['decent', '2014']
+categories = ['movies']
 +++
 
 One of those movies which choose not to distinguish themselves at all in

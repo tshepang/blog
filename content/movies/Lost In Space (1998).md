@@ -4,6 +4,7 @@ title = "Lost In Space (1998)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 I remember this beeing far more fascinating and the visual effects and

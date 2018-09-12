@@ -4,6 +4,7 @@ title = "Entrapment (1999)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 Not very interesting, even with the ultra-gorgeous Catherine Zeta-Jones.

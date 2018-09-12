@@ -4,6 +4,7 @@ title = "Excision (2012)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 There is [a good review] about this, a movie that starts with more

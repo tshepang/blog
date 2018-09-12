@@ -4,6 +4,7 @@ title = "Festen (1998)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 The painful story of *Festen* was powerful enough to have me label it a

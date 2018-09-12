@@ -4,6 +4,7 @@ title = "A Nightmare on Elm Street (1984)"
 
 [taxonomies]
 tags = ['2012-movie', 'bad']
+categories = ['movies']
 +++
 
 This movie is one more reason I should probably stop paying attention to

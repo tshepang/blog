@@ -4,6 +4,7 @@ title = "The Iron Lady (2011)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 A wonderful cast:

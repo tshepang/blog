@@ -4,6 +4,7 @@ title = "RoboCop (2014)"
 
 [taxonomies]
 tags = ['decent', '2014-movie']
+categories = ['movies']
 +++
 
 The new suit is a lot more interesting (think the 2008 *Iron Man*), and

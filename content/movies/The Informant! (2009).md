@@ -4,6 +4,7 @@ title = "The Informant! (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Not really interesting, and that\'s not helped by the rather untalented

@@ -4,6 +4,7 @@ title = "The Silence of the Lambs (1991)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 There\'s some sleep-inducing moments, but it\'s quite a good movie, and

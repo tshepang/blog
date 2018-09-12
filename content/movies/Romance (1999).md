@@ -4,6 +4,7 @@ title = "Romance (1999)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 The imagery imagined by the lead character, one where women expose their

@@ -4,6 +4,7 @@ title = "The Experiment (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Captivating but stupid and unexplained concept/story; decent

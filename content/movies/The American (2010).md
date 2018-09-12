@@ -4,6 +4,7 @@ title = "The American (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 A very fresh assassin movie with great romance (did you see that gal?)

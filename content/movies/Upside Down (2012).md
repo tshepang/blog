@@ -4,6 +4,7 @@ title = "Upside Down (2012)"
 
 [taxonomies]
 tags = ['decent', '2014-movie']
+categories = ['movies']
 +++
 
 It got a great concept (the most original I\'ve seen in a while) and

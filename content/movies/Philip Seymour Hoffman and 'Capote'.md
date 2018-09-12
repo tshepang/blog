@@ -1,6 +1,9 @@
 +++
 date = 2007-06-14
 title = "Philip Seymour Hoffman and 'Capote'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 In my search for the year\'s masterpiece I went on and watched Philip

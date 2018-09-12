@@ -4,6 +4,7 @@ title = "The Amazing Spider-Man (2012)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 It is not really a supreme reboot, but it is an okay one. It does have

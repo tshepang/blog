@@ -4,6 +4,7 @@ title = "The Thirteenth Floor (1999)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 The movie is well-made, and has an exciting twist. The eveil acts done

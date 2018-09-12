@@ -4,6 +4,7 @@ title = "Devil in a Blue Dress (1995)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 This was a lot more enjoyable when I first watched it several years ago,

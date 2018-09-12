@@ -4,6 +4,7 @@ title = "Captain America: Civil War"
 
 [taxonomies]
 tags = ['2016', 'good']
+categories = ['movies']
 +++
 
 I really, really love the new character, Black Panther, as well as the

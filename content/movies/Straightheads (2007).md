@@ -4,6 +4,7 @@ title = "Straightheads (2007)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 A revenge story, and not much else. The sexual spontaneity of the couple

@@ -4,6 +4,7 @@ title = "Dirty Pretty Things (2002)"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 Exposing the shit life of being an illegal immigrant (and the associated

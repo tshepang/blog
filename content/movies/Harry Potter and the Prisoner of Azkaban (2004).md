@@ -4,6 +4,7 @@ title = "Harry Potter and the Prisoner of Azkaban (2004)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 This one looks a lot better than the previous two (visual effects,

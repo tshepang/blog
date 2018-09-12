@@ -4,6 +4,7 @@ title = "Hardcore Henry"
 
 [taxonomies]
 tags = ['2015', 'good']
+categories = ['movies']
 +++
 
 Possibly the most violent movie I\'ve yet seen, this is made in the

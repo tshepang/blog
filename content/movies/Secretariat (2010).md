@@ -4,6 +4,7 @@ title = "Secretariat (2010)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 Despite my dislike of the subject (animal abuse for the sake of

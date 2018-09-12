@@ -1,6 +1,9 @@
 +++
 date = 2010-02-10
 title = "recent movies 2010-02-10"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I had intense anticipation for *Ninja Assassin*, and its intro lived up

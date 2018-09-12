@@ -4,6 +4,7 @@ title = "Small Soldiers (1998)"
 
 [taxonomies]
 tags = ['2009-movie', 'unrated']
+categories = ['movies']
 +++
 
 The movie offers at least one superb one-liner:

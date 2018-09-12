@@ -4,6 +4,7 @@ title = "The Great Dictator (1940)"
 
 [taxonomies]
 tags = ['2010-movie', 'average']
+categories = ['movies']
 +++
 
 I found the set designs of the palace impressive as well as the costumes

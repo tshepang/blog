@@ -4,6 +4,7 @@ title = "Eye in the Sky"
 
 [taxonomies]
 tags = ['2015', 'good']
+categories = ['movies']
 +++
 
 The squabbling and delegation of decision-making seen in the movie was

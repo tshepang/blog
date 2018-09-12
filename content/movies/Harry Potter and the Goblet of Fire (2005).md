@@ -4,6 +4,7 @@ title = "Harry Potter and the Goblet of Fire (2005)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 This one is no improvement on [the one immediately predeceding it] but

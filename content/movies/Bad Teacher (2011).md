@@ -4,6 +4,7 @@ title = "Bad Teacher (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 Another comedy that relies heavily on goofiness for its laughs, and

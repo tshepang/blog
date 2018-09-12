@@ -4,6 +4,7 @@ title = "The Thaw (2009)"
 
 [taxonomies]
 tags = ['good', '2013-movie']
+categories = ['movies']
 +++
 
 A very edgy take on existential risk, this time the villain being a

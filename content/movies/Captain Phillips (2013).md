@@ -4,6 +4,7 @@ title = "Captain Phillips (2013)"
 
 [taxonomies]
 tags = ['good', '2014-movie']
+categories = ['movies']
 +++
 
 I hardly ever enjoy Tom Hanks performances, but this one was very

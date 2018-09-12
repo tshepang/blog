@@ -4,6 +4,7 @@ title = "Miss Peregrine's Home for Peculiar Children"
 
 [taxonomies]
 tags = ['decent', '2016']
+categories = ['movies']
 +++
 
 The movie may be great to look at (look at that house), and Ella Purnell

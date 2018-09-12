@@ -1,6 +1,9 @@
 +++
 date = 2007-08-19
 title = "less-than-stellar revisits"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I saw [300] yesterday with the comments turned on and noticed numerous

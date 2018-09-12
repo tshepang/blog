@@ -4,6 +4,7 @@ title = "Collateral (2004)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 Tom Cruise plays one of my most favorite hitmen and in fitting

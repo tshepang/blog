@@ -4,6 +4,7 @@ title = "Where the Wild Things Are (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Bizarre movie with creatures, designed to look like dolls, done in bad

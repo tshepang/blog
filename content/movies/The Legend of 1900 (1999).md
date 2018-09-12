@@ -4,6 +4,7 @@ title = "The Legend of 1900 (1999)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Pretty much enjoyable, with good dialogue, and a fun performance from

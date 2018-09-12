@@ -1,6 +1,9 @@
 +++
 date = 2011-05-08
 title = "The case of 'The Matrix Reloaded'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 THere are so many movies that excite me so much that I nearly shake, but

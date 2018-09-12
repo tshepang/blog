@@ -4,6 +4,7 @@ title = "Lincoln (2012)"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 Very well-made, with solid dialog. This dialog (and script) is also

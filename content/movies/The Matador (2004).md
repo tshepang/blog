@@ -4,6 +4,7 @@ title = "The Matador (2004)"
 
 [taxonomies]
 tags = ['good', '2008-movie']
+categories = ['movies']
 +++
 
 I seriously enjoyed this dark comedy first time I watched. This was due

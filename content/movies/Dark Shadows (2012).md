@@ -4,6 +4,7 @@ title = "Dark Shadows (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 I found this surprisingly laid-back, and more humorous than other Tim

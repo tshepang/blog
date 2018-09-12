@@ -4,6 +4,7 @@ title = "Munich (2005)"
 
 [taxonomies]
 tags = ['2007-movie', 'good']
+categories = ['movies']
 +++
 
 Here\'s what I wrote over 3 years ago:

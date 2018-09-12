@@ -4,6 +4,7 @@ title = "Law-Abiding Citizen (2009)"
 
 [taxonomies]
 tags = ['2009-movie']
+categories = ['movies']
 +++
 
 Earlier review:

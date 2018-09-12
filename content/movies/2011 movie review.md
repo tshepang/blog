@@ -4,6 +4,7 @@ title = "2011 movie review"
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 I was very surprised when I went through a list of movies I tagged as

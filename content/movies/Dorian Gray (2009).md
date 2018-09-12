@@ -4,6 +4,7 @@ title = "Dorian Gray (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 This is a movie adaption of a [novel] that had a rather interesting

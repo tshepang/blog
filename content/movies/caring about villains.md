@@ -5,6 +5,7 @@ title = "caring about villains"
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 One of the great feats of character development is having the audience

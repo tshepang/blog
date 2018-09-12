@@ -4,6 +4,7 @@ title = "The Human Centipede 2 (2011)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 I do not remember watching a more extreme movie, in terms of

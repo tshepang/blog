@@ -4,6 +4,7 @@ title = "Something Borrowed (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 Some day I should simply stop punishing myself so much. I should learn

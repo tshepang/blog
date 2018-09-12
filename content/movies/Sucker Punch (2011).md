@@ -4,6 +4,7 @@ title = "Sucker Punch (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 I was mesmerised by the imagery, and I don\'t see why it would be

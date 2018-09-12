@@ -1,6 +1,9 @@
 +++
 date = 2008-05-01
 title = "recent movies 2008-05-01"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I find the effort to remake [Seven Samurai] into a western, *The

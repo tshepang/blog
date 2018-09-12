@@ -1,6 +1,9 @@
 +++
 date = 2008-09-25
 title = "many recent movies 2008-09-25"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Like *Morvern Callar* and *[The War Zone]*, *The Machinist* got nearly

@@ -4,6 +4,7 @@ title = "Wreck-It Ralph (2012)"
 
 [taxonomies]
 tags = ['good', '2014-movie']
+categories = ['movies']
 +++
 
 A highly-enjoyable fantasy about a bad-guy video game character who

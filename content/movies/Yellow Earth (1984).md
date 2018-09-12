@@ -4,6 +4,7 @@ title = "Yellow Earth (1984)"
 
 [taxonomies]
 tags = ['good', '2009-movie']
+categories = ['movies']
 +++
 
 A harrowing tale of a woman yearning for freedom in poor and rural

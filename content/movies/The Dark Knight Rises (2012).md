@@ -4,6 +4,7 @@ title = "The Dark Knight Rises (2012)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 I am in love with the voice and utterances of Bane, a physically

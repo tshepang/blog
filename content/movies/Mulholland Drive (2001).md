@@ -4,6 +4,7 @@ title = "Mulholland Drive (2001)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 A deliberately weird movie which is somewhat enjoyable, with some good

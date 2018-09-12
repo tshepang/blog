@@ -4,6 +4,7 @@ title = "All About Eve (1950)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I only watched this one because it was said to be an inspiration

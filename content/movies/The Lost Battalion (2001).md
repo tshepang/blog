@@ -4,6 +4,7 @@ title = "The Lost Battalion (2001)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 The story is not interesting enough for this to be a cinema movie,

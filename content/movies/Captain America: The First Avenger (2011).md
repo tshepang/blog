@@ -4,6 +4,7 @@ title = "Captain America: The First Avenger (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 Some of its moments are so bad that they are hard to bear. There\'s some

@@ -4,6 +4,7 @@ title = "Missing (1982)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 The wife character, played by Sissy Spacek, is not only

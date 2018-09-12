@@ -4,6 +4,7 @@ title = "Skyfall (2012)"
 
 [taxonomies]
 tags = ['2013-movie', 'average']
+categories = ['movies']
 +++
 
 It is overall a disappointing experience, considering I watched with

@@ -4,6 +4,7 @@ title = "Beginners (2010)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 The one thing fresh about this movie is the loving portrayal of an

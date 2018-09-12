@@ -4,6 +4,7 @@ title = "Final Fantasy: The Spirits Within"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 The pacing is unbearably slow and the story is not interesting. Luckily,

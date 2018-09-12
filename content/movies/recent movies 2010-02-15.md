@@ -1,6 +1,9 @@
 +++
 date = 2010-02-15
 title = "recent movies 2010-02-15"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 There haven\'t been many characters as unpleasant and bitter as Marlon

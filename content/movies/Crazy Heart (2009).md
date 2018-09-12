@@ -4,6 +4,7 @@ title = "Crazy Heart (2009)"
 
 [taxonomies]
 tags = ['2010-movie', 'good']
+categories = ['movies']
 +++
 
 So this sweet lady (Maggie Gyllenhaal) falls for this alcoholic guy (and

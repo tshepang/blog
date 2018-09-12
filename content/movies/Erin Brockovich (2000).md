@@ -4,6 +4,7 @@ title = "Erin Brockovich (2000)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 An okay and interesting enough movie about this heroic lady (Julia

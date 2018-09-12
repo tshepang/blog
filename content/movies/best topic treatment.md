@@ -5,6 +5,7 @@ title = "best topic treatment"
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 middle-Eastern terrorism

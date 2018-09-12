@@ -4,6 +4,7 @@ title = "Kung Fu Panda (2008)"
 
 [taxonomies]
 tags = ['2008-movie', 'good']
+categories = ['movies']
 +++
 
 1st review:

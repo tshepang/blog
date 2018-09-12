@@ -4,6 +4,7 @@ title = "Seven Psychopaths (2012)"
 
 [taxonomies]
 tags = ['good', '2013-movie']
+categories = ['movies']
 +++
 
 My favorite utterance from the movie:

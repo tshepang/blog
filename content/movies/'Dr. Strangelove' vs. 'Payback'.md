@@ -1,6 +1,9 @@
 +++
 date = 2007-10-23
 title = "'Dr. Strangelove' vs. 'Payback'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I have for a long time considered [Dr. Strangelove] as the best comedy

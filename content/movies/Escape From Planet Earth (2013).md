@@ -4,6 +4,7 @@ title = "Escape From Planet Earth (2013)"
 
 [taxonomies]
 tags = ['2013-movie', 'decent']
+categories = ['movies']
 +++
 
 It is reasonably entertaining, the animation is sophisticated, and

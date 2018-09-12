@@ -4,6 +4,7 @@ title = "Redbelt (2007)"
 
 [taxonomies]
 tags = ['2013-movie', 'excellent']
+categories = ['movies']
 +++
 
 This is a nice find. I bumped onto it by accident. The first scene got

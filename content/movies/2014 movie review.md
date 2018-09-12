@@ -4,6 +4,7 @@ date = 2016-01-18
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 This year was rather sad: I didn\'t see any fresh movie (movies I saw

@@ -4,6 +4,7 @@ title = "Basic Instinct (1992)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 Though not as enjoyable as I was hoping this revisit to be, Sharon Stone

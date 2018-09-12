@@ -4,6 +4,7 @@ title = "The Incredible Hulk (2008)"
 
 [taxonomies]
 tags = ['2008-movie', 'decent']
+categories = ['movies']
 +++
 
 1st review:

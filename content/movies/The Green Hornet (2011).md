@@ -4,6 +4,7 @@ title = "The Green Hornet (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 The first part of the movie is better than the latter, with the humorous

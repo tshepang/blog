@@ -4,6 +4,7 @@ title = "Let Me In (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 An exercise in embarassment. [The first novel-to-movie adaptation] was

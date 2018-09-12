@@ -4,6 +4,7 @@ title = "Gravity (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Very well-made, with good attention to detail, and a unique story-line.

@@ -4,6 +4,7 @@ title = "Get Him to the Greek (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Some real nice performances from the two leads, especially the guy

@@ -4,6 +4,7 @@ title = "Ip Man (2008)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 Great martial arts choreography, some of the best I have seen; two

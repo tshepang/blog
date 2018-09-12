@@ -4,6 +4,7 @@ title = "Dr. Strangelove (1964)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 This is one of the rare old black & white movies that are actually

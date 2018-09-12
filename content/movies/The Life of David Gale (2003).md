@@ -4,6 +4,7 @@ title = "The Life of David Gale (2003)"
 
 [taxonomies]
 tags = ['2005-movie', 'good']
+categories = ['movies']
 +++
 
 A very well-made political drama focused on the issue of death penalty.

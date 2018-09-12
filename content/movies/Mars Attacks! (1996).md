@@ -4,6 +4,7 @@ title = "Mars Attacks! (1996)"
 
 [taxonomies]
 tags = ['2008-movie', 'decent']
+categories = ['movies']
 +++
 
 The deception by the aliens on humans is one of the interesting things

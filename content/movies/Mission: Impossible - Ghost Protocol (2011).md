@@ -4,6 +4,7 @@ title = "Mission: Impossible - Ghost Protocol (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 I liked the concept of the device that creates an optical illusion; I

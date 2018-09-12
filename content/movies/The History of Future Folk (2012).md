@@ -4,6 +4,7 @@ title = "The History of Future Folk (2012)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 An unusual and somewhat dull movie which has the lead tell a the story

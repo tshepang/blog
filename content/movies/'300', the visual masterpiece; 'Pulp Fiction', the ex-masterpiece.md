@@ -1,6 +1,9 @@
 +++
 date = 2007-04-10
 title = "'300', the visual masterpiece; 'Pulp Fiction', the ex-masterpiece"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 *300* has unbelievably superb visuals and very attractive characters,

@@ -4,6 +4,7 @@ title = "The Hit List (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 It\'s got some good elements, and the lead actor, Cole Hauser, is really

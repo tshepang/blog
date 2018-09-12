@@ -4,6 +4,7 @@ title = "Faster (2010)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 Given that this is a second rate actioner that isn\'t overall decent, I

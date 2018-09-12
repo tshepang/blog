@@ -4,6 +4,7 @@ title = "Prometheus (2012)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 The suspense, which runs the entire length of the movie, is a bit hard

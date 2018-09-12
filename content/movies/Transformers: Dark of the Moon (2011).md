@@ -4,6 +4,7 @@ title = "Transformers: Dark of the Moon (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 I didn\'t see any improvement in visual effects over [the previous

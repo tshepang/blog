@@ -4,6 +4,7 @@ title = "Rabbit Hole (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 Nicole Kidman has played troubled women quite a few times before, but

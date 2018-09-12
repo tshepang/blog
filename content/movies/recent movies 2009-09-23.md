@@ -1,6 +1,9 @@
 +++
 date = 2009-09-23
 title = "recent movies 2009-09-23"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Although nobody cares to explain why the obsessed is obsessed in

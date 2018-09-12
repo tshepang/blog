@@ -4,6 +4,7 @@ title = "Cleanskin (2012)"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 This would have been excellent had it not dwelled so much on the

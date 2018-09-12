@@ -4,6 +4,7 @@ title = "Machete (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Goog ole-fashioned action movie, with a deliberately sgallow storyline

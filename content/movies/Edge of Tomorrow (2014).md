@@ -4,6 +4,7 @@ title = "Edge of Tomorrow (2014)"
 
 [taxonomies]
 tags = ['good', '2014-movie']
+categories = ['movies']
 +++
 
 Exciting ride, all until the too-implausible elimination of the villain.

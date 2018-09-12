@@ -4,6 +4,7 @@ title = "After the Rain (2000)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 I enjoyed the duels, especially the bloody one (the only such in the

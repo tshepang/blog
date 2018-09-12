@@ -4,6 +4,7 @@ title = "The Social Network (2010)"
 
 [taxonomies]
 tags = ['2010-movie', 'good']
+categories = ['movies']
 +++
 
 A fun ride that is unlike anything done before it. Calling it a

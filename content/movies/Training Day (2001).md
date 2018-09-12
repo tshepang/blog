@@ -4,6 +4,7 @@ title = "Training Day (2001)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 It\'s a fairly interesting story of a rookie cop being driven around by

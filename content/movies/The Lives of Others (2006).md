@@ -4,6 +4,7 @@ title = "The Lives of Others (2006)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Here\'s [an article] that inspired me to watch this one. It\'s one of

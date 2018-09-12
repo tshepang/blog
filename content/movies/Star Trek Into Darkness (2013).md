@@ -4,6 +4,7 @@ title = "Star Trek Into Darkness (2013)"
 
 [taxonomies]
 tags = ['substandard', '2013-movie']
+categories = ['movies']
 +++
 
 The concept of a spaceship that can double as a submarine is

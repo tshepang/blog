@@ -4,6 +4,7 @@ title = "Wrath of the Titans (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 The visual effects are decent, the performance of Liam Neeson (Zeus) a

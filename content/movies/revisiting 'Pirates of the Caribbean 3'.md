@@ -1,6 +1,9 @@
 +++
 date = 2008-03-12
 title = "revisiting 'Pirates of the Caribbean 3'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Watching the bonus features on the DVD of *Pirates of the Caribbean 3:

@@ -4,6 +4,7 @@ title = "Irréversible (2002)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 A skillfully-done experimental tragedy told backwards, having among the

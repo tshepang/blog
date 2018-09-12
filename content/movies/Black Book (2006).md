@@ -4,6 +4,7 @@ title = "Black Book (2006)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Although there\'s some interesting-enough stuff going on, helped much by

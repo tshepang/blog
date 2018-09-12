@@ -4,6 +4,7 @@ title = "Paranormal Activity 2 (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Mother and daughter are sooo pretty; quality performances and dialogue;

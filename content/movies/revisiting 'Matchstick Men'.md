@@ -1,6 +1,9 @@
 +++
 date = 2008-02-17
 title = "revisiting 'Matchstick Men'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 A recent revisit of *Matchstick Men* was a let-down since I enjoyed it

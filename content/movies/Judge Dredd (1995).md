@@ -4,6 +4,7 @@ title = "Judge Dredd (1995)"
 
 [taxonomies]
 tags = ['substandard']
+categories = ['movies']
 +++
 
 So someone spent close to \$100m on this, and then classified it as

@@ -4,6 +4,7 @@ title = "The Hangover Part II (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 I didn\'t expect much from this since it was trashed by critics, but

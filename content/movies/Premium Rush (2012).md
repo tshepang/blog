@@ -4,6 +4,7 @@ title = "Premium Rush (2012)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Lots of exciting street shots, a very interesting (and immensely

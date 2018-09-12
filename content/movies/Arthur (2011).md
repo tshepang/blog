@@ -4,6 +4,7 @@ title = "Arthur (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 A large part of this romantic comedy is quite enjoyable, and helped much

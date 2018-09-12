@@ -4,6 +4,7 @@ title = "Children of Men (2006)"
 
 [taxonomies]
 tags = ['2008-movie', 'masterpiece']
+categories = ['movies']
 +++
 
 The nightmarish way of life portrayed here is about as dark as it gets.

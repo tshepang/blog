@@ -4,6 +4,7 @@ title = "Paper Man (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Too much in here is unbrearably irritating (the two imaginary

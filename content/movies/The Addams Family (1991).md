@@ -4,6 +4,7 @@ title = "The Addams Family (1991)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 It is showing its age (camerawork, direction, visual effects), but still

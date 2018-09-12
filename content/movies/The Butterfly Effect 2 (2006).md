@@ -4,6 +4,7 @@ title = "The Butterfly Effect 2 (2006)"
 
 [taxonomies]
 tags = ['2012-movie', 'substandard']
+categories = ['movies']
 +++
 
 I watched this only because of my great love for [its predecessor]. It

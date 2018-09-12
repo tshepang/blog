@@ -4,6 +4,7 @@ title = "Colombiana (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 For almost it\'s entire running length, it\'s very fast-paced, a fact

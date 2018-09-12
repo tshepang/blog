@@ -1,6 +1,9 @@
 +++
 date = 2008-04-04
 title = "Project Peach"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Quite a lot of things [can go wrong], and quite a lot is involved in

@@ -4,6 +4,7 @@ title = "Captain America: The Winter Soldier (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Far superior to [the disgusting original], this one is even better than

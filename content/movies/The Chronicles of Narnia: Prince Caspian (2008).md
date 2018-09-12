@@ -4,6 +4,7 @@ title = "The Chronicles of Narnia: Prince Caspian (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 As so often happens, it baffles me why so many critics [found this any

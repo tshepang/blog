@@ -4,6 +4,7 @@ title = "The Triplets of Belleville (2003)"
 
 [taxonomies]
 tags = ['good', '2005-movie']
+categories = ['movies']
 +++
 
 Here\'s what I wrote some years ago:

@@ -4,6 +4,7 @@ title = "Brave (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 A big let-down with a shallow and unexciting story, which is a strange

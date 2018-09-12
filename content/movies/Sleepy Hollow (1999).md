@@ -4,6 +4,7 @@ title = "Sleepy Hollow (1999)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 I had great fun watching this. I can\'t even tell which I enjoyed more

@@ -4,6 +4,7 @@ title = "As Good As It Gets (1997)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 There\'s touching moments:

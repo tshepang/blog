@@ -4,6 +4,7 @@ title = "Persona (1966)"
 
 [taxonomies]
 tags = ['average', '2008-movie']
+categories = ['movies']
 +++
 
 Another example of [The Case of \'The Matrix Reloaded\'], this is how I

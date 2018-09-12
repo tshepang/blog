@@ -4,6 +4,7 @@ title = "Fight Club (1999)"
 
 [taxonomies]
 tags = ['masterpiece']
+categories = ['movies']
 +++
 
 What would one say when reviewing what one considers superior to all

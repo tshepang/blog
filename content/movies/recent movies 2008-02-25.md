@@ -1,6 +1,9 @@
 +++
 date = 2008-02-25
 title = "recent movies 2008-02-25"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 The presence of the two leads, Keanu Reeves and Sandra Bullock, made my

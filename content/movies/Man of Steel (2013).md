@@ -4,6 +4,7 @@ title = "Man of Steel (2013)"
 
 [taxonomies]
 tags = ['good', '2013-movie']
+categories = ['movies']
 +++
 
 The visual design is amazing, and it made sense seeing that it was Zack

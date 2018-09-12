@@ -4,6 +4,7 @@ title = "Serpico (1973)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 I was attracted to this because of the story of a guy who exposed police

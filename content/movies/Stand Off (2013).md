@@ -4,6 +4,7 @@ title = "Stand Off (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Nice performance by Brendan Fraser as the lead, and an even better one

@@ -4,6 +4,7 @@ title = "The Dictator (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 With hilarious moments all over the place, much of which is unique,

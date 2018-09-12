@@ -4,6 +4,7 @@ title = "Thor: The Dark World (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 An improvement over [the original], it has far superior visual effects

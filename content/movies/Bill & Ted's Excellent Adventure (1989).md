@@ -4,6 +4,7 @@ title = "Bill & Ted's Excellent Adventure (1989)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 I haven\'t seen this one probably in over ten years, and I remember

@@ -4,6 +4,7 @@ title = "Swordfish (2001)"
 
 [taxonomies]
 tags = ['substandard']
+categories = ['movies']
 +++
 
 John Travolta is interesting but the movie is the opposite, and is badly

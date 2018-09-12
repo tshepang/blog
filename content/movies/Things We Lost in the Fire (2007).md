@@ -4,6 +4,7 @@ title = "Things We Lost in the Fire (2007)"
 
 [taxonomies]
 tags = ['2008-movie', 'average']
+categories = ['movies']
 +++
 
 Halle Barry does a similar character she played in *Monster\'s Ball*,

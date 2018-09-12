@@ -4,6 +4,7 @@ title = "Minions"
 
 [taxonomies]
 tags = ['2015', 'good']
+categories = ['movies']
 +++
 
 I never liked the Minions from the time they were introduced, so I

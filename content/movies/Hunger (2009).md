@@ -4,6 +4,7 @@ title = "Hunger (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 If you put a few people in a hole in which they can\'t escape, and

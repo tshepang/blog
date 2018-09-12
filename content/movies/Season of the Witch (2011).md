@@ -4,6 +4,7 @@ title = "Season of the Witch (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 It started reasonably well and slowly worked its way down into badly

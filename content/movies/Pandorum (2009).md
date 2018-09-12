@@ -4,6 +4,7 @@ title = "Pandorum (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Very nice production and creature design, although both these elements

@@ -4,6 +4,7 @@ title = "Percy Jackson & The Olympians: The Lightning Thief (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 This is a weird one, with a silly title, and nice visual effects, and a

@@ -4,6 +4,7 @@ title = "Transformers: Age of Extinction (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'decent']
+categories = ['movies']
 +++
 
 It\'s the best in the series so far, but I don\'t really see an

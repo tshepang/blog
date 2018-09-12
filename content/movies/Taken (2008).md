@@ -4,6 +4,7 @@ title = "Taken (2008)"
 
 [taxonomies]
 tags = ['2008-movie', 'excellent']
+categories = ['movies']
 +++
 
 A top-notch thriller, complete with enthralling and fast-paced action

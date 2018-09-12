@@ -4,6 +4,7 @@ title = "The Family (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'decent']
+categories = ['movies']
 +++
 
 The two kids are a lot more interesting than the parents in this dark

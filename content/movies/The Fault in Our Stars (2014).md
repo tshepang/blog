@@ -4,6 +4,7 @@ title = "The Fault in Our Stars (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 The most exciting moment is the encounter with the author of the a

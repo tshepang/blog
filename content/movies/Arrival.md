@@ -4,6 +4,7 @@ title = "Arrival"
 
 [taxonomies]
 tags = ['good', '2016']
+categories = ['movies']
 +++
 
 Never have I seen the idea of aliens portrayed with such realism. The

@@ -4,6 +4,7 @@ title = "Breaking the Waves (1996)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 All performances are of good quality, best of which is the best friend

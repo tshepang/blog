@@ -4,6 +4,7 @@ title = "Mindhunters (2004)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 A bit disturbing with a gripping storyline. LL Cool J is an interesting

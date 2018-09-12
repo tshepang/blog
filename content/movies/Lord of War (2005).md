@@ -4,6 +4,7 @@ title = "Lord of War (2005)"
 
 [taxonomies]
 tags = ['good', '2006-movie']
+categories = ['movies']
 +++
 
 Scathing, well-made satire; excellent and exciting during its first

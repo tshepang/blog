@@ -4,6 +4,7 @@ title = "Nanny McPhee (2005)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 I found this one hard to bear. If I saw it first, I would likely not

@@ -1,6 +1,9 @@
 +++
 date = 2010-11-02
 title = "'Sintel' disappoints"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 [Sintel] is the latest movie project by the Blender Foundation, and

@@ -4,6 +4,7 @@ title = "Legend of the Guardians: The Owls of Ga'Hoole (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 intial review

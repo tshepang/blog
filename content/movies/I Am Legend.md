@@ -4,6 +4,7 @@ title = "I Am Legend"
 
 [taxonomies]
 tags = ['decent', '2007']
+categories = ['movies']
 +++
 
 It offers among the most impressive sets in movie history: a Manhattan

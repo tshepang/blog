@@ -4,6 +4,7 @@ title = "Harry Potter and the Order of the Phoenix (2007)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 The battle between arch-villain and Dumbledore is the best action piece

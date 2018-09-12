@@ -4,6 +4,7 @@ title = "God On Trial (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 It\'s amazing that one can take a silly idea, and make a decent movie of

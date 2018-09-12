@@ -4,6 +4,7 @@ title = "Devil's Double (2011)"
 
 [taxonomies]
 tags = ['2013-movie', 'average']
+categories = ['movies']
 +++
 
 This one has the special distinction of having a body double being the

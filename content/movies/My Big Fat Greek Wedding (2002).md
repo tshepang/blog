@@ -4,6 +4,7 @@ title = "My Big Fat Greek Wedding (2002)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 An okay and shallow romantic comedy; there\'s some bad make-up for the

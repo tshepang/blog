@@ -4,6 +4,7 @@ title = "Precious (2009)"
 
 [taxonomies]
 tags = ['2010-movie', 'masterpiece']
+categories = ['movies']
 +++
 
 This is among the most emotionally powerful movies I\'ve seen, a movie

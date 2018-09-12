@@ -4,6 +4,7 @@ date = 2015-06-23
 
 [taxonomies]
 tags = ['list']
+categories = ['movies']
 +++
 
 best performance

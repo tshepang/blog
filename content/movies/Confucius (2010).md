@@ -4,6 +4,7 @@ title = "Confucius (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 An embarassing lead performance by Chow Yun Fat; with the help of

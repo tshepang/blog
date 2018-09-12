@@ -4,6 +4,7 @@ title = "Goodfellas (1990)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 Heavily-overrated with not a single performance worthy of high praise.

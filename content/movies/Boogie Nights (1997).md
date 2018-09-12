@@ -4,6 +4,7 @@ title = "Boogie Nights (1997)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 I watched this several years ago and do not remember being impressed. I

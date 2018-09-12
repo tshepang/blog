@@ -4,6 +4,7 @@ title = "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'unrated']
+categories = ['movies']
 +++
 
 I didn\'t watch the whole of this, the 3rd in the Narnia series. I just

@@ -4,6 +4,7 @@ title = "X-Men: Days of Future Past (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 My favorite character is the super-fast mutant, and my favorite scene is

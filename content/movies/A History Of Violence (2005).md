@@ -4,6 +4,7 @@ title = "A History Of Violence (2005)"
 
 [taxonomies]
 tags = ['good', '2006-movie']
+categories = ['movies']
 +++
 
 Well-made and interesting, but pointless. Maria Bello is as good as

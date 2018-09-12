@@ -4,6 +4,7 @@ title = "Abduction (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 Takes forever to start, and the delay isn\'t filled with good

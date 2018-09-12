@@ -4,6 +4,7 @@ title = "True Grit (1969)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Quality direction can successfully mask an okay storyline. As evidence

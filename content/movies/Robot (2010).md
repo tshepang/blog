@@ -4,6 +4,7 @@ title = "Robot (2010)"
 
 [taxonomies]
 tags = ['average', '2012-movie']
+categories = ['movies']
 +++
 
 Though incredibly shallow, formulaic, and ludicrous, it is entertaining

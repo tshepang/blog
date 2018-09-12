@@ -4,6 +4,7 @@ title = "Spotlight"
 
 [taxonomies]
 tags = ['good', '2015']
+categories = ['movies']
 +++
 
 Great direction and editing work serve this highly-entertaining story

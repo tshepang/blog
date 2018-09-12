@@ -4,6 +4,7 @@ title = "Django Unchained (2012)"
 
 [taxonomies]
 tags = ['good', '2013-movie']
+categories = ['movies']
 +++
 
 Lots of humor, brutality (the suffering of the slaves is just too

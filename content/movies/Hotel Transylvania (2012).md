@@ -4,6 +4,7 @@ title = "Hotel Transylvania (2012)"
 
 [taxonomies]
 tags = ['average', '2013-movie']
+categories = ['movies']
 +++
 
 Nothing fresh here as I expected, judging by the trailer. There is also

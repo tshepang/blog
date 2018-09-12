@@ -4,6 +4,7 @@ title = "Kung Fu Panda 2 (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 I enjoyed this even more than the first time (which wasn\'t the case

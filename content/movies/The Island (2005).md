@@ -4,6 +4,7 @@ title = "The Island (2005)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 There was some serious weaknesses with the plot (e.g. the clone of

@@ -4,6 +4,7 @@ title = "Showgirls (1995)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 Back then when I saw it for the first time, I was excessively impressed

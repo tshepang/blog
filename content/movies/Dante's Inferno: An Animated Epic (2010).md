@@ -4,6 +4,7 @@ title = "Dante's Inferno: An Animated Epic (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 An entertaining fantasy about some heroic warrior fighting demons in

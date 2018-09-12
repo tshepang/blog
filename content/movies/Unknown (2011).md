@@ -4,6 +4,7 @@ title = "Unknown (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 First review:

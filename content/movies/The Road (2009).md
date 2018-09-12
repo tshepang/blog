@@ -4,6 +4,7 @@ title = "The Road (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 It is better than the annoying [\*The Book of Eli\*], but not as

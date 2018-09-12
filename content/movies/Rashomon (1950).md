@@ -4,6 +4,7 @@ title = "Rashomon (1950)"
 
 [taxonomies]
 tags = ['average', '2009-movie']
+categories = ['movies']
 +++
 
 Of the highest-rated of Akira Kirosawa\'s movies, *Rashomon* is given

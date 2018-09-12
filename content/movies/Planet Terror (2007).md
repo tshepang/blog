@@ -4,6 +4,7 @@ title = "Planet Terror (2007)"
 
 [taxonomies]
 tags = ['2008-movie', 'good']
+categories = ['movies']
 +++
 
 Robert Rodriguez is a strange director. He is a good director, but he

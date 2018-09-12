@@ -1,6 +1,9 @@
 +++
 date = 2007-06-22
 title = "revisiting 'Office Space' and 'Lola Rennt'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 It\'s interesting to note that, before revisiting these two, I

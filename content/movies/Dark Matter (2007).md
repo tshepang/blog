@@ -4,6 +4,7 @@ title = "Dark Matter (2007)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 The story is quite original: our hero is a boy genius and the villain is

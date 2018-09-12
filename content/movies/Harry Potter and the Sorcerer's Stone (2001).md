@@ -4,6 +4,7 @@ title = "Harry Potter and the Sorcerer's Stone (2001)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 Two things I enjoyed most:

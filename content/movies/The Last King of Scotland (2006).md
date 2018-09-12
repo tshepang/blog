@@ -4,6 +4,7 @@ title = "The Last King of Scotland (2006)"
 
 [taxonomies]
 tags = ['2007-movie', 'good']
+categories = ['movies']
 +++
 
 The are three performances that stand out:

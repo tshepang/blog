@@ -4,6 +4,7 @@ title = "The Ides of March (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 I expected a far more hard-hitting story, considering this is a modern

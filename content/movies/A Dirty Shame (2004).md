@@ -4,6 +4,7 @@ title = "A Dirty Shame (2004)"
 
 [taxonomies]
 tags = ['2012-movie', 'bad']
+categories = ['movies']
 +++
 
 I enjoyed watching the faces made by the lead actor. Some funny shit.

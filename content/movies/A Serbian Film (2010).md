@@ -4,6 +4,7 @@ title = "A Serbian Film (2010)"
 
 [taxonomies]
 tags = ['2013-movie', 'decent']
+categories = ['movies']
 +++
 
 Less shocking than I expected, given how notorious it is. It\'s also not

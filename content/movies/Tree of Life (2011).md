@@ -4,6 +4,7 @@ title = "Tree of Life (2011)"
 
 [taxonomies]
 tags = ['2014-movie', 'decent']
+categories = ['movies']
 +++
 
 There is a lot of wonderful editing and gorgeous shots, most especially

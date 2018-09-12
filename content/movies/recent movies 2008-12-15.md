@@ -1,6 +1,9 @@
 +++
 date = 2008-12-15
 title = "recent movies 2008-12-15"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 What I saw in *Step Up 2: The Streets* is among the best hip-hop dancing

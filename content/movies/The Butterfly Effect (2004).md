@@ -4,6 +4,7 @@ title = "The Butterfly Effect (2004)"
 
 [taxonomies]
 tags = ['2006-movie', 'excellent']
+categories = ['movies']
 +++
 
 I once hailed this as a masterpiece, and though it remains excellent,

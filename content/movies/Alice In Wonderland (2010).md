@@ -4,6 +4,7 @@ title = "Alice In Wonderland (2010)"
 
 [taxonomies]
 tags = ['2010-movie', 'good']
+categories = ['movies']
 +++
 
 There\'s a number of enchanting moments, and Alice is sweet to the eye;

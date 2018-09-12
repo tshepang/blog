@@ -4,6 +4,7 @@ title = "Penance (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 An okay torture movie where a number of strippers get abducted by a

@@ -1,6 +1,9 @@
 +++
 date = 2007-11-05
 title = "recent movies 2007-11-05"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 *Three Colours Blue* showcases wonderful cinematography (among the

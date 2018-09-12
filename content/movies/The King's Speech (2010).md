@@ -4,6 +4,7 @@ title = "The King's Speech (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Geoffrey Rush, who plays the speech therapist, gives an amazing

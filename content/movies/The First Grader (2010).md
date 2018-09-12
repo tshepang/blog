@@ -4,6 +4,7 @@ title = "The First Grader (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Touching drama about the oldest person (84) to start formal primary

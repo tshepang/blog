@@ -1,6 +1,9 @@
 +++
 date = 2008-10-12
 title = "recent movies 2008-10-12"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 It\'s strange that Spike Lee covered 2 issues, cheating and racism, in a

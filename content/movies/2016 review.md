@@ -4,6 +4,7 @@ date = 2017-08-09
 
 [taxonomies]
 tags = ['year-review', '2016']
+categories = ['movies']
 +++
 
 The **best movie** of the year is [Captain Fantastic]. The movie also

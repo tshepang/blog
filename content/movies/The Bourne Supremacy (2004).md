@@ -4,6 +4,7 @@ title = "The Bourne Supremacy (2004)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 All is better/bigger than the original: the intensity of the story, the

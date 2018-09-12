@@ -4,6 +4,7 @@ title = "Hanna (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 A pathetic attempt at a nuanced, quietly stylistic assassin movie, which

@@ -1,6 +1,9 @@
 +++
 date = 2009-10-20
 title = "revisiting 'Breakfast Club'"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I remember with great fondness what an impact *Breakfast Club* had on me

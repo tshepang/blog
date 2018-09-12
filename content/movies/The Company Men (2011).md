@@ -4,6 +4,7 @@ title = "The Company Men (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 Smooth, laid-back direction, with nice sets; It\'s a small peak at the

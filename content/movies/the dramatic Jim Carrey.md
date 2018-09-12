@@ -1,6 +1,9 @@
 +++
 date = 2007-09-11
 title = "the dramatic Jim Carrey"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I recently watched The Number 23 (gorgeously shot, especially the

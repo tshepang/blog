@@ -4,6 +4,7 @@ title = "Alpha & Omega (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 Stale (nothing new) and second-rate animation and story; the main love

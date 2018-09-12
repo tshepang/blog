@@ -4,6 +4,7 @@ title = "The Avengers (2012)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 I found [Thor] very unsatisfactory, the 2 recent Hulk movies very

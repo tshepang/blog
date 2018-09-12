@@ -4,6 +4,7 @@ title = "Bamboozled (2000)"
 
 [taxonomies]
 tags = ['masterpiece']
+categories = ['movies']
 +++
 
 I last watched *Bamboozled* perhaps a decade ago, and I\'m glad to say

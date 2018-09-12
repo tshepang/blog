@@ -4,6 +4,7 @@ title = "Silent Hill: Revelation (2012)"
 
 [taxonomies]
 tags = ['average', '2013-movie']
+categories = ['movies']
 +++
 
 [Pyramid Head] is back, this time with someone tough enough to fight

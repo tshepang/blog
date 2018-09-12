@@ -4,6 +4,7 @@ title = "Asterix and the Vikings (2006)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 I always found the characters of Asterix & Obelix series fascinating.

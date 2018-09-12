@@ -4,6 +4,7 @@ title = "Friends with Money"
 
 [taxonomies]
 tags = ['decent', '2006']
+categories = ['movies']
 +++
 
 Not quite as good as on first viewing (it felt a hell of a lot of fresh

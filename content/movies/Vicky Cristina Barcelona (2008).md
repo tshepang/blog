@@ -4,6 +4,7 @@ title = "Vicky Cristina Barcelona (2008)"
 
 [taxonomies]
 tags = ['2010-movie', 'decent']
+categories = ['movies']
 +++
 
 This is one of those strange movies that I enjoy heavily on first

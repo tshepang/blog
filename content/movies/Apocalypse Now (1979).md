@@ -4,6 +4,7 @@ title = "Apocalypse Now (1979)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 The first hour is nothing short of masterful. I\'m referring here to

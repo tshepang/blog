@@ -4,6 +4,7 @@ title = "Transformers (2007)"
 
 [taxonomies]
 tags = ['2007-movie', 'substandard']
+categories = ['movies']
 +++
 
 first review (2007)

@@ -4,6 +4,7 @@ title = "Zatoichi and the One-Armed Swordsman"
 
 [taxonomies]
 tags = ['decent', '1971']
+categories = ['movies']
 +++
 
 By the far the most interesting performance is the lead. He pretty much

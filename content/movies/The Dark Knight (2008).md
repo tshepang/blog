@@ -4,6 +4,7 @@ title = "The Dark Knight (2008)"
 
 [taxonomies]
 tags = ['2008-movie', 'decent']
+categories = ['movies']
 +++
 
 I can\'t really express the excitement the movie induced into me, mainly

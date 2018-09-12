@@ -4,6 +4,7 @@ title = "The Expendables 3"
 
 [taxonomies]
 tags = ['2014-movie', 'average']
+categories = ['movies']
 +++
 
 I liked a few things:

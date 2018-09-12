@@ -4,6 +4,7 @@ title = "Henry: Portrait of a Serial Killer"
 
 [taxonomies]
 tags = ['2013-movie', 'good']
+categories = ['movies']
 +++
 
 A very enjoyable story with some very interesting performances, most

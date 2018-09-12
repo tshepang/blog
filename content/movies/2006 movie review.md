@@ -4,6 +4,7 @@ title = "2006 movie review"
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 movie of the year

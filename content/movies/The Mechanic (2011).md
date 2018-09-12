@@ -4,6 +4,7 @@ title = "The Mechanic"
 
 [taxonomies]
 tags = ['2011', 'average']
+categories = ['movies']
 +++
 
 A stupid story, with two things worthy of mention:

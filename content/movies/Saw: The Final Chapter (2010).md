@@ -4,6 +4,7 @@ title = "Saw: The Final Chapter (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 An early scene, involving the gal cheating on two guys, was very

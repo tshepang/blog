@@ -4,6 +4,7 @@ title = "Repo Men (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 Not intense enough to do justice to the subject matter, perhaps due to

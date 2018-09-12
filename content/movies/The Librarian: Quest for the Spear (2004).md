@@ -4,6 +4,7 @@ title = "The Librarian: Quest for the Spear (2004)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Desperate in need of a decent budget (it\'s a fantasy after all); the

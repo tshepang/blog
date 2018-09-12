@@ -4,6 +4,7 @@ title = "The Wolverine (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 A lot better than [its predecessor], it is even more unusual in that it

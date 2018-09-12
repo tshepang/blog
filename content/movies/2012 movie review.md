@@ -4,6 +4,7 @@ title = "2012 movie review"
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 It is a pity that this year lacks any excellent movies, never mind a

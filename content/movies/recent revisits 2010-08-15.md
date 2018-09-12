@@ -1,6 +1,9 @@
 +++
 date = 2010-08-15
 title = "recent revisits 2010-08-15"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 The gal in *Hitman* is damn desirable, the movie so average (but I like

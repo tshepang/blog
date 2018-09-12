@@ -4,6 +4,7 @@ title = "The Iceman (2012)"
 
 [taxonomies]
 tags = ['good', '2014-movie']
+categories = ['movies']
 +++
 
 [Michael Shannon] gives an excellent and unusual performance as a

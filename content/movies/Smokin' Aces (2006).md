@@ -4,6 +4,7 @@ title = "Smokin' Aces (2006)"
 
 [taxonomies]
 tags = ['masterpiece']
+categories = ['movies']
 +++
 
 This movie is intense and has so many gems spread all over it that I\'m

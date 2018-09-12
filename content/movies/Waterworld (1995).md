@@ -4,6 +4,7 @@ title = "Waterworld (1995)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 It\'s without any decent dialog, but the story makes it fun to watch.

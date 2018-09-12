@@ -4,6 +4,7 @@ title = "The Firm (1993)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 An reasonably enjoyable movie that is sadly showing its age. Luckily

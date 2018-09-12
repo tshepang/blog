@@ -4,6 +4,7 @@ title = "Curious George (2006)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 The uninteresting first scene, that of the playful title character

@@ -4,6 +4,7 @@ title = "The Puppet Masters (1994)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 Its concept of mind-controlling parasites is quite interesting, but its

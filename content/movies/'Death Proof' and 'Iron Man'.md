@@ -1,6 +1,9 @@
 +++
 date = 2008-10-01
 title = "Death Proof (2008)"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Kurt Russel gives a good performance, and I don\'t remember enjoying any

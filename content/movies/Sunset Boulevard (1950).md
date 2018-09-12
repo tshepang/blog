@@ -4,6 +4,7 @@ title = "Sunset Boulevard (1950)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 This one is typical of those unbearable age-old Hollywood movies. It\'s

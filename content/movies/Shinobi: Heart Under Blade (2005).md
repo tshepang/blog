@@ -4,6 +4,7 @@ title = "Shinobi: Heart Under Blade (2005)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Oriental fantasy is my kinda movie genre. The characters in this one are

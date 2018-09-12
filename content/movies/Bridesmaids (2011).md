@@ -4,6 +4,7 @@ title = "Bridesmaids (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'good']
+categories = ['movies']
 +++
 
 My memory sucks but this is the best chick flick I\'ve seen yet.

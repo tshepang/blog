@@ -4,6 +4,7 @@ title = "Love Actually (2003)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 There\'s a delightful/fresh feel to it and there\'s a bunch of fun

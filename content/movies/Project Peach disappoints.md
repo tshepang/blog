@@ -1,6 +1,9 @@
 +++
 date = 2008-06-04
 title = "Project Peach disappoints"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 To someone uninitiated with the technicalities of 3D animation, Big Buck

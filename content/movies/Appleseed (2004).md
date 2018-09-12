@@ -4,6 +4,7 @@ title = "Appleseed (2004)"
 
 [taxonomies]
 tags = ['good', '2008-movie']
+categories = ['movies']
 +++
 
 In animation, I don\'t remember seeing a face of a female character as

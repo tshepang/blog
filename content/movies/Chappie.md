@@ -4,6 +4,7 @@ title = "Chappie"
 
 [taxonomies]
 tags = ['2015', 'good']
+categories = ['movies']
 +++
 
 Hugh Jackman did a good job here, more impressive the anything else

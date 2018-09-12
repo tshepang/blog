@@ -4,6 +4,7 @@ title = "Monty Python's The Meaning Of Life (1983)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Lots of excellent humor (*the machine that goes PING*, *welcome to the

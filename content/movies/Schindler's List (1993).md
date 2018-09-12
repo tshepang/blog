@@ -4,6 +4,7 @@ title = "Schindler's List (1993)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 I haven\'t seen this one probably in over ten years, and it\'s not quite

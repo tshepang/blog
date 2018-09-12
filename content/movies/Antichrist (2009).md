@@ -4,6 +4,7 @@ title = "Antichrist (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 A couple is going through a period of immense pain in their life,

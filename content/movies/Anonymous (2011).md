@@ -4,6 +4,7 @@ title = "Anonymous (2011)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 I praised the costume and production design when the movie began, but

@@ -4,6 +4,7 @@ title = "Sex And The City (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Someone might feel a need to slap me on my wrist, but I\'m seriuosly not

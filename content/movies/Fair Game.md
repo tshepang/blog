@@ -4,6 +4,7 @@ title = "Fair Game"
 
 [taxonomies]
 tags = ['good', '2011']
+categories = ['movies']
 +++
 
 My favorite moment is in the beginning of the movie, where the lead

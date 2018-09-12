@@ -1,6 +1,9 @@
 +++
 date = 2009-01-02
 title = "recent revisits 2009-01-02"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I don\'t remember Cate Blanchett as lovely as she appears in *Veronica

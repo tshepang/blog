@@ -4,6 +4,7 @@ title = "Iron Man 3 (2013)"
 
 [taxonomies]
 tags = ['decent', '2013-movie']
+categories = ['movies']
 +++
 
 For my most anticipated movie of this year, this was

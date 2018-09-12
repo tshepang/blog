@@ -4,6 +4,7 @@ title = "No Country for Old Men (2007)"
 
 [taxonomies]
 tags = ['2008-movie', 'good']
+categories = ['movies']
 +++
 
 With tremendous suspense, superb performances, great cinematography as

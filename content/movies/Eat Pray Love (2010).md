@@ -4,6 +4,7 @@ title = "Eat Pray Love (2010)"
 
 [taxonomies]
 tags = ['2010-movie', 'average']
+categories = ['movies']
 +++
 
 I found this one really unbearable and boring. There is decent acting,

@@ -4,6 +4,7 @@ title = "The Lincoln Lawyer (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 2012-10-21 review:

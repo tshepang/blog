@@ -4,6 +4,7 @@ title = "Transformers: Revenge of the Fallen (2009)"
 
 [taxonomies]
 tags = ['2009-movie', 'substandard']
+categories = ['movies']
 +++
 
 first review (2009)

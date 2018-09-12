@@ -4,6 +4,7 @@ title = "Ex Machina"
 
 [taxonomies]
 tags = ['2015', 'good']
+categories = ['movies']
 +++
 
 Fascinating, with an eery feel that\'s accentuated by the overly loud

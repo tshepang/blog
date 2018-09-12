@@ -4,6 +4,7 @@ title = "Waking Life (2001)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 Of all the (multiple) conversations the lead character has, my most

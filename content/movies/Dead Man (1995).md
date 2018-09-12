@@ -4,6 +4,7 @@ title = "Dead Man (1995)"
 
 [taxonomies]
 tags = ['2006-movie', 'decent']
+categories = ['movies']
 +++
 
 A bizarre and sleep-inducing work, this dark comedy has its moments:

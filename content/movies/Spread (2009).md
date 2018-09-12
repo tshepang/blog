@@ -4,6 +4,7 @@ title = "Spread (2009)"
 
 [taxonomies]
 tags = ['good', '2010-movie']
+categories = ['movies']
 +++
 
 Quality direction, production design, cinematography, and cast. A decent

@@ -4,6 +4,7 @@ title = "Doubt (2008)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 Possessing some of the best works of cinematography and production

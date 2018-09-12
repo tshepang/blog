@@ -4,6 +4,7 @@ title = "The Hitchhikers Guide to the Galaxy (2005)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 3 things I really like:

@@ -4,6 +4,7 @@ title = "Mandingo (1975)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 I remember watching this one quite long ago, perhaps less than the age

@@ -4,6 +4,7 @@ title = "I Hate Valentine's Day (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 This was dealt a harsh blow by critics and, although I don\'t like it

@@ -4,6 +4,7 @@ title = "Downfall (2004)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 I don\'t recall ever seeing such extreme loyalty and devotion to a

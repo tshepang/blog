@@ -1,6 +1,9 @@
 +++
 date = 2008-06-28
 title = "spoilt fun"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 *The Lookout* has got the year\'s worst fuck-up so far. How could one

@@ -4,6 +4,7 @@ title = "All About My Mother (1999)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 Sure it\'s a decent offering, with good acting from all the females, but

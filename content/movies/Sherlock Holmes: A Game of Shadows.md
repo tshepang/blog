@@ -4,6 +4,7 @@ title = "Sherlock Holmes: A Game of Shadows"
 
 [taxonomies]
 tags = ['good', '2011']
+categories = ['movies']
 +++
 
 Robert Downey Jr. is a lot of fun to watch and so is Stephen Fry, who

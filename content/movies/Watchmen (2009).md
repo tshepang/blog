@@ -4,6 +4,7 @@ title = "Watchmen (2009)"
 
 [taxonomies]
 tags = ['decent', '2009-movie']
+categories = ['movies']
 +++
 
 Watchmen is bizarre in a delightful manner, though it has annoying black

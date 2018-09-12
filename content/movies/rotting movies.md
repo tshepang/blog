@@ -1,6 +1,9 @@
 +++
 date = 2007-06-07
 title = "rotting movies"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 I recently revisited *The Fifth Element* (which I honored for its

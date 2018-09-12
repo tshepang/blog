@@ -4,6 +4,7 @@ title = "How To Train Your Dragon (2010)"
 
 [taxonomies]
 tags = ['decent', '2010-movie']
+categories = ['movies']
 +++
 
 It was lots more impressive on first viewing. This time around, I found

@@ -4,6 +4,7 @@ title = "X-Men 3: The Last Stand (2006)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 The worst in the trilogy, it makes one appreciate its [immediate

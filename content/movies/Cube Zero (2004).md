@@ -4,6 +4,7 @@ title = "Cube Zero (2004)"
 
 [taxonomies]
 tags = ['2013-movie', 'average']
+categories = ['movies']
 +++
 
 A rather disappointing, and possibly last, sequel of the series. I

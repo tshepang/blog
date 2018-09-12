@@ -1,6 +1,9 @@
 +++
 date = 2008-05-01
 title = "The Hunted (2003)"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 The Hunted does a great job on engaging me in a way reminiscent of

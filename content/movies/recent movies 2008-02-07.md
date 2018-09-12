@@ -1,6 +1,9 @@
 +++
 date = 2008-02-07
 title = "recent movies 2008-02-07"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 The strange thing about the *Three Colours* trilogy is that it feels the

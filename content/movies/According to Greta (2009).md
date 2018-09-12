@@ -4,6 +4,7 @@ title = "According to Greta (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 It\'s well-made and has decent acting, but offers nothing new, with the

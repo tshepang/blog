@@ -4,6 +4,7 @@ title = "X-Men Origins: Wolverine (2009)"
 
 [taxonomies]
 tags = ['2009-movie', 'substandard']
+categories = ['movies']
 +++
 
 The worst in the X-Men movies, it just feels like an excuse to milk the

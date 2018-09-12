@@ -4,6 +4,7 @@ title = "Real Steel (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 The kid actor playing the lead\'s son, Dakota Goyo, gives a real good

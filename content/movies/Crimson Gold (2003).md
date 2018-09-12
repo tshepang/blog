@@ -4,6 +4,7 @@ title = "Crimson Gold (2003)"
 
 [taxonomies]
 tags = ['2011-movie', 'excellent']
+categories = ['movies']
 +++
 
 This is a one-of-a-kind movie (almost) following a small-time

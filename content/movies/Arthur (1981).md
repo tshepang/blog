@@ -4,6 +4,7 @@ title = "Arthur (1981)"
 
 [taxonomies]
 tags = ['substandard', '2012-movie']
+categories = ['movies']
 +++
 
 [The world\'s critics] amaze me again, with their love for this

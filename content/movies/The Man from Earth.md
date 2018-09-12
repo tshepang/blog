@@ -4,6 +4,7 @@ title = "The Man from Earth"
 
 [taxonomies]
 tags = ['2007', 'decent']
+categories = ['movies']
 +++
 
 For a movie that is almost entirely made of dialog, this is exciting.

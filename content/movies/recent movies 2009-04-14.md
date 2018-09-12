@@ -1,6 +1,9 @@
 +++
 date = 2009-04-14
 title = "recent movies 2009-04-14"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 Me don\'t quite know what to make of the well-made *Seven Pounds*,

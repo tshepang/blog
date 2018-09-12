@@ -4,6 +4,7 @@ title = "Farmhouse (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Edgy as horror movies tend to be, nothing special; an extremely bad

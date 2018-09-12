@@ -4,6 +4,7 @@ title = "L.A. Confidential (1997)"
 
 [taxonomies]
 tags = ['excellent']
+categories = ['movies']
 +++
 
 It has lost some of the intensity and edginess of the earlier viewings,

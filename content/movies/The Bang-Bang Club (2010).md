@@ -4,6 +4,7 @@ title = "The Bang-Bang Club (2010)"
 
 [taxonomies]
 tags = ['2012-movie', 'good']
+categories = ['movies']
 +++
 
 Comments on articles tend to be bad, and if you are lucky, just decent.

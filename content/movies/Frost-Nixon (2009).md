@@ -4,6 +4,7 @@ title = "Frost/Nixon (2009)"
 
 [taxonomies]
 tags = ['good', '2009-movie']
+categories = ['movies']
 +++
 
 Frank Langella, a decent actor, is a little embarassing when portraying

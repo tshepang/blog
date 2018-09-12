@@ -4,6 +4,7 @@ title = "The Duel (2000)"
 
 [taxonomies]
 tags = ['average']
+categories = ['movies']
 +++
 
 The character of the king\'s investigator, with humorous and laid-back

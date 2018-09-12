@@ -4,6 +4,7 @@ title = "Changeling (2008)"
 
 [taxonomies]
 tags = ['2009-movie', 'good']
+categories = ['movies']
 +++
 
 The movie has some great elements: production design, costume design,

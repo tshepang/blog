@@ -4,6 +4,7 @@ title = "Zombieland (2009)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 It starts very well, with well-made visuals of zombie attacks, and a

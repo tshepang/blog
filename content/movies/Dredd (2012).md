@@ -4,6 +4,7 @@ title = "Dredd (2012)"
 
 [taxonomies]
 tags = ['good', '2013-movie']
+categories = ['movies']
 +++
 
 Not really a remake, nor even an alternative take, but more like \'based

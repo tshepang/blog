@@ -4,6 +4,7 @@ title = "One Day (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 What\'s up with people making depressing movies? This one is pretty

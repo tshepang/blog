@@ -1,6 +1,9 @@
 +++
 date = 2010-07-13
 title = "Citizen Kane (1941)"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 So I checked out *Citizen Kane* again (last time was maybe 8 years ago),

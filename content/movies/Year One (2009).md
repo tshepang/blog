@@ -4,6 +4,7 @@ title = "Year One (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 A fun and lazily-written movie set in ancient mythical times; there\'s a

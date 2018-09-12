@@ -4,6 +4,7 @@ title = "2013 movie review"
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 Not such a great year at the movies, even worse than [last year], though

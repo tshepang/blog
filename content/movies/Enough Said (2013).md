@@ -4,6 +4,7 @@ title = "Enough Said (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 The lead gives an amazing and charming performance. James Gandolfino is

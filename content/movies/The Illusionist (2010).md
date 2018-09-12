@@ -4,6 +4,7 @@ title = "The Illusionist (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 It starts impressively well (the backstage, complete with the bony lady)

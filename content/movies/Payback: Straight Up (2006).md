@@ -4,6 +4,7 @@ title = "Payback: Straight Up (2006)"
 
 [taxonomies]
 tags = ['excellent', '2013-movie']
+categories = ['movies']
 +++
 
 This is the most extensive Director\'s Cut I\'ve seen yet. There is so

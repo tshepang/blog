@@ -4,6 +4,7 @@ title = "Good People (2014)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 It has good direction and acting (I\'ve never seen Tom Wilkinson this

@@ -4,6 +4,7 @@ title = "Looper (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'average']
+categories = ['movies']
 +++
 
 I dislike the overly-loud banging sounds, which mostly emanate from the

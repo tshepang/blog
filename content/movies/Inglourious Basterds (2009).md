@@ -4,6 +4,7 @@ title = "Inglourious Basterds (2009)"
 
 [taxonomies]
 tags = ['excellent', '2009-movie']
+categories = ['movies']
 +++
 
 The first scene is top-class, for the performance of the weary farmer

@@ -4,6 +4,7 @@ title = "Iron Man"
 
 [taxonomies]
 tags = ['excellent', '2008']
+categories = ['movies']
 +++
 
 The best superhero movie made so far, I was amazed it held its

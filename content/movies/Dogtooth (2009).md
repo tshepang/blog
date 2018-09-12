@@ -4,6 +4,7 @@ title = "Dogtooth (2009)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 I kept waiting for an explanation of why the couple kept their kids

@@ -4,6 +4,7 @@ title = "Marley and Me (2008)"
 
 [taxonomies]
 tags = ['decent', '2013-movie']
+categories = ['movies']
 +++
 
 One thing of note is the care regarding the impressive performance of

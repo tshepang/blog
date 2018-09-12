@@ -4,6 +4,7 @@ title = "The Rainmaker (1997)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 I was surprised to find that this movie was made by the legendary

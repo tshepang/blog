@@ -4,6 +4,7 @@ title = "The Hunger Games: Catching Fire (2013)"
 
 [taxonomies]
 tags = ['average', '2014-movie']
+categories = ['movies']
 +++
 
 More bearable than [the first movie], with amazing visual designs: check

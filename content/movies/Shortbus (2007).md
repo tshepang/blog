@@ -4,6 +4,7 @@ title = "Shortbus (2007)"
 
 [taxonomies]
 tags = ['decent', '2007-movie']
+categories = ['movies']
 +++
 
 The characters in this movie express sexual desire to levels most people

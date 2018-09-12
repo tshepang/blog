@@ -4,6 +4,7 @@ title = "Cloudy With A Chance Of Meatballs (2009)"
 
 [taxonomies]
 tags = ['good', '2012-movie']
+categories = ['movies']
 +++
 
 It starts off amazingly well, with the same level of movie magic offered

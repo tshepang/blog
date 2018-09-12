@@ -4,6 +4,7 @@ title = "Cemetery Junction (2010)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 It got the same sort of camerawork and set design (set about the same

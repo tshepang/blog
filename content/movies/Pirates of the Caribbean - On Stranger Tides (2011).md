@@ -4,6 +4,7 @@ title = "Pirates of the Caribbean - On Stranger Tides (2011)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Far less spectacular and less annoying (there\'s no Keira Knighley or

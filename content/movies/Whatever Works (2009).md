@@ -4,6 +4,7 @@ title = "Whatever Works (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 Its being very feel-good is ironic, given that its main character is as

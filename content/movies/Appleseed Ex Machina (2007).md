@@ -4,6 +4,7 @@ title = "Appleseed Ex Machina (2007)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 The lead character from [the first movie] takes a backseat somewhat,

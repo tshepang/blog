@@ -4,6 +4,7 @@ date = 2015-06-20
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 movie of the year

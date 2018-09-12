@@ -4,6 +4,7 @@ title = "(500) Days of Summer (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'substandard']
+categories = ['movies']
 +++
 
 Tries so hard to be fresh, and although its back-and-forth is unique, it

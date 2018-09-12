@@ -4,6 +4,7 @@ title = "The Invincible Iron Man (2007)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 It was strange watching this one, for the story is so different from the

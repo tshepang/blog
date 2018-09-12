@@ -4,6 +4,7 @@ title = "Network (1976)"
 
 [taxonomies]
 tags = ['2009-movie', 'good']
+categories = ['movies']
 +++
 
 Here\'s what I wrote in 2009:

@@ -4,6 +4,7 @@ title = "Tinker Tailor Soldier Spy (2011)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 It is one of those movies with a plot so complex that me got lost very

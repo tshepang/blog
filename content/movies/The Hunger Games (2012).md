@@ -4,6 +4,7 @@ title = "The Hunger Games (2012)"
 
 [taxonomies]
 tags = ['2012-movie', 'substandard']
+categories = ['movies']
 +++
 
 If we ignore the shallow non-sense about Americanism, I find [this

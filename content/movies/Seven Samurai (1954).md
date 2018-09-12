@@ -4,6 +4,7 @@ title = "Seven Samurai (1954)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 For a movie made in the sixties, I found the camerawork impressive.

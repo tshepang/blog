@@ -4,6 +4,7 @@ date = 2014-12-22
 
 [taxonomies]
 tags = ['year-movie-review']
+categories = ['movies']
 +++
 
 The year started with a whole lot of stellar performers but slowed down

@@ -4,6 +4,7 @@ title = "Final Destination 5 (2011)"
 
 [taxonomies]
 tags = ['2013-movie', 'decent']
+categories = ['movies']
 +++
 
 I liked a few things:

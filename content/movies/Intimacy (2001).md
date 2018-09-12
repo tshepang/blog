@@ -4,6 +4,7 @@ title = "Intimacy (2001)"
 
 [taxonomies]
 tags = ['good']
+categories = ['movies']
 +++
 
 [Kerry Fox] is amazing as a character cheating on husband, while the guy

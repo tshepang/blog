@@ -4,6 +4,7 @@ title = "Battleship (2012)"
 
 [taxonomies]
 tags = ['decent', '2012-movie']
+categories = ['movies']
 +++
 
 Real nice visual effects, some of the best I\'ve seen yet:

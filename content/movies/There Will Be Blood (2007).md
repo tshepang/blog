@@ -4,6 +4,7 @@ title = "There Will Be Blood (2007)"
 
 [taxonomies]
 tags = ['good', '2009-movie']
+categories = ['movies']
 +++
 
 Here is how I felt on first viewing:

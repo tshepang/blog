@@ -4,6 +4,7 @@ title = "G.I. Joe: The Rise of Cobra (2009)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 Nice visual effects (check the suits) help rescue the shitty and

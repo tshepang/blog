@@ -1,6 +1,9 @@
 +++
 date = 2010-08-30
 title = "recent revisits 2010-08-30"
+
+[taxonomies]
+categories = ['movies']
 +++
 
 [I Think I Love My Wife], [Dirty][I Think I Love My Wife], & *Seven

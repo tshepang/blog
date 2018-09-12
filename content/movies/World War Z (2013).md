@@ -4,6 +4,7 @@ title = "World War Z (2013)"
 
 [taxonomies]
 tags = ['decent', '2013-movie']
+categories = ['movies']
 +++
 
 The family-focus thing is boring, and so is the overly-heroic antics of

@@ -4,6 +4,7 @@ title = "Angel Heart (1987)"
 
 [taxonomies]
 tags = ['2011-movie', 'average']
+categories = ['movies']
 +++
 
 There\'s at least moment where Mickey Rourke shines, where he bullies an

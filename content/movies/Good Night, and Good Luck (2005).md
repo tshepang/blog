@@ -4,6 +4,7 @@ title = "Good Night, and Good Luck (2005)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 Here\'s what a revisit felt like, back in 2010:

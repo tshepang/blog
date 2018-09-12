@@ -4,6 +4,7 @@ title = "Baise-moi (2000)"
 
 [taxonomies]
 tags = ['excellent', '2009-movie']
+categories = ['movies']
 +++
 
 A low-key French-language and less cartoonish answer to *Natural Born

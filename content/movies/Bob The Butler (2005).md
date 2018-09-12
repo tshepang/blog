@@ -4,6 +4,7 @@ title = "Bob The Butler (2005)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 It\'s a recycled story of a guy who appears to be a loser, but happens

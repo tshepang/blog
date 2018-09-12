@@ -4,6 +4,7 @@ title = "Kubo And The Two Strings"
 
 [taxonomies]
 tags = ['good', '2016']
+categories = ['movies']
 +++
 
 It got some very nice visuals in moments where magic occurs. The dialog

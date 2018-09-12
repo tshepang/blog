@@ -4,6 +4,7 @@ title = "Incendies (2010)"
 
 [taxonomies]
 tags = ['good', '2014-movie']
+categories = ['movies']
 +++
 
 A very rough twist/revelation happens near the end, and that alone makes

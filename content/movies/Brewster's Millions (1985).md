@@ -4,6 +4,7 @@ title = "Brewster's Millions (1985)"
 
 [taxonomies]
 tags = ['2011-movie', 'decent']
+categories = ['movies']
 +++
 
 A very delightful and shallow comedy about a guy who is to spend

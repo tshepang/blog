@@ -4,6 +4,7 @@ title = "Hell Ride (2008)"
 
 [taxonomies]
 tags = ['2011-movie', 'bad']
+categories = ['movies']
 +++
 
 Another Tarantino copycat, perhaps the worst I\'ve seen yet. Michael

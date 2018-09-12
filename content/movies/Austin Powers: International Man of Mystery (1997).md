@@ -4,6 +4,7 @@ title = "Austin Powers: International Man of Mystery (1997)"
 
 [taxonomies]
 tags = ['decent']
+categories = ['movies']
 +++
 
 There is good humor here and there, some of which is unique. Check for

@@ -4,6 +4,7 @@ title = "The Hobbit: An Unexpected Journey (2012)"
 
 [taxonomies]
 tags = ['average', '2013-movie']
+categories = ['movies']
 +++
 
 Smeagol/Gollum is among the legendary movie characters, and I felt he

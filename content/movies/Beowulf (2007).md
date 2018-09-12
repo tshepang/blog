@@ -4,6 +4,7 @@ title = "Beowulf (2007)"
 
 [taxonomies]
 tags = ['decent', '2007-movie']
+categories = ['movies']
 +++
 
 I enjoyed this old-fashioned and take on fantasy heroism a lot more

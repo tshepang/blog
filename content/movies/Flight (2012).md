@@ -4,6 +4,7 @@ title = "Flight (2012)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 I find it daring to have Denzel Washington play a character this broken.

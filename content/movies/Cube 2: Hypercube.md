@@ -4,6 +4,7 @@ title = "Cube 2: Hypercube"
 
 [taxonomies]
 tags = ['2013-movie', 'average']
+categories = ['movies']
 +++
 
 The [first movie] had the advantage of freshness, and this one\... well,

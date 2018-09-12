@@ -4,6 +4,7 @@ title = "The Spectacular Now (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 The stellar cast is led by the amazing [Miles Teller] ([Rabbit Hole]),

@@ -4,6 +4,7 @@ title = "It's a Wonderful Life (1946)"
 
 [taxonomies]
 tags = ['2012-movie', 'decent']
+categories = ['movies']
 +++
 
 It\'s sprinkled with some fun moments and interesting performances, but

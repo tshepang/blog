@@ -4,6 +4,7 @@ title = "Fracture (2007)"
 
 [taxonomies]
 tags = ['2007-movie', 'good']
+categories = ['movies']
 +++
 
 A notable element from this movie is the performance of the lead by Ryan

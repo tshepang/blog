@@ -4,6 +4,7 @@ title = "Being John Malkovich (1999)"
 
 [taxonomies]
 tags = ['masterpiece']
+categories = ['movies']
 +++
 
 [Another great dark comedy], this is a superbly fresh and entertaining

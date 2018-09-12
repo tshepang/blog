@@ -4,6 +4,7 @@ title = "Memento (2000)"
 
 [taxonomies]
 tags = ['good', '2010-movie']
+categories = ['movies']
 +++
 
 A very solid story with superb, but disturbing, direction. The concept

@@ -4,6 +4,7 @@ title = "Ferris Bueller's Day Off (1986)"
 
 [taxonomies]
 tags = ['2012-movie', 'substandard']
+categories = ['movies']
 +++
 
 Unbearably slow pacing, maybe the worst I\'ve experienced yet. The gal

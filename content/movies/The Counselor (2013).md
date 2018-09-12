@@ -4,6 +4,7 @@ title = "The Counselor (2013)"
 
 [taxonomies]
 tags = ['2014-movie', 'good']
+categories = ['movies']
 +++
 
 The direction is very unusual, the performances are of high quality

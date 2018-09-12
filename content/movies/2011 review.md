@@ -4,6 +4,7 @@ date = 2015-03-05
 
 [taxonomies]
 tags = ['year-review', '2011']
+categories = ['movies']
 +++
 
 The most **desirable gal** is [Kelly Reilly] in [Sherlock Holmes: A Game
