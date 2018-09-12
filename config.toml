@@ -6,7 +6,6 @@ theme = "hyde"
 generate_rss = true
 taxonomies = [
   { name = "tags", rss = true },
-  { name = "categories", rss = true },
 ]
 
 [extra]
