@@ -1,5 +1,6 @@
 +++
 title = "2008 movie review"
+date = 2015-06-20
 
 [taxonomies]
 tags = ['year-movie-review']

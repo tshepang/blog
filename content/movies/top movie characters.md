@@ -1,5 +1,6 @@
 +++
 title = "top movie characters"
+date = 2016-06-13
 
 [taxonomies]
 tags = ['list']

@@ -1,5 +1,6 @@
 +++
 title = "favorite-of-career performances"
+date = 2014-10-05
 
 [taxonomies]
 tags = ['list']

@@ -1,5 +1,6 @@
 +++
 title = "top visual effects"
+date = 2014-10-29
 +++
 
 Being fresh, eye-popping, and immersive helps:
