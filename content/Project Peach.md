@@ -13,4 +13,4 @@ preferred something as bizarre/dark as [Elephants Dream]. \[[update]\]
 
   [can go wrong]: http://www.bigbuckbunny.org/index.php/woosh-the-deadline-passed-or-how-everything-that-can-go-wrong-does/
   [Elephants Dream]: http://www.elephantsdream.org/
-  [update]: http://movies.tshepang.net/project-peach-disappoints
+  [update]: http://tshepang.net/project-peach-disappoints

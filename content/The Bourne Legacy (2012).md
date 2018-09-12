@@ -20,4 +20,4 @@ movies in the trilogy, but the fight choreography is even better, among
 the best I have seen in a non-martial arts movie. I did not like the
 chase sequence so much, and the lead opponent could be better.
 
-  [The Avengers]: http://movies.tshepang.net/the-avengers-2012
+  [The Avengers]: http://tshepang.net/the-avengers-2012

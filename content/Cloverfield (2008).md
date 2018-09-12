@@ -26,4 +26,4 @@ two more people on his quest onto a heavily-compromised building, up
 dozens of stairs, all to find a gal heavily injured, yet managing to run
 around for several minutes on end\... makes me sad :(
 
-  [I once compared this movie with I Am Legend]: http://movies.tshepang.net/cloverfield-vs-i-am-legend
+  [I once compared this movie with I Am Legend]: http://tshepang.net/cloverfield-vs-i-am-legend

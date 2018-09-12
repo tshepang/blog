@@ -18,5 +18,5 @@ beard.
 
   [Michael Shannon]: http://en.wikipedia.org/wiki/Michael_Shannon_(actor)
   [Ray Liotta]: http://en.wikipedia.org/wiki/Ray_Liotta
-  [Smokin\' Aces]: http://movies.tshepang.net/smokin-aces-2006
+  [Smokin\' Aces]: http://tshepang.net/smokin-aces-2006
   [Chris Evans]: http://en.wikipedia.org/wiki/Chris_Evans_(actor)

@@ -15,4 +15,4 @@ seen in movies, not to mention an unexpected ending. Most of the rest of
 the movie does not live to the expectations set by that opening. The
 story is not good either, nor the villain interesting.
 
-  [solid predecessor]: http://movies.tshepang.net/quantum-of-solace-2008
+  [solid predecessor]: http://tshepang.net/quantum-of-solace-2008

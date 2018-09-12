@@ -189,17 +189,17 @@ Twilight Saga -- Eclipse; Ultimate Gift, The; The Unborn; Up; Wall
 Street; War, Inc; What Doesn\'t Kill You; World\'s Greatest Dad;
 Smokin\' Aces 2; The Expendables; August Rush; Karate Kid; Skin
 
-  [Precious]: http://movies.tshepang.net/precious-2009
-  [Somewhere]: http://movies.tshepang.net/somewhere-2010
-  [Inception]: http://movies.tshepang.net/many-many-recent-movies
-  [The A-Team]: http://movies.tshepang.net/recent-movies-2010-09-15
-  [An Education]: http://movies.tshepang.net/recent-movies-2010-05-06
-  [The Social Network]: http://movies.tshepang.net/the-social-network-2010
-  [Memento]: http://movies.tshepang.net/memento-2000
-  [The Job]: http://movies.tshepang.net/recent-movies-2010-11-19
-  [Clash of the Titans]: http://movies.tshepang.net/clash-of-the-titans-2010
-  [Afro Samurai: Resurrection]: http://movies.tshepang.net/afro-samurai-resurrection-2009
-  [Iron Man 2]: http://movies.tshepang.net/iron-man-2
-  [Smokin\' Aces]: http://movies.tshepang.net/smokin-aces-2006
-  [Se7en]: http://movies.tshepang.net/se7en-1995
-  [these]: http://movies.tshepang.net/tag/2010-movie/
+  [Precious]: http://tshepang.net/precious-2009
+  [Somewhere]: http://tshepang.net/somewhere-2010
+  [Inception]: http://tshepang.net/many-many-recent-movies
+  [The A-Team]: http://tshepang.net/recent-movies-2010-09-15
+  [An Education]: http://tshepang.net/recent-movies-2010-05-06
+  [The Social Network]: http://tshepang.net/the-social-network-2010
+  [Memento]: http://tshepang.net/memento-2000
+  [The Job]: http://tshepang.net/recent-movies-2010-11-19
+  [Clash of the Titans]: http://tshepang.net/clash-of-the-titans-2010
+  [Afro Samurai: Resurrection]: http://tshepang.net/afro-samurai-resurrection-2009
+  [Iron Man 2]: http://tshepang.net/iron-man-2
+  [Smokin\' Aces]: http://tshepang.net/smokin-aces-2006
+  [Se7en]: http://tshepang.net/se7en-1995
+  [these]: http://tshepang.net/tag/2010-movie/

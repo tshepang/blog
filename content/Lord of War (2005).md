@@ -17,4 +17,4 @@ This is Eamonn Walker\'s best role, even though his performance didn\'t
 excite me as much as it did first time around; It was my most favorite
 from among [the movies I saw first time in 2006].
 
-  [the movies I saw first time in 2006]: http://movies.tshepang.net/2006-movie-review
+  [the movies I saw first time in 2006]: http://tshepang.net/2006-movie-review

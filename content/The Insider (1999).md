@@ -88,8 +88,8 @@ much lacking).
 
   [Christopher Plummer]: http://en.wikipedia.org/wiki/Christopher_Plummer
   [Bruce McGill]: http://en.wikipedia.org/wiki/Bruce_McGill
-  [Matchstick Men]: http://movies.tshepang.net/revisiting-matchstick-men
+  [Matchstick Men]: http://tshepang.net/revisiting-matchstick-men
   [Michael Gambon]: http://en.wikipedia.org/wiki/Michael_Gambon
   [Philip Baker Hall]: http://en.wikipedia.org/wiki/Philip_Baker_Hall
-  [The Informant]: http://movies.tshepang.net/the-informant-2009
-  [Precious]: http://movies.tshepang.net/precious-2009
+  [The Informant]: http://tshepang.net/the-informant-2009
+  [Precious]: http://tshepang.net/precious-2009

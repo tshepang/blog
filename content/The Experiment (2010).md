@@ -16,4 +16,4 @@ but it\'s sadly more pretentious\... feels more \'merely for show\'; the
 guys performing the experiment are even given godlike status, while
 those in the original actually have faces.
 
-  [The original movie]: http://movies.tshepang.net/das-experiment-2001
+  [The original movie]: http://tshepang.net/das-experiment-2001

@@ -13,7 +13,7 @@ the best **visual effects** are in [Dracula Untold]. The best
 character**, the inflatable robot. The best **dialog** is in [I
 Origins].
 
-  [Non-Stop]: http://movies.tshepang.net/non-stop
-  [Dracula Untold]: http://movies.tshepang.net/dracula-untold
-  [Big Hero 6]: http://movies.tshepang.net/big-hero-6
-  [I Origins]: http://movies.tshepang.net/i-origins
+  [Non-Stop]: http://tshepang.net/non-stop
+  [Dracula Untold]: http://tshepang.net/dracula-untold
+  [Big Hero 6]: http://tshepang.net/big-hero-6
+  [I Origins]: http://tshepang.net/i-origins

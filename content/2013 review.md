@@ -10,4 +10,4 @@ categories = ['movies']
 [Her] boasts best **editing**, best **cinematography**, and most
 **exciting story concept**.
 
-  [Her]: http://movies.tshepang.net/her
+  [Her]: http://tshepang.net/her

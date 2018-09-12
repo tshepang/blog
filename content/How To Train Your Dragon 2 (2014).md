@@ -30,4 +30,4 @@ teach this son about the dragons. Instead the movie rushes too quickly
 to the son (and his dragon) being pretty much the sole hero of the
 movie. So shallow, so sad. Wasted opportunity.
 
-  [the earlier movie]: http://movies.tshepang.net/how-to-train-your-dragon-2010
+  [the earlier movie]: http://tshepang.net/how-to-train-your-dragon-2010

@@ -183,12 +183,12 @@ shit
 *Star Wars III* has the worst editing, worst acting, worst sound, worst
 direction, but got beaten by *Eurotrip* as worst movie.
 
-  [Shaolin Soccer]: http://movies.tshepang.net/shaolin-soccer-2001
-  [Kung Fu Hustle]: http://movies.tshepang.net/kung-fu-hustle-2004
-  [The Butterfly Effect]: http://movies.tshepang.net/the-butterfly-effect-2004
-  [Birth]: http://movies.tshepang.net/birth-2004
-  [Lord of War]: http://movies.tshepang.net/lord-of-war-2005
-  [2005]: http://movies.tshepang.net/2005-movie-review
-  [Dead Man]: http://movies.tshepang.net/dead-man-1995
-  [Dogville]: http://movies.tshepang.net/dogville-2003
-  [Pi]: http://movies.tshepang.net/pi-1997
+  [Shaolin Soccer]: http://tshepang.net/shaolin-soccer-2001
+  [Kung Fu Hustle]: http://tshepang.net/kung-fu-hustle-2004
+  [The Butterfly Effect]: http://tshepang.net/the-butterfly-effect-2004
+  [Birth]: http://tshepang.net/birth-2004
+  [Lord of War]: http://tshepang.net/lord-of-war-2005
+  [2005]: http://tshepang.net/2005-movie-review
+  [Dead Man]: http://tshepang.net/dead-man-1995
+  [Dogville]: http://tshepang.net/dogville-2003
+  [Pi]: http://tshepang.net/pi-1997

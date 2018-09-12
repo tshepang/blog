@@ -35,4 +35,4 @@ boundaries. Also, the movie may not be as fresh as its predecessor, but
 it\'s a lot better (direction, cinematography, acting).
 
   [Laurence R. Harvey]: http://www.imdb.com/name/nm4030776
-  [Precious]: http://movies.tshepang.net/precious-2009
+  [Precious]: http://tshepang.net/precious-2009

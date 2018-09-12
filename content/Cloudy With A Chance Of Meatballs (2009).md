@@ -36,5 +36,5 @@ Okay, back to the good stuff:
 -   The jelly castle was a setting for the most enchanting moment,
     making me wish fantasy was real.
 
-  [Megamind]: http://movies.tshepang.net/megamind-2010
-  [unappreciative]: http://movies.tshepang.net/unforgiving-characters-are-annoying
+  [Megamind]: http://tshepang.net/megamind-2010
+  [unappreciative]: http://tshepang.net/unforgiving-characters-are-annoying

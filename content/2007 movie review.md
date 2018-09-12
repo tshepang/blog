@@ -171,14 +171,14 @@ Man, The; Pursuit of Happiness, The; Searchers, The; She\'s the Man;
 Sleeping Bride; Star Wrek; Sum of All Fears, The; Throne of Blood; Time
 Bandits; Troy
 
-  [2005]: http://movies.tshepang.net/2005-movie-review
-  [2006]: http://movies.tshepang.net/2006-movie-review
-  [Apocalypto]: http://movies.tshepang.net/apocalypto-2006
-  [Smokin\' Aces]: http://movies.tshepang.net/smokin-aces-2006
-  [Munich]: http://movies.tshepang.net/munich-2005
-  [Fracture]: http://movies.tshepang.net/fracture-2007
-  [The Last King of Scotland]: http://movies.tshepang.net/the-last-king-of-scotland-2006
-  [Beowulf]: http://movies.tshepang.net/beowulf-2007
-  [Pan\'s Labyrinth]: http://movies.tshepang.net/pans-labyrinth-2006
-  [The Bourne Ultimatum]: http://movies.tshepang.net/the-bourne-ultimatum-2007
-  [these]: http://movies.tshepang.net/tag/2007-movie
+  [2005]: http://tshepang.net/2005-movie-review
+  [2006]: http://tshepang.net/2006-movie-review
+  [Apocalypto]: http://tshepang.net/apocalypto-2006
+  [Smokin\' Aces]: http://tshepang.net/smokin-aces-2006
+  [Munich]: http://tshepang.net/munich-2005
+  [Fracture]: http://tshepang.net/fracture-2007
+  [The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006
+  [Beowulf]: http://tshepang.net/beowulf-2007
+  [Pan\'s Labyrinth]: http://tshepang.net/pans-labyrinth-2006
+  [The Bourne Ultimatum]: http://tshepang.net/the-bourne-ultimatum-2007
+  [these]: http://tshepang.net/tag/2007-movie

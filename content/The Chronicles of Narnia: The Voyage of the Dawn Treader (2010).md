@@ -25,5 +25,5 @@ flipped through to ensure I wasn\'t missing anything of worth:
 I am not going to withstand the pain of watching the entire movie
 though. I\'ve suffered enough the with two predecessors.
 
-  [the 2nd Narnia movie]: http://movies.tshepang.net/the-chronicles-of-narnia-prince-caspian-2008
+  [the 2nd Narnia movie]: http://tshepang.net/the-chronicles-of-narnia-prince-caspian-2008
   [the Kraken]: http://en.wikipedia.org/wiki/Kraken_(Pirates_of_the_Caribbean)

@@ -22,4 +22,4 @@ the same time, there\'s way too much wizardry and dodgy martial atristry
 in the disorganised mess that is Swordsman, and I discovered the elastic
 master from [Kung Fu Hustle] in there, and he didn\'t help at all.
 
-  [Kung Fu Hustle]: http://movies.tshepang.net/kung-fu-hustle-2004
+  [Kung Fu Hustle]: http://tshepang.net/kung-fu-hustle-2004

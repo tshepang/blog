@@ -41,21 +41,21 @@ categories = ['movies']
 
 related: [favorite-of-career performances][favorite-of-career]
 
-  [Fight Club]: http://movies.tshepang.net/fight-club-1999
-  [The Counselor]: http://movies.tshepang.net/the-counselor-2013
-  [Memento]: http://movies.tshepang.net/memento-2000
-  [The King\'s Speech]: http://movies.tshepang.net/the-kings-speech-2010
-  [Good Night, and Good Luck]: http://movies.tshepang.net/good-night-and-good-luck-2005
-  [Wit]: http://movies.tshepang.net/wit-2001
-  [The Last King of Scotland]: http://movies.tshepang.net/the-last-king-of-scotland-2006
-  [Prisoners]: http://movies.tshepang.net/prisoners-2013
-  [Nightcrawler]: http://movies.tshepang.net/nightcrawler
-  [The Warlords]: http://movies.tshepang.net/the-warlords-2007
-  [Changeling]: http://movies.tshepang.net/changeling-2008
-  [The Rainmaker]: http://movies.tshepang.net/the-rainmaker-1997
-  [Contagion]: http://movies.tshepang.net/contagion-2011
-  [Birth]: http://movies.tshepang.net/birth-2004
-  [favorite-of-career]: http://movies.tshepang.net/favorite-of-career-performances
-  [Rabbit Hole]: http://movies.tshepang.net/rabbit-hole-2010
-  [Vicky Cristina Barcelona]: http://movies.tshepang.net/vicky-cristina-barcelona-2008
-  [Doubt]: http://movies.tshepang.net/doubt-2008
+  [Fight Club]: http://tshepang.net/fight-club-1999
+  [The Counselor]: http://tshepang.net/the-counselor-2013
+  [Memento]: http://tshepang.net/memento-2000
+  [The King\'s Speech]: http://tshepang.net/the-kings-speech-2010
+  [Good Night, and Good Luck]: http://tshepang.net/good-night-and-good-luck-2005
+  [Wit]: http://tshepang.net/wit-2001
+  [The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006
+  [Prisoners]: http://tshepang.net/prisoners-2013
+  [Nightcrawler]: http://tshepang.net/nightcrawler
+  [The Warlords]: http://tshepang.net/the-warlords-2007
+  [Changeling]: http://tshepang.net/changeling-2008
+  [The Rainmaker]: http://tshepang.net/the-rainmaker-1997
+  [Contagion]: http://tshepang.net/contagion-2011
+  [Birth]: http://tshepang.net/birth-2004
+  [favorite-of-career]: http://tshepang.net/favorite-of-career-performances
+  [Rabbit Hole]: http://tshepang.net/rabbit-hole-2010
+  [Vicky Cristina Barcelona]: http://tshepang.net/vicky-cristina-barcelona-2008
+  [Doubt]: http://tshepang.net/doubt-2008

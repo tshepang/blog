@@ -35,4 +35,4 @@ a weird and exciting fantasy/satire regarding middle-Eastern peoples.
 The only comparably-excellent movie Adam has been in is *Punch-Drunk
 Love*.
 
-  [Requiem for A Dream]: http://movies.tshepang.net/requiem-for-a-dream-2000
+  [Requiem for A Dream]: http://tshepang.net/requiem-for-a-dream-2000

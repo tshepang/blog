@@ -10,4 +10,4 @@ categories = ['movies']
 My favorite performance is that of Frances McDormand in [Friends with
 Money].
 
-  [Friends with Money]: http://movies.tshepang.net/friends-with-money
+  [Friends with Money]: http://tshepang.net/friends-with-money

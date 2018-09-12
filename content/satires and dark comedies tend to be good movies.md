@@ -19,10 +19,10 @@ fit the description:
 6.  [Payback]
 7.  [Lord of War]
 
-  [good]: http://movies.tshepang.net/my-movie-rating-system
-  [Fight Club]: http://movies.tshepang.net/fight-club-1999
-  [Requiem for A Dream]: http://movies.tshepang.net/being-john-malkovich-1999
-  [Being John Malkovich]: http://movies.tshepang.net/dr-strangelove-1964
-  [Dr. Strangelove]: http://movies.tshepang.net/lord-of-war-2005
-  [Payback]: http://movies.tshepang.net/payback-1999
-  [Lord of War]: http://movies.tshepang.net/requiem-for-a-dream-2000
+  [good]: http://tshepang.net/my-movie-rating-system
+  [Fight Club]: http://tshepang.net/fight-club-1999
+  [Requiem for A Dream]: http://tshepang.net/being-john-malkovich-1999
+  [Being John Malkovich]: http://tshepang.net/dr-strangelove-1964
+  [Dr. Strangelove]: http://tshepang.net/lord-of-war-2005
+  [Payback]: http://tshepang.net/payback-1999
+  [Lord of War]: http://tshepang.net/requiem-for-a-dream-2000

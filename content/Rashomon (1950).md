@@ -16,4 +16,4 @@ practically is a madman. I also enjoyed the performance of the inquisive
 guy, though he overdoes it, not to mention silly grins and forced
 laughter.
 
-  [Seven Samurai]: http://movies.tshepang.net/seven-samurai-1954
+  [Seven Samurai]: http://tshepang.net/seven-samurai-1954

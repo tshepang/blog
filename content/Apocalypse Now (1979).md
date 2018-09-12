@@ -57,4 +57,4 @@ hardly ever impressive.
 The version I watched is the one released in 2001, fully titled
 *Apocalypse Now Redux*.
 
-  [Seven Samurai]: http://movies.tshepang.net/seven-samurai-1954
+  [Seven Samurai]: http://tshepang.net/seven-samurai-1954

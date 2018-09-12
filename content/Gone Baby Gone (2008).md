@@ -25,6 +25,6 @@ this was the remaining movie I labeled [excellent] in the entire year of
 2012\... it was going to be the best movie of the year. Sadly, not one
 movie from that year went beyong the [very good] (7/10) rating.
 
-  [Se7en]: http://movies.tshepang.net/se7en-1995
-  [excellent]: http://movies.tshepang.net/tag/excellent
-  [very good]: http://movies.tshepang.net/tag/good
+  [Se7en]: http://tshepang.net/se7en-1995
+  [excellent]: http://tshepang.net/tag/excellent
+  [very good]: http://tshepang.net/tag/good

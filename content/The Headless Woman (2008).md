@@ -18,4 +18,4 @@ camerawork.
 \[**sidenote**\] There is one critic who [found it great], inspiring me
 to give it a second look. It\'s a better and deeper review than mine.
 
-  [found it great]: http://movies.nytimes.com/2009/08/19/movies/19headless.html
+  [found it great]: http://nytimes.com/2009/08/19/movies/19headless.html

@@ -52,6 +52,6 @@ As if that\'s not enough, both the lead character and the Amercian
 villain are unconvincing, while the movie\'s best performance is that of
 the guy playing head of the ninjas.
 
-  [Kung Fu Hustle]: http://movies.tshepang.net/kung-fu-hustle-2004
+  [Kung Fu Hustle]: http://tshepang.net/kung-fu-hustle-2004
   [a quality review]: http://www.screendaily.com/reviews/the-warriors-way/5021277.article
-  [Case of The Matrix Reloaded]: http://movies.tshepang.net/the-case-of-the-matrix-reloaded
+  [Case of The Matrix Reloaded]: http://tshepang.net/the-case-of-the-matrix-reloaded

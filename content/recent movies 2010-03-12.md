@@ -21,4 +21,4 @@ a fuck buddy, is desirable while at the same time exuding maturity and
 wisdom; the opening credits sequence is pretty good, and so is the
 sound.
 
-  [1st look]: http://movies.tshepang.net/the-hunted-2003
+  [1st look]: http://tshepang.net/the-hunted-2003

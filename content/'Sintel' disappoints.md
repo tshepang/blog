@@ -33,4 +33,4 @@ motivates me to go watch this 15-minute piece again. That this was done
 with FLOSS is not grounds for a dishonest review.
 
   [Sintel]: http://www.sintel.org/
-  [previous movie]: http://movies.tshepang.net/project-peach-disappoints
+  [previous movie]: http://tshepang.net/project-peach-disappoints

@@ -20,4 +20,4 @@ behavior of one of the survivors serious stupid\... very unconvincing. I
 did like the performance of Tony Todd, though it was laughably
 creepy\... stupid.
 
-  [the first movie]: http://movies.tshepang.net/final-destination-2000
+  [the first movie]: http://tshepang.net/final-destination-2000

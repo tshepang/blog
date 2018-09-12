@@ -21,4 +21,4 @@ be a challenging movie, but it\'s actually just another,
 edge-of-your-seat sports movie. At least it made me feel lucky that I
 wasn\'t in the US during the Great Depression.
 
-  [Beowulf]: http://movies.tshepang.net/beowulf-2007
+  [Beowulf]: http://tshepang.net/beowulf-2007

@@ -47,11 +47,11 @@ alternate reality concepts
 -   [The Butterfly Effect]
 -   [The Thirteenth Floor]
 
-  [Cleanskin]: http://movies.tshepang.net/cleanskin-2012
-  [The Lives of Others]: http://movies.tshepang.net/the-lives-of-others-2006
+  [Cleanskin]: http://tshepang.net/cleanskin-2012
+  [The Lives of Others]: http://tshepang.net/the-lives-of-others-2006
   [Precious]: http://tshepang.net/precious-2009
   [Festen]: http://tshepang.net/festen-1998
-  [Contagion]: http://movies.tshepang.net/contagion-2011
-  [The Thaw]: http://movies.tshepang.net/the-thaw-2009
+  [Contagion]: http://tshepang.net/contagion-2011
+  [The Thaw]: http://tshepang.net/the-thaw-2009
   [The Butterfly Effect]: http://tshepang.net/the-butterfly-effect-2004
   [The Thirteenth Floor]: http://tshepang.net/the-thirteenth-floor-1999

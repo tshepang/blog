@@ -60,22 +60,22 @@ a title for a movie I\'ve seen before this year. A special mention
 should go to the [Director\'s Cut version], which I saw first time in
 2013.
 
-  [last year]: http://movies.tshepang.net/2012-movie-review
-  [In Bruges]: http://movies.tshepang.net/in-bruges-2008
-  [Redbelt]: http://movies.tshepang.net/redbelt-2007
-  [Cleanskin]: http://movies.tshepang.net/cleanskin-2012
-  [Man of Steel]: http://movies.tshepang.net/man-of-steel-2013
-  [Elysium]: http://movies.tshepang.net/elysium-2013
-  [Henry: Portrait of a Serial Killer]: http://movies.tshepang.net/henry-portrait-of-a-serial-killer
-  [Now You See Me]: http://movies.tshepang.net/now-you-see-me-2013
+  [last year]: http://tshepang.net/2012-movie-review
+  [In Bruges]: http://tshepang.net/in-bruges-2008
+  [Redbelt]: http://tshepang.net/redbelt-2007
+  [Cleanskin]: http://tshepang.net/cleanskin-2012
+  [Man of Steel]: http://tshepang.net/man-of-steel-2013
+  [Elysium]: http://tshepang.net/elysium-2013
+  [Henry: Portrait of a Serial Killer]: http://tshepang.net/henry-portrait-of-a-serial-killer
+  [Now You See Me]: http://tshepang.net/now-you-see-me-2013
   [Michael Parks]: http://en.wikipedia.org/wiki/Michael_Parks
-  [Django Unchained]: http://movies.tshepang.net/django-unchained-2012
+  [Django Unchained]: http://tshepang.net/django-unchained-2012
   [Chiwetel Ejiofor]: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
-  [Silent Hill: Revelation]: http://movies.tshepang.net/silent-hill-revelation-2012
-  [MirrorMask]: http://movies.tshepang.net/mirrormask-2005
-  [The Thaw]: http://movies.tshepang.net/the-thaw-2009
-  [Seven Psychopaths]: http://movies.tshepang.net/seven-psychopaths-2012
-  [Cloud Atlas]: http://movies.tshepang.net/cloud-atlas-2012
-  [Goodbye Uncle Tom]: http://movies.tshepang.net/goodbye-uncle-tom-1971
-  [Payback]: http://movies.tshepang.net/payback-1999
-  [Director\'s Cut version]: http://movies.tshepang.net/payback-straight-up-2006
+  [Silent Hill: Revelation]: http://tshepang.net/silent-hill-revelation-2012
+  [MirrorMask]: http://tshepang.net/mirrormask-2005
+  [The Thaw]: http://tshepang.net/the-thaw-2009
+  [Seven Psychopaths]: http://tshepang.net/seven-psychopaths-2012
+  [Cloud Atlas]: http://tshepang.net/cloud-atlas-2012
+  [Goodbye Uncle Tom]: http://tshepang.net/goodbye-uncle-tom-1971
+  [Payback]: http://tshepang.net/payback-1999
+  [Director\'s Cut version]: http://tshepang.net/payback-straight-up-2006

@@ -19,5 +19,5 @@ One notable thing is Mark Ruffalo\'s lead detective, the movie\'s best
 performance. It\'s the kind of performance (vocal and physical) I\'ve
 never seen before.
 
-  [Se7en]: http://movies.tshepang.net/se7en-1995
-  [Fight Club]: http://movies.tshepang.net/fight-club-1999
+  [Se7en]: http://tshepang.net/se7en-1995
+  [Fight Club]: http://tshepang.net/fight-club-1999

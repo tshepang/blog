@@ -19,6 +19,6 @@ Here are some examples:
 -   [Robot]
 -   [The Green Hornet]
 
-  [Cloudy With A Chance Of Meatballs]: http://movies.tshepang.net/cloudy-with-a-chance-of-meatballs-2009
-  [Robot]: http://movies.tshepang.net/robot-2010
-  [The Green Hornet]: http://movies.tshepang.net/the-green-hornet-2011
+  [Cloudy With A Chance Of Meatballs]: http://tshepang.net/cloudy-with-a-chance-of-meatballs-2009
+  [Robot]: http://tshepang.net/robot-2010
+  [The Green Hornet]: http://tshepang.net/the-green-hornet-2011

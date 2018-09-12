@@ -15,4 +15,4 @@ worst-developed, character however is the guy named Goldmember. What
 were they thinking? Luckily, Fat Bustard is interesting this time
 around, and so is the son of Dr. Evil.
 
-  [the first one]: http://movies.tshepang.net/austin-powers-international-man-of-mystery-1997
+  [the first one]: http://tshepang.net/austin-powers-international-man-of-mystery-1997

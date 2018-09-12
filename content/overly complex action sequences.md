@@ -16,5 +16,5 @@ selling more tickets. Here\'s examples from the most guilty:
 1.  [The Adventures Of Tintin: The Secret Of The Unicorn]
 2.  [The Hobbit: An Unexpected Journey]
 
-  [The Adventures Of Tintin: The Secret Of The Unicorn]: http://movies.tshepang.net/the-adventures-of-tintin-the-secret-of-the-unicorn-2011
-  [The Hobbit: An Unexpected Journey]: http://movies.tshepang.net/the-hobbit-an-unexpected-journey-2012
+  [The Adventures Of Tintin: The Secret Of The Unicorn]: http://tshepang.net/the-adventures-of-tintin-the-secret-of-the-unicorn-2011
+  [The Hobbit: An Unexpected Journey]: http://tshepang.net/the-hobbit-an-unexpected-journey-2012

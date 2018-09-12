@@ -88,20 +88,20 @@ character design
 9.  Bug on the street (*Constantine*)
 10. chess pieces ([Harry Potter and the Sorcerer\'s Stone])
 
-  [Kinsey]: http://movies.tshepang.net/kinsey-2004
-  [The Book Thief]: http://movies.tshepang.net/the-book-thief-2013
-  [A Streetcar Named Desire]: http://movies.tshepang.net/a-streetcar-named-desire-1951
-  [tough women]: http://movies.tshepang.net/tough-women
-  [Avatar]: http://movies.tshepang.net/avatar-2009
-  [Rango]: http://movies.tshepang.net/rango-2011
-  [The Hobbit: The Battle of the Five Armies]: http://movies.tshepang.net/the-hobbit-the-battle-of-the-five-armies
-  [Cloverfield]: http://movies.tshepang.net/cloverfield-2008
-  [Silent Hill]: http://movies.tshepang.net/silent-hill-2006
+  [Kinsey]: http://tshepang.net/kinsey-2004
+  [The Book Thief]: http://tshepang.net/the-book-thief-2013
+  [A Streetcar Named Desire]: http://tshepang.net/a-streetcar-named-desire-1951
+  [tough women]: http://tshepang.net/tough-women
+  [Avatar]: http://tshepang.net/avatar-2009
+  [Rango]: http://tshepang.net/rango-2011
+  [The Hobbit: The Battle of the Five Armies]: http://tshepang.net/the-hobbit-the-battle-of-the-five-armies
+  [Cloverfield]: http://tshepang.net/cloverfield-2008
+  [Silent Hill]: http://tshepang.net/silent-hill-2006
   [Silent Hill: Revelation]:
-  [Pan\'s Labyrinth]: http://movies.tshepang.net/pans-labyrinth-2006
-  [Harry Potter and the Prisoner of Azkaban]: http://movies.tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
-  [Clash of the Titans]: http://movies.tshepang.net/clash-of-the-titans-2010
-  [Sucker Punch]: http://movies.tshepang.net/sucker-punch-2011
-  [9]: http://movies.tshepang.net/9-2009
-  [Afro Samurai: Resurrection]: http://movies.tshepang.net/afro-samurai-resurrection-2009
-  [Harry Potter and the Sorcerer\'s Stone]: http://movies.tshepang.net/harry-potter-and-the-sorcerers-stone-2001
+  [Pan\'s Labyrinth]: http://tshepang.net/pans-labyrinth-2006
+  [Harry Potter and the Prisoner of Azkaban]: http://tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
+  [Clash of the Titans]: http://tshepang.net/clash-of-the-titans-2010
+  [Sucker Punch]: http://tshepang.net/sucker-punch-2011
+  [9]: http://tshepang.net/9-2009
+  [Afro Samurai: Resurrection]: http://tshepang.net/afro-samurai-resurrection-2009
+  [Harry Potter and the Sorcerer\'s Stone]: http://tshepang.net/harry-potter-and-the-sorcerers-stone-2001

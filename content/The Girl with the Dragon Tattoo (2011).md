@@ -17,5 +17,5 @@ interesting, perhaps with the exclusion of his first, *Alien 3*.
 Okay, I nearly forgot that the opening credits sequence was quite good.
 That and the fact that I could not actually figure what was going on.
 
-  [Fight Club]: http://movies.tshepang.net/fight-club-1999
-  [Se7en]: http://movies.tshepang.net/se7en-1995
+  [Fight Club]: http://tshepang.net/fight-club-1999
+  [Se7en]: http://tshepang.net/se7en-1995

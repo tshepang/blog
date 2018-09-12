@@ -118,29 +118,29 @@ Clone Wars; Still Life; Superhero Movie; Taste of Cherry; Tie Me Up, Tie
 Me Down; Traitor; Valkyrie; Wind Will Carry Us, The; Wrestler, The; Xiao
 Wu; Zack & Miri Make A Porno
 
-  [District 9]: http://movies.tshepang.net/district-9-2009
-  [Baise-moi]: http://movies.tshepang.net/baise-moi-2000
-  [Bamboozled]: http://movies.tshepang.net/bamboozled-2000
-  [Inglourious Basterds]: http://movies.tshepang.net/inglourious-basterds-2009
-  [Watchmen]: http://movies.tshepang.net/watchmen-2009
+  [District 9]: http://tshepang.net/district-9-2009
+  [Baise-moi]: http://tshepang.net/baise-moi-2000
+  [Bamboozled]: http://tshepang.net/bamboozled-2000
+  [Inglourious Basterds]: http://tshepang.net/inglourious-basterds-2009
+  [Watchmen]: http://tshepang.net/watchmen-2009
   [Raffaëla Anderson]: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
-  [There Will Be Blood]: http://movies.tshepang.net/there-will-be-blood-2007
-  [Changeling]: http://movies.tshepang.net/changeling-2008
-  [Seven Pounds]: http://movies.tshepang.net/recent-movies-2009-04-14
-  [The Curious Case of Benjamin Button]: http://movies.tshepang.net/finchers-most-pointless-yet
-  [Midnight Cowboy]: http://movies.tshepang.net/recent-movies-2009-07-13
-  [Still Life]: http://movies.tshepang.net/recent-movies-2009-09-30
-  [Avatar]: http://movies.tshepang.net/avatar-2009
-  [Small Soldiers]: http://movies.tshepang.net/small-soldiers-1998
-  [2012]: http://movies.tshepang.net/2012-2009
-  [Transformers 2]: http://movies.tshepang.net/transformers-revenge-of-the-fallen-2009
-  [Terminator Salvation]: http://movies.tshepang.net/terminator-salvation-2009
-  [Shoot \'Em Up]: http://movies.tshepang.net/recent-movies-2009-03-06
-  [Law-Abiding Citizen]: http://movies.tshepang.net/law-abiding-citizen-2009
-  [You Don\'t Mess With the Zohan]: http://movies.tshepang.net/many-recent-movies-2009-02-27
-  [Sponge Bob]: http://movies.tshepang.net/recent-movies-2009-10-23
-  [Quantum of Solace]: http://movies.tshepang.net/quantum-of-solace-2008
-  [Ghost Dog]: http://movies.tshepang.net/ghost-dog
-  [Yellow Earth]: http://movies.tshepang.net/yellow-earth-1984
-  [The World]: http://movies.tshepang.net/more-of-jia
-  [these]: http://movies.tshepang.net/tag/2009-movie/
+  [There Will Be Blood]: http://tshepang.net/there-will-be-blood-2007
+  [Changeling]: http://tshepang.net/changeling-2008
+  [Seven Pounds]: http://tshepang.net/recent-movies-2009-04-14
+  [The Curious Case of Benjamin Button]: http://tshepang.net/finchers-most-pointless-yet
+  [Midnight Cowboy]: http://tshepang.net/recent-movies-2009-07-13
+  [Still Life]: http://tshepang.net/recent-movies-2009-09-30
+  [Avatar]: http://tshepang.net/avatar-2009
+  [Small Soldiers]: http://tshepang.net/small-soldiers-1998
+  [2012]: http://tshepang.net/2012-2009
+  [Transformers 2]: http://tshepang.net/transformers-revenge-of-the-fallen-2009
+  [Terminator Salvation]: http://tshepang.net/terminator-salvation-2009
+  [Shoot \'Em Up]: http://tshepang.net/recent-movies-2009-03-06
+  [Law-Abiding Citizen]: http://tshepang.net/law-abiding-citizen-2009
+  [You Don\'t Mess With the Zohan]: http://tshepang.net/many-recent-movies-2009-02-27
+  [Sponge Bob]: http://tshepang.net/recent-movies-2009-10-23
+  [Quantum of Solace]: http://tshepang.net/quantum-of-solace-2008
+  [Ghost Dog]: http://tshepang.net/ghost-dog
+  [Yellow Earth]: http://tshepang.net/yellow-earth-1984
+  [The World]: http://tshepang.net/more-of-jia
+  [these]: http://tshepang.net/tag/2009-movie/

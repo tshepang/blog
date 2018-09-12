@@ -26,4 +26,4 @@ one (Nicole Holofcener) also made two other movies I love: *Friends With
 Money* and [Please Give]. For that reason, they deserve a revisit, more
 so than this one :)
 
-  [Please Give]: http://movies.tshepang.net/please-give-2009
+  [Please Give]: http://tshepang.net/please-give-2009

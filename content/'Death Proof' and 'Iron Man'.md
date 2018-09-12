@@ -17,4 +17,4 @@ The cast of the first of the 2 stories found in Death Proof is top-rate
 and the handling of the material helps the piece feel real fresh. Oh,
 and it also got the best (and most gruesome) car crash in recent memory.
 
-  [Pulp Fiction]: http://movies.tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece
+  [Pulp Fiction]: http://tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece

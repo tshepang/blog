@@ -9,4 +9,4 @@ categories = ['movies']
 
 The best **visual effects** can be found in [Iron Man].
 
-  [Iron Man]: http://movies.tshepang.net/iron-man
+  [Iron Man]: http://tshepang.net/iron-man

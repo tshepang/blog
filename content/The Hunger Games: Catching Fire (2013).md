@@ -12,4 +12,4 @@ the Rome-like arena and the city. Not much else is interesting, least of
 which is the soppy romance. The twist is lack-lustre, and the leading
 lady remains unconvincing.
 
-  [the first movie]: http://movies.tshepang.net/the-hunger-games-2012
+  [the first movie]: http://tshepang.net/the-hunger-games-2012

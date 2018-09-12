@@ -9,4 +9,4 @@ categories = ['movies']
 
 [Iron Man 2] boasts best **direction** and **dialog**.
 
-  [Iron Man 2]: http://movies.tshepang.net/iron-man-2
+  [Iron Man 2]: http://tshepang.net/iron-man-2

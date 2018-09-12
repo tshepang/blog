@@ -19,4 +19,4 @@ suffering displayed is unsettling.
 This story is more powerful than even [Yellow Earth], and with many more
 strong actors, while the winter weather looks even more harsh.
 
-  [Yellow Earth]: http://movies.tshepang.net/yellow-earth-1984
+  [Yellow Earth]: http://tshepang.net/yellow-earth-1984

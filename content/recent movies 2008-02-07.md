@@ -29,4 +29,4 @@ me wondering what the point was. The visuals were overdone, leaving the
 movie looking cartoonish. Luckily we had a wonderful performance by the
 gorgeous ninja lady (whose identity I\'m lazy to find).
 
-  [Three Colours Blue]: http://movies.tshepang.net/recent-movies-2007-11-05
+  [Three Colours Blue]: http://tshepang.net/recent-movies-2007-11-05

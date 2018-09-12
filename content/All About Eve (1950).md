@@ -31,5 +31,5 @@ movie is waaay [overrated]. WTF!
 -   stagey direction, as is common with movies this old; and we are
     supposed to take these characters seriously?
 
-  [Showgirls]: http://movies.tshepang.net/showgirls-1995
+  [Showgirls]: http://tshepang.net/showgirls-1995
   [overrated]: http://en.wikipedia.org/wiki/All_About_Eve#Critical_reaction

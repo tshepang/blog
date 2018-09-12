@@ -24,4 +24,4 @@ bad:
 -   The violence inflicted by the lead was too often excessive\... he
     killed too easily.
 
-  [Zatoichi and the One-Armed Swordsman]: http://movies.tshepang.net/zatoichi-and-the-one-armed-swordsman
+  [Zatoichi and the One-Armed Swordsman]: http://tshepang.net/zatoichi-and-the-one-armed-swordsman

@@ -22,4 +22,4 @@ similar to that of the monsters in [I Am Legend] and *The Descent*.
   [Paul Bettany]: http://en.wikipedia.org/wiki/Paul_Bettany
   [Karl Urban]: http://en.wikipedia.org/wiki/Karl_Urban
   [Cam Gigandet]: http://en.wikipedia.org/wiki/Cam_Gigandet
-  [I Am Legend]: http://movies.tshepang.net/i-am-legend
+  [I Am Legend]: http://tshepang.net/i-am-legend

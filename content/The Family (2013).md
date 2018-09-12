@@ -21,4 +21,4 @@ interested. Or maybe he\'s just overrated, and incapable of doing
 anything beyond his usual bad guy persona. He\'s boring, though the
 movie isn\'t.
 
-  [the best performance in history]: http://movies.tshepang.net/top-movie-performances
+  [the best performance in history]: http://tshepang.net/top-movie-performances

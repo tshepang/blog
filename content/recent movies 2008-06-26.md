@@ -21,4 +21,4 @@ trilogy.
 A revisit of *Robots* didn\'t do much to diminish the genious creativity
 behind it.
 
-  [Final Fantasy VII]: http://movies.tshepang.net/final-fantasy-vii-advent-children-2005
+  [Final Fantasy VII]: http://tshepang.net/final-fantasy-vii-advent-children-2005

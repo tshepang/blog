@@ -24,4 +24,4 @@ I should be grateful that I didn\'t get to see lead actor\'s untalented
 face, though I was exposed to the embarassing mimicry of the Sylvester
 angry mouth.
 
-  [the 1995 movie]: http://movies.tshepang.net/judge-dredd-1995
+  [the 1995 movie]: http://tshepang.net/judge-dredd-1995

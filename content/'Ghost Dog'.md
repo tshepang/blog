@@ -17,4 +17,4 @@ The sub-plot involving the kid and the ice-cream man is nice too, and
 helps lighten the mood, while serving the main story in other useful
 ways. \[[newer review]\]
 
-  [newer review]: http://movies.tshepang.net/revisiting-ghost-dog
+  [newer review]: http://tshepang.net/revisiting-ghost-dog

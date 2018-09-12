@@ -14,4 +14,4 @@ Taraji Hanson won [2007 performance of the year] and repeats her sass in
 *Talk To Me* in a much bigger role, though not with as much impact,
 though remaining impressive still.
 
-  [2007 performance of the year]: http://movies.tshepang.net/2007-movie-review
+  [2007 performance of the year]: http://tshepang.net/2007-movie-review

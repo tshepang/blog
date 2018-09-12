@@ -25,12 +25,12 @@ Being fresh, eye-popping, and immersive helps:
 
 10. Independence Day
 
-  [2012]: http://movies.tshepang.net/2012-2009
-  [The Avengers]: http://movies.tshepang.net/the-avengers-2012
-  [Avatar]: http://movies.tshepang.net/avatar-2009
-  [Battleship]: http://movies.tshepang.net/battleship-2012
-  [Thor: The Dark World]: http://movies.tshepang.net/thor-the-dark-world-2013
-  [Transformers]: http://movies.tshepang.net/transformers-2007
-  [Transformers: Revenge of the Fallen]: http://movies.tshepang.net/transformers-revenge-of-the-fallen-2009
-  [Transformers: Dark of the Moon]: http://movies.tshepang.net/transformers-dark-of-the-moon-2011
-  [Transformers: Age of Extinction]: http://movies.tshepang.net/transformers-age-of-extinction-2014
+  [2012]: http://tshepang.net/2012-2009
+  [The Avengers]: http://tshepang.net/the-avengers-2012
+  [Avatar]: http://tshepang.net/avatar-2009
+  [Battleship]: http://tshepang.net/battleship-2012
+  [Thor: The Dark World]: http://tshepang.net/thor-the-dark-world-2013
+  [Transformers]: http://tshepang.net/transformers-2007
+  [Transformers: Revenge of the Fallen]: http://tshepang.net/transformers-revenge-of-the-fallen-2009
+  [Transformers: Dark of the Moon]: http://tshepang.net/transformers-dark-of-the-moon-2011
+  [Transformers: Age of Extinction]: http://tshepang.net/transformers-age-of-extinction-2014

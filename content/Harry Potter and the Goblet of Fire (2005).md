@@ -20,4 +20,4 @@ the attention, while those of his competitors are totally ignored.
 One performance that I enjoyed a lot, a new character, is the super-tall
 lady.
 
-  [the one immediately predeceding it]: http://movies.tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
+  [the one immediately predeceding it]: http://tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004

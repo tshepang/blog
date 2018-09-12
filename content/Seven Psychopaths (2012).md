@@ -32,4 +32,4 @@ relationships, which I always find beautiful.
 superior work of art in many ways, though not as funny.
 
   [Tom Waits]: http://en.wikipedia.org/wiki/Tom_Waits
-  [The earlier movie]: http://movies.tshepang.net/in-bruges-2008
+  [The earlier movie]: http://tshepang.net/in-bruges-2008

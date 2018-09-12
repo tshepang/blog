@@ -20,4 +20,4 @@ however like 2 character designs:
 
 For a far better take on the title character, see [Dredd].
 
-  [Dredd]: http://movies.tshepang.net/dredd-2012
+  [Dredd]: http://tshepang.net/dredd-2012

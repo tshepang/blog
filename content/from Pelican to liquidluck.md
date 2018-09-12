@@ -96,7 +96,7 @@ issues
   [some large changes in a branch]: https://github.com/lepture/liquidluck/issues/104#issuecomment-22825084
   [a backlog of doc improvements]: https://github.com/lepture/liquidluck/issues/created_by/tshepang?sort=updated&state=open
   [live demos of the various liquidluck themes]: http://tshepang.net/looking-at-liquidluck-themes
-  [my movie blog]: http://movies.tshepang.net
+  [my movie blog]: http://tshepang.net
   [what I love about static website generators]: http://tshepang.net/what-me-loves-about-static-website-generation
   [Pelican]: http://pelican.readthedocs.org
   [unlike nikola]: https://github.com/getnikola/nikola/issues/163

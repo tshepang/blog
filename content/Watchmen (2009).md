@@ -27,4 +27,4 @@ sort of parody, as is the case with the War Room thing, parodying a
 This is one werid movie that I just don\'t know how to place, so will
 leave it here.
 
-  [Dr. Strangelove]: http://movies.tshepang.net/dr-strangelove-1964
+  [Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964

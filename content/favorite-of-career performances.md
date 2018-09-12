@@ -27,14 +27,14 @@ categories = ['movies']
 
 related: [best-of-career performances]
 
-  [The Expendables 3]: http://movies.tshepang.net/the-expendables-3
-  [Zoolander]: http://movies.tshepang.net/zoolander-2001
-  [Apocalypse Now]: http://movies.tshepang.net/apocalypse-now-1979
-  [Lord of War]: http://movies.tshepang.net/lord-of-war-2005
-  [Contagion]: http://movies.tshepang.net/contagion-2011
-  [Payback]: http://movies.tshepang.net/payback-1999
-  [Pi]: http://movies.tshepang.net/pi-1997
-  [Birth]: http://movies.tshepang.net/birth-2004
-  [Vicky Cristina Barcelona]: http://movies.tshepang.net/vicky-cristina-barcelona-2008
-  [The Matador]: http://movies.tshepang.net/the-matador-2004
-  [best-of-career performances]: http://movies.tshepang.net/best-of-career-performances
+  [The Expendables 3]: http://tshepang.net/the-expendables-3
+  [Zoolander]: http://tshepang.net/zoolander-2001
+  [Apocalypse Now]: http://tshepang.net/apocalypse-now-1979
+  [Lord of War]: http://tshepang.net/lord-of-war-2005
+  [Contagion]: http://tshepang.net/contagion-2011
+  [Payback]: http://tshepang.net/payback-1999
+  [Pi]: http://tshepang.net/pi-1997
+  [Birth]: http://tshepang.net/birth-2004
+  [Vicky Cristina Barcelona]: http://tshepang.net/vicky-cristina-barcelona-2008
+  [The Matador]: http://tshepang.net/the-matador-2004
+  [best-of-career performances]: http://tshepang.net/best-of-career-performances

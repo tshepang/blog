@@ -22,4 +22,4 @@ is similar to *Mr. & Mrs Smith* (but not nearly as good). It\'s got nice
 action and an uninteresting Tom Cruise, but Cameron Diaz is a
 what-a-doll!
 
-  [update]: http://movies.tshepang.net/many-many-recent-movies
+  [update]: http://tshepang.net/many-many-recent-movies

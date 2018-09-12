@@ -19,5 +19,5 @@ Stand].
 I see this received better reviews than any of the movies in the
 franchise, but I think the [X-Men 2] was better.
 
-  [X-Men 3: The Last Stand]: http://movies.tshepang.net/x-men-3-the-last-stand-2006
-  [X-Men 2]: http://movies.tshepang.net/x-men-2-2003
+  [X-Men 3: The Last Stand]: http://tshepang.net/x-men-3-the-last-stand-2006
+  [X-Men 2]: http://tshepang.net/x-men-2-2003

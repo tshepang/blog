@@ -26,4 +26,4 @@ the *party* moment. It was beautiful. Sadly, not much else was. None of
 the other performances were good (and I\'m not exaggerating), and the
 old-age make-up was even worse. Ridiculous!
 
-  [the most impressive movie made in the last few years]: http://movies.tshepang.net/precious-2009
+  [the most impressive movie made in the last few years]: http://tshepang.net/precious-2009

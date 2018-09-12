@@ -26,6 +26,6 @@ making it was, but it at least boasts a superb performance by [John
 Carroll Lynch], the highly-suspicious suspect. This [performance I
 honored last time] wasn\'t fit for a revisit.
 
-  [Fight Club]: http://movies.tshepang.net/fight-club-1999
+  [Fight Club]: http://tshepang.net/fight-club-1999
   [John Carroll Lynch]: http://en.wikipedia.org/wiki/John_Carroll_Lynch
-  [performance I honored last time]: http://movies.tshepang.net/zodiac-and-david-fincher
+  [performance I honored last time]: http://tshepang.net/zodiac-and-david-fincher

@@ -17,5 +17,5 @@ did like one character\... the giant gal. She is also not an original
 concept (see Eva in [Igor]), but then again I\'m a sucker for misfits
 like this.
 
-  [Megamind]: http://movies.tshepang.net/megamind-2010
-  [Igor]: http://movies.tshepang.net/igor-2008
+  [Megamind]: http://tshepang.net/megamind-2010
+  [Igor]: http://tshepang.net/igor-2008

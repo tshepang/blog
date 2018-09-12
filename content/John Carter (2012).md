@@ -13,4 +13,4 @@ missed the explanation). I do, however, appreciate superb character
 design of the four-arm humanoids, even though their look and behavior is
 similar to that of the giants of [Avatar].
 
-  [Avatar]: http://movies.tshepang.net/avatar-2009
+  [Avatar]: http://tshepang.net/avatar-2009

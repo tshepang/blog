@@ -28,4 +28,4 @@ I wish the cinematography and production design felt less stagey, and
 the sounds less retarded (e.g. metallic sounds emanate from swords
 cutting through human flesh).
 
-  [its predecessor]: http://movies.tshepang.net/x-men-origins-wolverine-2009
+  [its predecessor]: http://tshepang.net/x-men-origins-wolverine-2009

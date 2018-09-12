@@ -21,4 +21,4 @@ The movie could do with better camerawork and visual effects, maybe even
 set design, but one can almost ignore those shortcomings since it\'s
 well-written and directed.
 
-  [Another great dark comedy]: http://movies.tshepang.net/satires-and-dark-comedies-tend-to-be-good-movies
+  [Another great dark comedy]: http://tshepang.net/satires-and-dark-comedies-tend-to-be-good-movies

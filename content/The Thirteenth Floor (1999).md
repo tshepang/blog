@@ -16,4 +16,4 @@ The gorgeous gal is a lot more appealing when she\'s a cashier, as was
 the case with Amy Smart as waiter in [The Butterfly Effect], another
 movie which tackled the alternative reality concept.
 
-  [The Butterfly Effect]: http://movies.tshepang.net/the-butterfly-effect-2004
+  [The Butterfly Effect]: http://tshepang.net/the-butterfly-effect-2004

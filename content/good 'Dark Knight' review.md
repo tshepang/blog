@@ -30,5 +30,5 @@ checking out, and among my favorites:
 > character to get stuck in.
 
   [a real good Dark Knight review]: http://www.ruthlessreviews.com/742/dark-knight-the
-  [than I could manage]: http://movies.tshepang.net/the-dark-knight-2008
+  [than I could manage]: http://tshepang.net/the-dark-knight-2008
   [a hater review]: http://www.ruthlessreviews.com/746/dark-knight-the-2

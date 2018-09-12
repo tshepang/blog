@@ -22,5 +22,5 @@ slow and pro-longed takes.
 The only characters that seem alive are the young gal (fucking gorgeous)
 and her friends.
 
-  [Crimson Gold]: http://movies.tshepang.net/crimson-gold-2003
-  [Romance]: http://movies.tshepang.net/romance-1999
+  [Crimson Gold]: http://tshepang.net/crimson-gold-2003
+  [Romance]: http://tshepang.net/romance-1999

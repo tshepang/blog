@@ -60,15 +60,15 @@ airport checkpoint officer
 
 -   The humorless guy at airport checkpoint ([The Next Three Days])
 
-  [The Dark Knight]: http://movies.tshepang.net/the-dark-knight-2008
-  [There Will Be Blood]: http://movies.tshepang.net/there-will-be-blood-2007
+  [The Dark Knight]: http://tshepang.net/the-dark-knight-2008
+  [There Will Be Blood]: http://tshepang.net/there-will-be-blood-2007
   [Dillon Freasier]: http://en.wikipedia.org/wiki/Dillon_Freasier
   [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
-  [Real Steel]: http://movies.tshepang.net/real-steel-2011
-  [Dr. Strangelove]: http://movies.tshepang.net/dr-strangelove-1964
-  [Smokin\' Aces]: http://movies.tshepang.net/smokin-aces-2006
-  [Dark City]: http://movies.tshepang.net/dark-city-1998
-  [Precious]: http://movies.tshepang.net/precious-2009
-  [Payback]: http://movies.tshepang.net/payback-1999
+  [Real Steel]: http://tshepang.net/real-steel-2011
+  [Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964
+  [Smokin\' Aces]: http://tshepang.net/smokin-aces-2006
+  [Dark City]: http://tshepang.net/dark-city-1998
+  [Precious]: http://tshepang.net/precious-2009
+  [Payback]: http://tshepang.net/payback-1999
   [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
-  [The Next Three Days]: http://movies.tshepang.net/the-next-three-days-2010
+  [The Next Three Days]: http://tshepang.net/the-next-three-days-2010

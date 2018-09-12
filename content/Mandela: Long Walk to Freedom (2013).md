@@ -23,5 +23,5 @@ you can\'t fit everything in a single movie, but that would be an
 excuse\... I\'ve seen biopics in which feel like they do justice to a
 legend, recent examples being [The Iron Lady] and [Lincoln].
 
-  [The Iron Lady]: http://movies.tshepang.net/the-iron-lady-2011
-  [Lincoln]: http://movies.tshepang.net/lincoln-2012
+  [The Iron Lady]: http://tshepang.net/the-iron-lady-2011
+  [Lincoln]: http://tshepang.net/lincoln-2012

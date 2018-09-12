@@ -11,4 +11,4 @@ The most **desirable gal** is [Kelly Reilly] in [Sherlock Holmes: A Game
 of Shadows].
 
   [Kelly Reilly]: http://en.wikipedia.org/wiki/Kelly_Reilly
-  [Sherlock Holmes: A Game of Shadows]: http://movies.tshepang.net/sherlock-holmes-a-game-of-shadows
+  [Sherlock Holmes: A Game of Shadows]: http://tshepang.net/sherlock-holmes-a-game-of-shadows

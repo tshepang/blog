@@ -14,4 +14,4 @@ the [Dementors], which I so admired in the [3rd movie], have been given
 a facelift, though I prefer the original look.
 
   [Dementors]: http://en.wikipedia.org/wiki/Dementors
-  [3rd movie]: http://movies.tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
+  [3rd movie]: http://tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004

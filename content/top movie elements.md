@@ -167,24 +167,24 @@ most beautiful suicide scene
 
 -   *Wanted*
 
-  [Fight Club]: http://movies.tshepang.net/fight-club-1999
-  [Se7en]: http://movies.tshepang.net/se7en-1995
-  [Requiem for a Dream]: http://movies.tshepang.net/requiem-for-a-dream-2000
-  [Children of Men]: http://movies.tshepang.net/children-of-men-2006
-  [Doubt]: http://movies.tshepang.net/doubt-2008
-  [J. Edgar]: http://movies.tshepang.net/j-edgar-2011
-  [Apocalypto]: http://movies.tshepang.net/apocalypto-2006
-  [Sucker Punch]: http://movies.tshepang.net/sucker-punch-2011
-  [Haywire]: http://movies.tshepang.net/haywire
-  [The Bourne Legacy]: http://movies.tshepang.net/the-bourne-legacy-2012
-  [The Bourne Supremacy]: http://movies.tshepang.net/the-bourne-supremacy-2004
-  [The Bourne Ultimatum]: http://movies.tshepang.net/the-bourne-ultimatum-2007
-  [Non-Stop]: http://movies.tshepang.net/non-stop
-  [Limitless]: http://movies.tshepang.net/limitless-2011
-  [Groundhog Day]: http://movies.tshepang.net/groundhog-day-1993
-  [Life is Beautiful]: http://movies.tshepang.net/many-many-recent-movies
-  [Yellow Earth]: http://movies.tshepang.net/yellow-earth-1984
-  [Kinsey]: http://movies.tshepang.net/kinsey-2004
-  [The Hurt Locker]: http://movies.tshepang.net/recent-movies-2010-05-06
-  [Irréversible]: http://movies.tshepang.net/irreversible-2002
-  [Children of the Corn]: http://movies.tshepang.net/children-of-the-corn-2009
+  [Fight Club]: http://tshepang.net/fight-club-1999
+  [Se7en]: http://tshepang.net/se7en-1995
+  [Requiem for a Dream]: http://tshepang.net/requiem-for-a-dream-2000
+  [Children of Men]: http://tshepang.net/children-of-men-2006
+  [Doubt]: http://tshepang.net/doubt-2008
+  [J. Edgar]: http://tshepang.net/j-edgar-2011
+  [Apocalypto]: http://tshepang.net/apocalypto-2006
+  [Sucker Punch]: http://tshepang.net/sucker-punch-2011
+  [Haywire]: http://tshepang.net/haywire
+  [The Bourne Legacy]: http://tshepang.net/the-bourne-legacy-2012
+  [The Bourne Supremacy]: http://tshepang.net/the-bourne-supremacy-2004
+  [The Bourne Ultimatum]: http://tshepang.net/the-bourne-ultimatum-2007
+  [Non-Stop]: http://tshepang.net/non-stop
+  [Limitless]: http://tshepang.net/limitless-2011
+  [Groundhog Day]: http://tshepang.net/groundhog-day-1993
+  [Life is Beautiful]: http://tshepang.net/many-many-recent-movies
+  [Yellow Earth]: http://tshepang.net/yellow-earth-1984
+  [Kinsey]: http://tshepang.net/kinsey-2004
+  [The Hurt Locker]: http://tshepang.net/recent-movies-2010-05-06
+  [Irréversible]: http://tshepang.net/irreversible-2002
+  [Children of the Corn]: http://tshepang.net/children-of-the-corn-2009

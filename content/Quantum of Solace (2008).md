@@ -14,4 +14,4 @@ good that it reminds of (the superior) [Taken], even though it got
 spoilt by the revenging beauty (incompetent performance, stale character
 and subplot) and an even worse finale.
 
-  [Taken]: http://movies.tshepang.net/taken-2008
+  [Taken]: http://tshepang.net/taken-2008

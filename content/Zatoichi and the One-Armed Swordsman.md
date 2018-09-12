@@ -17,4 +17,4 @@ The only other performance I enjoyed is that of the prostitute that
 falls for him. A darker movie with the same character is [Zatoichi]
 (2003).
 
-  [Zatoichi]: http://movies.tshepang.net/zatoichi
+  [Zatoichi]: http://tshepang.net/zatoichi

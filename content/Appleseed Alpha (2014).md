@@ -26,5 +26,5 @@ who is not as a major a character as she was in the first movie, still
 has unexplained physical prowess. She also too damn lucky, brushing off
 highly dangerous situations like they are nothing. Sad.
 
-  [two]: http://movies.tshepang.net/appleseed-2004
-  [movies]: http://movies.tshepang.net/appleseed-ex-machina-2007
+  [two]: http://tshepang.net/appleseed-2004
+  [movies]: http://tshepang.net/appleseed-ex-machina-2007

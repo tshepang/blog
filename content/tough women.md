@@ -17,6 +17,6 @@ Here goes:
 3.  Julianne Moore as FBI agent (*Next*)
 4.  Michael Hyatt as detective ([Nightcrawler])
 
-  [Law Abiding Citizen]: http://movies.tshepang.net/law-abiding-citizen-2009
-  [Man of Steel]: http://movies.tshepang.net/man-of-steel-2013
-  [Nightcrawler]: http://movies.tshepang.net/nightcrawler
+  [Law Abiding Citizen]: http://tshepang.net/law-abiding-citizen-2009
+  [Man of Steel]: http://tshepang.net/man-of-steel-2013
+  [Nightcrawler]: http://tshepang.net/nightcrawler

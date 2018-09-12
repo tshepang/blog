@@ -26,4 +26,4 @@ appreciate. It doesn\'t help that it had a ridiculous number of
 characters, including 2 surprise additions. Having colorful characters
 can be exciting, but they simply were not needed for the story.
 
-  [Captain America: Winter Soldier]: http://movies.tshepang.net/captain-america-the-winter-soldier-2014
+  [Captain America: Winter Soldier]: http://tshepang.net/captain-america-the-winter-soldier-2014

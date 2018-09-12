@@ -18,4 +18,4 @@ where his gal unleashes violence against him is memorable.
 I was led to this after finding out it\'s based on the same material as
 the later [Payback], a far superior take.
 
-  [Payback]: http://movies.tshepang.net/payback-1999
+  [Payback]: http://tshepang.net/payback-1999

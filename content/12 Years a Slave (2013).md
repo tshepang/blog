@@ -22,7 +22,7 @@ value in here. Find something else. If in a mood for some Black American
 slavery stuff, check out the far superior [Mandingo] and [Goodbye Uncle
 Tom], or even [Django Unchained].
 
-  [Redbelt]: http://movies.tshepang.net/redbelt-2007
-  [Mandingo]: http://movies.tshepang.net/mandingo-1975
-  [Goodbye Uncle Tom]: http://movies.tshepang.net/goodbye-uncle-tom-1971
-  [Django Unchained]: http://movies.tshepang.net/django-unchained-2012
+  [Redbelt]: http://tshepang.net/redbelt-2007
+  [Mandingo]: http://tshepang.net/mandingo-1975
+  [Goodbye Uncle Tom]: http://tshepang.net/goodbye-uncle-tom-1971
+  [Django Unchained]: http://tshepang.net/django-unchained-2012

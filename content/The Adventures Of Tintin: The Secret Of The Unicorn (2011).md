@@ -15,4 +15,4 @@ and at times highly-sophisticated. It did not, however, result in any
 wow moment, but I appreciate the one detail of the Captain\'s convincing
 eyes near the end.
 
-  [I\'m not a fan of such excess]: http://movies.tshepang.net/overly-complex-action-sequences
+  [I\'m not a fan of such excess]: http://tshepang.net/overly-complex-action-sequences

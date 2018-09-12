@@ -20,4 +20,4 @@ boys\' adventures in the flying car. My previous favorite character from
 the first movie does not compare, and is a lot less interesting this
 time around.
 
-  [the first one]: http://movies.tshepang.net/harry-potter-and-the-sorcerers-stone-2001
+  [the first one]: http://tshepang.net/harry-potter-and-the-sorcerers-stone-2001

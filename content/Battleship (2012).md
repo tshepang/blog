@@ -31,4 +31,4 @@ this even sadder is fact that they appeared not wholly evil, making them
 more interesting. I even thought that, later in the movie, there would
 be something like *stop fighting us; we come in peace*.
 
-  [Dr. Strangelove]: http://movies.tshepang.net/dr-strangelove-1964
+  [Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964

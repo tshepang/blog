@@ -15,4 +15,4 @@ complete with excellent cinematography and production design. But soon
 after, it feels like a failed attempt at an [L.A. Confidential], and got
 unfunny humor and misguided romance.
 
-  [L.A. Confidential]: http://movies.tshepang.net/la-confidential-1997
+  [L.A. Confidential]: http://tshepang.net/la-confidential-1997

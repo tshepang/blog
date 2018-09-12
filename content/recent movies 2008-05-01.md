@@ -18,4 +18,4 @@ would have benefited from a better title, and it could have done without
 the friendship between the vigilante and the cop, which results in some
 unfortunate sugar-coating, detracting from the movie\'s tough approach.
 
-  [Seven Samurai]: http://movies.tshepang.net/seven-samurai-1954
+  [Seven Samurai]: http://tshepang.net/seven-samurai-1954

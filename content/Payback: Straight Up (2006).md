@@ -37,4 +37,4 @@ much that is different:
 
 Overall, I find [the earlier release] superior, but not by a big margin.
 
-  [the earlier release]: http://movies.tshepang.net/payback-1999
+  [the earlier release]: http://tshepang.net/payback-1999

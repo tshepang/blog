@@ -20,4 +20,4 @@ also hate it when characters go through way too much physical pounding,
 as in when the rock giants fight (a ridiculous and unexplained moment),
 and the Dwarf escape.
 
-  [I dislike the excessive complexity of the battle scene]: http://movies.tshepang.net/overly-complex-action-sequences
+  [I dislike the excessive complexity of the battle scene]: http://tshepang.net/overly-complex-action-sequences

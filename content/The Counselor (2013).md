@@ -13,4 +13,4 @@ that played Hitler in [Downfall]), and the story gets more edgy as it
 progresses. I need to see it again to understand it better\... it\'s
 complex, and much of what\'s going on is only implied.
 
-  [Downfall]: http://movies.tshepang.net/downfall-2004
+  [Downfall]: http://tshepang.net/downfall-2004

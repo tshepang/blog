@@ -20,4 +20,4 @@ director, decided to turn the entire thing into a one-man show instead
 of giving the other filmmakers, who were with him during the commentary,
 a chance).
 
-  [300]: http://movies.tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece
+  [300]: http://tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece
