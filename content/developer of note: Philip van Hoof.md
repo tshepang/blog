@@ -1,7 +1,9 @@
 +++
 date = 2010-08-13
-tags = ['developer-of-note', 'GNOME', 'Tracker']
 title = "developer of note: Philip van Hoof"
+
+[taxonomies]
+tags = ['developer-of-note', 'GNOME', 'Tracker']
 +++
 
 There hasn\'t been anyone who has [publicly talked about Tracker] as

@@ -1,7 +1,9 @@
 +++
 date = 2012-04-11
-tags = ['wajig']
 title = "wajig 2.5 released"
+
+[taxonomies]
+tags = ['wajig']
 +++
 
 The release of [wajig 2.3], though important to me, caused varius

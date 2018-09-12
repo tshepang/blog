@@ -1,7 +1,9 @@
 +++
 date = 2011-02-01
-tags = ['Python', 'non-Python']
 title = "splitting strings"
+
+[taxonomies]
+tags = ['Python', 'non-Python']
 +++
 
 If I have a string with spaces, and wanted to split it into a

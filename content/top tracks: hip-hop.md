@@ -1,7 +1,9 @@
 +++
-tags = ['hip-hop', 'music', 'list']
 title = "top tracks: hip-hop"
 date = 2015-08-28
+
+[taxonomies]
+tags = ['hip-hop', 'music', 'list']
 +++
 
 Not included below are tracks from the best hip-hop albums yet made,

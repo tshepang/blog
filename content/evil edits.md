@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['music']
 title = "evil edits"
+
+[taxonomies]
+tags = ['music']
 +++
 
 It gets disgusting when re-releases, usually in a form of \'the best of

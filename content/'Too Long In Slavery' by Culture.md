@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['music']
 title = "'Too Long In Slavery' by Culture"
+
+[taxonomies]
+tags = ['music']
 +++
 
 The mood of [Too Long In Slavery] (performed by [Culture] and found in

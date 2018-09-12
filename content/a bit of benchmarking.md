@@ -1,8 +1,10 @@
 +++
 date = 2013-10-27
 summary = "comparing performance of my laptop and my work machine"
-tags = ['Python']
 title = "a bit of benchmarking"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 I was curious how my home machine performs compared to my work machine.

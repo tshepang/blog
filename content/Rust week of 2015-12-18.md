@@ -1,7 +1,9 @@
 +++
 date = 2015-12-24
-tags = ['Rust']
 title = "Rust week of 2015-12-18"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I submitted a [small change] to Cargo. I also submitted two

@@ -1,7 +1,9 @@
 +++
 date = 2011-03-19
-tags = ['GNOME']
 title = "my JHBuild setup"
+
+[taxonomies]
+tags = ['GNOME']
 +++
 
 JHBuild is a [powerful] and [flexible] build tool for GNOME. It does

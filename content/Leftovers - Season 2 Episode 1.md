@@ -1,7 +1,9 @@
 +++
 date = 2016-02-13
-tags = ['excellent', 'tv']
 title = "Leftovers - Season 2 Episode 1"
+
+[taxonomies]
+tags = ['excellent', 'tv']
 +++
 
 Few tv episodes have left as much an impact on me as this bizarre one. I

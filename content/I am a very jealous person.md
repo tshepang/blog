@@ -1,7 +1,9 @@
 +++
-tags = ['Rust', 'non-Rust']
 title = "I am a very jealous person"
 date = 2018-02-02
+
+[taxonomies]
+tags = ['Rust', 'non-Rust']
 +++
 
 Following is some of the cases where competing software won this or that

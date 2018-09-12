@@ -1,7 +1,9 @@
 +++
 date = 2016-11-17
-tags = ['Rust']
 title = "Rust week of 2016-11-11"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I enjoyed reading an excellent and detailed [Rust API design guide]. In

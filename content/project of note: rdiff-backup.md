@@ -1,7 +1,9 @@
 +++
 date = 2011-01-18
-tags = ['project-of-note', 'GNOME']
 title = "project of note: rdiff-backup"
+
+[taxonomies]
+tags = ['project-of-note', 'GNOME']
 +++
 
 So I got my hands on a 250GB 2.5\" portable HDD, which led to me to go

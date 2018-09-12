@@ -1,7 +1,9 @@
 +++
 date = 2016-09-14
-tags = ['Rust']
 title = "Rust week of 2016-09-09"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I used [the postgres] crate for the first time. I played with Diesel

@@ -1,7 +1,9 @@
 +++
 date = 2007-07-25
-tags = ['Tracker']
 title = "Tracker 0.6.0"
+
+[taxonomies]
+tags = ['Tracker']
 +++
 
 6 months have passed since the [previous Tracker release] and it\'s real

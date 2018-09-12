@@ -1,7 +1,9 @@
 +++
 date = 2013-11-16
-tags = ['music', 'very-good']
 title = "Introducing Hedzoleh Soundz (1973)"
+
+[taxonomies]
+tags = ['music', 'very-good']
 +++
 
 Several months ago, I bumped onto this jazz album by [Hugh Masekela]. It

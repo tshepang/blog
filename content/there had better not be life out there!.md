@@ -1,7 +1,9 @@
 +++
 date = 2009-09-17
-tags = ['future-tech']
 title = "there had better not be life out there!"
+
+[taxonomies]
+tags = ['future-tech']
 +++
 
 I thoroughly enjoyed re-reading [an essay] on why we better hope we

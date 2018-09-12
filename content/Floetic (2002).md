@@ -1,7 +1,9 @@
 +++
 date = 2011-02-28
-tags = ['music', 'very-good']
 title = "Floetic (2002)"
+
+[taxonomies]
+tags = ['music', 'very-good']
 +++
 
 I love the smooth melody that is [\*Floetic\*] by Floetry. It is the

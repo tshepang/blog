@@ -1,7 +1,9 @@
 +++
 date = 2017-01-13
-tags = ['Rust']
 title = "Rust week of 2017-01-06"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I asked [two][] [questions] on Stack Overflow. The first led me to use

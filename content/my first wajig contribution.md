@@ -1,7 +1,9 @@
 +++
 date = 2010-07-08
-tags = ['wajig', 'QuodLibet']
 title = "my first wajig contribution"
+
+[taxonomies]
+tags = ['wajig', 'QuodLibet']
 +++
 
 Due to my love for the application [Quod Libet], I have been

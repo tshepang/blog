@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['tv']
 title = "SABC 1 glory"
+
+[taxonomies]
+tags = ['tv']
 +++
 
 I got captivated by the new SABC 1 theme presentation (for lack of a

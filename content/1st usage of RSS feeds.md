@@ -1,7 +1,9 @@
 +++
 date = 2007-04-16
-tags = ['Debian']
 title = "1st usage of RSS feeds"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 Browsing [Debian Planet] today led me to the usage of Google Reader.

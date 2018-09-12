@@ -1,7 +1,9 @@
 +++
 date = 2009-01-23
-tags = ['Scribes', 'Geany']
 title = "discarding Scribes for Geany"
+
+[taxonomies]
+tags = ['Scribes', 'Geany']
 +++
 
 The [version of Scribes in development] didn\'t prove too satisfactory

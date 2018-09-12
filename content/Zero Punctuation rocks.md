@@ -1,7 +1,9 @@
 +++
 date = 2012-07-10
-tags = ['gaming']
 title = "Zero Punctuation rocks"
+
+[taxonomies]
+tags = ['gaming']
 +++
 
 I recently discovered an incredibly entertaining and scathing game

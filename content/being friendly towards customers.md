@@ -1,7 +1,9 @@
 +++
 date = 2008-07-16
-tags = ['quote']
 title = "being friendly towards customers"
+
+[taxonomies]
+tags = ['quote']
 +++
 
 I just a read [a very interesting post] on how to gain market share, and

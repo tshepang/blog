@@ -1,7 +1,9 @@
 +++
 date = 2015-08-08
-tags = ['music', 'hip-hop']
 title = "The Score (1996)"
+
+[taxonomies]
+tags = ['music', 'hip-hop']
 +++
 
 Second only to *Doggystyle* in the rank of the best hip-hop albums, it

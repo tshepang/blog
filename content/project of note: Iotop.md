@@ -1,7 +1,9 @@
 +++
 date = 2011-02-25
-tags = ['project-of-note']
 title = "project of note: Iotop"
+
+[taxonomies]
+tags = ['project-of-note']
 +++
 
 [Iotop] displays disk I/O usage of individual process, in a way similar

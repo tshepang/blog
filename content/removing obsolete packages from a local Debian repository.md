@@ -1,7 +1,9 @@
 +++
 date = 2012-02-21
-tags = ['Debian']
 title = "removing obsolete packages from a local Debian repository"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 background info

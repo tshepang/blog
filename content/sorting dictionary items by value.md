@@ -1,7 +1,9 @@
 +++
 date = 2012-06-26
-tags = ['Python']
 title = "sorting dictionary items by value"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 Following should be self-explanatory:

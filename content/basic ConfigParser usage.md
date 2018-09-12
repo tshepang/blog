@@ -1,7 +1,9 @@
 +++
 date = 2011-01-28
-tags = ['Python']
 title = "basic ConfigParser usage"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 Reading `.INI` files is very easy with Python. Say you had a file,

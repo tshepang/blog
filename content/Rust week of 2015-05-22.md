@@ -1,7 +1,9 @@
 +++
 date = 2015-05-25
-tags = ['Rust']
 title = "Rust week of 2015-05-22"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 -   I bumped onto [an oddity regarding \'pow\' method]\... there is no

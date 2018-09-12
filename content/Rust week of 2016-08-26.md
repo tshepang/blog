@@ -1,7 +1,9 @@
 +++
 date = 2016-08-01
-tags = ['Rust']
 title = "Rust week of 2016-08-26"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I did learn how to use a TCP socket to communicate between 2 processes.

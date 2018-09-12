@@ -1,7 +1,9 @@
 +++
 date = 2007-05-18
-tags = ['future-tech']
 title = "Nanotech and Open Source"
+
+[taxonomies]
+tags = ['future-tech']
 +++
 
 I was fascinated to find that Christine Peterson of Nanotech fame

@@ -1,7 +1,9 @@
 +++
 date = 2013-09-25
-tags = ['project-of-note', 'non-Python']
 title = "project of note: Valgrind"
+
+[taxonomies]
+tags = ['project-of-note', 'non-Python']
 +++
 
 I have, since using Valgrind (and reading a bit of its documentation)

@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['gaming']
 title = "Halo 3"
+
+[taxonomies]
+tags = ['gaming']
 +++
 
 I could not spot a real improvement from Halo 2, bar the hyper-realistic

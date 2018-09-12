@@ -1,7 +1,9 @@
 +++
 date = 2013-10-16
-tags = ['Python', 'VCS']
 title = "easing switching between Git and Mercurial"
+
+[taxonomies]
+tags = ['Python', 'VCS']
 +++
 
 Each chance I get, I use Mercurial (e.g. personal stuff), and use Git

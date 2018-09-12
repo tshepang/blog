@@ -1,7 +1,9 @@
 +++
 date = 2010-08-30
-tags = ['atheism', 'humor']
 title = "Argument from Beauty"
+
+[taxonomies]
+tags = ['atheism', 'humor']
 +++
 
 So there\'s a bunch of [arguments for the existence of God], and

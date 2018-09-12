@@ -1,7 +1,9 @@
 +++
 date = 2013-09-30
-tags = ['list']
 title = "favorite buildings"
+
+[taxonomies]
+tags = ['list']
 +++
 
 -   [Burj Khalifa][]:

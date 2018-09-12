@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['music']
 title = "Up With Donald Byrd (1964)"
+
+[taxonomies]
+tags = ['music']
 +++
 
 I thoroughly enjoyed Donarl Byrd\'s superb album, \"Up With Donald

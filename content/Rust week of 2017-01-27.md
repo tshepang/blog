@@ -1,7 +1,9 @@
 +++
 date = 2017-02-02
-tags = ['Rust']
 title = "Rust week of 2017-01-27"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 This week I submitted [one complaint], [and][] [just][] [four][]

@@ -1,7 +1,9 @@
 +++
 date = 2013-08-08
-tags = ['project-of-note', 'Python', 'Pyramid']
 title = "project of note: Sphinx"
+
+[taxonomies]
+tags = ['project-of-note', 'Python', 'Pyramid']
 +++
 
 [Sphinx] is a tool that is used to generate documentation from

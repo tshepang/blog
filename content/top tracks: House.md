@@ -1,7 +1,9 @@
 +++
 date = 2014-03-04
-tags = ['music', 'list']
 title = "top tracks: House"
+
+[taxonomies]
+tags = ['music', 'list']
 +++
 
 *A list needing a lot of love*

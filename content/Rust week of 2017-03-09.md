@@ -1,7 +1,9 @@
 +++
 date = 2017-03-13
-tags = ['Rust']
 title = "Rust week of 2017-03-09"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I made [a minor review], and I made [one contribution].

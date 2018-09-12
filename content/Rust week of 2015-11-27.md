@@ -1,7 +1,9 @@
 +++
 date = 2015-12-03
-tags = ['Rust']
 title = "Rust week of 2015-11-27"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I added [missing][] [examples] to stdlib documentation. I also learned a

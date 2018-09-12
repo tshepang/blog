@@ -1,7 +1,9 @@
 +++
 date = 2013-10-19
-tags = ['list', 'Emacs', 'Python']
 title = "projects with excellent documentation"
+
+[taxonomies]
+tags = ['list', 'Emacs', 'Python']
 +++
 
 Here is a list of projects whose documentation I found to be

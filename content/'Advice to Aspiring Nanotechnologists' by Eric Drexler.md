@@ -1,7 +1,9 @@
 +++
 date = 2012-06-10
-tags = ['future-tech']
 title = "'Advice to Aspiring Nanotechnologists' by Eric Drexler"
+
+[taxonomies]
+tags = ['future-tech']
 +++
 
 The great Eric Drexler offers [extensive guidance] for those considering

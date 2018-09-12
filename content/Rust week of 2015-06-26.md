@@ -1,7 +1,9 @@
 +++
 date = 2015-07-01
-tags = ['Rust']
 title = "Rust week of 2015-06-26"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I [removed a sentence] that is not needed from Cargo documentation. I

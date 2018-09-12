@@ -1,7 +1,9 @@
 +++
 date = 2010-03-23
-tags = ['atheism']
 title = "debate: Mike Licona vs Richard Carrier"
+
+[taxonomies]
+tags = ['atheism']
 +++
 
 I recently listened to a 2.5 hour-long [debate] between two scholars,

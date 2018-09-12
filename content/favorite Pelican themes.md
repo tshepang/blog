@@ -1,7 +1,9 @@
 +++
 date = 2013-09-30
-tags = ['blogging']
 title = "favorite Pelican themes"
+
+[taxonomies]
+tags = ['blogging']
 +++
 
 I don\'t like the default [Pelican] theme, `notmyidea`:

@@ -1,7 +1,9 @@
 +++
 date = 2015-06-23
-tags = ['Rust']
 title = "Rust week of 2015-06-19"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Work done on [the Documentation chapter] of the official Rust book:

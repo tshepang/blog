@@ -1,7 +1,9 @@
 +++
 date = 2013-10-17
-tags = ['project-of-note', 'VCS']
 title = "project of note: git-cola"
+
+[taxonomies]
+tags = ['project-of-note', 'VCS']
 +++
 
 I use [git-cola] mostly when I want to commit various hunks separately;

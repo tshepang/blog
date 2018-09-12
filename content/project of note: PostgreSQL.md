@@ -1,7 +1,9 @@
 +++
 date = 2013-04-04
-tags = ['project-of-note']
 title = "project of note: PostgreSQL"
+
+[taxonomies]
+tags = ['project-of-note']
 +++
 
 It is among those rather quite (in terms of controversy) but

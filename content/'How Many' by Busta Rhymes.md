@@ -1,7 +1,9 @@
 +++
 date = 2013-04-28
-tags = ['music', 'hip-hop']
 title = "'How Many' by Busta Rhymes"
+
+[taxonomies]
+tags = ['music', 'hip-hop']
 +++
 
 [Busta Rhymes] has a mixtape named *Cut Master C With Busta Rhymes*, and

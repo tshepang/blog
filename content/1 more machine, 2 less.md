@@ -1,7 +1,9 @@
 +++
 date = 2008-11-13
-tags = ['hardware']
 title = "1 more machine, 2 less"
+
+[taxonomies]
+tags = ['hardware']
 +++
 
 Since I\'ve departed from previous job, I\'ve lost access to [two

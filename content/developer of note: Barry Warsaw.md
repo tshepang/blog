@@ -1,7 +1,9 @@
 +++
 date = 2013-05-28
-tags = ['Debian', 'developer-of-note', 'non-Debian', 'Python']
 title = "developer of note: Barry Warsaw"
+
+[taxonomies]
+tags = ['Debian', 'developer-of-note', 'non-Debian', 'Python']
 +++
 
 This guy, both an official Ubuntu developer and a core [CPython]

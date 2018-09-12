@@ -1,7 +1,9 @@
 +++
 date = 2013-11-26
-tags = ['Emacs']
 title = "pleasantly surprised by replace-string (Emacs)"
+
+[taxonomies]
+tags = ['Emacs']
 +++
 
 If you want to replace some string in Emacs, the primary function to use

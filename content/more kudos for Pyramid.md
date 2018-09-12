@@ -1,7 +1,9 @@
 +++
 date = 2014-09-08
-tags = ['Python', 'quote', 'Pyramid']
 title = "more kudos for Pyramid"
+
+[taxonomies]
+tags = ['Python', 'quote', 'Pyramid']
 +++
 
 I\'m not sure if there is any one Python web framework as

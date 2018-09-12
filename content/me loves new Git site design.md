@@ -1,7 +1,9 @@
 +++
 date = 2012-05-16
-tags = ['VCS']
 title = "me loves new Git site design"
+
+[taxonomies]
+tags = ['VCS']
 +++
 
 I really like the [new website design] of the Git project ([story]). It

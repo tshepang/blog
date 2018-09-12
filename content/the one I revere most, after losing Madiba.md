@@ -1,7 +1,9 @@
 +++
 date = 2013-12-12
-tags = ['politics']
 title = "the one I revere most, after losing Madiba"
+
+[taxonomies]
+tags = ['politics']
 +++
 
 As far as I can remember, there was not a single living individual I

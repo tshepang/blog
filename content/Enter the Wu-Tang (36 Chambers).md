@@ -1,7 +1,9 @@
 +++
 date = 2013-05-23
-tags = ['music', 'very-good']
 title = "Enter the Wu-Tang (36 Chambers)"
+
+[taxonomies]
+tags = ['music', 'very-good']
 +++
 
 I very much enjoyed listening to this album, which also happens to be

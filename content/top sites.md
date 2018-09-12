@@ -1,7 +1,9 @@
 +++
 date = 2013-06-01
-tags = ['list']
 title = "top sites"
+
+[taxonomies]
+tags = ['list']
 +++
 
 **atheist writing**: [Pharyngula]

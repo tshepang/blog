@@ -1,7 +1,9 @@
 +++
 date = 2012-08-09
-tags = ['developer-of-note']
 title = "developer of note: Michael Meeks"
+
+[taxonomies]
+tags = ['developer-of-note']
 +++
 
 Being the most visible LibreOffice (and formerly, OpenOffice.org)

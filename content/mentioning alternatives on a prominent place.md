@@ -1,7 +1,9 @@
 +++
 date = 2013-08-27
-tags = ['list']
 title = "mentioning alternatives on a prominent place"
+
+[taxonomies]
+tags = ['list']
 +++
 
 It\'s an honorable thing to mention alternative and/or competing

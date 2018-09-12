@@ -1,7 +1,9 @@
 +++
 date = 2017-10-22
-tags = ['theatre']
 title = "from offense to delight"
+
+[taxonomies]
+tags = ['theatre']
 +++
 
 I was invited to a show named *Best Friends, Worst Enemies* which I

@@ -1,7 +1,9 @@
 +++
 date = 2010-05-20
-tags = ['developer-of-note', 'GNOME', 'Tracker']
 title = "developer of note: Aleksander Morgado"
+
+[taxonomies]
+tags = ['developer-of-note', 'GNOME', 'Tracker']
 +++
 
 The [Tracker] team got this new guy, [Aleksander Morgado], [doing][]

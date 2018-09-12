@@ -1,7 +1,9 @@
 +++
 date = 2016-12-15
-tags = ['Rust']
 title = "Rust week of 2016-12-09"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I played some with serde-yaml and rust-yaml. I last looked at YAML some

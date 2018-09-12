@@ -1,7 +1,9 @@
 +++
 date = 2010-05-10
-tags = ['GNOME']
 title = "xfrun4 rocks"
+
+[taxonomies]
+tags = ['GNOME']
 +++
 
 The one desktop environment I live in is GNOME, which also happens to be

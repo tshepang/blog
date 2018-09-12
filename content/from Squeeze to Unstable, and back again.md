@@ -1,7 +1,9 @@
 +++
 date = 2011-04-26
-tags = ['Debian', 'GNOME']
 title = "from Squeeze to Unstable, and back again"
+
+[taxonomies]
+tags = ['Debian', 'GNOME']
 +++
 
 With all the noise regarding GNOME 3, I decided to lose patience and go

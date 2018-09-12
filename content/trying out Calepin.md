@@ -1,7 +1,9 @@
 +++
 date = 2012-04-02
-tags = ['blogging']
 title = "trying out Calepin"
+
+[taxonomies]
+tags = ['blogging']
 +++
 
 **update**: The lack of reliability, worst of which was constant

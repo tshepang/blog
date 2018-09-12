@@ -1,7 +1,9 @@
 +++
 date = 2011-01-15
-tags = ['Debian']
 title = "poll results of debian-user's favorite FLOSS"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 Here\'s an index of the poll results where I asked on debian-user

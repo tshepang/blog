@@ -1,7 +1,9 @@
 +++
 date = 2017-04-13
-tags = ['Rust']
 title = "Rust week of 2017-04-06"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I enjoyed working with [probor], which is a protocol built on top of

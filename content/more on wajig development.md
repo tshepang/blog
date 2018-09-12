@@ -1,7 +1,9 @@
 +++
 date = 2010-07-16
-tags = ['wajig']
 title = "more on wajig development"
+
+[taxonomies]
+tags = ['wajig']
 +++
 
 I was [given commit access] to wajig project, and did a heck of a lot of

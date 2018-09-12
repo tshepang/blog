@@ -1,7 +1,9 @@
 +++
 date = 2007-05-17
-tags = ['Debian']
 title = "Debian and Linux"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 There is a Debian [history discussion] among Debian old-timers where a

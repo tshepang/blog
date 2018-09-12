@@ -1,7 +1,9 @@
 +++
 date = 2013-04-03
-tags = ['non-FLOSS', 'VCS']
 title = "me loving the Kiln Harmony concept"
+
+[taxonomies]
+tags = ['non-FLOSS', 'VCS']
 +++
 
 I tend to work a lot with both Git and Mercurial, and to ease the pain

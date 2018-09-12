@@ -1,7 +1,9 @@
 +++
 date = 2011-02-17
-tags = ['project-of-note', 'Python']
 title = "project of note: matplotlib"
+
+[taxonomies]
+tags = ['project-of-note', 'Python']
 +++
 
 I believe [matplotlib] is THE plotting library for Python. It happens to

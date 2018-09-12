@@ -1,7 +1,9 @@
 +++
 date = 2016-06-23
-tags = ['Rust']
 title = "Rust week of 2016-06-17"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I found [a so nice library] that handles a favorite file format of mine,

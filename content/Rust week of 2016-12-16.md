@@ -1,7 +1,9 @@
 +++
 date = 2016-12-18
-tags = ['Rust']
 title = "Rust week of 2016-12-16"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I like how easy it seems to create custom template filters, as seen in

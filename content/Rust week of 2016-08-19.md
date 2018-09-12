@@ -1,7 +1,9 @@
 +++
 date = 2016-08-25
-tags = ['Rust']
 title = "Rust week of 2016-08-19"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 There [were] a [few][] [submissions], including [one that took entirely

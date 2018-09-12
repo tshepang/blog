@@ -1,7 +1,9 @@
 +++
 date = 2017-07-24
-tags = ['Rust']
 title = "Rust week of 2017-07-20"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I am surprised by the ease of changing default Rust toolchain:

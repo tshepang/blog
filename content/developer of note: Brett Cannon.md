@@ -1,7 +1,9 @@
 +++
 date = 2014-02-24
-tags = ['developer-of-note', 'Python', 'Gittip']
 title = "developer of note: Brett Cannon"
+
+[taxonomies]
+tags = ['developer-of-note', 'Python', 'Gittip']
 +++
 
 [A core CPython developer], Dr. Brett Cannon is among the key people

@@ -1,7 +1,9 @@
 +++
 date = 2011-06-10
-tags = ['Python']
 title = "my first code contribution to the CPython project"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 Looking at [the long list] of people who have contributed to Python, you

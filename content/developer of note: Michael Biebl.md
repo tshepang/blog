@@ -1,7 +1,9 @@
 +++
 date = 2010-04-14
-tags = ['Debian', 'developer-of-note', 'Tracker', 'GNOME']
 title = "developer of note: Michael Biebl"
+
+[taxonomies]
+tags = ['Debian', 'developer-of-note', 'Tracker', 'GNOME']
 +++
 
 So I really do honor all Debian Developers especially when they are

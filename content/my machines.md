@@ -1,7 +1,9 @@
 +++
 date = 2008-09-26
-tags = ['hardware']
 title = "my machines"
+
+[taxonomies]
+tags = ['hardware']
 +++
 
 I have, since my first machine in 2004, owned 2 other complete systems:

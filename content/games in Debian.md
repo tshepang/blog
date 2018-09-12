@@ -1,7 +1,9 @@
 +++
 date = 2007-12-03
-tags = ['Debian']
 title = "games in Debian"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 [Blob Wars], which resembles Mario, has become a serious hit with my

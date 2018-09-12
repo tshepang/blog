@@ -1,7 +1,9 @@
 +++
 date = 2016-12-29
-tags = ['Rust']
 title = "Rust week of 2016-12-23"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I enjoyed going through the tutorial on [slog], which helped reduce the

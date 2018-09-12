@@ -1,7 +1,9 @@
 +++
 date = 2016-07-03
-tags = ['Rust']
 title = "Rust week of 2016-07-01"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Made [my first contribution to Servo], the most exciting software

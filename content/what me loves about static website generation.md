@@ -1,7 +1,9 @@
 +++
 date = 2013-04-06
-tags = ['blogging']
 title = "what me loves about static website generation"
+
+[taxonomies]
+tags = ['blogging']
 +++
 
 There\'s a ridiculous amount of power and flexiblity in having all the

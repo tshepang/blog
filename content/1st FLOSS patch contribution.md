@@ -1,7 +1,9 @@
 +++
 date = 2007-04-03
-tags = ['GNOME', 'Tracker']
 title = "1st FLOSS patch contribution"
+
+[taxonomies]
+tags = ['GNOME', 'Tracker']
 +++
 
 Back in January 2007, I sent a patch that slightly improved the README

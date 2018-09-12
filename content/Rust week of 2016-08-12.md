@@ -1,7 +1,9 @@
 +++
 date = 2016-08-18
-tags = ['Rust']
 title = "Rust week of 2016-08-12"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I enjoyed a useful (and tiny) library that helps align text nicely.

@@ -1,7 +1,9 @@
 +++
 date = 2011-01-15
-tags = ['Debian', 'Python', 'non-FLOSS']
 title = "accessing Oracle DB using Python, in Debian"
+
+[taxonomies]
+tags = ['Debian', 'Python', 'non-FLOSS']
 +++
 
 The following instructions assume that you are using [Debian Squeeze],

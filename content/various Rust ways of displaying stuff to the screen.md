@@ -1,7 +1,9 @@
 +++
 date = 2015-05-25
-tags = ['Rust']
 title = "various Rust ways of displaying stuff to the screen"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Here is a simple way of doing it:

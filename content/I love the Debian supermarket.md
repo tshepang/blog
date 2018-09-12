@@ -1,7 +1,9 @@
 +++
 date = 2010-05-05
-tags = ['Debian']
 title = "I love the Debian supermarket"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 I love the fact that whenever someone mentions a piece of software, I

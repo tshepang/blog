@@ -1,7 +1,9 @@
 +++
 date = 2014-08-04
-tags = ['Rust']
 title = "trying to understand stack memory"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Python is a language that is so high level that concepts like stack and

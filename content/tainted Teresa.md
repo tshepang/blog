@@ -1,7 +1,9 @@
 +++
 date = 2009-09-24
-tags = ['ethics', 'quote']
 title = "tainted Teresa"
+
+[taxonomies]
+tags = ['ethics', 'quote']
 +++
 
 While I was thinking of the topic I covered in [noble dreams], Mother

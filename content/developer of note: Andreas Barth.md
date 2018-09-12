@@ -1,7 +1,9 @@
 +++
 date = 2008-06-10
-tags = ['Debian', 'developer-of-note']
 title = "developer of note: Andreas Barth"
+
+[taxonomies]
+tags = ['Debian', 'developer-of-note']
 +++
 
 Andreas Barth is about as a great a Debian release manager as Steve

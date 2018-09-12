@@ -1,7 +1,9 @@
 +++
 date = 2011-11-02
-tags = ['music', 'top-tracks']
 title = "top tracks: Salif Keita"
+
+[taxonomies]
+tags = ['music', 'top-tracks']
 +++
 
 5 masterpieces

@@ -1,7 +1,9 @@
 +++
 date = 2014-09-04
-tags = ['Emacs']
 title = "loving the SSH multi-hop feature of Emacs"
+
+[taxonomies]
+tags = ['Emacs']
 +++
 
 I\'m at home and want to access some system at work. I cannot access

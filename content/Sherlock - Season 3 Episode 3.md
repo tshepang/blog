@@ -1,7 +1,9 @@
 +++
 date = 2015-02-05
-tags = ['tv', 'excellent']
 title = "Sherlock - Season 3 Episode 3"
+
+[taxonomies]
+tags = ['tv', 'excellent']
 +++
 
 Episode 0 of Season 1, which was remade into Episode 1, got me excited

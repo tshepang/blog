@@ -1,7 +1,9 @@
 +++
 date = 2012-11-18
-tags = ['non-Python']
 title = "errors resulting from setting named pipes to be non-blocking"
+
+[taxonomies]
+tags = ['non-Python']
 +++
 
 Using C, I have been writing to named pipes in a non-blocking way and

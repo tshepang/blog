@@ -1,7 +1,9 @@
 +++
 date = 2010-05-04
-tags = ['non-Python', 'Python']
 title = "Python people vs. Java people"
+
+[taxonomies]
+tags = ['non-Python', 'Python']
 +++
 
 Now this is one heck of a controversial quote by the best computer

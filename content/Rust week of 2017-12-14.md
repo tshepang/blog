@@ -1,7 +1,9 @@
 +++
 date = 2017-12-21
-tags = ['Rust']
 title = "Rust week of 2017-12-14"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Some more work on [mrh][]:

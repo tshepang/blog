@@ -1,7 +1,9 @@
 +++
 date = 2013-04-24
-tags = ['quote']
 title = "the not grateful"
+
+[taxonomies]
+tags = ['quote']
 +++
 
 This is sad, but the author should have probably used the term *Free

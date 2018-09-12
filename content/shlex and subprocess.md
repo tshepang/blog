@@ -1,7 +1,9 @@
 +++
 date = 2011-01-25
-tags = ['Python']
 title = "shlex and subprocess"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 I learned about a module called [shlex]. It\'s stated to be a simple

@@ -1,7 +1,9 @@
 +++
 date = 2007-06-01
-tags = ['politics']
 title = "Anarchism and teen sexuality"
+
+[taxonomies]
+tags = ['politics']
 +++
 
 There\'s a well-researched document named The Anarchist FAQ (AFAQ)

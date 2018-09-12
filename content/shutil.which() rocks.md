@@ -1,7 +1,9 @@
 +++
 date = 2013-05-26
-tags = ['Python', 'wajig']
 title = "shutil.which() rocks"
+
+[taxonomies]
+tags = ['Python', 'wajig']
 +++
 
 Unix/Linux systems have a simple (but useful) tool named which, whose

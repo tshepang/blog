@@ -1,7 +1,9 @@
 +++
 date = 2016-06-30
-tags = ['Rust']
 title = "Rust week of 2016-06-24"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I struggled hard enough with a `does not live long enough` that I

@@ -1,7 +1,9 @@
 +++
 date = 2017-10-13
-tags = ['Rust']
 title = "Rust week of 2017-10-05"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 [Continuing with the work project], I replaced the [interfaces] library

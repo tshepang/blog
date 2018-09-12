@@ -1,7 +1,9 @@
 +++
 date = 2017-06-21
-tags = ['Rust']
 title = "Rust week of 2017-06-15"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I used [structopt] for the first time, and found it reduces the pain of

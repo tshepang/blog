@@ -1,7 +1,9 @@
 +++
 date = 2017-01-26
-tags = ['Rust']
 title = "Rust week of 2017-01-20"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I enjoyed reading this post about bad C ideas that are seen in other

@@ -1,7 +1,9 @@
 +++
 date = 2012-06-19
-tags = ['quote']
 title = "when a FLOSS project gets real big"
+
+[taxonomies]
+tags = ['quote']
 +++
 
 Serious scale:

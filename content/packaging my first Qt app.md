@@ -1,7 +1,9 @@
 +++
 date = 2013-08-27
-tags = ['Debian', 'non-Python']
 title = "packaging my first Qt app"
+
+[taxonomies]
+tags = ['Debian', 'non-Python']
 +++
 
 Someone asked me to try get some KDE package into Debian. I estimated

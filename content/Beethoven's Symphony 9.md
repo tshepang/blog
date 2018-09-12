@@ -1,7 +1,9 @@
 +++
 date = 2011-02-24
-tags = ['classical', 'music']
 title = "Beethoven's Symphony 9"
+
+[taxonomies]
+tags = ['classical', 'music']
 +++
 
 I was led to listen to Beethoven\'s [critically-acclaimed] \"Symphony

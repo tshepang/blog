@@ -1,7 +1,9 @@
 +++
-tags = ['music', 'top-tracks']
 title = "top tracks: Fela Kuti"
 date = 2015-07-17
+
+[taxonomies]
+tags = ['music', 'top-tracks']
 +++
 
 3 landmarks

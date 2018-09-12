@@ -1,7 +1,9 @@
 +++
 date = 2007-08-16
-tags = ['politics']
 title = "Anarchism and the GPL"
+
+[taxonomies]
+tags = ['politics']
 +++
 
 I was reading some old Debian posts where there was an argument brewing

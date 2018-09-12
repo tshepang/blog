@@ -1,7 +1,9 @@
 +++
 date = 2011-01-18
-tags = ['project-of-note']
 title = "project of note: linkchecker"
+
+[taxonomies]
+tags = ['project-of-note']
 +++
 
 Weeks ago, I looked for a utility that would help me check for my

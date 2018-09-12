@@ -1,7 +1,9 @@
 +++
 date = 2010-09-28
-tags = ['Debian']
 title = "my Debian package management setup"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 Much of this is obsolete: I no longer use `debmirror` and no longer keep

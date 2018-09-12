@@ -1,7 +1,9 @@
 +++
-tags = ['list']
 title = "FLOSS I use a-lot"
 date = 2018-09-12
+
+[taxonomies]
+tags = ['list']
 +++
 
 Following are tools I use a lot, but am not necessarily loving...

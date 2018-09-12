@@ -1,7 +1,9 @@
 +++
 date = 2012-12-21
-tags = ['top-tracks', 'music', 'hip-hop']
 title = "top tracks: The Roots"
+
+[taxonomies]
+tags = ['top-tracks', 'music', 'hip-hop']
 +++
 
 1 masterpiece

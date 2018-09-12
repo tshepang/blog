@@ -1,7 +1,9 @@
 +++
 date = 2011-02-17
-tags = ['Python']
 title = "plotting with matplotlib"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 Here\'s drawing a simple graph:

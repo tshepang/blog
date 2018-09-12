@@ -1,7 +1,9 @@
 +++
 date = 2016-11-24
-tags = ['Rust']
 title = "Rust week of 2016-11-18"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I was surprised by the ease of use of [libflate] when decompressing a

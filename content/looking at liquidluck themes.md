@@ -1,7 +1,9 @@
 +++
 date = 2013-04-13
-tags = ['blogging']
 title = "looking at liquidluck themes"
+
+[taxonomies]
+tags = ['blogging']
 +++
 
 Following are demos of all liquidluck themes I could find, all running

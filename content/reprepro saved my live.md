@@ -1,7 +1,9 @@
 +++
 date = 2008-12-12
-tags = ['Debian']
 title = "reprepro saved my live"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 Much of this is obsolete: I no longer build my own Debian packages.

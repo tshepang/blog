@@ -1,7 +1,9 @@
 +++
 date = 2015-01-24
-tags = ['quote', 'Rust']
 title = "what makes Rust unique"
+
+[taxonomies]
+tags = ['quote', 'Rust']
 +++
 
 An interesting expansion of \"safety without garbage collection\":

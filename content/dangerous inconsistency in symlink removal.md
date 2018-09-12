@@ -1,7 +1,9 @@
 +++
 date = 2011-01-28
-tags = ['untagged']
 title = "dangerous inconsistency in symlink removal"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 Here\'s how to make a symlink and to delete it:

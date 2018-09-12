@@ -1,7 +1,9 @@
 +++
 date = 2008-11-13
-tags = ['non-Debian']
 title = "Ubuntu 8.10 impressions"
+
+[taxonomies]
+tags = ['non-Debian']
 +++
 
 I haven\'t ran Ubuntu since 7.04 and gave 8.10 a try recently, primarily

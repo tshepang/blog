@@ -1,7 +1,9 @@
 +++
 date = 2012-02-01
-tags = ['Debian', 'non-Python']
 title = "attachment can lead to irrational behaviour"
+
+[taxonomies]
+tags = ['Debian', 'non-Python']
 +++
 
 In [my previous job], we used to use some Java framework, [Mule ESB],

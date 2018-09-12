@@ -1,7 +1,9 @@
 +++
 date = 2013-02-24
-tags = ['good', 'short']
 title = "Six Shooter (2005)"
+
+[taxonomies]
+tags = ['good', 'short']
 +++
 
 This 27 minute short is worthy mainly due to the loud and fascinating

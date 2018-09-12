@@ -1,7 +1,9 @@
 +++
 date = 2011-01-26
-tags = ['Python']
 title = "using Python's subprocess module"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 There are at least 2 ways to run a simple command like `echo test` in

@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['gaming']
 title = "GameSpy's 'BioShock' review"
+
+[taxonomies]
+tags = ['gaming']
 +++
 
 Last year, I got seduced by GameSpy with their [2006 review], and this

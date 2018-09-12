@@ -1,7 +1,9 @@
 +++
 date = 2010-11-05
-tags = ['non-FLOSS']
 title = "when it seems OK to compromise on software freedom"
+
+[taxonomies]
+tags = ['non-FLOSS']
 +++
 
 [Stack Exchange] is a network of websites built to make the internet

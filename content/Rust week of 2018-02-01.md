@@ -1,7 +1,9 @@
 +++
 date = 2018-02-08
-tags = ['Rust']
 title = "Rust week of 2018-02-01"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I used [serde\_rusqlite] for the first time, and thought it was

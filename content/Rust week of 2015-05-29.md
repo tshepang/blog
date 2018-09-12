@@ -1,7 +1,9 @@
 +++
 date = 2015-05-30
-tags = ['Rust']
 title = "Rust week of 2015-05-29"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 -   I was surprised by the somewhat magical Rust type inference:

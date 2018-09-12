@@ -1,7 +1,9 @@
 +++
 date = 2008-11-26
-tags = ['Scribes']
 title = "Scribes satisfies some more"
+
+[taxonomies]
+tags = ['Scribes']
 +++
 
 I\'m currently running development version of Scribes (from bzr repo)

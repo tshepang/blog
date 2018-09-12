@@ -1,7 +1,9 @@
 +++
 date = 2016-06-02
-tags = ['Rust']
 title = "Rust week of 2016-05-27"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Being a fanboy, I found the discussion [Why aren\'t you using Rust at

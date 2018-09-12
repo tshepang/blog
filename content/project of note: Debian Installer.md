@@ -1,7 +1,9 @@
 +++
 date = 2014-03-20
-tags = ['Debian', 'non-Debian', 'project-of-note', 'quote']
 title = "project of note: Debian Installer"
+
+[taxonomies]
+tags = ['Debian', 'non-Debian', 'project-of-note', 'quote']
 +++
 
 I\'ve looked at pretty installers like that of Ubuntu and Fedora, and

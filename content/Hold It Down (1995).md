@@ -1,7 +1,9 @@
 +++
 date = 2011-02-20
-tags = ['excellent', 'hip-hop', 'music']
 title = "Hold It Down (1995)"
+
+[taxonomies]
+tags = ['excellent', 'hip-hop', 'music']
 +++
 
 I recently got hold of \"Hold It Down\" (1995) by [Das EFX]. Real good

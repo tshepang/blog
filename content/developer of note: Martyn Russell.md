@@ -1,7 +1,9 @@
 +++
 date = 2010-09-10
-tags = ['developer-of-note', 'GNOME', 'Tracker']
 title = "developer of note: Martyn Russell"
+
+[taxonomies]
+tags = ['developer-of-note', 'GNOME', 'Tracker']
 +++
 
 Martyn Russell is [Tracker]\'s release manager, and being a fan of the

@@ -1,7 +1,9 @@
 +++
 date = 2012-03-29
-tags = ['Debian', 'wajig']
 title = "wajig 2.4 released"
+
+[taxonomies]
+tags = ['Debian', 'wajig']
 +++
 
 Less than a week after releasing 2.3, someone discovered a bug when

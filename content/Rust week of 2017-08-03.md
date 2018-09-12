@@ -1,7 +1,9 @@
 +++
 date = 2017-08-08
-tags = ['Rust']
 title = "Rust week of 2017-08-03"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 My first upload to [the official Rust registry], [weeks-from-now].

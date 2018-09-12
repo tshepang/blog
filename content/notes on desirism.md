@@ -1,7 +1,9 @@
 +++
 date = 2013-04-21
-tags = ['ethics']
 title = "notes on desirism"
+
+[taxonomies]
+tags = ['ethics']
 +++
 
 Stuff I scribbled down after listening to the first Season of a

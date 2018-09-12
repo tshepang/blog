@@ -1,7 +1,9 @@
 +++
 date = 2013-10-13
-tags = ['Debian', 'wajig']
 title = "my first Debian upload"
+
+[taxonomies]
+tags = ['Debian', 'wajig']
 +++
 
 Output of my first ever upload to Debian (using [dput]):

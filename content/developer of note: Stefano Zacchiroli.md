@@ -1,7 +1,9 @@
 +++
 date = 2012-04-15
-tags = ['Debian', 'developer-of-note']
 title = "developer of note: Stefano Zacchiroli"
+
+[taxonomies]
+tags = ['Debian', 'developer-of-note']
 +++
 
 I admire [this guy] a lot:

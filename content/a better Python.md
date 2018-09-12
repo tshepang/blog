@@ -1,7 +1,9 @@
 +++
 date = 2014-05-10
-tags = ['Python', 'non-Python']
 title = "a better Python"
+
+[taxonomies]
+tags = ['Python', 'non-Python']
 +++
 
 [This post] led me to an interesting paper titled *An Empirical

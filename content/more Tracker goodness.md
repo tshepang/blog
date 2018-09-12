@@ -1,7 +1,9 @@
 +++
 date = 2008-03-04
-tags = ['Tracker']
 title = "more Tracker goodness"
+
+[taxonomies]
+tags = ['Tracker']
 +++
 
 [Tracker]\'s applet has recently received a revamp which, when clicked,

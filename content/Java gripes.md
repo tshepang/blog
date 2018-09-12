@@ -1,7 +1,9 @@
 +++
 date = 2011-11-02
-tags = ['non-Python', 'Python']
 title = "Java gripes"
+
+[taxonomies]
+tags = ['non-Python', 'Python']
 +++
 
 Okay, so Java sucks \'a bit\', but the following surprised me:

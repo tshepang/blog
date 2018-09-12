@@ -1,7 +1,9 @@
 +++
 date = 2010-04-22
-tags = ['untagged']
 title = "'Stack Overflow' rocks hard!"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 I can\'t believe that I only now discovered [Stack Overflow]. It\'s an

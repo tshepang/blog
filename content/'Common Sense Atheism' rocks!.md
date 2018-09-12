@@ -1,7 +1,9 @@
 +++
 date = 2010-01-08
-tags = ['atheism']
 title = "'Common Sense Atheism' rocks!"
+
+[taxonomies]
+tags = ['atheism']
 +++
 
 I\'ve read dozens of posts by [Luke Muehlhauser] at his [Common Sense

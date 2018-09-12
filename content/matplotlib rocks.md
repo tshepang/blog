@@ -1,7 +1,9 @@
 +++
 date = 2012-07-19
-tags = ['Python']
 title = "matplotlib rocks"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 Have a look at this code:

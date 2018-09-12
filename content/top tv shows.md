@@ -1,7 +1,9 @@
 +++
-tags = ['tv']
 title = "top tv shows"
 date = 2015-11-04
+
+[taxonomies]
+tags = ['tv']
 +++
 
 I specify seasons only if the rest of series was not so excellent. The

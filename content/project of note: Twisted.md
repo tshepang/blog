@@ -1,7 +1,9 @@
 +++
 date = 2011-01-18
-tags = ['project-of-note']
 title = "project of note: Twisted"
+
+[taxonomies]
+tags = ['project-of-note']
 +++
 
 I\'ve been impressed by [the claims made for Twisted], which erased the

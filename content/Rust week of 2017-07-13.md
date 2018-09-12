@@ -1,7 +1,9 @@
 +++
 date = 2017-07-19
-tags = ['Rust']
 title = "Rust week of 2017-07-13"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I am tempted, [once again], to try out [Remacs], a Rust port of GNU

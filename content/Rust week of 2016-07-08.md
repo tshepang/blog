@@ -1,7 +1,9 @@
 +++
 date = 2016-07-14
-tags = ['Rust']
 title = "Rust week of 2016-07-08"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I created my first custom type, a struct with 2 members and one method.

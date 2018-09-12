@@ -1,7 +1,9 @@
 +++
 date = 2010-10-19
-tags = ['quote']
 title = "great honors for Donald Knuth"
+
+[taxonomies]
+tags = ['quote']
 +++
 
 Such praise isn\'t given everyday:

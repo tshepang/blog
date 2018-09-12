@@ -1,7 +1,9 @@
 +++
 date = 2016-03-08
-tags = ['humor', 'quote', 'Rust']
 title = "boiling head"
+
+[taxonomies]
+tags = ['humor', 'quote', 'Rust']
 +++
 
 Part of [an appeal] to not be offended on behalf of others:

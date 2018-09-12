@@ -1,7 +1,9 @@
 +++
 date = 2012-11-10
-tags = ['Debian']
 title = "what I do after Debian installation"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 I think anyone who has never done any OS install before can install

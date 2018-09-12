@@ -1,7 +1,9 @@
 +++
 date = 2010-11-02
-tags = ['blogging']
 title = "Tumblr suckage"
+
+[taxonomies]
+tags = ['blogging']
 +++
 
 **update**: after an unbearably-long downtime, I decided to make the

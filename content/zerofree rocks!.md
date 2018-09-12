@@ -1,7 +1,9 @@
 +++
 date = 2015-01-15
-tags = ['untagged']
 title = "zerofree rocks!"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 At work, we tend to use the same base image for multiple installations.

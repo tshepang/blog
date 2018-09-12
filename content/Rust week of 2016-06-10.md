@@ -1,7 +1,9 @@
 +++
 date = 2016-06-16
-tags = ['Rust']
 title = "Rust week of 2016-06-10"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I was made sad by the complexity of involving STDIN when using

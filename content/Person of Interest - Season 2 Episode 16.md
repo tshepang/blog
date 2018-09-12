@@ -1,7 +1,9 @@
 +++
 date = 2013-09-06
-tags = ['tv', 'very-good']
 title = "Person of Interest - Season 2 Episode 16"
+
+[taxonomies]
+tags = ['tv', 'very-good']
 +++
 
 I am a big fan of the series, *Person of Interest*. There is much to

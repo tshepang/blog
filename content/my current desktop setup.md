@@ -1,7 +1,9 @@
 +++
 date = 2014-02-16
-tags = ['GNOME', 'Debian']
 title = "my current desktop setup"
+
+[taxonomies]
+tags = ['GNOME', 'Debian']
 +++
 
 Following is how my GUI environment is set-up on [my home machine] (a

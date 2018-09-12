@@ -1,7 +1,9 @@
 +++
 date = 2015-02-06
-tags = ['travel']
 title = "a visit to Mozambique"
+
+[taxonomies]
+tags = ['travel']
 +++
 
 Outside my country, South Africa, I have only been to Botswana,

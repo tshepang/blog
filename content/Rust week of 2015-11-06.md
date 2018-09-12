@@ -1,7 +1,9 @@
 +++
 date = 2015-11-10
-tags = ['Rust']
 title = "Rust week of 2015-11-06"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I made some [small improvements] to rustc-serialize docs. I also looked

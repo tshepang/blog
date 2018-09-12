@@ -1,7 +1,9 @@
 +++
 date = 2010-09-14
-tags = ['politics']
 title = "on Anarchism"
+
+[taxonomies]
+tags = ['politics']
 +++
 
 There have been many great benefits I got from [the Debian project],

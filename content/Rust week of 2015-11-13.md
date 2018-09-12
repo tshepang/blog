@@ -1,7 +1,9 @@
 +++
 date = 2015-11-19
-tags = ['Rust']
 title = "Rust week of 2015-11-13"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I submitted [fixes] for small nits on Ramp, the Rust Arithmetic in

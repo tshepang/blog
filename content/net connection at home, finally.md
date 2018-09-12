@@ -1,7 +1,9 @@
 +++
 date = 2008-09-16
-tags = ['untagged']
 title = "net connection at home, finally"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 I got [internet connection] at home on September 12th (access at work

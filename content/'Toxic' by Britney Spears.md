@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['music']
 title = "'Toxic' by Britney Spears"
+
+[taxonomies]
+tags = ['music']
 +++
 
 I had developed a negative attitude towards Britney Spear\'s music due

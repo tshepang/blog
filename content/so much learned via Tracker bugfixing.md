@@ -1,7 +1,9 @@
 +++
 date = 2010-04-02
-tags = ['GNOME', 'Tracker']
 title = "so much learned via Tracker bugfixing"
+
+[taxonomies]
+tags = ['GNOME', 'Tracker']
 +++
 
 It\'s been maybe over a year since I\'ve submitted a patch to any FLOSS

@@ -1,7 +1,9 @@
 +++
 date = 2011-02-09
-tags = ['Debian', 'Python']
 title = "comparing Debian repositories"
+
+[taxonomies]
+tags = ['Debian', 'Python']
 +++
 
 If you got two Debian repositories, it\'s quite easy to check the

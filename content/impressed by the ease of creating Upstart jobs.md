@@ -1,7 +1,9 @@
 +++
 date = 2014-10-30
-tags = ['non-Debian']
 title = "impressed by the ease of creating Upstart jobs"
+
+[taxonomies]
+tags = ['non-Debian']
 +++
 
 At work, we run our systems on Ubuntu, which so far means the init

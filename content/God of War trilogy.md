@@ -1,7 +1,9 @@
 +++
 date = 2013-05-31
-tags = ['excellent', 'gaming']
 title = "God of War trilogy"
+
+[taxonomies]
+tags = ['excellent', 'gaming']
 +++
 
 The last time I played any of the 3 games from the [God of War] trilogy

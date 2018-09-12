@@ -1,7 +1,9 @@
 +++
 date = 2014-09-11
-tags = ['project-of-note', 'Debian']
 title = "project of note: Debian LTS"
+
+[taxonomies]
+tags = ['project-of-note', 'Debian']
 +++
 
 One of the complaints about Debian stable releases is that they reach

@@ -1,7 +1,9 @@
 +++
 date = 2014-02-23
-tags = ['music', 'excellent']
 title = "the two versions of 'Water No Get Enemy'"
+
+[taxonomies]
+tags = ['music', 'excellent']
 +++
 
 [The first version of this song] was released in 1975 as part of the

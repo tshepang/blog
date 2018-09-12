@@ -1,7 +1,9 @@
 +++
 date = 2015-02-01
-tags = ['travel']
 title = "a visit to Lesotho"
+
+[taxonomies]
+tags = ['travel']
 +++
 
 Maseru is a lot better than I thought:

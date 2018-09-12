@@ -1,7 +1,9 @@
 +++
 date = 2007-06-11
-tags = ['Debian', 'developer-of-note']
 title = "developer of note: Steve Langasek"
+
+[taxonomies]
+tags = ['Debian', 'developer-of-note']
 +++
 
 Steve Langasek has been Debian release manager for over two years and

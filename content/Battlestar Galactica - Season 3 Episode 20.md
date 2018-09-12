@@ -1,7 +1,9 @@
 +++
 date = 2011-12-29
-tags = ['tv']
 title = "Battlestar Galactica - Season 3 Episode 20"
+
+[taxonomies]
+tags = ['tv']
 +++
 
 *I hardly ever write anything about tv productions regardless of how

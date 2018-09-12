@@ -1,7 +1,9 @@
 +++
 date = 2016-12-01
-tags = ['Rust']
 title = "Rust week of 2016-11-25"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I been wanting to write a Rust reStructuredText parser for the longest

@@ -1,7 +1,9 @@
 +++
 date = 2012-07-14
-tags = ['politics']
 title = "Valve appears anarchistic"
+
+[taxonomies]
+tags = ['politics']
 +++
 
 While reading [how this legendary game creator is run] (or at least used

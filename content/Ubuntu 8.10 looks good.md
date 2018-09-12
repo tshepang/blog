@@ -1,7 +1,9 @@
 +++
 date = 2008-10-03
-tags = ['non-Debian', 'GNOME']
 title = "Ubuntu 8.10 looks good"
+
+[taxonomies]
+tags = ['non-Debian', 'GNOME']
 +++
 
 Ubuntu 8.10 Beta has been released and, if [the annoucement] is to be

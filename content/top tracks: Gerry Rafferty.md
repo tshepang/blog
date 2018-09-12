@@ -1,7 +1,9 @@
 +++
 date = 2015-07-26
-tags = ['music', 'top-tracks']
 title = "top tracks: Gerry Rafferty"
+
+[taxonomies]
+tags = ['music', 'top-tracks']
 +++
 
 1 masterpiece

@@ -1,7 +1,9 @@
 +++
 date = 2013-01-17
-tags = ['non-Debian']
 title = "nice review of Fedora 18"
+
+[taxonomies]
+tags = ['non-Debian']
 +++
 
 I really enjoyed reading [this review] of the experience of installing

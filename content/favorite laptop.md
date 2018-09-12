@@ -1,7 +1,9 @@
 +++
 date = 2008-10-18
-tags = ['hardware']
 title = "favorite laptop"
+
+[taxonomies]
+tags = ['hardware']
 +++
 
 The laptop that [I previously mentioned] is named Compaq/HP nx7010 and

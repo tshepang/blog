@@ -1,7 +1,9 @@
 +++
 date = 2015-08-01
-tags = ['Rust']
 title = "Rust week of 2015-07-24"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I have been [given the honor] of Friend of the Tree by a member of the

@@ -1,7 +1,9 @@
 +++
 date = 2012-08-02
-tags = ['luck']
 title = "me got meself another coding job"
+
+[taxonomies]
+tags = ['luck']
 +++
 
 Some years ago, I was totally excited by having [my first job working on

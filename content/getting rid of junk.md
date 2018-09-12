@@ -1,7 +1,9 @@
 +++
 date = 2011-01-22
-tags = ['atheism']
 title = "getting rid of junk"
+
+[taxonomies]
+tags = ['atheism']
 +++
 
 PZ Myers of [Pharyngula] fame is the best atheist writer I\'ve read yet,

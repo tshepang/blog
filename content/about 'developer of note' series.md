@@ -1,7 +1,9 @@
 +++
-tags = ['developer-of-note']
 title = "about 'developer of note' series"
 date = 2016-02-04
+
+[taxonomies]
+tags = ['developer-of-note']
 +++
 
 I respect a lot of software developers, but many of those are not going

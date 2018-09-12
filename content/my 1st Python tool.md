@@ -1,7 +1,9 @@
 +++
 date = 2008-11-07
-tags = ['Python']
 title = "my 1st Python tool"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 A senior of mine at my current job has asked me to write a tool to

@@ -1,7 +1,9 @@
 +++
 date = 2017-08-18
-tags = ['Rust']
 title = "Rust week of 2017-08-17"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I added a feature to [mrh (multiple git repo helper)] that allows one to

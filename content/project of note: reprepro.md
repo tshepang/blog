@@ -1,7 +1,9 @@
 +++
 date = 2012-05-11
-tags = ['Debian', 'project-of-note']
 title = "project of note: reprepro"
+
+[taxonomies]
+tags = ['Debian', 'project-of-note']
 +++
 
 I have given kudos to [reprepro][] [twice][] [before], and though those

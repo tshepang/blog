@@ -1,7 +1,9 @@
 +++
 date = 2014-02-16
-tags = ['untagged']
 title = "got my eyes fixed"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 On **2014-02-12** I had LASIK operation done to fix my being

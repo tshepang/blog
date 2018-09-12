@@ -1,7 +1,9 @@
 +++
 date = 2013-05-27
-tags = ['wajig', 'Python', 'Tracker']
 title = "my current plans for wajig"
+
+[taxonomies]
+tags = ['wajig', 'Python', 'Tracker']
 +++
 
 Some stuff I might work on in future:

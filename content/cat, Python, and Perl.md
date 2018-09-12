@@ -1,7 +1,9 @@
 +++
 date = 2011-03-15
-tags = ['non-Python', 'Python']
 title = "cat, Python, and Perl"
+
+[taxonomies]
+tags = ['non-Python', 'Python']
 +++
 
 I came across [a tutorial] that showes how to implement a simple cat in

@@ -1,7 +1,9 @@
 +++
 date = 2011-11-02
-tags = ['music', 'top-tracks']
 title = "top tracks: Bob Marley"
+
+[taxonomies]
+tags = ['music', 'top-tracks']
 +++
 
 1 landmark

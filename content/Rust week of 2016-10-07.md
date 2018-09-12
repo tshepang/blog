@@ -1,7 +1,9 @@
 +++
 date = 2016-10-13
-tags = ['Rust']
 title = "Rust week of 2016-10-07"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I am impressed by [the documentation of curl-rust]. It\'s better than

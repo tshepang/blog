@@ -1,7 +1,9 @@
 +++
 date = 2013-08-25
-tags = ['music']
 title = "Letta Mbulu vs. Miriam Makeba"
+
+[taxonomies]
+tags = ['music']
 +++
 
 I\'ve been wondering for years which of these two music legends is

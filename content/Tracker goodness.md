@@ -1,7 +1,9 @@
 +++
 date = 2008-02-01
-tags = ['Tracker']
 title = "Tracker goodness"
+
+[taxonomies]
+tags = ['Tracker']
 +++
 
 [Tracker] hasn\'t been around as long as Beagle has but seems more

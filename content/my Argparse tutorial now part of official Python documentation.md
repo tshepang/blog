@@ -1,7 +1,9 @@
 +++
 date = 2012-05-07
-tags = ['Python']
 title = "my Argparse tutorial now part of official Python documentation"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 I am very glad that [a tutorial] I started writing over 2 months ago has

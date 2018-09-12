@@ -1,7 +1,9 @@
 +++
 date = 2016-01-05
-tags = ['Rust']
 title = "Rust week of 2016-01-01"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I found [an interesting discussion] regarding trade-offs of using C

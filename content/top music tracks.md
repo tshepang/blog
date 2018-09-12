@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['music']
 title = "top music tracks"
+
+[taxonomies]
+tags = ['music']
 +++
 
 All these are landmarks (i.e. beyond masterpiece level):

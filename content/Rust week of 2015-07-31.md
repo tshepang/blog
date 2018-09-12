@@ -1,7 +1,9 @@
 +++
 date = 2015-08-06
-tags = ['Rust']
 title = "Rust week of 2015-07-31"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I got to use [inotify-rs] for some task at work (first time I used Rust

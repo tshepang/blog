@@ -1,7 +1,9 @@
 +++
 date = 2018-01-04
-tags = ['Rust']
 title = "Rust week of 2017-12-28"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Very little Rust last week, but this week I played some with [termion]

@@ -1,7 +1,9 @@
 +++
 date = 2014-04-02
-tags = ['untagged']
 title = "pipe dream: Basic Income for South African adults"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 There are too many people suffering from poverty in South Africa, and

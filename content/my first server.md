@@ -1,7 +1,9 @@
 +++
 date = 2013-10-10
-tags = ['Debian']
 title = "my first server"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 The closest I ever came to needing own server is for hosting [my blog],

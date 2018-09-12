@@ -1,7 +1,9 @@
 +++
 date = 2013-10-03
-tags = ['blogging']
 title = "from Pelican to liquidluck"
+
+[taxonomies]
+tags = ['blogging']
 +++
 
 **notes**:

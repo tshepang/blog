@@ -1,7 +1,9 @@
 +++
 date = 2011-01-27
-tags = ['Python']
 title = "basic usage of Python with Oracle DB, in Debian"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 What if you wanted to access Oracle using Python? Once you are [set up],

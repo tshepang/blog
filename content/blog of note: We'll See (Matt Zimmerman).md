@@ -1,7 +1,9 @@
 +++
 date = 2010-12-03
-tags = ['Debian']
 title = "blog of note: We'll See (Matt Zimmerman)"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 I\'m a regular reader of [Planet Debian], so I frequently bump onto Matt

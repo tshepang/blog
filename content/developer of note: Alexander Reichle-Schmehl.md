@@ -1,7 +1,9 @@
 +++
 date = 2010-07-24
-tags = ['Debian', 'developer-of-note']
 title = "developer of note: Alexander Reichle-Schmehl"
+
+[taxonomies]
+tags = ['Debian', 'developer-of-note']
 +++
 
 Debian got so many people doing what seem like thankless jobs in an

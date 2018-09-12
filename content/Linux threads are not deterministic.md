@@ -1,7 +1,9 @@
 +++
 date = 2015-05-25
-tags = ['Rust']
 title = "Linux threads are not deterministic"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 By deterministic, I am referring to their scheduling. Here\'s an example

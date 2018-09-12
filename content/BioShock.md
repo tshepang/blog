@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['gaming']
 title = "BioShock"
+
+[taxonomies]
+tags = ['gaming']
 +++
 
 I enjoyed a [negative review of BioShock] partly because everything else

@@ -1,7 +1,9 @@
 +++
 date = 2010-06-02
-tags = ['blogging']
 title = "new blogging platform"
+
+[taxonomies]
+tags = ['blogging']
 +++
 
 Blogger\'s post editor is so bad that I\'ve been promising myself to

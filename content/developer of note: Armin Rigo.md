@@ -1,7 +1,9 @@
 +++
 date = 2013-10-13
-tags = ['developer-of-note', 'Python', 'quote']
 title = "developer of note: Armin Rigo"
+
+[taxonomies]
+tags = ['developer-of-note', 'Python', 'quote']
 +++
 
 Co-founder and lead developer of arguably the most exciting project in

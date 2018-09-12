@@ -1,7 +1,9 @@
 +++
 date = 2014-04-24
-tags = ['hardware']
 title = "Sony Vaio Pro 13 (SVP13212SGBI)"
+
+[taxonomies]
+tags = ['hardware']
 +++
 
 On **2014-02-13** I went to collect [the laptop] from [these guys],

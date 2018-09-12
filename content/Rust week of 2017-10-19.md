@@ -1,7 +1,9 @@
 +++
 date = 2017-10-22
-tags = ['Rust']
 title = "Rust week of 2017-10-19"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I released [mrh] v0.2.0, which takes into account that when latest

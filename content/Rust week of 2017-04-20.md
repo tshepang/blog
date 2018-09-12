@@ -1,7 +1,9 @@
 +++
 date = 2017-04-26
-tags = ['Rust']
 title = "Rust week of 2017-04-20"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 The MQTT client library I mentioned [last week] is in serious need of

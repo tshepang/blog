@@ -1,7 +1,9 @@
 +++
 date = 2011-01-06
-tags = ['untagged']
 title = "factors affecting choice of tools"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 **technical**:

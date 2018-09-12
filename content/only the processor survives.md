@@ -1,7 +1,9 @@
 +++
 date = 2008-09-26
-tags = ['hardware']
 title = "only the processor survives"
+
+[taxonomies]
+tags = ['hardware']
 +++
 
 I only recently realized that my oldest computer system, the first I

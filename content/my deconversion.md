@@ -1,7 +1,9 @@
 +++
 date = 2009-12-22
-tags = ['atheism']
 title = "my deconversion"
+
+[taxonomies]
+tags = ['atheism']
 +++
 
 One of the top atheism bloggers today, [Luke Muehlhauser], posted a

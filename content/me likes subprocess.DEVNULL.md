@@ -1,7 +1,9 @@
 +++
 date = 2013-04-11
-tags = ['Python', 'VCS']
 title = "me likes subprocess.DEVNULL"
+
+[taxonomies]
+tags = ['Python', 'VCS']
 +++
 
 If you want to run an external process from within Python, and are not

@@ -1,7 +1,9 @@
 +++
 date = 2012-04-09
-tags = ['Python']
 title = "David Beazley's PyCon US 2012 Keynote"
+
+[taxonomies]
+tags = ['Python']
 +++
 
 [David Beazley\'s PyCon 2012 key note talk] is among the best I\'ve seen

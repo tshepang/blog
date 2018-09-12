@@ -1,7 +1,9 @@
 +++
 date = 2011-01-18
-tags = ['project-of-note']
 title = "project of note: Mailman"
+
+[taxonomies]
+tags = ['project-of-note']
 +++
 
 [Mailman] is most likely the most popular mailing list manager in the

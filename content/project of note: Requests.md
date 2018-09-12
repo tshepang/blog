@@ -1,7 +1,9 @@
 +++
 date = 2011-12-31
-tags = ['project-of-note', 'Python']
 title = "project of note: Requests"
+
+[taxonomies]
+tags = ['project-of-note', 'Python']
 +++
 
 Requests is a Python module that makes it real easy to deal with HTTP.

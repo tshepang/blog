@@ -1,7 +1,9 @@
 +++
 date = 2010-10-13
-tags = ['Debian', 'wajig']
 title = "wajig 2.0.50 released"
+
+[taxonomies]
+tags = ['Debian', 'wajig']
 +++
 
 Not sure, but I think this is [my proudest release yet] of wajig so far.

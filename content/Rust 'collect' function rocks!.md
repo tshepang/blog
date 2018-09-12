@@ -1,7 +1,9 @@
 +++
 date = 2015-03-20
-tags = ['Rust']
 title = "Rust 'collect' function rocks!"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 Here is one way to populate a Vec with some data:

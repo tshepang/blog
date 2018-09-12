@@ -1,7 +1,9 @@
 +++
 date = 2010-04-13
-tags = ['travel']
 title = "a visit to Botswana"
+
+[taxonomies]
+tags = ['travel']
 +++
 
 This past weekend, I finally went to this neighbouring country of ours,

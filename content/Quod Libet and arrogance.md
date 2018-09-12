@@ -1,7 +1,9 @@
 +++
 date = 2007-08-19
-tags = ['Scribes', 'QuodLibet']
 title = "Quod Libet and arrogance"
+
+[taxonomies]
+tags = ['Scribes', 'QuodLibet']
 +++
 
 I\'ve just seen, for the first time in memory, a concept of arrogant

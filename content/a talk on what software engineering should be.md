@@ -1,7 +1,9 @@
 +++
 date = 2010-10-01
-tags = ['untagged']
 title = "a talk on what software engineering should be"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 I really enjoyed [this humorous, eye-opening, and informative talk] that

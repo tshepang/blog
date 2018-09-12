@@ -1,7 +1,9 @@
 +++
 date = 2011-02-28
-tags = ['travel']
 title = "another visit to Eastern Cape"
+
+[taxonomies]
+tags = ['travel']
 +++
 
 [Last time], I raved about my experiences at a friend\'s home place,

@@ -1,7 +1,9 @@
 +++
 date = 2017-06-25
-tags = ['Rust']
 title = "Rust week of 2017-06-22"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I wrote a tool that helps with [semver] git tagging, which made me

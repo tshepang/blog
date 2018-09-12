@@ -1,7 +1,9 @@
 +++
 date = 2013-01-15
-tags = ['Python', 'developer-of-note']
 title = "developer of note: Jeff Forcier"
+
+[taxonomies]
+tags = ['Python', 'developer-of-note']
 +++
 
 The strength of character that [Jeff \'bitprophet\' Forcier] possesses

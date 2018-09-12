@@ -1,7 +1,9 @@
 +++
 date = 2015-08-08
-tags = ['music', 'hip-hop']
 title = "Doggystyle (1993)"
+
+[taxonomies]
+tags = ['music', 'hip-hop']
 +++
 
 The best hip-hop album I\'ve ever come across, it has not one let-down

@@ -1,7 +1,9 @@
 +++
 date = 2009-07-27
-tags = ['music', 'hip-hop']
 title = "Illadelph Halflife (1996)"
+
+[taxonomies]
+tags = ['music', 'hip-hop']
 +++
 
 This is undoubtedly the best album by [The Roots], and includes timeless

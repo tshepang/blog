@@ -1,7 +1,9 @@
 +++
 date = 2013-03-31
-tags = ['developer-of-note', 'Python']
 title = "developer of note: Vinay Sajip"
+
+[taxonomies]
+tags = ['developer-of-note', 'Python']
 +++
 
 [Vinay Sajip] is the maintainer of [logging], a Python logging

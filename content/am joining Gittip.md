@@ -1,7 +1,9 @@
 +++
 date = 2013-04-13
-tags = ['Python', 'Gittip']
 title = "am joining Gittip"
+
+[taxonomies]
+tags = ['Python', 'Gittip']
 +++
 
 In [Why I\'m signing up for Gittip], a core CPython commiter, Brett

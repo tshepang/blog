@@ -1,7 +1,9 @@
 +++
 date = 2008-11-26
-tags = ['GNOME']
 title = "GNOME killer app"
+
+[taxonomies]
+tags = ['GNOME']
 +++
 
 GNOME system monitor applet it is.

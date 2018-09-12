@@ -1,7 +1,9 @@
 +++
 date = 2012-04-03
-tags = ['quote']
 title = "'Finding Great Developers' by Joel Spolsky"
+
+[taxonomies]
+tags = ['quote']
 +++
 
 Reading [the article] today reinforced my view that Joel Spolsky is

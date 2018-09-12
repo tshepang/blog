@@ -1,7 +1,9 @@
 +++
 date = 2008-09-28
-tags = ['untagged']
 title = "enjoying net connection at home, finally"
+
+[taxonomies]
+tags = ['untagged']
 +++
 
 After suffering with being forced to access the net on Windows XP [for

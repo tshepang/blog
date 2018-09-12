@@ -1,7 +1,9 @@
 +++
 date = 2016-10-21
-tags = ['Rust']
 title = "Rust week of 2016-10-14"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 -   I asked [a Nickel-related question], after searching and failing.

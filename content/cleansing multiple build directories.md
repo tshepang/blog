@@ -1,7 +1,9 @@
 +++
 date = 2011-03-26
-tags = ['Python', 'GNOME']
 title = "cleansing multiple build directories"
+
+[taxonomies]
+tags = ['Python', 'GNOME']
 +++
 
 In my adventures of [building GNOME with JHBuild], it often happens that

@@ -1,7 +1,9 @@
 +++
-tags = ['list']
 title = "favorite FLOSS"
 date = 2018-09-11
+
+[taxonomies]
+tags = ['list']
 +++
 
 For a piece of [FLOSS] (free/libre and open source software) to be here,

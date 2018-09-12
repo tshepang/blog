@@ -1,7 +1,9 @@
 +++
 date = 2013-04-07
-tags = ['quote']
 title = "a bit of poetry"
+
+[taxonomies]
+tags = ['quote']
 +++
 
 English can be a beautiful language:

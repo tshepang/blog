@@ -1,7 +1,9 @@
 +++
-tags = ['music']
 title = "top musicians"
 date = 2015-09-22
+
+[taxonomies]
+tags = ['music']
 +++
 
 The best musicians in history, a list created with the help of [a simple

@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['comic']
 title = "Body Bags"
+
+[taxonomies]
+tags = ['comic']
 +++
 
 I was reading [Body Bags comic] early this morning and it\'s

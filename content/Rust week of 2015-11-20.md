@@ -1,7 +1,9 @@
 +++
 date = 2015-11-25
-tags = ['Rust']
 title = "Rust week of 2015-11-20"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I submitted [some improvements] to new Rust stdlib APIS,

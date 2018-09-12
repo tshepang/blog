@@ -1,7 +1,9 @@
 +++
 date = 2016-09-22
-tags = ['Rust']
 title = "Rust week of 2016-09-16"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I looked at [bcrypt], which helps with secure password storage. I don\'t

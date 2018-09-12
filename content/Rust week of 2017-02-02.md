@@ -1,7 +1,9 @@
 +++
 date = 2017-02-09
-tags = ['Rust']
 title = "Rust week of 2017-02-02"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I very much enjoyed reading about [the design of Rust futures]. It makes

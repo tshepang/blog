@@ -1,7 +1,9 @@
 +++
 date = 2007-05-07
-tags = ['travel']
 title = "a visit to Eastern Cape"
+
+[taxonomies]
+tags = ['travel']
 +++
 
 I enjoyed the beautiful countryside of Nyosini, a small (a few hundred

@@ -1,7 +1,9 @@
 +++
 date = 2014-02-09
-tags = ['music', 'list']
 title = "top music videos"
+
+[taxonomies]
+tags = ['music', 'list']
 +++
 
 These are the best music videos I\'ve seen yet (with a disclaimer that

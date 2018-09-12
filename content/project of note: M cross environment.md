@@ -1,7 +1,9 @@
 +++
 date = 2013-04-20
-tags = ['non-Debian', 'project-of-note', 'non-Python']
 title = "project of note: M cross environment"
+
+[taxonomies]
+tags = ['non-Debian', 'project-of-note', 'non-Python']
 +++
 
 I spend several hours researching how to build a Qt app (written in C++)

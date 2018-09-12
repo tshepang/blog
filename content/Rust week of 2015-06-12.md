@@ -1,7 +1,9 @@
 +++
 date = 2015-06-18
-tags = ['Rust']
 title = "Rust week of 2015-06-12"
+
+[taxonomies]
+tags = ['Rust']
 +++
 
 I\'m the documentation guy, so:

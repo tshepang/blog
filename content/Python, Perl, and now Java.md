@@ -1,7 +1,9 @@
 +++
 date = 2009-05-05
-tags = ['non-Python', 'Python']
 title = "Python, Perl, and now Java"
+
+[taxonomies]
+tags = ['non-Python', 'Python']
 +++
 
 I\'m grateful that there\'s so much I\'m learning at [my new job], stuff

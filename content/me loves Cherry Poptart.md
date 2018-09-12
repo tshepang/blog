@@ -1,7 +1,9 @@
 +++
 date = 2011-01-14
-tags = ['comic']
 title = "me loves Cherry Poptart"
+
+[taxonomies]
+tags = ['comic']
 +++
 
 This morning I read \"Cherry Does the Time Warp\", part of the funny and

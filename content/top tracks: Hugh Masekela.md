@@ -1,7 +1,9 @@
 +++
 date = 2014-03-15
-tags = ['music', 'top-tracks']
 title = "top tracks: Hugh Masekela"
+
+[taxonomies]
+tags = ['music', 'top-tracks']
 +++
 
 Although he made a lot of trash, Hugh Masekela remains one of the great

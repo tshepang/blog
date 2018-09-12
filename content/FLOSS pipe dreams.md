@@ -1,7 +1,9 @@
 +++
-tags = ['Debian', 'Python', 'non-FLOSS']
 title = "FLOSS pipe dreams"
 date = 2017-06-10
+
+[taxonomies]
+tags = ['Debian', 'Python', 'non-FLOSS']
 +++
 
 In which I am hoping that [FLOSS] would supplant proprietary

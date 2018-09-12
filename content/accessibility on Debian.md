@@ -1,7 +1,9 @@
 +++
 date = 2012-04-19
-tags = ['Debian']
 title = "accessibility on Debian"
+
+[taxonomies]
+tags = ['Debian']
 +++
 
 [Accessibility] is one of those things we the privileged (those with

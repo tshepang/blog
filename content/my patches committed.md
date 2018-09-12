@@ -1,7 +1,9 @@
 +++
 date = 2010-04-06
-tags = ['GNOME', 'Tracker']
 title = "my patches committed"
+
+[taxonomies]
+tags = ['GNOME', 'Tracker']
 +++
 
 So, two of the [patches I created] for [Tracker] have been committed

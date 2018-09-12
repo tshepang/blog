@@ -1,7 +1,9 @@
 +++
 date = 2011-01-19
-tags = ['project-of-note']
 title = "project of note: Geany"
+
+[taxonomies]
+tags = ['project-of-note']
 +++
 
 I\'ve been a satisfied user of Geany, a lightweight IDE, these past few

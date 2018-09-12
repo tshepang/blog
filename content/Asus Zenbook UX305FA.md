@@ -1,7 +1,9 @@
 +++
 date = 2016-01-21
-tags = ['hardware']
 title = "Asus Zenbook UX305FA"
+
+[taxonomies]
+tags = ['hardware']
 +++
 
 On 2015-12-14, I got me the UX305. It\'s the base level model in the

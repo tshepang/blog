@@ -1,7 +1,9 @@
 +++
 date = 2011-01-18
-tags = ['project-of-note', 'quote']
 title = "project of note: Sudo"
+
+[taxonomies]
+tags = ['project-of-note', 'quote']
 +++
 
 Some of the benefits of Sudo:

@@ -1,7 +1,9 @@
 +++
 date = 2013-05-28
-tags = ['developer-of-note', 'Python']
 title = "developer of note: Nick Coghlan"
+
+[taxonomies]
+tags = ['developer-of-note', 'Python']
 +++
 
 This is easily among the most active of all core CPython developers. His
