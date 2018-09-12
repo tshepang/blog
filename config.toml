@@ -2,7 +2,7 @@ title = "Tshepang logs"
 base_url = "http://tshepang.net"
 compile_sass = true
 highlight_code = true
-theme = "hyde"
+theme = "even"
 generate_rss = true
 taxonomies = [
   { name = "tags", rss = true },
@@ -13,4 +13,8 @@ author = "Tshepang Lekhonkhobe"
 hyde_links = [
   { name = 'twitter', url = 'https://twitter.com/tshepang_dev' },
   { name = 'github', url = 'https://github.com/tshepang' },
+]
+even_menu = [
+    {url = "$BASE_URL/tags", name = "tags"},
+    {url = "$BASE_URL/about-me", name = "about"},
 ]
