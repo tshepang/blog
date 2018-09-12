@@ -1,0 +1,18 @@
++++
+date = 2011-06-26
+title = "The Experiment (2010)"
+
+[taxonomies]
+tags = ['2011-movie', 'average']
++++
+
+Captivating but stupid and unexplained concept/story; decent
+performances; lovely romance (complete with a desirable gal); the sound
+effects are overdone.
+
+[The original movie] makes this remake look better than it actually is;
+but it\'s sadly more pretentious\... feels more \'merely for show\'; the
+guys performing the experiment are even given godlike status, while
+those in the original actually have faces.
+
+  [The original movie]: http://movies.tshepang.net/das-experiment-2001
