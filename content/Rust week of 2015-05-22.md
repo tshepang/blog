@@ -113,5 +113,5 @@ tags = ['Rust']
   [some small changes]: https://github.com/rust-lang/rust/pull/25736
   [documentation]: https://github.com/rust-lang/rust/pull/25756
   [improvements]: https://github.com/rust-lang/rust/pull/25758
-  [Rust posts on my blog]: http://tshepang.net/tags.html#rust-ref
+  [Rust posts on my blog]: http://tshepang.net/tagss.html#rust-ref
   [Abstraction without overhead: traits in Rust]: http://blog.rust-lang.org/2015/05/11/traits.html

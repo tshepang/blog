@@ -181,4 +181,4 @@ Bandits; Troy
   [Beowulf]: http://tshepang.net/beowulf-2007
   [Pan\'s Labyrinth]: http://tshepang.net/pans-labyrinth-2006
   [The Bourne Ultimatum]: http://tshepang.net/the-bourne-ultimatum-2007
-  [these]: http://tshepang.net/tag/2007-movie
+  [these]: http://tshepang.net/tags/2007-movie

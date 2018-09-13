@@ -41,7 +41,7 @@ be a great champion in pushing for progress on that front.
   [great depth of knowledge]: http://mail.python.org/pipermail/python-ideas/2012-February/013835.html
   [maturity]: http://hg.python.org/peps/rev/8a6e3b28dbef
   [officially recognized by the Python Software Foundation]: http://www.python.org/community/awards/psf-awards/#september-2011
-  [developer of note]: http://tshepang.net/tags#developer-of-note-ref
+  [developer of note]: http://tshepang.net/tagss#developer-of-note-ref
   [PEP 413]: http://www.python.org/dev/peps/pep-0413/
   [PEP 407]: http://www.python.org/dev/peps/pep-0407
   [PEP 432]: http://www.python.org/dev/peps/pep-0432

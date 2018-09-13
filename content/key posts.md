@@ -21,6 +21,6 @@ categories = ['movies']
   [top characters]: http://tshepang.net/top-movie-characters
   [top performances]: http://tshepang.net/top-movie-performances
   [top visual effects]: http://tshepang.net/top-visual-effects
-  [yearly reviews]: http://tshepang.net/tag/year-movie-review
+  [yearly reviews]: http://tshepang.net/tags/year-movie-review
   [best-of-career performances]: http://tshepang.net/best-of-career-performances
   [favorite-of-career performances]: http://tshepang.net/favorite-of-career-performances

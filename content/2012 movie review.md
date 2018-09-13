@@ -179,7 +179,7 @@ The **fall from glory** award goes to:
   [Zombieland]: http://tshepang.net/zombieland-2009
   [A Nightmare on Elm Street]: http://tshepang.net/a-nightmare-on-elm-street-1984
   [Being John Malkovich]: http://tshepang.net/being-john-malkovich-1999
-  [masterpiece]: http://tshepang.net/tag/masterpiece
+  [masterpiece]: http://tshepang.net/tags/masterpiece
   [Taken]: http://tshepang.net/taken-2008
   [Vicky Cristina Barcelona]: http://tshepang.net/vicky-cristina-barcelona-2008
   [Perfume]: http://tshepang.net/perfume-2006

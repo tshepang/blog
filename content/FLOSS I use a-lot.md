@@ -79,7 +79,7 @@ central servers
 
 
   [a separate post]: http://tshepang.net/favorite-floss
-  [I used to maintain it]: http://tshepang.net/tags#wajig-ref
+  [I used to maintain it]: http://tshepang.net/tagss#wajig-ref
   [Transmission]: http://www.transmissionbt.com
   [dwm]: http://tshepang.net/my-current-desktop-setup
   [tmux]: http://tmux.sourceforge.net

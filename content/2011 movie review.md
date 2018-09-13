@@ -266,4 +266,4 @@ For a complete list of the movies I reviewed for the year, visit the
   [Mandingo]: http://tshepang.net/mandingo-1975
   [The Bourne Supremacy]: http://tshepang.net/the-bourne-supremacy-2004
   [Bill & Ted\'s Excellent Adventure]: http://tshepang.net/bill-teds-excellent-adventure-1989
-  [2011-movies tag]: http://tshepang.net/tag/2011-movie
+  [2011-movies tag]: http://tshepang.net/tags/2011-movie
