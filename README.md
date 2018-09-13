@@ -4,16 +4,16 @@ flow pre-requisite:
 
 - install post, a helper for creating new blog posts:
 
-      cargo install --git https://github.com/tshepang/post
+        cargo install --git https://github.com/tshepang/post
 
 - get themes
 
-      cd ~/blog
-      git clone --recursive https://github.com/Keats/gutenberg-themes themes
+        cd ~/blog
+        git clone --recursive https://github.com/Keats/gutenberg-themes themes
 
 flow:
 
-- post some-title --tags some-tag some-other-tag
+- `post some-title --tags some-tag some-other-tag`
 
   + I'm then transported to the open post, with my favorite editor
 
