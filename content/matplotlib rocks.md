@@ -8,14 +8,16 @@ tags = ['Python']
 
 Have a look at this code:
 
-::: {.sourcecode}
-python
+```python
 
-from matplotlib import pyplot import random
+from matplotlib import pyplot
+import random
 
-x\_axis = range(10) pyplot.plot(x\_axis, random.sample(range(10), 10))
-pyplot.plot(x\_axis, random.sample(range(10), 10)) pyplot.show()
-:::
+x_axis = range(10)
+pyplot.plot(x_axis, random.sample(range(10), 10))
+pyplot.plot(x_axis, random.sample(range(10), 10))
+pyplot.show()
+```
 
 With [matplolib] installed, running the code above should resulted in
 the following image:
@@ -32,19 +34,21 @@ uglier.
 
 Here goes:
 
-::: {.sourcecode}
-python
+```python
 
-from matplotlib import pyplot import argparse import random
+from matplotlib import pyplot
+import argparse
+import random
 
 parser = argparse.ArgumentParser()
-parser.add\_argument(\'number\_of\_graphs\', type=int) args =
-parser.parse\_args()
+parser.add_argument('number_of_graphs', type=int)
+args = parser.parse_args()
 
-x\_axis = range(10) for n in range(args.number\_of\_graphs):
-pyplot.plot(x\_axis, random.sample(range(10), 10), label=str(n))
-pyplot.legend() pyplot.show()
-:::
+x_axis = range(10) for n in range(args.number_of_graphs):
+pyplot.plot(x_axis, random.sample(range(10), 10), label=str(n))
+pyplot.legend()
+pyplot.show()
+```
 
 If I provide 3 as command line argument, I get this:
 
