@@ -7,7 +7,7 @@ tags = ['list']
 +++
 
 For a piece of [FLOSS] (free/libre and open source software) to be here,
-it has to both be personally useful and I have to like it a lot:
+it has to both be personally useful and I have to like it a-lot:
 
 **desktop**: [dwm]
 
