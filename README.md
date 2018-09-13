@@ -43,5 +43,5 @@ tags = ["non-Rust"]
 
 The content of this repository is licensed under [CC BY-SA 3.0].
 
-  [install Rust toolchain]: https://www.rust-lang.org/en-US/install.html
+  [install Rust toolchain]: https://rust-lang.org/install
   [CC BY-SA 3.0]: http://creativecommons.org/licenses/by-sa/3.0
