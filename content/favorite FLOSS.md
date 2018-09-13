@@ -1,6 +1,6 @@
 +++
 title = "favorite FLOSS"
-date = 2018-09-11
+date = 2018-09-13
 
 [taxonomies]
 tags = ['list']
@@ -13,7 +13,7 @@ it has to both be personally useful and I have to like it a lot:
 
 **web browser**: Firefox
 
-**development**: [Rust], Emacs, Meld
+**development**: Emacs, Meld
 
 **file manager**: Emacs (Dired mode)
 
@@ -24,7 +24,6 @@ Roller, youtube-dl
 
   [FLOSS]: http://en.wikipedia.org/wiki/Free_and_open-source_software
   [dwm]: http://dwm.suckless.org
-  [Rust]: http://rust-lang.org
   [ripgrep]: http://blog.burntsushi.net/ripgrep
   [Sudo]: http://tshepang.net/project-of-note-sudo
   [LinkChecker]: http://tshepang.net/project-of-note-linkchecker
