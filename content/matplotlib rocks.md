@@ -9,7 +9,6 @@ tags = ['Python']
 Have a look at this code:
 
 ```python
-
 from matplotlib import pyplot
 import random
 
