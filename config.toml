@@ -21,3 +21,4 @@ even_menu = [
     {url = "$BASE_URL/categories/movies", name = "movies"},
 ]
 even_title = "Tshepang logs"
+even_google_analytics = "UA-16685250-3"
