@@ -21,12 +21,12 @@ Among my profiles on the web:
 
 The sources for this blog can be found [on Bitbucket].
 
-  [South Africa]: http://en.wikipedia.org/wiki/South_Africa
-  [for a living]: http://panoptix.co.za
-  [Rust]: http://rust-lang.org
-  [Debian]: http://debian.org
+  [South Africa]: https://en.wikipedia.org/wiki/South_Africa
+  [for a living]: https://panoptix.co.za
+  [Rust]: https://rust-lang.org
+  [Debian]: https://debian.org
   [GitHub]: https://github.com/tshepang
   [Bitbucket]: https://bitbucket.org/tshepang
-  [Stack Exchange]: http://stackexchange.com/users/125744
+  [Stack Exchange]: https://stackexchange.com/users/125744
   [Twitter]: https://twitter.com/tshepang_dev
   [on Bitbucket]: https://bitbucket.org/tshepang/blog
