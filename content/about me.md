@@ -3,9 +3,9 @@ title = "about me"
 date = 2018-09-11
 +++
 
--   Tshepang Lekhonkhobe
--   <tshepang@gmail.com>
--   Gauteng province, [South Africa]
+- Tshepang Lekhonkhobe
+- <tshepang@gmail.com>
+- Gauteng province, [South Africa]
 
 I do software development [for a living] and as a hobby.
 My favorite language (and ecosystem) is [Rust], and my OS of choice is
@@ -13,9 +13,9 @@ My favorite language (and ecosystem) is [Rust], and my OS of choice is
 
 Among my profiles on the web:
 
--   [Twitter] (social)
--   [GitHub] and [Bitbucket] (software)
--   [Stack Exchange] (help)
+- [Twitter] (social)
+- [GitHub] and [Bitbucket] (software)
+- [Stack Exchange] (help)
 
 ---
 
