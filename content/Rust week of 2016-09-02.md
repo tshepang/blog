@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 Had a look at [Diesel] and at [Nickel]. I wish they had better
-documentation\... I cannot say with good confidence that I understand
+documentation... I cannot say with good confidence that I understand
 them.
 
 Regarding contributions, I did [just one].

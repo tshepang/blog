@@ -14,10 +14,10 @@ here is the villain, who ranks as the best in the series (Moriarty is
 rather overdone). He represents great character development and is given
 a flawless performance.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 As a sidenote, of the series regulars, none of the characters was as
-interesting as that of Sherlock\'s big brother. It\'s a superb
+interesting as that of Sherlock's big brother. It's a superb
 performance too, the character is such a joy (mature, wise,
 influential), and he was made all the more interesting to later discover
 that his intelligence matched that of Sherlock.

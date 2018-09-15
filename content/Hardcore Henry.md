@@ -7,7 +7,7 @@ tags = ['2015', 'good']
 categories = ['movies']
 +++
 
-Possibly the most violent movie I\'ve yet seen, this is made in the
+Possibly the most violent movie I've yet seen, this is made in the
 style of video game first person shooters. I enjoyed the wonderful
 performances: the villain was especially menacing, and the guide, given
 multiple characters, was given an excellent performance by [Sharlto

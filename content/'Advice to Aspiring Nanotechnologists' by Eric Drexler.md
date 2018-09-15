@@ -8,7 +8,7 @@ tags = ['future-tech']
 
 The great Eric Drexler offers [extensive guidance] for those considering
 studying towards molecular nanotech, and that quote is most relevant to
-me, since I\'m doing software and all.
+me, since I'm doing software and all.
 
 The end-notes, where he encourages supreme rigour and discipline, would
 scare most away. This appears to be a demanding career.

@@ -7,7 +7,7 @@ tags = ['non-Python', 'Python']
 +++
 
 I came across [a tutorial] that showes how to implement a simple cat in
-Perl. I\'ve modified their example for the sake of simplicity:
+Perl. I've modified their example for the sake of simplicity:
 
 ``` {.sourceCode .perl}
 sub cat {
@@ -43,7 +43,7 @@ notes
 =====
 
 -   The Perl keyword, `my`, indicates that the variabe it refers to is
-    local. Without that, it\'s taken to be global. As for Python, this
+    local. Without that, it's taken to be global. As for Python, this
     is implicit, and depends on where the variable is placed (scope).
 -   Perl has special ways of identifying data types. In our example, `$`
     is used to identify a variable that has a single value, and is known
@@ -54,7 +54,7 @@ notes
     variables names be the same, but given different types (e.g.
     `my $var; my @var;`)
 -   The upper case file handler, `FILE`, is a matter of convention for
-    Perl, and can be named \'anything\'. I used it in the Python sample
+    Perl, and can be named 'anything'. I used it in the Python sample
     only for the sake of clarity.
 -   The `<>` operator is special syntax that means a file is being
     manipulated. Python has no such.
@@ -62,15 +62,15 @@ notes
     `cat`. This is one other thing that is implicit about Perl, where
     you have to learn extra syntax (and concepts), where a simple
     argument list should have been provided during the function
-    declaration, as in Python\'s `cat(files)`.
--   Note that I didn\'t need to import anything to get Perl to work with
+    declaration, as in Python's `cat(files)`.
+-   Note that I didn't need to import anything to get Perl to work with
     command line arguments. With Python, I need to explicitly do so, and
-    that\'s via the [sys module], which is part of its standard library.
+    that's via the [sys module], which is part of its standard library.
 -   The Python `with` statement is meant to make our lives easier, but
     also adds syntax to the language. What it does is close a file for
-    us so we don\'t have to do it.
+    us so we don't have to do it.
 -   The Python `print()` function adds a newline by default, and that
-    would results in ugly output from our code, that\'s why we used the
+    would results in ugly output from our code, that's why we used the
     `end=""`.
 -   The `[1:]` from the last statement in the Python example means that
     we are slicing the list, removing the first element (element 0), and

@@ -10,13 +10,13 @@ So I really do honor all Debian Developers especially when they are
 named [Michael Biebl]. This guy is the lone maintainer of [Tracker] and
 rsyslog in Debian (among others). Not just that but he is also a
 co-maintainer of a large number of GNOME technologies (gnome-session,
-dbus, avahi, gnome-power-manager, gvfs, hal, network-manager\...).
+dbus, avahi, gnome-power-manager, gvfs, hal, network-manager...).
 
-I love especially his role as some sorta QA for Tracker (he\'s done a
+I love especially his role as some sorta QA for Tracker (he's done a
 terrific job of it +++ most recently offering [a bunch of patches] to
-fix some linking problems in the code). Oh, and I\'m not the only one
+fix some linking problems in the code). Oh, and I'm not the only one
 who noticed +++ [the great Josselin Mouette], [did offer accolades too]
-for Michael\'s other work.
+for Michael's other work.
 
   [Michael Biebl]: http://qa.debian.org/developer.php?login=biebl@debian.org
   [Tracker]: http://projects.gnome.org/tracker/

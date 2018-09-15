@@ -11,12 +11,12 @@ categories = ['movies']
 fearsome contract killer, in a movie with excellent cinematography and
 production design, and excellent writing. Another notable performance is
 that of [Ray Liotta], even though he plays one of his usual characters,
-only this time I really enjoyed him, perhaps even more than in [Smokin\'
+only this time I really enjoyed him, perhaps even more than in [Smokin'
 Aces]. There is not one other performance that is lacking, and even
 [Chris Evans] helped by hiding his not-too-talented face behind a large
 beard.
 
   [Michael Shannon]: http://en.wikipedia.org/wiki/Michael_Shannon_(actor)
   [Ray Liotta]: http://en.wikipedia.org/wiki/Ray_Liotta
-  [Smokin\' Aces]: http://tshepang.net/smokin-aces-2006
+  [Smokin' Aces]: http://tshepang.net/smokin-aces-2006
   [Chris Evans]: http://en.wikipedia.org/wiki/Chris_Evans_(actor)

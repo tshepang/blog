@@ -15,4 +15,4 @@ lead character.
 
 There are isolated moments of beauty and decent visual effects. Not one
 of the seven dwarfs are interesting, even though many were portrayed by
-good actors. Why didn\'t they use real dwafs?
+good actors. Why didn't they use real dwafs?

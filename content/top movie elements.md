@@ -102,9 +102,9 @@ touching
 3.  [The Kite Runner][Life is Beautiful]
 
 touching moments
-+++++++++++++++-
+================
 
-1.  an interview with a woman whose life was improved by Kinsey\'s work
+1.  an interview with a woman whose life was improved by Kinsey's work
     ([Kinsey])
 2.  strapped with bombs ([The Hurt Locker])
 
@@ -121,7 +121,7 @@ hell portrayal
 romantic moment
 ===============
 
--   \"the definition of beauty\" (Next)
+-   "the definition of beauty" (Next)
 
 painful moment
 ==============

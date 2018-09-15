@@ -15,14 +15,14 @@ in the movie, a villain that provides comfort for his victim, and [a
 villain we get to care for].
 
 One other special thing about the movie is the subject matter, which I
-don\'t remember ever seeing explored before in movies: modern-day ship
+don't remember ever seeing explored before in movies: modern-day ship
 piracy. Another special thing is the attention to detail regarding the
 cargo ship, which is also a rare sight. The direction is of decent
 quality and so is the tension.
 
 The movie could be shorter though, and the numerous attempts by the
 title character to prevail are tiring. The movie also moves too quick
-from Somalia to the seas\... there is not enough exploration of the
+from Somalia to the seas... there is not enough exploration of the
 background of our villains.
 
   [a villain we get to care for]: http://tshepang.net/caring-about-villains

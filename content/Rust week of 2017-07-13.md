@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I am tempted, [once again], to try out [Remacs], a Rust port of GNU
-Emacs. It\'s very encouraging that it tries to be compatible, for the
+Emacs. It's very encouraging that it tries to be compatible, for the
 drop-in-replacement effect.
 
 I am glad [the change to add subcommands to structopt] has been merged.

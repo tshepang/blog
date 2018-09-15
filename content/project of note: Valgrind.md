@@ -9,14 +9,14 @@ tags = ['project-of-note', 'non-Python']
 I have, since using Valgrind (and reading a bit of its documentation)
 some years ago, developed much respect for it. It is quite an advanced
 tool, and though its primary use is detecting memory leaks, I am here
-going to explore its other functionality\... calculating the cost of
+going to explore its other functionality... calculating the cost of
 each line of code in the CPU. This is useful when tuning programs for
 performance.
 
 Following is example code; it accepts 2 arguments, a filename and text
 that will be written to that file:
 
-``` {.sourceCode .c}
+```c
 #include <string.h>
 #include <errno.h>
 #include <stdio.h>
@@ -32,22 +32,22 @@ main (int argc, char **argv)
     ssize_t written;
 
     if (argc < 3) {
-        fprintf (stderr, "usage: %s <filename> <content>\n", argv[0]);
+        fprintf (stderr, "usage: %s <filename> <content>n", argv[0]);
         return 1;
     }
 
     strcpy (path, argv[1]);
-    sprintf (content, "%s\n", argv[2]);
+    sprintf (content, "%sn", argv[2]);
 
     fd = creat (path, S_IRWXU);
     if (fd == -1) {
-        fprintf (stderr, "open error: %s ('%s')\n", strerror (errno), path);
+        fprintf (stderr, "open error: %s ('%s')n", strerror (errno), path);
         return 1;
     }
 
     written = write (fd, content, strlen (content));
     if (written == -1) {
-        fprintf (stderr, "write error: %s ('%s')\n", strerror (errno), path);
+        fprintf (stderr, "write error: %s ('%s')n", strerror (errno), path);
         return 1;
     }
     return 0;
@@ -113,9 +113,9 @@ CPU instructions*. I have used `tree=calling` option so that I can see
 the cost of all operations called by a parent (marked with a `*`) :
 
     $ callgrind_annotate --tree=calling out play.c
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     Profile data file 'out' (creator: callgrind-3.8.1)
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     I1 cache:
     D1 cache:
     LL cache:
@@ -130,14 +130,14 @@ the cost of all operations called by a parent (marked with a `*`) :
     User annotated:   play.c
     Auto-annotation:  off
 
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     Ir
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     107,520  PROGRAM TOTALS
 
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     Ir  file:function
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
 
     24,113  *  /build/eglibc-TepTGA/eglibc-2.17/elf/dl-lookup.c:do_lookup_x [/lib/x86_64-linux-gnu/ld-2.17.so]
     1,053  >   /build/eglibc-TepTGA/eglibc-2.17/elf/dl-misc.c:_dl_name_match_p (25x) [/lib/x86_64-linux-gnu/ld-2.17.so]
@@ -162,9 +162,9 @@ I have trimmed the output to bring focus to the most interesting output
 of all, which is the total cost for each line of my code:
 
     [continued]
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     -- User-annotated source: play.c
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     Ir
 
     .  #include <string.h>
@@ -182,14 +182,14 @@ of all, which is the total cost for each line of my code:
     .      ssize_t written;
     .
     2      if (argc < 3) {
-    .     fprintf (stderr, "usage: %s <filename> <content>\n", argv[0]);
+    .     fprintf (stderr, "usage: %s <filename> <content>n", argv[0]);
     .     return 1;
     .      }
     .
     7      strcpy (path, argv[1]);
     21  => /build/eglibc-TepTGA/eglibc-2.17/string/../sysdeps/x86_64/multiarch/strcpy-sse2-unaligned.S:__strcpy_sse2_unaligned (1x)
     799  => /build/eglibc-TepTGA/eglibc-2.17/elf/../sysdeps/x86_64/dl-trampoline.S:_dl_runtime_resolve (1x)
-    8      sprintf (content, "%s\n", argv[2]);
+    8      sprintf (content, "%sn", argv[2]);
     1,188  => /build/eglibc-TepTGA/eglibc-2.17/stdio-common/sprintf.c:sprintf (1x)
     805  => /build/eglibc-TepTGA/eglibc-2.17/elf/../sysdeps/x86_64/dl-trampoline.S:_dl_runtime_resolve (1x)
     .
@@ -197,7 +197,7 @@ of all, which is the total cost for each line of my code:
     766  => /build/eglibc-TepTGA/eglibc-2.17/elf/../sysdeps/x86_64/dl-trampoline.S:_dl_runtime_resolve (1x)
     7  => /build/eglibc-TepTGA/eglibc-2.17/io/../sysdeps/unix/syscall-template.S:creat (1x)
     2      if (fd == -1) {
-    .     fprintf (stderr, "open error: %s ('%s')\n", strerror (errno), path);
+    .     fprintf (stderr, "open error: %s ('%s')n", strerror (errno), path);
     .     return 1;
     .      }
     .
@@ -206,20 +206,20 @@ of all, which is the total cost for each line of my code:
     14  => /build/eglibc-TepTGA/eglibc-2.17/string/../sysdeps/x86_64/multiarch/strlen-sse2-pminub.S:__strlen_sse2_pminub (1x)
     1,567  => /build/eglibc-TepTGA/eglibc-2.17/elf/../sysdeps/x86_64/dl-trampoline.S:_dl_runtime_resolve (2x)
     2      if (written == -1) {
-    .     fprintf (stderr, "write error: %s ('%s')\n", strerror (errno), path);
+    .     fprintf (stderr, "write error: %s ('%s')n", strerror (errno), path);
     .     return 1;
     .      }
     1      return 0;
     2  }
 
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     Ir
-    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+    ---++++++--
     0  percentage of events annotated
 
 As an aside, note that the indentation is messed up a bit.
 
-\-\--
+---
 
 Since I normally work at too high a level to care about CPU instructions
 cycles at this detail, I found the exercise eye-opening.

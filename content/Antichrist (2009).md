@@ -9,7 +9,7 @@ categories = ['movies']
 
 A couple is going through a period of immense pain in their life,
 triggered by the death of their toddler. A lot of the imagery is horrid
-and bizarre (e.g. there\'s an animal walking around with a stillborn
+and bizarre (e.g. there's an animal walking around with a stillborn
 still attached to pussy), and the movie itself is rather dreamlike, with
 the director exercising high levels of freedom.
 

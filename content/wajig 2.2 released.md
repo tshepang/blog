@@ -11,7 +11,7 @@ wajig to Debian.
 
 -   This one is quite special since it now uses Python 3.
 -   It also does automatic dependency installation for DEB files. This
-    part of the work took me longer because python-apt doesn\'t exactly
+    part of the work took me longer because python-apt doesn't exactly
     make it easy. I even had to look in the code to be sure what exactly
     is happening. I ended up using a mixture of dpkg (for installation
     of stated DEBs, and to configure them) and python-apt (for the

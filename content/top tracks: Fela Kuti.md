@@ -23,7 +23,7 @@ tags = ['music', 'top-tracks']
 12 excellent works
 ==================
 
--   Egbe Mi O (*Fela\'s London Scene* - 1970)
+-   Egbe Mi O (*Fela's London Scene* - 1970)
 -   Fefe Naa Efe (*Gentleman* - 1973)
 -   Who No Know Go Know (*Everything Scatter* - 1975)
 -   Just Like That (*Beast of No Nation* - 1989)
@@ -32,7 +32,7 @@ tags = ['music', 'top-tracks']
 -   Alu Jon Jonki Jon (*Afrodisiac* - 1973)
 -   Water No Get Enemy (*Expensive Shit* - 1975)
 -   Zombie (*Zombie* - 1978)
--   Teacher Don\'t Teach Me Nonsense (*Teacher Don\'t Teach Me Nonsense*
+-   Teacher Don't Teach Me Nonsense (*Teacher Don't Teach Me Nonsense*
     -1986)
 -   Ikoyi Mentality Versus Mushin Mentality (*Why Black Man Dey Suffer*
     -1971)
@@ -51,4 +51,4 @@ honorable mention
     > that level.
 
 -   Trouble Sleep Yanga Wake Am (*Roforofo Fight* - 1972)
--   Black Man\'s Cry (*Live!* - 1971)
+-   Black Man's Cry (*Live!* - 1971)

@@ -12,7 +12,7 @@ in [Taken], and in a movie nearly as intense. More impressive, however,
 is the [Nate Parker] performance, whose incredible transformation near
 the end of the movie is exciting.
 
-The movie has some of the best action sequences I\'ve seen yet, as well
+The movie has some of the best action sequences I've seen yet, as well
 as impressive dialog and direction. The visuals are also wonderful
 (check the descent of the plane as well as its landing).
 

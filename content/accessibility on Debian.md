@@ -7,12 +7,12 @@ tags = ['Debian']
 +++
 
 [Accessibility] is one of those things we the privileged (those with
-workable eyesight and hearing) tend to forget about; That\'s why
-developers like Debian\'s Samuel Thibault deserve great respect. The guy
+workable eyesight and hearing) tend to forget about; That's why
+developers like Debian's Samuel Thibault deserve great respect. The guy
 was brought to my attention by the great Raphael Hertzog through [one of
 his all-important People Behind Debian series of interviews].
 
-This is one of those things that make me wish I was rich\... pay a bunch
+This is one of those things that make me wish I was rich... pay a bunch
 of people interested in this kind of work to do it full-time.
 
   [Accessibility]: http://en.wikipedia.org/wiki/Assistive_technology#Software

@@ -9,7 +9,7 @@ categories = ['movies']
 
 All is better/bigger than the original: the intensity of the story, the
 production design, the camerawork, and the car chase. All performances
-are either good or beyond, if we don\'t count Karl Urban (the Russian
+are either good or beyond, if we don't count Karl Urban (the Russian
 assassin).
 
 My favorite bit of performance is given by the guy playing the assassin

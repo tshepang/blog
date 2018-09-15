@@ -17,7 +17,7 @@ political oppression
 ====================
 
 One of the worst things than can happen to anyone is being politically
-oppressed. Here\'s a list of movies that covers that topic very well:
+oppressed. Here's a list of movies that covers that topic very well:
 
 -   [The Lives of Others]
 

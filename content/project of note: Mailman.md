@@ -10,9 +10,9 @@ tags = ['project-of-note']
 FLOSS ecosystem. What I like about it is the ease-of-use it provides for
 the end-user: if u wanna subscribe to <topic@host.org> mailing list, you
 simply append -request to the recepient name (<topic-request@host.org>)
-and use the subject \"subscribe\", and simply send. To unsubscribe, you
-do the same, except the subject becomes \"unsubscribe\". There\'s also
-the web interface for those who won\'t remember/know these simple
-instructions of course. Another bonus: it\'s written in Python!
+and use the subject "subscribe", and simply send. To unsubscribe, you
+do the same, except the subject becomes "unsubscribe". There's also
+the web interface for those who won't remember/know these simple
+instructions of course. Another bonus: it's written in Python!
 
   [Mailman]: http://list.org/

@@ -13,11 +13,11 @@ battle, and I am jealous since I want everyone to use what I like:
     most popular container orchestration system, and is among the
     hottest of new software projects, while having lots of momentum.
 -   [Grafana] is also written in Go, and not Rust. It produces the most
-    pretty graphs I\'ve seen yet, and is very featureful, and boasts
+    pretty graphs I've seen yet, and is very featureful, and boasts
     hundreds of contributers.
 -   Markdown is a far more popular light-weight markup language than the
-    far more advanced [reStructuredText]. It\'s particularly sad when
-    it\'s not used where it\'s needed most\... documenting large
+    far more advanced [reStructuredText]. It's particularly sad when
+    it's not used where it's needed most... documenting large
     projects ([example]).
 
   [Kurbenetes]: https://github.com/kubernetes/kubernetes

@@ -9,7 +9,7 @@ tags = ['music', 'very-good']
 Several months ago, I bumped onto this jazz album by [Hugh Masekela]. It
 sounds quite different to his more popular tracks, and although it has a
 South African feel to it (Masekela is a citizen of that country), the
-more dominating feel is from elsewhere in Africa (just don\'t ask me
+more dominating feel is from elsewhere in Africa (just don't ask me
 where).
 
 My favorites:

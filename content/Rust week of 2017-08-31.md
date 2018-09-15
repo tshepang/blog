@@ -16,7 +16,7 @@ upstream. On the way there, I encountered these git2 APIS:
 -   [Branch::upstream]
 -   [Repositoty::head]
 
-I ended up [publishing the tool] too, which is the second time [I\'ve
+I ended up [publishing the tool] too, which is the second time [I've
 done so].
 
   [mrh]: https://github.com/tshepang/mrh
@@ -25,4 +25,4 @@ done so].
   [Branch::upstream]: https://docs.rs/git2/0.6.8/git2/struct.Branch.html#method.upstream
   [Repositoty::head]: https://docs.rs/git2/0.6.8/git2/struct.Repository.html#method.head
   [publishing the tool]: https://crates.io/crates/mrh
-  [I\'ve done so]: https://crates.io/crates/weeks-from-now
+  [I've done so]: https://crates.io/crates/weeks-from-now

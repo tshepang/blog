@@ -10,7 +10,7 @@ categories = ['movies']
 I found this so unpleasant that it made me miss the 1998 movie. None of
 the creature designs was any good. This includes the title character,
 who, in an effort to resemble the original Godzilla (1960s) ended up
-clumsy as fuck. You don\'t emulate shit costume design just to pay
+clumsy as fuck. You don't emulate shit costume design just to pay
 homage, unless you are making satire maybe, or you are a plain better
 director. It was also laughable having this Godzilla character be a
 friend to humans (stupid twist) and having it spit fire.

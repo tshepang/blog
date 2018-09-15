@@ -9,7 +9,7 @@ categories = ['movies']
 
 After watching what felt like a waste of time, I was surprised to find
 that [there were those who found it decent]. The villain is given a
-laughably bad performance by [Vinnie Jones]. I don\'t remember any of
+laughably bad performance by [Vinnie Jones]. I don't remember any of
 his work any good.
 
 Some parts of the movie are decent:

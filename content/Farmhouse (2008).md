@@ -8,5 +8,5 @@ categories = ['movies']
 +++
 
 Edgy as horror movies tend to be, nothing special; an extremely bad
-performance by the guy playing husband; I didn\'t get it at the end\...
-I don\'t know why the couple did what they did.
+performance by the guy playing husband; I didn't get it at the end...
+I don't know why the couple did what they did.

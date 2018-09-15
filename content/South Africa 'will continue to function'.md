@@ -14,7 +14,7 @@ Encouraging:
 > independent legal system, a vocal media landscape, and a solid,
 > diversified economy.
 >
-> \-- [South Africa Postpones Radical Change] - on 2014 Elections
+> -- [South Africa Postpones Radical Change] - on 2014 Elections
 
 This slightly reduces my fears of great social instability since it does
 not look like the next 5 years will be better than the last 5. It could

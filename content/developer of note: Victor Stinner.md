@@ -21,17 +21,17 @@ champion such important changes, and an example of one such heroic
 individual is [Victor Stinner], a core CPython developer. He is the most
 visible of the guys who helped ensure acceptance of [PEP 418], which
 proposes some time-related additions and improvements to the standard
-library\'s [time module]. The sheer amount of discussion that went
+library's [time module]. The sheer amount of discussion that went
 around this particular PEP was ridiculous. The mailing list discussions
 were practically endless, and so were the updates to the PEP, not to
 mention the amount of research involved, which was needed in order to
 have CPython expose this functionality in a cross-platform manner. Now,
-that\'s some serious perseverance.
+that's some serious perseverance.
 
 In addition to this work, the guy has done a heck of a lot of work in
 cleaning up, re-factoring, and optimizing the string-handling code. I
-can\'t imagine that this stuff is easy, especially since a large portion
-of it is in C! There\'s a whole lot more work he has done\... he\'s
+can't imagine that this stuff is easy, especially since a large portion
+of it is in C! There's a whole lot more work he has done... he's
 among the most prolific of all core CPython developers.
 
   [PEP]: http://www.python.org/dev/peps/pep-0001/

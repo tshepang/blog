@@ -15,7 +15,7 @@ tags = ['music', 'top-tracks']
 -   Rock With You (*HIStory* - 1995)
 -   Beat It (*HIStory* - 1995)
 -   Remember the Time (*HIStory* - 1995)
--   Wanna Be Startin\' Somethin\' (*HIStory* - 1995)
+-   Wanna Be Startin' Somethin' (*HIStory* - 1995)
 -   Dirty Diana
 -   Liberian Girl
 -   Will You Be There

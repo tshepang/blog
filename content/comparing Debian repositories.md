@@ -6,7 +6,7 @@ title = "comparing Debian repositories"
 tags = ['Debian', 'Python']
 +++
 
-If you got two Debian repositories, it\'s quite easy to check the
+If you got two Debian repositories, it's quite easy to check the
 differences in package versions between them:
 
 ``` {.sourceCode .python}
@@ -34,7 +34,7 @@ for pkg in repo1:
 
 The line `import apt_pkg` implies that **python3-apt** is installed.
 
-Here\'s a snippet of what the output will look like:
+Here's a snippet of what the output will look like:
 
     2.32.1-2    2.28.1-6    (gconf-defaults-service)
     0.23.0-1    0.21.1-1    (pylint)
@@ -51,8 +51,8 @@ further reading
 ===============
 
 -   modules: [gzip], [os]
--   3rd party library: [apt\_pkg]
+-   3rd party library: [apt_pkg]
 
   [gzip]: http://docs.python.org/library/gzip
   [os]: http://docs.python.org/library/os
-  [apt\_pkg]: http://apt.alioth.debian.org/python-apt-doc/library/apt_pkg.html
+  [apt_pkg]: http://apt.alioth.debian.org/python-apt-doc/library/apt_pkg.html

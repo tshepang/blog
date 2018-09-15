@@ -6,7 +6,7 @@ title = "Death Proof (2008)"
 categories = ['movies']
 +++
 
-Kurt Russel gives a good performance, and I don\'t remember enjoying any
+Kurt Russel gives a good performance, and I don't remember enjoying any
 of his others. Quentin Tarantino reprises the style he used so well in
 [Pulp Fiction][]: lengthy and pointless dialogues that mostly do nothing
 to serve the story (and deliberately so I suspect), but nevertheless

@@ -11,14 +11,14 @@ when I tweak something that affects the build environment (e.g. use
 system Python instead of JHBuild-built one), I get a heck of a lot of
 build failures. This will happen even after I run jhbuild clean (which
 runs `make clean` on the modules), testimony to the weakness ofthe GNOME
-build infrastructure (autotools, \...). This means that I need to run
+build infrastructure (autotools, ...). This means that I need to run
 `make distclean` or better still (where applicable) `git clean -dfx`.
 Note that I sometimes even have to uninstall one or two modules (on
 JHBuild path) to get a build failure fixe
 (`jhbuild uninstall modulename`). This is laborious work, so I sometimes
 just wipe out the entire installation.
 
-Note that there\'s dozens of modules to build, so I wrote this little
+Note that there's dozens of modules to build, so I wrote this little
 script to take care of it:
 
 ``` {.sourceCode .python}

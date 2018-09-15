@@ -9,7 +9,7 @@ categories = ['movies']
 
 If we ignore certain arbitrary and stupid happenings, this movie is
 quite well-made and has some decent dialog. It also feels fresh,
-especially in the first half. It\'s also the scariest movie I\'ve seen
+especially in the first half. It's also the scariest movie I've seen
 in a few years (if memory serves well), even though some of the scares
 use tired techniques like loud sounds and sudden appearances of scary
 figures.

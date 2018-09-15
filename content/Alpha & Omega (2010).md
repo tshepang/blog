@@ -8,4 +8,4 @@ categories = ['movies']
 +++
 
 Stale (nothing new) and second-rate animation and story; the main love
-interest is charming, but the movie\'s best is the French golfer.
+interest is charming, but the movie's best is the French golfer.

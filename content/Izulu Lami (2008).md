@@ -15,4 +15,4 @@ rewards with the rest of the gang.
 
 The display of chilhood innocence (and naivéty) is done well, but sadly
 none of the grown-ups are given any attention, all but the sister of the
-dead mother, who gives the movie\'s best performance.
+dead mother, who gives the movie's best performance.

@@ -6,7 +6,7 @@ title = "Rust week of 2016-01-15"
 tags = ['Rust']
 +++
 
-I discovered that [a change] I made last week didn\'t work, so
+I discovered that [a change] I made last week didn't work, so
 [submitted something that works] this time around.
 
 I also [submitted][] [four][] [doc][] [changes].

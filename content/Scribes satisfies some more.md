@@ -6,11 +6,11 @@ title = "Scribes satisfies some more"
 tags = ['Scribes']
 +++
 
-I\'m currently running development version of Scribes (from bzr repo)
+I'm currently running development version of Scribes (from bzr repo)
 and it got fixes for two very annoying bugs:
 
--   On opening a non-UTF8 file you\'d get a message asking you to open
-    it via the app\'s file-selector, an uncomfortably long way around
+-   On opening a non-UTF8 file you'd get a message asking you to open
+    it via the app's file-selector, an uncomfortably long way around
     it; the version from bzr offers a choice of the encoding and then we
     live happily ever after.
 -   A worse problem that occurred when opening the file described above
@@ -19,9 +19,9 @@ and it got fixes for two very annoying bugs:
 
 All what this means is that Scribes remains installed on my machine(s).
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
-**sidenote**: Code-folding is still absent although I won\'t need to use
+**sidenote**: Code-folding is still absent although I won't need to use
 it since [Geany] does a nice job already.
 
   [Geany]: http://tshepang.net/project-of-note-geany

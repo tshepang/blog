@@ -7,11 +7,11 @@ tags = ['2011-movie', 'good']
 categories = ['movies']
 +++
 
-I don\'t remember enjoying any of Eric Bana\'s performances until now;
-two of American\'s great sweethearts are here (the ridiculously
+I don't remember enjoying any of Eric Bana's performances until now;
+two of American's great sweethearts are here (the ridiculously
 desirable Scarlett Johanssen and the sophisticated and disturbing
 Natalie Portman). The are other good performances, and none is better
-than that of [Anne Torrent] who plays the queen\'s first wife.
+than that of [Anne Torrent] who plays the queen's first wife.
 
 The movie starts off as yet-another English period drama (though I liked
 the detailed look at the lives of the rich and pwoerful at the time),

@@ -19,7 +19,7 @@ $ python
 ['zero', 'one', 'two', 'three']
 ```
 
-The second-last command sorts by keys, but that\'s easy. Sorting by
+The second-last command sorts by keys, but that's easy. Sorting by
 value, as shown by the last command above, is what trips many novices,
 and I had to spend too much time on the web finding how to do it, and I
-still don\'t really understand how it works, except that it works :)
+still don't really understand how it works, except that it works :)

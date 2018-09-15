@@ -11,9 +11,9 @@ Scathing, well-made satire; excellent and exciting during its first
 half, and a slow-down in the second, with the usual consequences thing,
 not to mention the annoying Jared Leto character. If only the movie kept
 the delicious pace, and if only it kept the length at 100 minutes or
-so\...
+so...
 
-This is Eamonn Walker\'s best role, even though his performance didn\'t
+This is Eamonn Walker's best role, even though his performance didn't
 excite me as much as it did first time around; It was my most favorite
 from among [the movies I saw first time in 2006].
 

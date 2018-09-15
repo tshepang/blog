@@ -14,9 +14,9 @@ tags = ['top-tracks', 'music', 'hip-hop']
 8 excellent works
 =================
 
--   The Lesson - Part III (It\'s Over Now) (*Come Alive*)
+-   The Lesson - Part III (It's Over Now) (*Come Alive*)
 -   Distortion to Static (*Do You Want More?!!!??!*)
--   Don\'t Feel Right (*Game Theory*)
+-   Don't Feel Right (*Game Theory*)
 -   Respond/React (*Illadelph Halflife*)
 -   Section (*Illadelph Halflife*)
 -   Wot They Do (*Illadelph Halflife*)

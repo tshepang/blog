@@ -31,7 +31,7 @@ tags = ['music', 'top-tracks']
 -   Jordan River (*Marcus Garvey* - 1975)
 -   Institution (*Social Living* - 1978)
 -   Marcus Children Suffer (*Social Living* - 1978)
--   The Youths (*(A)Live in Concert \'97* - 1998)
+-   The Youths (*(A)Live in Concert '97* - 1998)
 
 honorable mention
 =================

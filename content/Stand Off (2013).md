@@ -9,7 +9,7 @@ categories = ['movies']
 
 Nice performance by Brendan Fraser as the lead, and an even better one
 by [the guy playing the villain]. The film is quite enjoyable (not a
-boring moment) and the romance beautiful. I don\'t remember a woman
+boring moment) and the romance beautiful. I don't remember a woman
 fearing her own child as is the case with mother of gangster. Good
 direction and acting there.
 

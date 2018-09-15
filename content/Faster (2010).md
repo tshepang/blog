@@ -7,9 +7,9 @@ tags = ['2012-movie', 'average']
 categories = ['movies']
 +++
 
-Given that this is a second rate actioner that isn\'t overall decent, I
+Given that this is a second rate actioner that isn't overall decent, I
 was not going to write a review about it, except that I actually found
-the twist quite unique. I am temped to say *surprising*, but that\'s
+the twist quite unique. I am temped to say *surprising*, but that's
 what twists are supposed to be. But this one is especially so.
 
 The effort to make the professional assassin interesting worked pretty

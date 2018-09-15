@@ -12,7 +12,7 @@ so deserted that lions and impalas walk its streets. The city is also
 filled with rusting vehicles, including military tanks and planes. Too
 kool.
 
-Emma Thompson, though appearing briefly, does offer the movie\'s most
+Emma Thompson, though appearing briefly, does offer the movie's most
 electrifying performance. Will Smith, on the other hand, shows a great
 lack of acting skills, and is even embarrassing at times. He is,
 however, interesting enough to lead the story well.

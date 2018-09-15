@@ -9,4 +9,4 @@ categories = ['movies']
 
 Full of powerful moments and superb acting; a very original story and
 desirable gals (especially the newest member of the group). Takes some
-patience initially, and its eccentricity (and film stock) doesn\'t help.
+patience initially, and its eccentricity (and film stock) doesn't help.

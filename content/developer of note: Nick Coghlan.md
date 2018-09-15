@@ -25,12 +25,12 @@ Nick Coghlan outlines the disadvantages with that approach in PEP 413 as
 well.
 
 Another PEP he is working on is [PEP 432]. Titled *Simplifying the
-CPython startup sequence*, it\'s a highly detailed proposal to
+CPython startup sequence*, it's a highly detailed proposal to
 re-organise some of CPython code to ease maintenance. His deep knowledge
-on the project\'s internals is also on display.
+on the project's internals is also on display.
 
 Nick also builds and maintains a collection of notes known simply as
-[Nick Coghlan\'s Python Notes]. There is much wisdom there (complete
+[Nick Coghlan's Python Notes]. There is much wisdom there (complete
 with high quality clear writing), favorite of which is the just-updated
 [Incremental Plans to Improve Python Packaging], a thorough write-up on
 the history, current state, and future plans regarding the story of
@@ -45,5 +45,5 @@ be a great champion in pushing for progress on that front.
   [PEP 413]: http://www.python.org/dev/peps/pep-0413/
   [PEP 407]: http://www.python.org/dev/peps/pep-0407
   [PEP 432]: http://www.python.org/dev/peps/pep-0432
-  [Nick Coghlan\'s Python Notes]: http://python-notes.boredomandlaziness.org/en/latest/index.html
+  [Nick Coghlan's Python Notes]: http://python-notes.boredomandlaziness.org/en/latest/index.html
   [Incremental Plans to Improve Python Packaging]: http://python-notes.boredomandlaziness.org/en/latest/pep_ideas/core_packaging_api.html#incremental-plans-to-improve-python-packaging

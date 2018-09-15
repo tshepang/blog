@@ -7,7 +7,7 @@ tags = ['2011-movie', 'bad']
 categories = ['movies']
 +++
 
-I didn\'t expect much from this one because I watched the trailer, which
+I didn't expect much from this one because I watched the trailer, which
 exposed uninteresting visual and character design and a weak lead actor.
 The movie turned out even worse than I expected, with an unbearably bad
 and ludicrous story. Not even the visual effects help, because none of

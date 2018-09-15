@@ -20,7 +20,7 @@ A bizarre and sleep-inducing work, this dark comedy has its moments:
 -   The character of Crispin Glover is also bizarre. He gives a very
     good performance, brief as it is.
 
-I don\'t know what the fuck\'s up with the story though, what the point
+I don't know what the fuck's up with the story though, what the point
 of it all is. Why do people make movies like this? It does however
 possess the honor of having an entire book written about it, by [the
 great Jonathan Rosenbaum].

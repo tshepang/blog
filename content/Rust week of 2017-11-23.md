@@ -6,7 +6,7 @@ title = "Rust week of 2017-11-23"
 tags = ['Rust']
 +++
 
-There wasn\'t much last week, other than continuing with the functional
+There wasn't much last week, other than continuing with the functional
 testing work that queries Elasticsearch. This week, however, saw me
 extending [mrh] (Pending is a repo state that requires action):
 

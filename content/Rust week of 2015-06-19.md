@@ -9,7 +9,7 @@ tags = ['Rust']
 Work done on [the Documentation chapter] of the official Rust book:
 
 -   I submitted a [number][] [of][] [changes]
--   I also found [misuse of the word, \*thing\*]
+-   I also found [misuse of the word, *thing*]
 
 Elsewhere:
 
@@ -21,7 +21,7 @@ Elsewhere:
   [number]: https://github.com/rust-lang/rust/pull/26506
   [of]: https://github.com/rust-lang/rust/pull/26508
   [changes]: https://github.com/rust-lang/rust/pull/26509
-  [misuse of the word, \*thing\*]: https://github.com/rust-lang/rust/issues/26507
+  [misuse of the word, *thing*]: https://github.com/rust-lang/rust/issues/26507
   [some small fix]: https://github.com/rust-lang/rust/pull/26514
   [want Rust to have a documentation policy]: https://internals.rust-lang.org/t/lets-have-a-documentation-policy/2279
   [some markup fixes]: https://github.com/rust-lang/rfcs/pull/1171

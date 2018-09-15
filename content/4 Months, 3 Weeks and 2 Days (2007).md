@@ -7,16 +7,16 @@ tags = ['2011-movie', 'excellent']
 categories = ['movies']
 +++
 
-Done with the style of [\*Crimson Gold\*], it\'s a superbly-made and
+Done with the style of [*Crimson Gold*], it's a superbly-made and
 -acted movie about the ravages of poverty and the problems associated
 with making abortion illegal. The general ill-treatment people give each
-other is horrid, but luckily things are lightened up when our hero\'s
-boyfriend celebrates mom\'s birthday (even though there\'s a sour note).
+other is horrid, but luckily things are lightened up when our hero's
+boyfriend celebrates mom's birthday (even though there's a sour note).
 And the mom gives quite a good performance (and so does everyone else).
 
 As for the comparison with *Crimson Gold*, it has far better acting, but
-doesn\'t cover as much ground and is therefore simpler. I can\'t decide
+doesn't cover as much ground and is therefore simpler. I can't decide
 which is superior between the two, but *Crimson Gold* had a stronger
 emotional impact on me. Maybe that makes it a better movie.
 
-  [\*Crimson Gold\*]: http://tshepang.net/crimson-gold-2003
+  [*Crimson Gold*]: http://tshepang.net/crimson-gold-2003

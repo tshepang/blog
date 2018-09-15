@@ -6,7 +6,7 @@ title = "Rust week of 2017-11-09"
 tags = ['Rust']
 +++
 
-I\'ve done nothing regarding the previous two weeks, but this week had a
+I've done nothing regarding the previous two weeks, but this week had a
 look at Elasticsearch crates, as part of an effort to do some functional
 testing of the system at work. What I found was [a forest of APIs]
 without a good guide, but eventually ended up with something that
@@ -21,13 +21,13 @@ let query = json!({
 
 :
 
-    \"sort\": \[
+    "sort": [
 
-    :   { \"\@timestamp\": { \"order\": \"asc\", } }
+    :   { "@timestamp": { "order": "asc", } }
 
-    \], \"query\": { \"bool\": { \"must\": \[ { \"term\": { \"marker\":
-    \"test0\" } }, { \"range\": { \"\@timestamp\": { \"gte\":
-    \"now-100s\", \"lte\": \"now\", }}}, \] } }
+    ], "query": { "bool": { "must": [ { "term": { "marker":
+    "test0" } }, { "range": { "@timestamp": { "gte":
+    "now-100s", "lte": "now", }}}, ] } }
 
 });
 :::

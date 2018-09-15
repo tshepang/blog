@@ -16,7 +16,7 @@ Some more work on [mrh][]:
 I experienced some failures too:
 
 -   I looked to using termcolor (used by ripgrep and cargo, and [may
-    replace termcolor in clap]), but found it too hard to use\... API
+    replace termcolor in clap]), but found it too hard to use... API
     not as pleasant
 -   I also failed to turn output into an iterator (instead of Vec)
 

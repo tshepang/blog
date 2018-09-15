@@ -15,7 +15,7 @@ straight-forward thriller without any mind-fuck qualities the first one
 had. The action was really overlong, and had the too-many hero-luck
 moments, making it nearly unbearable towards the end.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 Some nice technology ideas I have not seen before:
 

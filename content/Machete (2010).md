@@ -13,4 +13,4 @@ performed this well anywhere (in my experience of course). The leading
 guy, an ugly motherfucker who I only ever saw doing secondary roles, if
 fun to watch. He does look like a tough guy. Steven Seagal is as scary
 as always, and I wonder what the fuck Robert De Niro is doing here.
-Aren\'t there more cerebral scripts for him out there?
+Aren't there more cerebral scripts for him out there?

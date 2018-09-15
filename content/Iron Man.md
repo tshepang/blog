@@ -24,14 +24,14 @@ The bad:
 -   None of the villains are any interesting
 -   I wish the main villain had a bit of practice before managing to use
     the giant suit with such competence
--   The hero manages to fool his captors of what he\'s building for a
-    long time, especially given that he\'s under camera surveillance
+-   The hero manages to fool his captors of what he's building for a
+    long time, especially given that he's under camera surveillance
 -   He also survives way too much physical pounding
 
-You\'ll wish the filmmakers would invest as much in plausibility and
+You'll wish the filmmakers would invest as much in plausibility and
 common sense as in the gorgeous suit on display here.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I really hated these bad things on the first revisit, but they were easy
 to overlook this time around. The good stuff managed to distract me well

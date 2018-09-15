@@ -6,7 +6,7 @@ title = "Rust week of 2015-05-22"
 tags = ['Rust']
 +++
 
--   I bumped onto [an oddity regarding \'pow\' method]\... there is no
+-   I bumped onto [an oddity regarding 'pow' method]... there is no
     fallback.
 -   I found that converting a char to a String (or &str) is [not as
     obvious as I hoped].
@@ -26,7 +26,7 @@ tags = ['Rust']
 
     trait Invert {
 
-    :   fn invert(&self) -\> f64;
+    :   fn invert(&self) -> f64;
 
     }
 
@@ -34,9 +34,9 @@ tags = ['Rust']
 
     :
 
-        fn invert(&self) -\> f64 {
+        fn invert(&self) -> f64 {
 
-        :   1.0/(\*self as f64)
+        :   1.0/(*self as f64)
 
         }
 
@@ -44,7 +44,7 @@ tags = ['Rust']
 
     fn main() {
 
-    :   let foo = 10\_i32; assert\_eq!(foo.invert(), 0.1);
+    :   let foo = 10_i32; assert_eq!(foo.invert(), 0.1);
 
     }
     :::
@@ -55,9 +55,9 @@ tags = ['Rust']
     ::: {.sourcecode}
     rust
 
-    fn print\_inverse\<T: Invert\>(foo: T) {
+    fn print_inverse<T: Invert>(foo: T) {
 
-    :   println!(\"Inverse: {}\", foo.invert());
+    :   println!("Inverse: {}", foo.invert());
 
     }
     :::
@@ -69,7 +69,7 @@ tags = ['Rust']
     ::: {.sourcecode}
     rust
 
-    print\_inverse(10\_i32);
+    print_inverse(10_i32);
     :::
 
     Output:
@@ -81,7 +81,7 @@ tags = ['Rust']
     ::: {.sourcecode}
     rust
 
-    print\_inverse(10\_f64);
+    print_inverse(10_f64);
     :::
 
     Output:
@@ -99,16 +99,16 @@ tags = ['Rust']
 
     :
 
-        fn invert(&self) -\> f64 {
+        fn invert(&self) -> f64 {
 
-        :   1.0/(\*self)
+        :   1.0/(*self)
 
         }
 
     }
     :::
 
-  [an oddity regarding \'pow\' method]: http://stackoverflow.com/q/30413090/321731
+  [an oddity regarding 'pow' method]: http://stackoverflow.com/q/30413090/321731
   [not as obvious as I hoped]: http://stackoverflow.com/a/28003842/321731
   [some small changes]: https://github.com/rust-lang/rust/pull/25736
   [documentation]: https://github.com/rust-lang/rust/pull/25756

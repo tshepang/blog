@@ -11,7 +11,7 @@ categories = ['movies']
 he is cheating with is an extremely annoying ass who nearly tells on
 her, not because he is moral, but because he is jealous. The character
 is unbearable, and so is the performance. Another annoying character is
-the delinquent friend, whose sole purpose must have been just that\...
+the delinquent friend, whose sole purpose must have been just that...
 to annoy me. Another unpleasant character, though the only one that
 seems sensible, is the strange bar man, perhaps because I could not
 figure him out. He just feels so arbitrary, as does that delinquent
@@ -27,7 +27,7 @@ many places, the movie is hard to bear, and it would be quite strange if
 anyone involved actually enjoyed the experience of making it. It is all
 humorless and dull, and full of pain, and disturbed characters.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 [a quality review]
 

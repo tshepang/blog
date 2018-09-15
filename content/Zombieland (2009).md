@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 It starts very well, with well-made visuals of zombie attacks, and a
-nice play on \'rules to survive\'. It sadly gets messed when it\'s clear
+nice play on 'rules to survive'. It sadly gets messed when it's clear
 the writers did not know where to run with the story, and made even
 worse by the sisters, who serve only to annoy, especially the older one.
 Her failed attempt at sex appeal and sass does not help.

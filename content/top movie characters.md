@@ -42,7 +42,7 @@ cute
 ====
 
 1.  new-born baby alien (*Men In Black*)
-2.  the young penguins (*Surf\'s Up*)
+2.  the young penguins (*Surf's Up*)
 
 nerd
 ====
@@ -52,9 +52,9 @@ nerd
 creature
 ========
 
-1.  Davey Jones (*Pirates of the Caribbean: Dead Man\'s Chest*)
+1.  Davey Jones (*Pirates of the Caribbean: Dead Man's Chest*)
 2.  Kong (*King Kong*)
-3.  Na\'vi species ([Avatar])
+3.  Na'vi species ([Avatar])
 
 dragon
 ======
@@ -66,7 +66,7 @@ monster
 
 1.  Monster ([Cloverfield])
 2.  Pyramid Head ([Silent Hill] and [Silent Hill: Revelation])
-3.  Pale Man ([Pan\'s Labyrinth])
+3.  Pale Man ([Pan's Labyrinth])
 4.  The Missionary ([Silent Hill: Revelation])
 5.  Nurses ([Silent Hill: Revelation])
 6.  Dementors ([Harry Potter and the Prisoner of Azkaban])
@@ -86,7 +86,7 @@ character design
 7.  cyborg trio ([Afro Samurai: Resurrection])
 8.  living humans beings (*A Corpse Bride*)
 9.  Bug on the street (*Constantine*)
-10. chess pieces ([Harry Potter and the Sorcerer\'s Stone])
+10. chess pieces ([Harry Potter and the Sorcerer's Stone])
 
   [Kinsey]: http://tshepang.net/kinsey-2004
   [The Book Thief]: http://tshepang.net/the-book-thief-2013
@@ -98,10 +98,10 @@ character design
   [Cloverfield]: http://tshepang.net/cloverfield-2008
   [Silent Hill]: http://tshepang.net/silent-hill-2006
   [Silent Hill: Revelation]:
-  [Pan\'s Labyrinth]: http://tshepang.net/pans-labyrinth-2006
+  [Pan's Labyrinth]: http://tshepang.net/pans-labyrinth-2006
   [Harry Potter and the Prisoner of Azkaban]: http://tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
   [Clash of the Titans]: http://tshepang.net/clash-of-the-titans-2010
   [Sucker Punch]: http://tshepang.net/sucker-punch-2011
   [9]: http://tshepang.net/9-2009
   [Afro Samurai: Resurrection]: http://tshepang.net/afro-samurai-resurrection-2009
-  [Harry Potter and the Sorcerer\'s Stone]: http://tshepang.net/harry-potter-and-the-sorcerers-stone-2001
+  [Harry Potter and the Sorcerer's Stone]: http://tshepang.net/harry-potter-and-the-sorcerers-stone-2001

@@ -19,5 +19,5 @@ categories = ['movies']
 **cons**
 
 -   The treatment of the zombie side of things is really shitty. Perhaps
-    it\'s a lack of a budget, but it\'s done so bad, with bad make-up,
+    it's a lack of a budget, but it's done so bad, with bad make-up,
     and shitty horror movie happenings.

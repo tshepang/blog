@@ -10,7 +10,7 @@ I [submitted][] [four][] [documentation][] [changes] this time. I also
 enjoyed reading [Two Weeks of Rust], a blog post resulting from building
 something non-trivial using the language.
 
-In terms of learning, I\'ve always been wondering why one does not need
+In terms of learning, I've always been wondering why one does not need
 `mut` when reading values from an iterator via a `for loop` , but does
 not when reading them using `next`:
 
@@ -18,16 +18,16 @@ not when reading them using `next`:
 rust
 
 let it = std::env::args() // iterator over CLI arguments for value in it
-{ do\_something(value); }
+{ do_something(value); }
 
 // versus
 
 let mut it = std::env::args() // iterator over CLI arguments
-do\_something(it.next()); do\_something(it.next()); \...
+do_something(it.next()); do_something(it.next()); ...
 :::
 
-I think with the `for loop`, `it` cannot be used anymore, and that\'s
-why it can get away with being immutable. I\'m not 100% yet\... this
+I think with the `for loop`, `it` cannot be used anymore, and that's
+why it can get away with being immutable. I'm not 100% yet... this
 feels like a lousy explanation.
 
   [submitted]: https://github.com/rust-lang/rust/pull/31762

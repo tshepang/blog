@@ -7,7 +7,7 @@ tags = ['2012-movie', 'decent']
 categories = ['movies']
 +++
 
-This must be the weirdest of horror movies I\'ve seen, and also
+This must be the weirdest of horror movies I've seen, and also
 surprisingly highly rated. It still has those abused horror elements me
 hates so much, and the only fresh thing it adds to the genre is the
 characters who watch the victims in excitement. The leading gal is

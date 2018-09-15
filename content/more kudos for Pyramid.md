@@ -6,7 +6,7 @@ title = "more kudos for Pyramid"
 tags = ['Python', 'quote', 'Pyramid']
 +++
 
-I\'m not sure if there is any one Python web framework as
+I'm not sure if there is any one Python web framework as
 well-respected. The great Mike Beyers (SQLAlchemy) also [gave his
 respects] some months ago.
 

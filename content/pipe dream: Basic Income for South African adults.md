@@ -9,7 +9,7 @@ tags = ['untagged']
 There are too many people suffering from poverty in South Africa, and
 the quickest way to eliminate it is to provide income for all adult
 citizens (18+). If each of these 30 million individuals earned R500/week
-(\$1 is about R10), that would cost R780 billion. Compare that to the
+($1 is about R10), that would cost R780 billion. Compare that to the
 R900 billion that SARS expects to make in 2013/2014 tax year.
 
 Sources of funding
@@ -33,7 +33,7 @@ it come from?
 -   Settling for R375 per week makes the problem go away
 -   Settling for R280 per week means Company Income Tax need not be
     doubled, to avoid companies running away from the country. But
-    that\'s now lower than Old Age Grant, so we\'ll stop there as the
+    that's now lower than Old Age Grant, so we'll stop there as the
     worst compromise.
 
 Why R500

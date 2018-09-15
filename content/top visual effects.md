@@ -14,7 +14,7 @@ Being fresh, eye-popping, and immersive helps:
 4.  -   The Lord of the Rings: The Return of the King
     -   The Matrix
 
-5.  Pirates of the Caribbean: Dead Man\'s Chest
+5.  Pirates of the Caribbean: Dead Man's Chest
 6.  [Avatar]
 7.  [Battleship]
 8.  [Thor: The Dark World]

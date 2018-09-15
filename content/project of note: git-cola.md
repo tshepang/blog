@@ -22,8 +22,8 @@ without staging it first, instead of just complaining, if offers to
 *stage and commit* all in one click. Nice.
 
 These functionalities are real simple, but they really make for a
-pleasant user experience. Pity I haven\'t seen a tool as easy to use in
+pleasant user experience. Pity I haven't seen a tool as easy to use in
 the land of Mercurial. There, I use the command-line `hg record` which
-isn\'t as pleasant.
+isn't as pleasant.
 
   [git-cola]: http://git-cola.github.io

@@ -17,7 +17,7 @@ tags = ['list']
         beyond)
     -   icon of Chicago skyline
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 The WTC Twin Towers would be here if they were still standing. At the
 time of their destruction, I admired them more than any other buildings

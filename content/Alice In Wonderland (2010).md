@@ -7,7 +7,7 @@ tags = ['2010-movie', 'good']
 categories = ['movies']
 +++
 
-There\'s a number of enchanting moments, and Alice is sweet to the eye;
+There's a number of enchanting moments, and Alice is sweet to the eye;
 she is also lovely in battle costume and battle movement; the hatter is
 at times fun (my favorite moment, also the saddest, is when exclaiming
 how good it would be that he dies looking good); the evil queen is the

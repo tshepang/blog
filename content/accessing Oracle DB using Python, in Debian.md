@@ -7,13 +7,13 @@ tags = ['Debian', 'Python', 'non-FLOSS']
 +++
 
 The following instructions assume that you are using [Debian Squeeze],
-the current \'stable\' release. The instructions here are very specific,
+the current 'stable' release. The instructions here are very specific,
 so look [elsewhere] for something more generic.
 
 **downloads**:
 
 -   Get registered on Oracle website, and download
-    oracle-instantclient11.2-basic\*.rpm (\~40MB).
+    oracle-instantclient11.2-basic*.rpm (~40MB).
 -   Get [cx-Oracle] rpm for your specific Python version and your
     specific processor (in my case, 3.1 and i386 respectively).
 

@@ -30,5 +30,5 @@ design. The title character is great fun to watch.
 
 Anyways, one other characteristic of this list of movies is that the
 appeal went down on a revisit, a very worrying trend, and that was the
-case with *Megamind*, though it wasn\'t so devastating for it remains
+case with *Megamind*, though it wasn't so devastating for it remains
 excellent.

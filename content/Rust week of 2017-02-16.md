@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 Just [one contribution], just like last week. I also [asked a question]
-on Stack Overflow\... so surprising that one can\'t change file owner
+on Stack Overflow... so surprising that one can't change file owner
 using stdlib!
 
   [one contribution]: https://github.com/slog-rs/slog/pull/114

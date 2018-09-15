@@ -44,13 +44,13 @@ From top to bottom:
     developer, not the person who ends up using something written in the
     language.
 
-The \'individual\' in title means I\'m ignoring non-human entities, like
-companies. I\'m also ignoring non-core activities, like marketers or
+The 'individual' in title means I'm ignoring non-human entities, like
+companies. I'm also ignoring non-core activities, like marketers or
 sysadmins, or even teachers. Those are not going to be easy to fit in
 this simple story, and are not common to that many FLOSS (Free/Libre and
 Open Source) projects.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 In the case of [wajig], I am the Maintainer and Graham Williams is the
 Author. In the case of [paramiko], a far more important project, [Jeff

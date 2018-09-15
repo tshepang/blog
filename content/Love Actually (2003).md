@@ -7,7 +7,7 @@ tags = ['2011-movie', 'average']
 categories = ['movies']
 +++
 
-There\'s a delightful/fresh feel to it and there\'s a bunch of fun
+There's a delightful/fresh feel to it and there's a bunch of fun
 moments, but the whole thing is spoilt when it goes into typical
 romantic comedy mode near the end, things like dozens of people
 following a man who intends to propose, or a kid breaching airport

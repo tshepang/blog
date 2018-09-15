@@ -12,7 +12,7 @@ begin each Friday, since Stable releases of the Rust distribution
 (language and included libraries) are to be released on that week day.
 This is also a great excuse to write more regularly.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 -   I read a high quality post titled [Rust ownership, the hard way]. I
     learned quite a bit going through it, like the meaning of

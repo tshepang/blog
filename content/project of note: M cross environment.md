@@ -13,7 +13,7 @@ running the one executable. This means I needed to statically-link the
 app, and the sad news is that I first needed a statically-linked Qt.
 
 If I had actually known of [M cross environment] (MXE), I would have
-shaved nearly all of those \'wasted\' hours. I am very grateful to the
+shaved nearly all of those 'wasted' hours. I am very grateful to the
 developers, especially because building Qt was mainly a matter of
 installing [a few build dependencies] and running `make qt`. An hour or
 two later, I had a newly cross-compiled Qt waiting for my use. It was
@@ -23,7 +23,7 @@ Windows 7.
 Having a look around, the build system actually looks elegant, and is a
 lot simpler than the scary mess that is [JHBuild].
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I have published two guides on Stack Overflow on how this works, [one
 for Qt 4] and [another for Qt 5].

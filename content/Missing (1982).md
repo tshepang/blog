@@ -8,9 +8,9 @@ categories = ['movies']
 +++
 
 The wife character, played by Sissy Spacek, is not only
-superbly-developed, but also desirable as fuck. Not only that, but it\'s
+superbly-developed, but also desirable as fuck. Not only that, but it's
 a wonderful performance. The father character is however given the
-movie\'s best character development, as well as its best performance.
+movie's best character development, as well as its best performance.
 One other great performance is that of the bubbly guy from the US
 military.
 

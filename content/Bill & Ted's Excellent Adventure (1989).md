@@ -7,13 +7,13 @@ tags = ['good']
 categories = ['movies']
 +++
 
-I haven\'t seen this one probably in over ten years, and I remember
-enjoying excellently well, much like now. Of course it\'s a popcorn,
-laid-back comedy, but it\'s amazingly entertaining.
+I haven't seen this one probably in over ten years, and I remember
+enjoying excellently well, much like now. Of course it's a popcorn,
+laid-back comedy, but it's amazingly entertaining.
 
 **pros**
 
--   The few heavy-duty words found on many of the movie\'s lines adds to
+-   The few heavy-duty words found on many of the movie's lines adds to
     great comic effect.
 -   A truly fun performance by the guy playing Bill.
 -   The effort that went into designing the worlds of the historical

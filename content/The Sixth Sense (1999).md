@@ -8,6 +8,6 @@ categories = ['movies']
 +++
 
 A rather tired supernatural thriller about a boy tormented by ghosts and
-a psychologist trying to help him. There isn\'t much of a story, so the
+a psychologist trying to help him. There isn't much of a story, so the
 director over-stretches it, resulting overly-long and boring moments.
-The boy\'s mom is given the movie\'s best performance.
+The boy's mom is given the movie's best performance.

@@ -14,7 +14,7 @@ tarball:
 4.  navigate to the tarball (using a GUI file browser)
 5.  extract the tarball (using a GUI extractor)
 6.  navigate to the extracted directory (using the shell)
-7.  and finally\... `$  ./configure && make && sudo make install`
+7.  and finally... `$  ./configure && make && sudo make install`
 
 [VCS][]:
 
@@ -22,8 +22,8 @@ tarball:
 2.  find clone link
 3.  clone the repository
 4.  navigate to the cloned directory (using the shell)
-5.  and finally\... `$  ./configure && make && sudo make install`
+5.  and finally... `$  ./configure && make && sudo make install`
 
-So, that\'s 2 extra steps for going the tarball way.
+So, that's 2 extra steps for going the tarball way.
 
   [VCS]: http://en.wikipedia.org/wiki/Revision_control

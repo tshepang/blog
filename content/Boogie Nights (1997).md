@@ -8,10 +8,10 @@ categories = ['movies']
 +++
 
 I watched this several years ago and do not remember being impressed. I
-just now revisited it to ensure I didn\'t miss anything. Well, it\'s not
+just now revisited it to ensure I didn't miss anything. Well, it's not
 much. The character of the lead is curious, with its great innocence and
 kindness, until over halfway through the movie when he displays
-jealousy. It\'s not a good performance, but more a half-comic one. The
+jealousy. It's not a good performance, but more a half-comic one. The
 more interesting one is that by Julianne Moore, who is more desirable
 here than elsewhere (if memory serves well).
 

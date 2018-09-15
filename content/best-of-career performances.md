@@ -10,11 +10,11 @@ categories = ['movies']
 -   Brat Pitt ([Fight Club]); honorable mention ([The Counselor])
 -   Carrie-Anne Moss ([Memento])
 -   Clive Owen (Closer)
--   Colin Firth ([The King\'s Speech])
+-   Colin Firth ([The King's Speech])
 -   David Straithairn ([Good Night, and Good Luck])
 -   Emma Thompson ([Wit])
 -   Forest Whitaker ([The Last King of Scotland])
--   Geoffrey Rush ([The King\'s Speech])
+-   Geoffrey Rush ([The King's Speech])
 -   Guy Pearce ([Memento])
 -   Hugh Jackman ([Prisoners])
 -   Jake Gyllenhaal ([Nightcrawler])
@@ -37,14 +37,14 @@ categories = ['movies']
 -   Will Smith (Ali); also [favorite-of-career]
 -   Woody Harrelson (Seven Pounds)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 related: [favorite-of-career performances][favorite-of-career]
 
   [Fight Club]: http://tshepang.net/fight-club-1999
   [The Counselor]: http://tshepang.net/the-counselor-2013
   [Memento]: http://tshepang.net/memento-2000
-  [The King\'s Speech]: http://tshepang.net/the-kings-speech-2010
+  [The King's Speech]: http://tshepang.net/the-kings-speech-2010
   [Good Night, and Good Luck]: http://tshepang.net/good-night-and-good-luck-2005
   [Wit]: http://tshepang.net/wit-2001
   [The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006

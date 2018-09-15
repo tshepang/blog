@@ -15,7 +15,7 @@ character, due to his relentless pursuit for the money taken from him.
 The flashbacks are badly made, complete with horrible editing. The scene
 where his gal unleashes violence against him is memorable.
 
-I was led to this after finding out it\'s based on the same material as
+I was led to this after finding out it's based on the same material as
 the later [Payback], a far superior take.
 
   [Payback]: http://tshepang.net/payback-1999

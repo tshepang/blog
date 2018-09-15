@@ -13,6 +13,6 @@ things up since he was designed to be villain. Along the way, he meets a
 delightful character in a form of computer glitch, an outcast that he
 reluctantly befriends.
 
-The whole thing is typical Disney, but it\'s all good formula. The
+The whole thing is typical Disney, but it's all good formula. The
 animation is good (check the racing cars and the high-resolution game)
-and the story enchanting, and it\'s all predictable of course.
+and the story enchanting, and it's all predictable of course.

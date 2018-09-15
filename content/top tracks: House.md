@@ -12,7 +12,7 @@ landmarks
 =========
 
 -   **Kutakatum**: I grew up with, and prefer, the slower version found
-    in *Summer Rawkus* (DJ\'s At Work), as opposed to [the original]
+    in *Summer Rawkus* (DJ's At Work), as opposed to [the original]
 -   [Love is the Answer]
 
 masterpieces

@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I enjoyed [Comparing Rust and Java], the first such comparison I
-remember reading. It\'s also special in that the author hates none of
+remember reading. It's also special in that the author hates none of
 the two.
 
 In terms of contributions, I am embarassed that I submitted a mere

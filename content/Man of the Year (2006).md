@@ -16,7 +16,7 @@ actress (remember [Kinsey]), is very annoying.
 Those critics mentioned dislike of mixing the whole thing with
 conspiracy, and in hindsight, it was quite unwarranted. The movie would
 have done fine without it, and it was just not done right, and Jeff
-Goldblum performance didn\'t help either.
+Goldblum performance didn't help either.
 
   [critics disliked this one]: http://en.wikipedia.org/wiki/Man_of_the_Year_(2006_film)#Reception
   [Laura Linney]: http://en.wikipedia.org/wiki/Laura_Linney

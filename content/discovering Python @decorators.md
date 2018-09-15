@@ -7,7 +7,7 @@ tags = ['Python']
 +++
 
 There is a project at work where I needed to do the same action on
-various functions. It\'s basically a checkpoint system where I\'d write
+various functions. It's basically a checkpoint system where I'd write
 some state to a file, but only when all the functionality in the given
 functions executed successfully. It was a one-line change but I thought
 it was a good excuse to create decorators for the first time in my life.
@@ -65,7 +65,7 @@ with:
         do_that('some other value')
 
 The latter format, though it presents less of a cognitive burden, feels
-less of an obvious solution, and it\'s a bit uglier as well. [PEP 380]
+less of an obvious solution, and it's a bit uglier as well. [PEP 380]
 is a detailed discussion written over 10 years ago when the syntax was
 first added to the language.
 

@@ -21,8 +21,8 @@ This is how I felt first time I watched it, and is no longer the case:
 > Deserving of mention is the superb production design (though this is
 > inconsistent) and certain moments of extreme beauty (e.g. the early
 > scene of the grassy wilderness where mother and daughter share some
-> love, and a later scene which shows the internals of the family\'s
-> home). As for visual effects, the moments of \"approaching darkness\"
+> love, and a later scene which shows the internals of the family's
+> home). As for visual effects, the moments of "approaching darkness"
 > can only be a result of visual mastery.
 
 That early scene was nice yes, but calling it *extremely beautiful* is

@@ -7,12 +7,12 @@ tags = ['decent']
 categories = ['movies']
 +++
 
-There\'s touching moments:
+There's touching moments:
 
 -   the mother expressing her greatfulness
 -   the two great compliments the mother gets
 
-There\'s funny moments:
+There's funny moments:
 
 -   the emitted sound when answering the phone
 -   some of unusual behavior the author portrays

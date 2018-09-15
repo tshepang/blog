@@ -9,7 +9,7 @@ categories = ['movies']
 
 This would have been excellent had it not dwelled so much on the
 terrorist guy. I did find his appearance refreshing at first (a fresh
-and beautiful face, and a solid performance), but he\'s simply not lead
+and beautiful face, and a solid performance), but he's simply not lead
 character material. This is unlike the Sean Bean character, who gives a
 very fitting character and performance.
 

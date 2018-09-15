@@ -11,7 +11,7 @@ Among other things:
 
 -   I cleaned up the Debian packaging with [some great help]. I promise
     that it was seriously ugly. I guess nobody was motivated enough to
-    clean it up\... including me.
+    clean it up... including me.
 -   I added a fresh help system, and cleaned up the documentation
     machinery while at it.
 -   Increased the use of aptitude, where it makes sense.

@@ -15,16 +15,16 @@ Some stuff I might work on in future:
 -   Someone asked me to restore gjig, the GUI tool that [I removed from
     wajig] some releases ago. This will be an opportunity to learn GTK+
     again. I did a bit of it, even contributing patches ([Tracker
-    project]), but was never quite confident. It\'s very likely that I
-    won\'t work on this\... too much work.
+    project]), but was never quite confident. It's very likely that I
+    won't work on this... too much work.
 
 But ultimately, I would love for the standard Debian packaging tools to
 get the point where they make wajig irrelevant. After all, wajig was
 created to be a wrapper that helps ease the mess.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
-Here\'s the work I did in the past working on wajig, have a look at [its
+Here's the work I did in the past working on wajig, have a look at [its
 tag]. Off the top of my head:
 
 -   improved, simplified packaging

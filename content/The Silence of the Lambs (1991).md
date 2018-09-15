@@ -7,7 +7,7 @@ tags = ['good']
 categories = ['movies']
 +++
 
-There\'s some sleep-inducing moments, but it\'s quite a good movie, and
+There's some sleep-inducing moments, but it's quite a good movie, and
 interesting in places, with the main villain (Anthony Hopkins) being the
 most interesting character, and Jodie Foster (the FNB agent the villain
 toys with) looking as disrtubed-looking as usual.

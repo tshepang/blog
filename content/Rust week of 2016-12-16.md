@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I like how easy it seems to create custom template filters, as seen in
-[this post about tera]. I also like the utility of the derive\_builder
+[this post about tera]. I also like the utility of the derive_builder
 crate, as described in [another post] (from the same blog).
 
 In terms of contributions, I made [just one].

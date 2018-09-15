@@ -6,7 +6,7 @@ title = "Rust week of 2015-06-12"
 tags = ['Rust']
 +++
 
-I\'m the documentation guy, so:
+I'm the documentation guy, so:
 
 -   I [submitted][] [three][] [changes] to the API documentation
 -   [Two][] [changes][1] to the README (first time)

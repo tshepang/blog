@@ -9,7 +9,7 @@ categories = ['movies']
 
 I feel like this is even worse than the 2002 movie, which I considered
 the least interesting in the previous series of 3 movies. It was highly
-disappointing because I heavily anticipated it (I\'m a sucker for
+disappointing because I heavily anticipated it (I'm a sucker for
 super-hero movies). It is poorly written, and got cheesy romance and (I
 wish Gwen died a lot earlier in the movie). It also has uninteresting
 villains (Paul Giamatti is miscast, and so is Jamie Foxx). Not even the

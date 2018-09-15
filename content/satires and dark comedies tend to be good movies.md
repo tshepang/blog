@@ -7,7 +7,7 @@ tags = ['list']
 categories = ['movies']
 +++
 
-Many satires tend to be (dark) comedies, and that\'s why I made one list
+Many satires tend to be (dark) comedies, and that's why I made one list
 instead of two. Following is a list of [good] (or better) movies that
 fit the description:
 

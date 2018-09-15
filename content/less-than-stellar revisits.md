@@ -9,7 +9,7 @@ categories = ['movies']
 I saw [300] yesterday with the comments turned on and noticed numerous
 compositing errors. These are however not as ridiculous as those of *The
 Matrix Revolutions*, which significantly lowers its visual effects
-prowess, not to mention that the human-shaped robots weren\'t so
+prowess, not to mention that the human-shaped robots weren't so
 impressive either, even though they still pack a punch. The movie
 remains less-than-average, though more bearable than the last time I
 checked.

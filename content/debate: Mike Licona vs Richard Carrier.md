@@ -8,10 +8,10 @@ tags = ['atheism']
 
 I recently listened to a 2.5 hour-long [debate] between two scholars,
 [Richard Carrier] and [Mike Licona], which alerted me to the fact that
-Jesus\' Resurrection is regarded, at least to Christian apologists, to
-be very central to the Christian faith (here\'s [an unsatisfactory
-review]). I became far more impressed with Richard\'s performance than
-Mike\'s:
+Jesus' Resurrection is regarded, at least to Christian apologists, to
+be very central to the Christian faith (here's [an unsatisfactory
+review]). I became far more impressed with Richard's performance than
+Mike's:
 
 -   Mike was the only one who displayed some arrogance (a silly joke
     here and a chuckle there, unsuccessfully forcing his opponent to use
@@ -30,13 +30,13 @@ Based on these points, I vote for Richard as the winner, with the
 disclaimer that the latter part of the debate was getting too technical
 for me to follow thoroughly.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 **sidenotes**:
 
--   See [Luke Muehlhauser]\'s [well-argued take] on the issue of the
+-   See [Luke Muehlhauser]'s [well-argued take] on the issue of the
     Resurrection.
--   Luke\'s blog, [Common Sense Atheism] ([praise]), apparently has [the
+-   Luke's blog, [Common Sense Atheism] ([praise]), apparently has [the
     largest collection of links to atheist vs theist debates] and is
     therefore a great resource.
 

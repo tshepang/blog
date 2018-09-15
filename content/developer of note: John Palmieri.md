@@ -8,7 +8,7 @@ tags = ['developer-of-note', 'GNOME', 'Python']
 
 Every so often, there appears a developer who pressures me away from my
 lazy, unfocused, and undisciplined ass to go do some useful programming.
-This time around it\'s John Palmieri, the most visible of the developers
+This time around it's John Palmieri, the most visible of the developers
 of [PyGObject] (Python bindings for GTK+ and GLib). The old way of using
 GTK+ with Python has for years been PyGTK and this guy has been
 tirelessly working to move the world to the more modern PyGObject, and

@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 For a movie that is almost entirely made of dialog, this is exciting.
-It\'s also the first time I saw the [Tony Todd] play an ordinary
+It's also the first time I saw the [Tony Todd] play an ordinary
 character, which he does very well.
 
 I wish there would be more restraint: the overreaction by some of the

@@ -9,7 +9,7 @@ tags = ['Rust']
 I found [a so nice library] that handles a favorite file format of mine,
 INI. I even made [some tiny doc improvements for it].
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I was surprised to find that [there is no easy/clear way to interleave
 stdout and stderr with the standard library].

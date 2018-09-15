@@ -10,7 +10,7 @@ Following is how my GUI environment is set-up on [my home machine] (a
 laptop) and work machine (a desktop). For the (libre) tools I frequently
 use, see [this post] instead.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 With recent Debian GNOME updates (late 2013), something got broken
 enough that I could not login to my account. I saw this as a good
@@ -24,8 +24,8 @@ I been playing with [dwm] for the past several weeks, and the experience
 has convinced me to stay. I am attracted to the philosophy of
 minimalism, though I find they do take things a bit far in requiring
 users to tinker with C source code in order to configure it. Luckily
-it\'s not hard, and there\'s examples out there. It just takes a while
-since there isn\'t a comprehensive guide I could find.
+it's not hard, and there's examples out there. It just takes a while
+since there isn't a comprehensive guide I could find.
 
 For my login manager, I use [LightDM]. I added this line to its
 configuration, in `[SeatDefaults]` section:
@@ -35,8 +35,8 @@ configuration, in `[SeatDefaults]` section:
 It removes the need to manually enter my username each time I want to
 login.
 
-Reason I\'m not using GDM? I wanted something light, which also
-wouldn\'t pull in dozens of packages that I won\'t use. For example:
+Reason I'm not using GDM? I wanted something light, which also
+wouldn't pull in dozens of packages that I won't use. For example:
 
     $ sudo apt-get install --no-install-recommends gdm3
     Reading package lists... Done
@@ -90,7 +90,7 @@ being not as modular as I would like: how could a display manager end up
 depending on a Contacts tool, or the Bluetooth stack. It may be just how
 it was built in Debian, but that also means there were build options
 that allowed such tight coupling in the first place. GDM has served me
-well for years, but I\'m not interested in all those tools it brings
+well for years, but I'm not interested in all those tools it brings
 with.
 
 Anyways, enough with that. I added a custom `.desktop` file which will
@@ -103,7 +103,7 @@ become selectable on LightDM UI:
     Type=XSession
 
 On selecting the entry labeled **Custom** that appears on LightDM, and
-logging in, the following will get executed ([\~/.xsession]):
+logging in, the following will get executed ([~/.xsession]):
 
 ``` {.sourceCode .sh}
 # apps
@@ -134,7 +134,7 @@ fi
 while true; do
     datetime=$( date +"%F %R" )
     if acpi -a | grep off-line > /dev/null; then
-        battery=$( python -c "print(\"$(acpi)\".split(',')[1].strip())" )
+        battery=$( python -c "print("$(acpi)".split(',')[1].strip())" )
         xsetroot -name "$battery"" | ""$datetime"
     else
         xsetroot -name "$datetime"
@@ -184,11 +184,11 @@ Finally, this is what my dwm config changes look like ([config.def.h]):
      /* key definitions */
     -#define MODKEY Mod1Mask
     +#define MODKEY Mod4Mask
-     #define TAGKEYS(KEY,TAG) \
+     #define TAGKEYS(KEY,TAG)
             { MODKEY,                       KEY,      view,           {.ui
-            = 1 << TAG} }, \
+            = 1 << TAG} },
             { MODKEY|ControlMask,           KEY,      toggleview,     {.ui
-            = 1 << TAG} }, \
+            = 1 << TAG} },
     @@ -47,7 +50,7 @@ static const Layout layouts[] = {
 
      /* commands */
@@ -206,13 +206,13 @@ Finally, this is what my dwm config changes look like ([config.def.h]):
 Note that this diff is against the Debian package (version **6.0-6**). I
 could not change the modifier key with the upstream version of dwm.
 
-You will notice that I\'m still using one major GNOME package, Nautilus,
+You will notice that I'm still using one major GNOME package, Nautilus,
 the file browser. It remains [my favorite].
 
   [my home machine]: http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
   [this post]: http://tshepang.net/floss-i-use-a-lot
   [dwm]: http://dwm.suckless.org
   [LightDM]: http://www.freedesktop.org/wiki/Software/LightDM
-  [\~/.xsession]: https://bitbucket.org/tshepang/custom/src/tip/xsession
+  [~/.xsession]: https://bitbucket.org/tshepang/custom/src/tip/xsession
   [config.def.h]: https://bitbucket.org/tshepang/custom/src/tip/config.def.h
   [my favorite]: http://tshepang.net/favorite-floss

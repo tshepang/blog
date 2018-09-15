@@ -23,7 +23,7 @@ works right? We are nice folk.
 -   Bajabula Bonke (*Still Grazing* - 2004)
 -   Yei Baa Gbe Wolo (*Introducing Hedzoleh Soundz* - 1973)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 There are separate posts where I celebrate his two albums, [Introducing
 Hedzoleh Soundz] and [Still Grazing].

@@ -10,10 +10,10 @@ categories = ['movies']
 Robert Downey Jr. is a lot of fun to watch and so is Stephen Fry, who
 plays the most interesting character in the movie. I also enjoyed [Jared
 Harris], whose villain character offers superb rivalry with that of the
-lead. It\'s my most favorite of his performances (though I wish his
-character didn\'t sing). Also, I have never seen [Kelly Reilly] this
+lead. It's my most favorite of his performances (though I wish his
+character didn't sing). Also, I have never seen [Kelly Reilly] this
 desirable. The visual effects are at time eye-popping (see the escape
-from the military). It\'s fun watching Sherlock do his impossible
+from the military). It's fun watching Sherlock do his impossible
 deductions.
 
 Some tiny problems:
@@ -24,7 +24,7 @@ Some tiny problems:
     really, and the story involving her and her brother were not so
     interesting.
 
-I enjoyed the movie a lot better than its predecessor, and it\'s even
+I enjoyed the movie a lot better than its predecessor, and it's even
 better on a revisit.
 
   [Jared Harris]: http://en.wikipedia.org/wiki/Jared_Harris

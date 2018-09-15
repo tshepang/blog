@@ -7,10 +7,13 @@ tags = ['2011-movie', 'good']
 categories = ['movies']
 +++
 
-A re-imagining of a \[Seven Samurai\[\], complete with its Toshiro
+A re-imagining of a [Seven Samurai], complete with its Toshiro
 Mifune (the forest guy who is looked-down upon for not being a samurai,
 and his slight rebellion), its charismatic leader, battle and acting
-style (one wouldn\'t guess that it was made only in 2010). The villain
+style (one wouldn't guess that it was made only in 2010). The villain
 is excessively brutal, more than any that Akira Kurosawa committed to
-screen (if memory serves well). Luckily, the movie isn\'t soiled with
-the silly characters that were so common in Akira\'s movies.
+screen (if memory serves well). Luckily, the movie isn't soiled with
+the silly characters that were so common in Akira's movies.
+
+
+[Seven Samurai]: http://tshepang.net/seven-samurai-1954

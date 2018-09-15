@@ -7,6 +7,6 @@ tags = ['2012-movie', 'substandard']
 categories = ['movies']
 +++
 
-Unbearably slow pacing, maybe the worst I\'ve experienced yet. The gal
+Unbearably slow pacing, maybe the worst I've experienced yet. The gal
 playing jealous sister is desirable, while the guy playing friend gives
 a decent performance.

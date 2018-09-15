@@ -7,7 +7,7 @@ tags = ['2014-movie', 'good']
 categories = ['movies']
 +++
 
-Hugh Jackman gives his best performance I\'ve seen, and none of the
+Hugh Jackman gives his best performance I've seen, and none of the
 others are lacking. The movie is also very well-made, and I could smell
 the skill (and freshness) in the opening scenes, just before the girls
 disappear. The rest of it remains interesting, despite the running

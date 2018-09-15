@@ -8,7 +8,7 @@ tags = ['Rust']
 
 As usual, I [submitted][] [some][] [rather][] [small][] [doc][]
 [improvements]. In addition, I also skimmed through some of [The Dark
-Arts of Advanced and Unsafe Rust Programming], a pleasant read that\'s
+Arts of Advanced and Unsafe Rust Programming], a pleasant read that's
 infused with good humor.
 
   [submitted]: https://github.com/rust-lang/rust/pull/27903

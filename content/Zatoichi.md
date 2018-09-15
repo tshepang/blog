@@ -18,10 +18,10 @@ good:
 
 bad:
 
--   The geisha story received too much attention\... it was done well
+-   The geisha story received too much attention... it was done well
     and touching, but also mostly boring.
 -   The crazy guy running around with a spear is too annoying.
--   The violence inflicted by the lead was too often excessive\... he
+-   The violence inflicted by the lead was too often excessive... he
     killed too easily.
 
   [Zatoichi and the One-Armed Swordsman]: http://tshepang.net/zatoichi-and-the-one-armed-swordsman

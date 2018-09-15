@@ -17,8 +17,8 @@ repository, given the location of the fresh package files:
 
     $ reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang /var/cache/apt/archives/*deb
 
-What\'s nice about the command is that, if there is an older version of
-the pacakge I\'m adding, it gets replaced, and the package index is
+What's nice about the command is that, if there is an older version of
+the pacakge I'm adding, it gets replaced, and the package index is
 update accordingly.
 
 and now to the topic at hand
@@ -33,7 +33,7 @@ accumulates some junk:
     `linux-image-3.1.0-1-686-pae` becomes `linux-image-3.2.0-1-686-pae`
     when a new upstream release gets packaged). Lots other packages
     change names, and very often, for a variety of reasons (Debian is a
-    little chaotic, often out of necessity, and it\'s amazing that its
+    little chaotic, often out of necessity, and it's amazing that its
     developers keep it so damn stable given all this change).
 -   If I add a package from an external repository or that I converted
     from an rpm, reprepro has no way of knowing that fact. Now if I stop
@@ -78,7 +78,7 @@ if __name__ == "__main__":
     main()
 ```
 
-And here\'s a snippet of its output:
+And here's a snippet of its output:
 
     cx-oracle:
       Installed: 5.1.1-2

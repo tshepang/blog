@@ -9,7 +9,7 @@ tags = ['blogging']
 Anything not listed below is either stuff I take for granted or simply
 missed:
 
--   [reStructuredText] support is mandatory. It\'s the only markup
+-   [reStructuredText] support is mandatory. It's the only markup
     language I like.
 -   Landing Page should be an Archives View (Post title and date) or a
     subset (i.e. Recent Posts). I would not mind if the latest Post or
@@ -28,14 +28,14 @@ missed:
     not good enough.
 -   Tags (and maybe Categories) should be displayed on each post.
 -   Blogofile has a strange requirement of having [post headers be YAML
-    format]. Maybe there\'s a good reason, but I want my generator to
+    format]. Maybe there's a good reason, but I want my generator to
     not require anything special in file contents.
 -   Ability to determine Publish date from file mtime.
 
 **nice-to-have**:
 
 -   Ability to combine multiple tags.
--   Ability to show posts linking to current one, but I\'m not sure how
+-   Ability to show posts linking to current one, but I'm not sure how
     useful this would be though.
 -   A feed icon that is visible from the main page (and maybe Category
     pages).

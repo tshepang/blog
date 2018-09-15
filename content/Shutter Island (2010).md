@@ -10,4 +10,4 @@ categories = ['movies']
 Me did not enjoy this psychological thriller starring an uninteresting
 Leonardo Di Caprio. His character is investigating a missing patient in
 some island prison for the criminally insane, and it drags on, inducing
-sleep along the way. What\'s the point?
+sleep along the way. What's the point?

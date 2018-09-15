@@ -23,7 +23,7 @@ categories = ['movies']
 -   Pierce Brosnan ([The Matador])
 -   Will Smith (Ali)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 related: [best-of-career performances]
 

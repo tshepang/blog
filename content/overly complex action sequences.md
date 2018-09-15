@@ -11,7 +11,7 @@ categories = ['movies']
 I am a fan of action sequences in movies, but only if the complexity is
 kept to some limit. Too often, A-class movies add a lot of complexity to
 the mix, as if that equates to excellence, or increases chances of
-selling more tickets. Here\'s examples from the most guilty:
+selling more tickets. Here's examples from the most guilty:
 
 1.  [The Adventures Of Tintin: The Secret Of The Unicorn]
 2.  [The Hobbit: An Unexpected Journey]

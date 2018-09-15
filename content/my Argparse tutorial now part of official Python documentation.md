@@ -9,7 +9,7 @@ tags = ['Python']
 I am very glad that [a tutorial] I started writing over 2 months ago has
 finally been added to [the howto section] of CPython documentation. It
 took a lot of iteration (over 7) in total before finally being accepted.
-But even then, it\'s still not fully satisfactory for me, and I really
+But even then, it's still not fully satisfactory for me, and I really
 hope that someone else with fresh eyes is going to go through all of it
 and offer improvements. Even better, I hope people will find it useful.
 I know I would have when I started doing argument parsing. I found [the

@@ -10,20 +10,20 @@ categories = ['movies']
 I like a few of the characters:
 
 -   Medusa: gorgeous, yet scary
--   The Kraken: among the largest of all movie monsters I\'ve seen,
+-   The Kraken: among the largest of all movie monsters I've seen,
     complete with superb facial design
 -   The underworld creature that drives the boat, together with the two
     others pulling the ship
--   Hades: the entrance +++ when spreading his \'wings\' +++ is
+-   Hades: the entrance +++ when spreading his 'wings' +++ is
     entrancing and the performance (Ralph Fiennes) and body movement
-    befitting; this the movie\'s best moment
+    befitting; this the movie's best moment
 
 There were also some badly-designed ones:
 
--   The scorpions aren\'t convincing, nor are the battles involving them
+-   The scorpions aren't convincing, nor are the battles involving them
 -   The charred-skin wizards have some presence, but what the fuck is up
     with look
--   The former king who got burned by Zeus\' lightning got make-up that
+-   The former king who got burned by Zeus' lightning got make-up that
     looks like something from a B-movie; that character is not
     interesting too
 

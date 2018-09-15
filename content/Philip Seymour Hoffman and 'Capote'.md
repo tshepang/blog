@@ -6,9 +6,9 @@ title = "Philip Seymour Hoffman and 'Capote'"
 categories = ['movies']
 +++
 
-In my search for the year\'s masterpiece I went on and watched Philip
-Seymour Hoffman\'s celebrated performance playing the title character in
-*Capote*. It actually turned out to be his worst performance yet (I\'ve
+In my search for the year's masterpiece I went on and watched Philip
+Seymour Hoffman's celebrated performance playing the title character in
+*Capote*. It actually turned out to be his worst performance yet (I've
 previously respected him for his great talent as well as playing
 controversial characters) even if it has been honored with a best actor
 Oscar. It was especially irritating perhaps because it looked so

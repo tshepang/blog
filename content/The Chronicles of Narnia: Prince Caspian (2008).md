@@ -9,7 +9,7 @@ categories = ['movies']
 
 As so often happens, it baffles me why so many critics [found this any
 good]. The only thing worthy of praise is the sea good, who happens to
-embody some of the best water effects I\'ve seen yet. Everything else
+embody some of the best water effects I've seen yet. Everything else
 was just bland (cinematography, costumes, battles, acting, story,
 production and creature design, character development), just like the
 first movie.

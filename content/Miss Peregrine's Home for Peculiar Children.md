@@ -13,5 +13,5 @@ loved the Hollows the most, the invisible monsters that takes the eyes
 of Peculiar people.
 
 That bit about eyes is, now thinking about it, rather stupid actually.
-It was not even justified in the movie\... the writers just jumped to
+It was not even justified in the movie... the writers just jumped to
 it, all for the sake of dark.

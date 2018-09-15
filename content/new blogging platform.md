@@ -6,7 +6,7 @@ title = "new blogging platform"
 tags = ['blogging']
 +++
 
-Blogger\'s post editor is so bad that I\'ve been promising myself to
+Blogger's post editor is so bad that I've been promising myself to
 move elsewhere for quite a while. I checked on [Super User] what their
 recommendations are and they pointed mostly to Wordpress (which I found
 too ugly) but someone there also pointed to [Tumblr], which I never

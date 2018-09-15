@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 An especially shocking first scene got me excited, and whatever happened
-afterwards didn\'t justify it\'s magnificence. It has some really good
+afterwards didn't justify it's magnificence. It has some really good
 direction (very dark with high suspense; wonderful romance), acting, and
 dialogue, but the ending is shiite. There was a need for a bigger
 budget, as evidenced by the less-than-adequate production design. There

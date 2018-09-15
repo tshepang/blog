@@ -7,11 +7,11 @@ tags = ['2011-movie', 'decent']
 categories = ['movies']
 +++
 
-I don\'t know if we were to take this as comic farce or serious fantasy
+I don't know if we were to take this as comic farce or serious fantasy
 drama, but it turned out too eccentric and unfocused. Luckily it got
 great cinematography.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I could not help but notice the physical resemblance between Max von
 Sydow (lead character) and Hugh Laurie of [House]) fame.

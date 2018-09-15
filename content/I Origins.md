@@ -9,4 +9,4 @@ categories = ['movies']
 
 Very smooth direction and editing, with high quality dialog, and some
 nice performances. My favorite of these is the little Indian girl. The
-conclusion is quite intriguing, even though it\'s ridiculous.
+conclusion is quite intriguing, even though it's ridiculous.

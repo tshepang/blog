@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 Not much Rust this week, [just][] [three][] [contributions] of the same
-thing\... the repo was just to big to clone, which is strange for a
+thing... the repo was just to big to clone, which is strange for a
 project this small.
 
   [just]: https://github.com/killercup/cargo-edit/pull/113

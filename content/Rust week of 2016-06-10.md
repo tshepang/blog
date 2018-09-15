@@ -9,27 +9,20 @@ tags = ['Rust']
 I was made sad by the complexity of involving STDIN when using
 `std::process` module:
 
-::: {.sourcecode}
-rust
+```rust
 
-fn o\_to\_0() -\> std::io::Result\<bool\> {
-
-:
-
-    let mut p = std::process::Command::new(\"tr\")
-
-    :   .arg(\"o\") .arg(\"0\") .stdin(std::process::Stdio::piped())
+fn o_to_0() -> std::io::Result<bool> {
+    let mut p = std::process::Command::new("tr")
+        .arg("o") .arg("0") .stdin(std::process::Stdio::piped())
         .spawn()?;
-
-    let input = \"foo\"; if let Some(stdin) = p.stdin.as\_mut() {
-    stdin.write\_all(input.as\_bytes())?; } Ok(p.wait()?.success())
-
+    let input = "foo"; if let Some(stdin) = p.stdin.as_mut() {
+    stdin.write_all(input.as_bytes())?; } Ok(p.wait()?.success())
 }
-:::
+```
 
 I wonder if this can be more easy, in other languages and/or libraries.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I made [two][] [submissions], and gave some commentary [on another].
 

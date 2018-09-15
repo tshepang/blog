@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I added a feature to [mrh (multiple git repo helper)] that allows one to
-display just those repos that have uncommitted changes\...
+display just those repos that have uncommitted changes...
 `mrh --changed`.
 
   [mrh (multiple git repo helper)]: https://github.com/tshepang/mrh

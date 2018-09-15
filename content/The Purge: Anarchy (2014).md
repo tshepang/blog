@@ -8,8 +8,8 @@ categories = ['movies']
 +++
 
 Intensely brutal story about a United States where, on one night of the
-year, murder is made legal. It\'s a fresh idea, and is executed well,
-though a bit over-the-top at times. It\'s also not a plausible idea, or
+year, murder is made legal. It's a fresh idea, and is executed well,
+though a bit over-the-top at times. It's also not a plausible idea, or
 rather, it deserved better justification.
 
 The performances are of decent quality, best of which are the rich

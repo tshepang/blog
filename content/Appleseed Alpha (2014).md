@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 More a showcase of animation technology than a satisfying story for a
-feature-length movie, it\'s a prequel to the [two][] [movies]. It\'s got
+feature-length movie, it's a prequel to the [two][] [movies]. It's got
 some good things going for it:
 
 -   The lips of the little girl are amazing
@@ -18,9 +18,9 @@ some good things going for it:
 
 This time around, there is no noticeable 2D/3D fusion, which helped made
 me notice how sucky we still at at doing convincing human faces, unless
-you have a massive budget I suppose. The movie doesn\'t represent any
+you have a massive budget I suppose. The movie doesn't represent any
 noticeable advancement of animation capabilities, even though it has its
-moments. As regards the story, it\'s interesting enough, but really has
+moments. As regards the story, it's interesting enough, but really has
 nothing new. The giant robot thing is just stupid, and the leading lady,
 who is not as a major a character as she was in the first movie, still
 has unexplained physical prowess. She also too damn lucky, brushing off

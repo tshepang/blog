@@ -16,7 +16,7 @@ uninteresting, but luckily her students are well-cast, and a very
 non-standard cast at that.
 
 Sadly the movie is ridiculously shallow, and there is no battle to
-fight, and nothing is resolved\... I don\'t know what the fuck it\'s
+fight, and nothing is resolved... I don't know what the fuck it's
 about. It feels very incomplete. Even the quality cast is underused (I
 wish I could see more of Timberlake, the fat teacher, the kids, and much
 less of Cameron Diaz).

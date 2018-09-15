@@ -7,10 +7,10 @@ tags = ['masterpiece']
 categories = ['movies']
 +++
 
-It\'s only truly masterful/great movies which offer great experiences on
-a revisit as on the first viewing. This, Darren Aronofosky\'s disturbing
+It's only truly masterful/great movies which offer great experiences on
+a revisit as on the first viewing. This, Darren Aronofosky's disturbing
 masterpiece, is one of them. The story is quite simple, focusing on 4
-characters, and each having drug additions, and it\'s about the horrid
+characters, and each having drug additions, and it's about the horrid
 results that follow. There is good humor here and there, and there is a
 whole lot of good acting.
 
@@ -22,7 +22,7 @@ BUrstyn]) expresses the high shitness levels of her life to son. Sadly
 this mommy character is a little overdone (as if retarded), though her
 acting is pretty good.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 A far [superior review], even though it is a lot more negative than
 mine.

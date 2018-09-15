@@ -8,8 +8,8 @@ categories = ['movies']
 +++
 
 Not such a great year at the movies, even worse than [last year], though
-I think I also watched a lot less movies. Luckily there\'s two excellent
-ones, the best being [In Bruges]. It also boasts the year\'s best
+I think I also watched a lot less movies. Luckily there's two excellent
+ones, the best being [In Bruges]. It also boasts the year's best
 **direction**, **cinematography**, and **script/dialog**. The other
 excellent movie is [Redbelt].
 
@@ -51,13 +51,13 @@ relationships. There is a tie for the most **bizarre** movie: [Cloud
 Atlas] and [MirrorMask].
 
 The most **innovative** movie is the satirical [Goodbye Uncle Tom][]:
-it\'s shot like a documentary in which the makers travel to a
+it's shot like a documentary in which the makers travel to a
 particularly horrid moment in United States history, yet treating it
-with humor\... very daring.
+with humor... very daring.
 
-The title for **best \'old\' movie experience** goes to [Payback]. This
-a title for a movie I\'ve seen before this year. A special mention
-should go to the [Director\'s Cut version], which I saw first time in
+The title for **best 'old' movie experience** goes to [Payback]. This
+a title for a movie I've seen before this year. A special mention
+should go to the [Director's Cut version], which I saw first time in
 2013.
 
   [last year]: http://tshepang.net/2012-movie-review
@@ -78,4 +78,4 @@ should go to the [Director\'s Cut version], which I saw first time in
   [Cloud Atlas]: http://tshepang.net/cloud-atlas-2012
   [Goodbye Uncle Tom]: http://tshepang.net/goodbye-uncle-tom-1971
   [Payback]: http://tshepang.net/payback-1999
-  [Director\'s Cut version]: http://tshepang.net/payback-straight-up-2006
+  [Director's Cut version]: http://tshepang.net/payback-straight-up-2006

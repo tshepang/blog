@@ -17,9 +17,9 @@ and IO (overall). This is through a nifty interface:
 -   If you want to sort by other colums, you just press the left/right
     key.
 
-[The presentation] is rather busy, and it doesn\'t have the myriad
-options that `top` has (e.g. I can\'t chose to hide any of the columns
-I\'m uninterested in), but it\'s more than good enough for it\'s
+[The presentation] is rather busy, and it doesn't have the myriad
+options that `top` has (e.g. I can't chose to hide any of the columns
+I'm uninterested in), but it's more than good enough for it's
 specific purpose.
 
   [Iotop]: http://guichaz.free.fr/iotop/

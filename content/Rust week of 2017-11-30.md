@@ -8,10 +8,10 @@ tags = ['Rust']
 
 Like last week, I did some more work on [mrh][]:
 
--   Replace colored with ansi\_term (I prefer the API, and the latter
+-   Replace colored with ansi_term (I prefer the API, and the latter
     was already a dependency of something else)
--   Remove [follow\_symlinks] feature (caused weird behavior)
--   Use [Path.strip\_prefix] instead of a custom solution
+-   Remove [follow_symlinks] feature (caused weird behavior)
+-   Use [Path.strip_prefix] instead of a custom solution
 
 For work (lucky me), I did a small tool that converts data from a CSV
 file containing network ports and their descriptions to a format that
@@ -23,8 +23,8 @@ file containing network ports and their descriptions to a format that
 -   Another first was [tera], and its immaturity surprised me
 
   [mrh]: https://crates.io/crates/mrh
-  [follow\_symlinks]: https://docs.rs/walkdir/2.0.1/walkdir/struct.WalkDir.html#method.follow_links
-  [Path.strip\_prefix]: https://doc.rust-lang.org/std/path/struct.Path.html#method.strip_prefix
+  [follow_symlinks]: https://docs.rs/walkdir/2.0.1/walkdir/struct.WalkDir.html#method.follow_links
+  [Path.strip_prefix]: https://doc.rust-lang.org/std/path/struct.Path.html#method.strip_prefix
   [logstash]: https://www.elastic.co/products/logstash
   [csv]: https://crates.io/crates/ordermap
   [ordermap]: https://crates.io/crates/csv

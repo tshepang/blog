@@ -25,7 +25,7 @@ HDD was doing much seeking (both of which must have induced unberable
 power spikes the PSU), an obvious sign of deterioration, and great
 source of emotional pain too.
 
-The replacement included a case as well, so yes, even the case ain\'t
+The replacement included a case as well, so yes, even the case ain't
 original.
 
 Additionally, I was initially all PATA (with those fucking annoying IDE

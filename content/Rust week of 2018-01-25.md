@@ -11,7 +11,7 @@ related to cross-building pnet], a library I was using to get network
 interfaces. As a side note, [the fault was in the build process], not
 the crate itself. I tried a few others as replacement:
 
--   getaddrs can\'t find ip address, and it\'s abandoned according to
+-   getaddrs can't find ip address, and it's abandoned according to
     the author, in favor of [nix crate]
 -   interfaces also fails to cross build, and I forgot that I actually
     tried it before, and was the reason I moved to pnet in the first
@@ -22,8 +22,8 @@ the crate itself. I tried a few others as replacement:
     -   memory usage
     -   uptime
 
-    So, that\'s one less dependency, though I do wish this functionality
-    was available from a more pleasant API\... systemstat is ugly.
+    So, that's one less dependency, though I do wish this functionality
+    was available from a more pleasant API... systemstat is ugly.
 
 As a general note, I wish more people took the effort to state in the
 README if their software is abandoned, perhaps with mentions of

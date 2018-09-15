@@ -13,13 +13,13 @@ categories = ['movies']
 -   Vera Farmica is immensely beloved (as usual).
 -   Her two kids are amazing, especially the daughter.
 -   The title character is quite good too, a superb child performance.
--   [CCH Pounder] as the lead nun; haven\'t seen her in quite a while,
+-   [CCH Pounder] as the lead nun; haven't seen her in quite a while,
     so this is sort of a nice comeback
 
 **bad**
 
 -   As often happens, especially with mystery-thrillers, the allure
-    doesn\'t last beyond the setup. It\'s tiring and repetitive, and the
+    doesn't last beyond the setup. It's tiring and repetitive, and the
     motives of the villain are unconvincing. The running length should
     also have been reduced.
 

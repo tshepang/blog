@@ -7,7 +7,7 @@ tags = ['2008-movie', 'average']
 categories = ['movies']
 +++
 
-Halle Barry does a similar character she played in *Monster\'s Ball*,
+Halle Barry does a similar character she played in *Monster's Ball*,
 only this time there appears a lot more close-up shots which exposes her
 not-to-impressive acting talent (and overrated prettiness). The movie
 itself feels a little pretentious, not least of which is the character

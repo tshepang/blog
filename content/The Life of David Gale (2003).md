@@ -10,8 +10,8 @@ categories = ['movies']
 A very well-made political drama focused on the issue of death penalty.
 Full of good performances, my favorite being the lawyer of the title
 character. I have, for a long time, considered it a masterpiece, which
-was perhaps careless, considering that I don\'t remember watching it
-more than once. A revisit wasn\'t quite as impactful, but the movie
+was perhaps careless, considering that I don't remember watching it
+more than once. A revisit wasn't quite as impactful, but the movie
 remains impressive. The last twist is okay, but maybe needless (and
 earned the movie dislike from many). A better twist happens earlier in
 the movie.

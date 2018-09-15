@@ -6,7 +6,7 @@ title = "1 more machine, 2 less"
 tags = ['hardware']
 +++
 
-Since I\'ve departed from previous job, I\'ve lost access to [two
+Since I've departed from previous job, I've lost access to [two
 machines], but more than made up for it by acquiring an Acer Travelmate
 6592, a feature-rich laptop complete with wireless connectivity
 (802.11a/b/g), Bluetooth, card readers, fingerprint scanner, webcam,

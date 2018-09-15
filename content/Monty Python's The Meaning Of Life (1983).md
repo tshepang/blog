@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 Lots of excellent humor (*the machine that goes PING*, *welcome to the
-middle of the movie*, *baby falling from pussy*, \...), perhaps even
+middle of the movie*, *baby falling from pussy*, ...), perhaps even
 funnier than [Life of Brian], though it was quite a surprise that it
 resorted to vomit humor, and the most disgusting in memory.
 

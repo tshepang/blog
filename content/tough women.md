@@ -7,7 +7,7 @@ tags = ['list']
 categories = ['movies']
 +++
 
-It\'s such a rare sight seeing tough gals in movies. When such
+It's such a rare sight seeing tough gals in movies. When such
 characters are developed and/or performed well, I always celebrate.
 
 Here goes:

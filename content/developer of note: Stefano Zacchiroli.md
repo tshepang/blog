@@ -18,9 +18,9 @@ I admire [this guy] a lot:
 -   his passion for software freedom (we need people like this in an age
     where people tend to trade freedom for pragmatism)
 
-To prove I\'m not the only one, there a bunch more guys who were happy
+To prove I'm not the only one, there a bunch more guys who were happy
 enough with his 2010 term as Debian Project Leader (DPL), that they
-re-elected him again. What\'s more interesting is that no one else stood
+re-elected him again. What's more interesting is that no one else stood
 for election. He also won the term [the third time], so will reign over
 Debian in 2012.
 

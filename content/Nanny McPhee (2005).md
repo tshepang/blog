@@ -8,8 +8,8 @@ categories = ['movies']
 +++
 
 I found this one hard to bear. If I saw it first, I would likely not
-have given it\'s [far superior sequel] a chance. It\'s strange that they
-were written by one person, because it\'s full of formulaic family
+have given it's [far superior sequel] a chance. It's strange that they
+were written by one person, because it's full of formulaic family
 values, and stuff that is so stupid it makes me cringe. Even Emma
 Thompson sucks. The only enjoyable character is the caricatured cook.
 

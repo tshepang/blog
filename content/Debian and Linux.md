@@ -10,7 +10,7 @@ There is a Debian [history discussion] among Debian old-timers where a
 point was raised that [Ian Murdock], Debian founder, successfully
 transferred project leadership to someone else, a fact that [Bdale
 Garbee] stated to not yet have taken place with Linux, the poster child
-of FLOSS. It\'s also interesting to see Murdock praise successive
+of FLOSS. It's also interesting to see Murdock praise successive
 leadership as superior to his.
 
   [history discussion]: http://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=debconf4_history_roundtable.txt

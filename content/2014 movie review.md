@@ -7,11 +7,11 @@ tags = ['year-movie-review']
 categories = ['movies']
 +++
 
-This year was rather sad: I didn\'t see any fresh movie (movies I saw
-first time) above **good** rating (5/7). That is, there wasn\'t anything
+This year was rather sad: I didn't see any fresh movie (movies I saw
+first time) above **good** rating (5/7). That is, there wasn't anything
 at the excellent level (6/7), never mind a masterpiece (7/7). That also
 means nothing stood out enough to be labeled **best movie of the year**.
-Regardless, there was still much to celebrate. Let\'s see.
+Regardless, there was still much to celebrate. Let's see.
 
 visuals
 =======
@@ -49,7 +49,7 @@ characters
 ==========
 
 My **favorite character** is the adoptive father in [The Book Thief],
-played by Geoffrey Rush. He\'s followed by the charming China Doll in
+played by Geoffrey Rush. He's followed by the charming China Doll in
 *Oz the Great and Powerful*, which is about as cute and lovable as
 characters get. In third place is Valka, the mother of the lead
 character in [How To Train Your Dragon 2].

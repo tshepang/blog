@@ -6,8 +6,8 @@ title = "recent movies 2010-02-15"
 categories = ['movies']
 +++
 
-There haven\'t been many characters as unpleasant and bitter as Marlon
-Brando\'s asshole in *Last Tango in Paris*; I could not bear watching
+There haven't been many characters as unpleasant and bitter as Marlon
+Brando's asshole in *Last Tango in Paris*; I could not bear watching
 this movie at one go because it really is depressing and sleep-inducing,
 and happens to be way too eccentric (the subplot about the relationship
 the documentrary director and the beloved gal).I checked out the buzz

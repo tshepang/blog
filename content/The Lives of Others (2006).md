@@ -7,10 +7,10 @@ tags = ['2011-movie', 'good']
 categories = ['movies']
 +++
 
-Here\'s [an article] that inspired me to watch this one. It\'s one of
-those movies that make you lucky to live in today\'s South Africa,
+Here's [an article] that inspired me to watch this one. It's one of
+those movies that make you lucky to live in today's South Africa,
 because it shows abuses of human freedom in East Germany in the
-mid-80\'s. The acting is pretty good, especially by the guy who is
+mid-80's. The acting is pretty good, especially by the guy who is
 taking part in the spying of the palywright. The very last moment is a
 tearjecker.
 

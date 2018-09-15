@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I made [two][] [contributions] this past week. Meanwhile, a friend of
-mine has announced [a Rust guide] he\'s been working on. I made [some
+mine has announced [a Rust guide] he's been working on. I made [some
 small contributions] in its early days.
 
   [two]: https://github.com/pyfisch/cbor/pull/27

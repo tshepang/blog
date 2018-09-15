@@ -13,12 +13,12 @@ good
 -   The best thing in the movie is the tribal humanoid creatures; they
     are given solid and believable personalities, as if they actually
     exist. The best work is the leading lady, who also happens to be
-    damn fucking\' desirable. I also loved the female spiritual leader
+    damn fucking' desirable. I also loved the female spiritual leader
     (she got presence).
 -   The entire experience of those humanoids riding flying creatures is
     pure movie magic. The creatures they ride are quite impressive
     (check for example when our hero is to tame one for the first time).
--   The concept of Avatars is quite unique and fresh\... it would be
+-   The concept of Avatars is quite unique and fresh... it would be
     interesting to experience another body.
 
 bad
@@ -28,13 +28,13 @@ bad
     lead (the image of him and his wheelchair is iconic). Most
     unconvincing is the scarred military leader, followed by the
     corporate representative (Giovanni Ribisi).
--   The general feel of the alien world feels too artificial (there\'s
+-   The general feel of the alien world feels too artificial (there's
     too many bright-colored plants and animals). The creature design is
     not satisfactory.
 -   The helicopter driver lady should have been excluded. She is just
     not an interesting actor, and cheapens the movie further.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 what others feel
 ================

@@ -7,10 +7,10 @@ tags = ['2007-movie', 'excellent']
 categories = ['movies']
 +++
 
-There\'s a bunch of movies that showcase primitive cultures, the kind
+There's a bunch of movies that showcase primitive cultures, the kind
 that wear skimpy clothes and use heavy body modification, and this one
 is the best of them. There is also excellent casting and directing, and
-an interesting story that\'s spoiled by some plot holes:
+an interesting story that's spoiled by some plot holes:
 
 -   how far can a human outrun a jaguar?
 -   how close can a 30m+ waterfall be to an ocean?
@@ -18,4 +18,4 @@ an interesting story that\'s spoiled by some plot holes:
 
 Anyways, back to the good stuff: The environment where the human
 sacrifices take place is among the richest ever committed to screen, and
-the silly traditions aren\'t embarassingly executed.
+the silly traditions aren't embarassingly executed.

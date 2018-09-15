@@ -6,7 +6,7 @@ title = "plotting with matplotlib"
 tags = ['Python']
 +++
 
-Here\'s drawing a simple graph:
+Here's drawing a simple graph:
 
 ``` {.sourceCode .python}
 from matplotlib import pyplot
@@ -51,7 +51,7 @@ pyplot.plot(x, y1, x, y2)
 pyplot.show()
 ```
 
-Depending on need, that might not be ideal. So let\'s create two
+Depending on need, that might not be ideal. So let's create two
 separate y-axes:
 
 ``` {.sourceCode .python}
@@ -66,8 +66,8 @@ pyplot.plot(x, y2)
 pyplot.show()
 ```
 
-Yeah, not exactly ideal. We lost the automatic coloring, and we don\'t
-even know which graph is which. Let\'s do better:
+Yeah, not exactly ideal. We lost the automatic coloring, and we don't
+even know which graph is which. Let's do better:
 
 ``` {.sourceCode .python}
 import random
@@ -83,7 +83,7 @@ pyplot.ylabel("y2", color="blue")
 pyplot.show()
 ```
 
-This was done with the help of [this example]. There\'s a heck of a
+This was done with the help of [this example]. There's a heck of a
 [lot][] [more].
 
 further reading

@@ -21,5 +21,5 @@ I liked a few things:
 
 All other performances range from substandard to merely okay. They are
 not interesting, and neither is the story. The movie is too loud, extra
-shallow, and offers nothing new at all. I wish they don\'t make another,
-because I\'m gonna have to watch it as well :(
+shallow, and offers nothing new at all. I wish they don't make another,
+because I'm gonna have to watch it as well :(

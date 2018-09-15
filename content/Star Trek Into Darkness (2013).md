@@ -8,5 +8,5 @@ categories = ['movies']
 +++
 
 The concept of a spaceship that can double as a submarine is
-interesting, but there\'s not much else to celebrate in this otherwise
+interesting, but there's not much else to celebrate in this otherwise
 not-boring movie.

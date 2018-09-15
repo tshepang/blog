@@ -6,14 +6,14 @@ title = "developer of note: Martin Pitt"
 tags = ['Debian', 'developer-of-note', 'non-Debian']
 +++
 
-I suspect that [PostgreSQL] isn\'t a trivial piece of software, and I
+I suspect that [PostgreSQL] isn't a trivial piece of software, and I
 consider it among the greatest of all FLOSS. It even bills itself the
-most advanced of all FLOSS databases. That\'s what brought [Martin Pitt]
-to my attention, for he is it\'s Debian (and now also Ubuntu)
+most advanced of all FLOSS databases. That's what brought [Martin Pitt]
+to my attention, for he is it's Debian (and now also Ubuntu)
 maintainer. One other notable thing about him is his quiet persona (I
-follow Debian development fairly closely, and I don\'t remember seeing
+follow Debian development fairly closely, and I don't remember seeing
 him take part in any of the arguments in its mailing lists). I only ever
-notice him when he\'d give [some random][] [status update].
+notice him when he'd give [some random][] [status update].
 
   [PostgreSQL]: http://www.postgresql.org/
   [Martin Pitt]: http://www.piware.de/

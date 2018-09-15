@@ -30,7 +30,7 @@ I get the same result:
 
     ['a', 'b', 'c']
 
-But what if my string wasn\'t so forgiving?
+But what if my string wasn't so forgiving?
 
 ``` {.sourceCode .python}
 split_string = "a b  c".split(" ")
@@ -45,11 +45,11 @@ Not exactly what we want. Leaving the delimiter out gives us the exact
 same list as when we had this with a forgiving string.
 
 Anyways, the point is that for a lot of cases, probably a majority, when
-one wants to perform a string split, it\'s because they want to delimit
-it with spaces. So, Python covers for that common use-case. That\'s a
+one wants to perform a string split, it's because they want to delimit
+it with spaces. So, Python covers for that common use-case. That's a
 bit of [magic] ([justification]) one might take for granted, because
-it\'s not available in PHP and Java. I\'m here only going to show Java
-examples. PHP examples aren\'t that much different though.
+it's not available in PHP and Java. I'm here only going to show Java
+examples. PHP examples aren't that much different though.
 
 Here goes:
 
@@ -63,7 +63,7 @@ Output:
 
     [a, b, , c]
 
-That\'s not what we want, so in order to cover for my unforgiving
+That's not what we want, so in order to cover for my unforgiving
 string, I get to use regular expressions (regexp)?
 
 ``` {.sourceCode .java}
@@ -79,7 +79,7 @@ Output:
 The `+` in the `split()` method indicates that the match can either be
 one or more consecutive spaces.
 
-That\'s not what we want, so in order to cover for my unforgiving
+That's not what we want, so in order to cover for my unforgiving
 string, I get to use regular expressions (regexp)?
 
 ``` {.sourceCode .java}
@@ -96,7 +96,7 @@ tabs as well? We need some more regexp help:
 
 ``` {.sourceCode .java}
 import java.util.Arrays;
-String[] splitString = "a    bnc".split("\s+");
+String[] splitString = "a    bnc".split("s+");
 System.out.println(Arrays.asList(splitString));
 ```
 
@@ -106,7 +106,7 @@ Output:
 
 The `s` matches any white space.
 
-With Python, I expected the default way to work but it didn\'t, but came
+With Python, I expected the default way to work but it didn't, but came
 back disappointed:
 
 ``` {.sourceCode .python}
@@ -118,7 +118,7 @@ Output:
 
     ['at', 'bnc']
 
-Perhaps it\'s a philosophical difference, but it\'s harder to do this
+Perhaps it's a philosophical difference, but it's harder to do this
 with Python. This is the only thing so that I found easier to achieve in
 Java than in Python:
 
@@ -128,7 +128,7 @@ split_string = re.split("s+", "a    bnc")
 print(split_string)
 ```
 
-\...and we finally get what we want:
+...and we finally get what we want:
 
     ['a', 'b', 'c']
 

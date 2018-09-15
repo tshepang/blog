@@ -15,7 +15,7 @@ categories = ['movies']
 -   my shitty memory says that this is the best couple quarrel in my
     movie history; oh, and her abuse was rather intense, and unbearably
     so; it was so horrid that when hubby retaliated physically, it felt
-    like justice (and this is from someone who can\'t bear the thought
+    like justice (and this is from someone who can't bear the thought
     of male-hit-woman acts)
 -   edgy like fuck, and without abusing it
 

@@ -6,8 +6,8 @@ title = "poll results of debian-user's favorite FLOSS"
 tags = ['Debian']
 +++
 
-Here\'s an index of the poll results where I asked on debian-user
-mailing list what their favorite FLOSS is. It\'s a yearly poll which has
+Here's an index of the poll results where I asked on debian-user
+mailing list what their favorite FLOSS is. It's a yearly poll which has
 been running for a few years now, and is now defunct:
 
 -   [2009]

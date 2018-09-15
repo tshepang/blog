@@ -16,11 +16,11 @@ already had some nice improvements, so I released those as well:
     packages specified. Previously, only one of these 3 types could be
     installed at a time.
 -   Apparently the reasons I gave for removing the +++simulate and
-    +++teaching (now renamed to +++teach) options in 2.3 weren\'t good
+    +++teaching (now renamed to +++teach) options in 2.3 weren't good
     enough, so I reinstated them.
 -   The bash completer now completes both lower-case and upper-case
     subcommands, thanks to [Reuben Thomas], an avid wajig user.
--   There\'s a few other changes, so [here\'s the gory details].
+-   There's a few other changes, so [here's the gory details].
 
   [Reuben Thomas]: http://rrt.sc3d.org/
-  [here\'s the gory details]: http://packages.qa.debian.org/w/wajig/news/20120327T130420Z.html
+  [here's the gory details]: http://packages.qa.debian.org/w/wajig/news/20120327T130420Z.html

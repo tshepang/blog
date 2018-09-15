@@ -7,6 +7,6 @@ tags = ['2013-movie', 'decent']
 categories = ['movies']
 +++
 
-Less shocking than I expected, given how notorious it is. It\'s also not
+Less shocking than I expected, given how notorious it is. It's also not
 badly-made, and the story not so bad, though it would be nice to know
 what the point of it all is.

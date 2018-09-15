@@ -18,12 +18,12 @@ fn main() {
 
 :
 
-    let text = \"
+    let text = "
 
     :   A long text is beginning here and not in the previous line,
-        because it wouldn\'t fit in comfort.
+        because it wouldn't fit in comfort.
 
-    \" println!(\"{}\", unindent(text));
+    " println!("{}", unindent(text));
 
 }
 :::

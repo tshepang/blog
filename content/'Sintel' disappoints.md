@@ -7,7 +7,7 @@ categories = ['movies']
 +++
 
 [Sintel] is the latest movie project by the Blender Foundation, and
-they\'ve been cooking it for over a year now, and the result is really
+they've been cooking it for over a year now, and the result is really
 disappointing, and as with their [previous movie], I still feel that
 their first movie, *Elephants Dream*, is superior both technically and
 artistically.
@@ -25,10 +25,10 @@ artistically.
     while battling a few unfriendly characters (including a fully-grown
     dragon!)
 -   the whole thing feels empty; when the credits roll you murmur
-    something along the lines of \"is that it!\"
+    something along the lines of "is that it!"
 
 On a more positive note, the final battle is rather intense, and I wish
-it should have lasted longer. Otherwise there isn\'t much in this that
+it should have lasted longer. Otherwise there isn't much in this that
 motivates me to go watch this 15-minute piece again. That this was done
 with FLOSS is not grounds for a dishonest review.
 

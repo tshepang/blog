@@ -6,9 +6,9 @@ title = "mentioning alternatives on a prominent place"
 tags = ['list']
 +++
 
-It\'s an honorable thing to mention alternative and/or competing
-technologies on a project website. It\'s even more interesting when this
-is done on a promiment page. Here\'s a few of those who do it:
+It's an honorable thing to mention alternative and/or competing
+technologies on a project website. It's even more interesting when this
+is done on a promiment page. Here's a few of those who do it:
 
 -   [Linux Target Image Builder (LTIB)]
 -   [Liferea]

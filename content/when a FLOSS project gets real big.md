@@ -15,6 +15,6 @@ Serious scale:
 > eventually the mainline+++if they get accepted at each step along the
 > way.
 >
-> \-- [source]
+> -- [source]
 
   [source]: http://lwn.net/Articles/499952/

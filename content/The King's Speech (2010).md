@@ -9,15 +9,15 @@ categories = ['movies']
 
 Geoffrey Rush, who plays the speech therapist, gives an amazing
 performance. He always delivers good performances, but this was perhaps
-his best ever. The moment he was sitting on the kings\' chair was
+his best ever. The moment he was sitting on the kings' chair was
 wonderfully humorous.
 
-Colin Firth, who plays the title character, did very well too. I don\'t
+Colin Firth, who plays the title character, did very well too. I don't
 remember enjoying any of his other work, and this is probably the best
-he\'s done yet too. He even got awards for it.
+he's done yet too. He even got awards for it.
 
 Helena Bonham Carter is always a pleasure to watch. Here she plays the
-king\'s wife.
+king's wife.
 
 The production design is amazing.
 

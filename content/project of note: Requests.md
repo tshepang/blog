@@ -14,10 +14,10 @@ authentication requires only a single line of code:
 requests.get("https://example.com", auth=("user", "pass"))
 ```
 
-It\'s capable of [a lot more] of course ([tutorial]), and it\'s weird
-that something this nice hasn\'t been around for ages. There is another
-that is much simpler to use and more advanced than Python\'s standard
-library named [httplib2], but it\'s not quite as simple/elegant:
+It's capable of [a lot more] of course ([tutorial]), and it's weird
+that something this nice hasn't been around for ages. There is another
+that is much simpler to use and more advanced than Python's standard
+library named [httplib2], but it's not quite as simple/elegant:
 
 ``` {.sourceCode .python}
 h = httplib2.Http(".cache")  // ugly

@@ -8,11 +8,11 @@ categories = ['movies']
 +++
 
 Touching drama about the oldest person (84) to start formal primary
-school education. Well, it so happens that he met opposition (there\'s
-isn\'t a shortage of idiots in the world). The guy playing him gives a
+school education. Well, it so happens that he met opposition (there's
+isn't a shortage of idiots in the world). The guy playing him gives a
 very good performance, and just as impressive are the schoolmates,
 especially the kid with an artificial leg. She also happens to provide
-the movie\'s most tear-jerking moment, where she mentions a future
+the movie's most tear-jerking moment, where she mentions a future
 career of choice.
 
 What makes these kids all the more impressive is that they were taken

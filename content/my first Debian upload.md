@@ -26,7 +26,7 @@ Output of my first ever upload to Debian (using [dput]):
 
 ([the package was accepted within 30 minutes])
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 And, yeah, that means [I am now Debian Maintainer]. Other than giving me
 more freedom, this helps reduce the workload on [Dirk Eddelbuettel], who

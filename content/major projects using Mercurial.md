@@ -9,7 +9,7 @@ tags = ['VCS', 'non-FLOSS', 'list']
 Mercurial is the only version control system that I actually like, and I
 do celebrate each time I see a project use it. So, here I list the most
 notable projects I am aware of that do, which also gives me hope that it
-isn\'t being suffocated too much by Git:
+isn't being suffocated too much by Git:
 
 -   [Firefox], world number 3 desktop web browser (number of users)
 -   [OpenJDK], the top open source implementation of the Java platform

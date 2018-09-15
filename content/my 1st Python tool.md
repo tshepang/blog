@@ -15,15 +15,15 @@ successfully doing so), as well as experiencing the relatively
 unchallenging problems of getting it to run on Windows XP (it was
 developed on Debian). Of course I would not have bothered had the
 requirement not been getting it to run on that most popular of end-user
-OSes. But Python\'s cross-platform nature makes it easy, and their work
+OSes. But Python's cross-platform nature makes it easy, and their work
 on getting the supporting suite (installer, IDE, Python shell) easy to
 install and run on Windows deserves serious respect.
 
-By the way I haven\'t so far learned the importance/use of classes so
+By the way I haven't so far learned the importance/use of classes so
 the entire thing is in functions. And the code is also extremely slow
 (and even slower on WinXP) and only does basic checks for the validity
 of the source file to be processed so will loudly crash on corrupted
-files. Other than that, the tool is pretty robust and made my \'client\'
+files. Other than that, the tool is pretty robust and made my 'client'
 real happy, considering the previous tool was really broken by design (a
 pain to work with, being muddled with severe limitations) and also
 relied on Matlab being installed.

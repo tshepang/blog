@@ -10,24 +10,24 @@ categories = ['movies']
 movie of the year
 =================
 
-*Pirates of the Caribbean: Dead Man\'s Chest* for its visual splendour
+*Pirates of the Caribbean: Dead Man's Chest* for its visual splendour
 and excitement. The runner-up in this category is [Shaolin Soccer],
-which is made by the same guy who made 2005\'s movie of the year, [Kung
+which is made by the same guy who made 2005's movie of the year, [Kung
 Fu Hustle].
 
 best movie
 ==========
 
-[The Butterfly Effect] is the year\'s best movie, followed by [Birth].
+[The Butterfly Effect] is the year's best movie, followed by [Birth].
 There is stiff competition coming from the exciting and superb
 *Confessions of A Dangerous Mind* as well as [Lord of War]. Such a
-listing convinces me that, although the year wasn\'t as exciting, it
+listing convinces me that, although the year wasn't as exciting, it
 probably had more supreme movies compared to [2005].
 
 spectacle of the year
 =====================
 
-Nothing beats *Pirates of the Caribbean: Dead Man\'s Chest* in terms of
+Nothing beats *Pirates of the Caribbean: Dead Man's Chest* in terms of
 size, not to mention breath-taking effects.
 
 performance of the year
@@ -35,24 +35,24 @@ performance of the year
 
 Crispin Glover shines in a bizarre performance in the surreal [Dead
 Man]. Another favorite of mine is the almost comic one of James Caan in
-[Dogville], however the year\'s favorite is easily Eamonn Walker\'s
+[Dogville], however the year's favorite is easily Eamonn Walker's
 dictator in [Lord of War], a great highlight of an already brilliant
 movie. I found the character portrayal of Tia Dalma, the witch in *Dead
-Man\'s Chest*, the closest competitor to Eamonn Walker\'s character.
+Man's Chest*, the closest competitor to Eamonn Walker's character.
 
 best female performance
 =======================
 
-Nicole Kidman\'s perplexed widow in [Birth] is her most intense and best
+Nicole Kidman's perplexed widow in [Birth] is her most intense and best
 ever. The most touching of female performances however goes to Amy
-Smart\'s in [The Butterfly Effect] for the part in which she\'s a wasted
+Smart's in [The Butterfly Effect] for the part in which she's a wasted
 waiter.
 
 best male performance
 =====================
 
 Jack Nicholson steals the screen away from the two leads of *Easy
-Rider*, while John Malkovich is notable for *Ripley\'s Game*. Another
+Rider*, while John Malkovich is notable for *Ripley's Game*. Another
 impressive, but overly self-conscious performance, is that for the
 daring show host found in *V for Vendetta*.
 
@@ -67,7 +67,7 @@ direction
 
 George Clooney really outdoes himself (even considering this is a debut)
 in the beautifully-crafted *Confessions of A Dangerous Mind*. This is
-not nearly the genius that is shown in Darren Aronofsky\'s [Pi], and
+not nearly the genius that is shown in Darren Aronofsky's [Pi], and
 only masters wind up making electrifying fables like *A History of
 Violence*.
 
@@ -75,7 +75,7 @@ beautiful imagery
 =================
 
 The festival depicted in *Ghost in the Shell 2* is breathtaking.
-Runner-up is *Rize*\'s well-sculpted climactic scene, the one in which
+Runner-up is *Rize*'s well-sculpted climactic scene, the one in which
 the performers dance to the sun with oil-covered skin, is so illustrious
 the characters seem god-like.
 
@@ -87,10 +87,10 @@ irritating, disturbing
 action movie
 ============
 
-Me not being comfortable about the fact that there weren\'t too many
+Me not being comfortable about the fact that there weren't too many
 competitors, *Assault on Precinct 13* still deserves attention for its
-action (though it\'s no *Die Hard*) and good direction, even though
-it\'s got nothing fresh.
+action (though it's no *Die Hard*) and good direction, even though
+it's got nothing fresh.
 
 scariest
 ========
@@ -101,7 +101,7 @@ its performances, owed to Nicole and the boy.
 script
 ======
 
-Only a genius could be held responsible for [The Butterfly Effect]\'s
+Only a genius could be held responsible for [The Butterfly Effect]'s
 superb, complex, and rich storyline. [Lord of War] deserves honorable
 mention for its very fresh take on gun-running, which happened to be a
 foreign idea to me.
@@ -109,8 +109,8 @@ foreign idea to me.
 prison depiction
 ================
 
-This ain\'t no standard category, but nothing in my history of film
-viewing beats what\'s shown in [The Butterfly Effect].
+This ain't no standard category, but nothing in my history of film
+viewing beats what's shown in [The Butterfly Effect].
 
 character design
 ================
@@ -130,14 +130,14 @@ cinematography
 ==============
 
 *Man on Fire*, with excellent, grainy touches and handheld camerawork,
-is followed by *Constantine*\'s gorgeous shots, *Delicatessen*\'s
-ultra-polished images and, to a lesser extent, *Tsotsi*\'s shots of
-SA\'s less pleasant living conditions.
+is followed by *Constantine*'s gorgeous shots, *Delicatessen*'s
+ultra-polished images and, to a lesser extent, *Tsotsi*'s shots of
+SA's less pleasant living conditions.
 
 music
 =====
 
-*Tsotsi*\'s energetic Kwaito beats are well-executed, enhancing the
+*Tsotsi*'s energetic Kwaito beats are well-executed, enhancing the
 movie.
 
 war movie

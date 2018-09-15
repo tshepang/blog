@@ -16,8 +16,8 @@ I liked a few things:
 -   The lead actor is damn beautiful and also not boring
 
 The movie is sadly not offering anything new, and the sudden murderous
-behavior of one of the survivors serious stupid\... very unconvincing. I
+behavior of one of the survivors serious stupid... very unconvincing. I
 did like the performance of Tony Todd, though it was laughably
-creepy\... stupid.
+creepy... stupid.
 
   [the first movie]: http://tshepang.net/final-destination-2000

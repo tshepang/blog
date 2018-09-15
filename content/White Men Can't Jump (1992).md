@@ -7,8 +7,8 @@ tags = ['decent']
 categories = ['movies']
 +++
 
-It\'s about basketball, romantic relationships, and money, and it\'s not
-ambitious about it. It\'s got some interesting performances here and
+It's about basketball, romantic relationships, and money, and it's not
+ambitious about it. It's got some interesting performances here and
 there, the best of which take place in the court. But it also got some
 substandard ones, especially the lovers of the lead characters
 especially. The direction is a little weird, and it appears the actors a

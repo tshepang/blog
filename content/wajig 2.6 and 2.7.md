@@ -14,10 +14,10 @@ since a few people on the mailing list expressed dislike, and that
 includes project founder.
 
 Version 2.7, the version that will be in the next stable release of
-Debian \[[update]\], Wheezy (Debian 7), fixes two bugs, one of which I
+Debian [[update]], Wheezy (Debian 7), fixes two bugs, one of which I
 sort of intentionally broke in order to fix some issues with the
 `--simulate` and/or `--teaching` options. Someone [did complain about
-this] which was good since it\'s a good indicator that someone actually
+this] which was good since it's a good indicator that someone actually
 cared about the feature. That motivated me to fix it, and I ensured that
 the fix was in before Debian 7 freeze.
 

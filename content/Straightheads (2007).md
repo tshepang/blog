@@ -8,5 +8,5 @@ categories = ['movies']
 +++
 
 A revenge story, and not much else. The sexual spontaneity of the couple
-deeds is strange, and isn\'t justified. The story setup is made to look
+deeds is strange, and isn't justified. The story setup is made to look
 like there was more than what actually transpired.

@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I [removed a sentence] that is not needed from Cargo documentation. I
-also added [ability to read from \$EMAIL environment variable] to the
+also added [ability to read from $EMAIL environment variable] to the
 `cargo new` command, and [fixed a small issue] in the test suite..
 
 In the Rust tree:
@@ -20,7 +20,7 @@ In the Rust tree:
 -   I then [fixed][2] a typo
 
   [removed a sentence]: https://github.com/rust-lang/cargo/pull/1754
-  [ability to read from \$EMAIL environment variable]: https://github.com/rust-lang/cargo/pull/1755
+  [ability to read from $EMAIL environment variable]: https://github.com/rust-lang/cargo/pull/1755
   [fixed a small issue]: https://github.com/rust-lang/cargo/pull/1756
   [fixed]: https://github.com/rust-lang/rust/pull/26621
   [1]: https://github.com/rust-lang/rust/pull/26622

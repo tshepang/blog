@@ -18,11 +18,11 @@ tags = ['music', 'top-tracks']
 -   What A Wonderful World (*What A Wonderful World* - 1964)
 -   A Monday Date (*Hot Five And Hot Seven* - 1927)
 -   Hotter Than That (*Hot Five And Hot Seven* - 1927)
--   The Peanut Vendor (*You\'re Driving Me Crazy* - 1930)
+-   The Peanut Vendor (*You're Driving Me Crazy* - 1930)
 -   Indiana (appears in a few albums, including *An Evening With Louis
     Armstrong And His AllStars* - 1956)
 -   Someday (appears in a few albums, including *An Evening With Louis
-    Armstrong And His AllStars* - 1956; aka Someday You\'ll Be Sorry)
+    Armstrong And His AllStars* - 1956; aka Someday You'll Be Sorry)
 
 honorable mentions
 ==================

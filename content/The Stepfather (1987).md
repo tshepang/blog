@@ -16,8 +16,8 @@ categories = ['movies']
 
 **cons**:
 
--   Suffers from lack of explanation for the villain\'s deeds, as was
+-   Suffers from lack of explanation for the villain's deeds, as was
     its remake..
--   Not fun enough\... sleep-inducing.
+-   Not fun enough... sleep-inducing.
 
   [its remake]: http://tshepang.net/the-stepfather-2009

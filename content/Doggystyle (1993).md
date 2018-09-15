@@ -6,7 +6,7 @@ title = "Doggystyle (1993)"
 tags = ['music', 'hip-hop']
 +++
 
-The best hip-hop album I\'ve ever come across, it has not one let-down
+The best hip-hop album I've ever come across, it has not one let-down
 of a track. The closest competitor is *The Score* (there is only 1
 blight in there). Such an amazing achievement!
 

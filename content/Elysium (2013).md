@@ -12,7 +12,7 @@ characters. Not even the acting is satisfactory, bar that of Matt Damon
 (lead character) and [William Fichtner] (his boss). The actions of the
 violent villains are not justified, and so are those of the Jodie Foster
 villain. The leader of the revolutionry criminals is very unconvincing.
-The movie also feels rushed. It\'s a pity because it starts well, and is
+The movie also feels rushed. It's a pity because it starts well, and is
 well-made (the director made [District 9] after all), complete with
 great visual effects and action direction.
 

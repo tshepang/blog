@@ -7,10 +7,10 @@ tags = ['Python']
 +++
 
 What if you wanted to access Oracle using Python? Once you are [set up],
-it\'s real easy. We use [cx\_Oracle], the most popular Python library to
+it's real easy. We use [cx_Oracle], the most popular Python library to
 read Oracle DBs.
 
-Let\'s start by simply reading the DB:
+Let's start by simply reading the DB:
 
 ``` {.sourceCode .python}
 import cx_Oracle
@@ -22,7 +22,7 @@ for item in cursor.fetchall()[0]:
 conn.close()
 ```
 
-The [cx\_Oracle] explain exactly what each of these means.
+The [cx_Oracle] explain exactly what each of these means.
 
 If we wanted instead to modify stuff in there, we only add one extra
 line, which is `cursor.commit`, like this:
@@ -58,4 +58,4 @@ set in case of problematic/slow network access, so my code will just sit
 there waiting to connect.
 
   [set up]: http://tshepang.net/accessing-oracle-db-using-python-in-debian
-  [cx\_Oracle]: http://cx-oracle.sourceforge.net/html/index.html
+  [cx_Oracle]: http://cx-oracle.sourceforge.net/html/index.html

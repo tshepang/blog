@@ -18,7 +18,7 @@ fn main() {
 
 :   let a = 0i8; let b = 0i8; let c = 0i8;
 
-    println!(\"{:p}\", &a); println!(\"{:p}\", &b); println!(\"{:p}\",
+    println!("{:p}", &a); println!("{:p}", &b); println!("{:p}",
     &c);
 
 }
@@ -37,7 +37,7 @@ explanation I heard is so that the heap grows the opposite direction to
 the stack, which helps separate things nicely. I suppose this would be
 for performance reasons and/or simpler memory management code.
 
-If we use larger types, we\'ll see each value taking more than just one
+If we use larger types, we'll see each value taking more than just one
 address:
 
 ::: {.sourcecode}
@@ -47,7 +47,7 @@ fn main() {
 
 :   let a = 0i16; let b = 0i16; let c = 0i16;
 
-    println!(\"{:p}\", &a); println!(\"{:p}\", &b); println!(\"{:p}\",
+    println!("{:p}", &a); println!("{:p}", &b); println!("{:p}",
     &c);
 
 }

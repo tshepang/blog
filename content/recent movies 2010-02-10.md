@@ -14,6 +14,6 @@ choreography could be better. What I liked though is the movie helped
 wake up the appealing mystery of Ninja lore, which will hopefully pave
 the way for superior works.
 
-I can\'t dig deep enough in my memory to find a movie as lame as *Skin*,
+I can't dig deep enough in my memory to find a movie as lame as *Skin*,
 a real-life drama set in apartheid South Africa; the editing disgusts,
 leaving one suspecting that it was a rushed job.

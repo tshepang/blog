@@ -16,7 +16,7 @@ happens to be more quotable:
 > This is a pulp experience that goes on and on and on, with the tired
 > assumption that length connotes depth, and somber tones +++ and the
 > occasional cackle +++ inject relevance and insight into an
-> adolescent\'s approach to morality and ethics.
+> adolescent's approach to morality and ethics.
 
 That quotable review by the way got comments which really deserves
 checking out, and among my favorites:
@@ -25,8 +25,8 @@ checking out, and among my favorites:
 > jingoistic bullshit about who was a hero and who needs a hero and what
 > kind of hero, and who gives a shit? That and the bullshit about the
 > noble people not blowing each other up. Both boats would have blown up
-> at once with everybody diving for the trigger, yelling, \"Me first!
-> Fuck you!\" Just like the Joker thought. What a lousy move for a great
+> at once with everybody diving for the trigger, yelling, "Me first!
+> Fuck you!" Just like the Joker thought. What a lousy move for a great
 > character to get stuck in.
 
   [a real good Dark Knight review]: http://www.ruthlessreviews.com/742/dark-knight-the

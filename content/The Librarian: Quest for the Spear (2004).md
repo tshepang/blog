@@ -7,7 +7,7 @@ tags = ['2011-movie', 'average']
 categories = ['movies']
 +++
 
-Desperate in need of a decent budget (it\'s a fantasy after all); the
+Desperate in need of a decent budget (it's a fantasy after all); the
 concept is interesting, but the movie gets real stupid in its last
-third, and the shitty action and unconvincing, B-movie villains don\'t
+third, and the shitty action and unconvincing, B-movie villains don't
 help either.

@@ -26,7 +26,7 @@ favorite
 1.  Heath Ledger as The Joker ([The Dark Knight])
 2.  Sterling Hayden as the mad general ([Dr. Strangelove])
 3.  John Carrol Lynch as the suspect (*Zodiac*)
-4.  Taraji Hanson as the sniper ([Smokin\' Aces])
+4.  Taraji Hanson as the sniper ([Smokin' Aces])
 
 favorite eccentric
 ==================
@@ -53,7 +53,7 @@ detectives
 witch
 =====
 
--   Naomi Harris (*Pirates of the Caribbean: Dead Man\'s Chest*)
+-   Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
 
 airport checkpoint officer
 ==========================
@@ -66,7 +66,7 @@ airport checkpoint officer
   [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
   [Real Steel]: http://tshepang.net/real-steel-2011
   [Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964
-  [Smokin\' Aces]: http://tshepang.net/smokin-aces-2006
+  [Smokin' Aces]: http://tshepang.net/smokin-aces-2006
   [Dark City]: http://tshepang.net/dark-city-1998
   [Precious]: http://tshepang.net/precious-2009
   [Payback]: http://tshepang.net/payback-1999

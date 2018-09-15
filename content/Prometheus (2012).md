@@ -12,8 +12,8 @@ to bear. The movie also feels incomplete, some stuff left unexplained:
 
 -   why is the robot sinister
 -   why does the robot help near the end
--   what\'s up with the old man
--   \...
+-   what's up with the old man
+-   ...
 
 The creature design of the humanoid creatures is incredible. The ending
 is solid, and the famous alien, which is in baby form, is flawless.

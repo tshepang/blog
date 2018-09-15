@@ -10,9 +10,9 @@ categories = ['movies']
 My favorite utterance from the movie:
 
 > A hooker comes out of the bathroom in a beautiful red dress. She says,
-> \"Would you like to make love? Or, should we have an intelligent
-> conversation instead? I\'ve been reading a lot of Noam Chomsky lately;
-> I think he\'s a marvel\"
+> "Would you like to make love? Or, should we have an intelligent
+> conversation instead? I've been reading a lot of Noam Chomsky lately;
+> I think he's a marvel"
 
 It is a very well-made dark comedy with some wonderful performances. My
 favorites are [Tom Waits] and the Vietnamese psychopath. The latter also
@@ -26,7 +26,7 @@ Politically, the movie is important in that it does, in a rather subtle
 way, condemn homophobia. It also promotes interracial romantic
 relationships, which I always find beautiful.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 [The earlier movie], written and directed by the same person, is a
 superior work of art in many ways, though not as funny.

@@ -15,10 +15,10 @@ mere 90-minutes (it feels like a TV series).
 Number Slevin* was, but without fooling its audience. It also has its
 moments.
 
-The confrontation between Craig Bierko\'s and Russel Crowe\'s characters
+The confrontation between Craig Bierko's and Russel Crowe's characters
 is fun to watch in *Cinderella Man*. For some reason, I expected it to
-be a challenging movie, but it\'s actually just another,
+be a challenging movie, but it's actually just another,
 edge-of-your-seat sports movie. At least it made me feel lucky that I
-wasn\'t in the US during the Great Depression.
+wasn't in the US during the Great Depression.
 
   [Beowulf]: http://tshepang.net/beowulf-2007

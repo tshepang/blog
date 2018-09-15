@@ -7,8 +7,8 @@ tags = ['2011-movie', 'substandard']
 categories = ['movies']
 +++
 
-This one is typical of those unbearable age-old Hollywood movies. It\'s
-[overrated] as hell, and I\'m now curious what it\'s appeal was.
+This one is typical of those unbearable age-old Hollywood movies. It's
+[overrated] as hell, and I'm now curious what it's appeal was.
 
 **pros**
 

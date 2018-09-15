@@ -8,8 +8,8 @@ categories = ['movies']
 
 The star of *King Kong*, which I saw in late 2005, was easily the
 greatest of all CGI characters ever. But then I proceeded on watching
-*Pirates of the Caribbean: Dead Man\'s Chest* in early 2006, whose Davey
-Jones was so unbelievably real that I couldn\'t choose between the two.
+*Pirates of the Caribbean: Dead Man's Chest* in early 2006, whose Davey
+Jones was so unbelievably real that I couldn't choose between the two.
 I checked web yesterday to see what others thought and it was roughly
 split between the 2, some also mentioning Gollum (*Lord of the Rings*
 trilogy) to be the winner. Davey Jones and Kong far exceed the overrated

@@ -7,8 +7,8 @@ tags = ['average', '2009-movie']
 categories = ['movies']
 +++
 
-Of the highest-rated of Akira Kirosawa\'s movies, *Rashomon* is given
-the stature of [Seven Samurai], if not more, but for me it\'s just a
+Of the highest-rated of Akira Kirosawa's movies, *Rashomon* is given
+the stature of [Seven Samurai], if not more, but for me it's just a
 dumb story with bad acting. In fact I found its ridiculousness
 unbearable in this revisit. Regardless, Toshiro Mifune is really an
 interesting actor, but happened to be given a shitty role, where he

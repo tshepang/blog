@@ -13,7 +13,7 @@ exactly a smooth ride, but this guy kept showing a positive attitude
 throughout. In [the latest] of his longer-form blog posts (he normally
 writes tiny updates), he exposes the great progress that LibreOffice has
 had. This is not the most glamorous of software projects, but it
-certainly is among the most important in the world of [FLOSS], and it\'s
+certainly is among the most important in the world of [FLOSS], and it's
 kool to have people keeping it going.
 
   [the latest]: http://people.gnome.org/~michael/blog/2012-08-08-libreoffice-3-6-0.html

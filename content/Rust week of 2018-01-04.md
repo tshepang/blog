@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 Some more work on [mrh], I added the ability to check if there are
-unpulled commits as well as if there are tags that aren\'t pushed
+unpulled commits as well as if there are tags that aren't pushed
 upstream. The latter is what motivated this work, a feature useful for
 work, to avoid forgetting pushing tags. This meant doing the dreaded
 work of accessing the remote repo, which is complicated by potentially

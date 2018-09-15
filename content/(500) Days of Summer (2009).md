@@ -8,8 +8,8 @@ categories = ['movies']
 +++
 
 Tries so hard to be fresh, and although its back-and-forth is unique, it
-doesn\'t rescue the movie from being yet-another-romantic-drama. It\'s
-ineffective, and there\'s nothing refreshing, and it\'s attempt at
+doesn't rescue the movie from being yet-another-romantic-drama. It's
+ineffective, and there's nothing refreshing, and it's attempt at
 trying to make it different makes it unbearable. I was surprised that it
 got such [good ratings].
 

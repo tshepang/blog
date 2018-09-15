@@ -12,7 +12,7 @@ about this.
 In other news, I was surprised by the success of [this tweet of mine][]:
 
 > title of the moment: Learning Rust With Entirely Too Many Linked Lists
-> <http://cglab.ca/~abeinges/blah/too-many-lists/book> ... \#rustlang
+> <http://cglab.ca/~abeinges/blah/too-many-lists/book> ... #rustlang
 
 It has over 6000 views, according to Twitter analytics.
 

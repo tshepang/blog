@@ -9,7 +9,7 @@ categories = ['movies']
 
 Given the top-of-the-range quality of the animation and character
 design, this is a largely unnteresting adventure story of an
-annoyingly-deceptive reptile in thirsty Wild West town. Lucily there\'s
+annoyingly-deceptive reptile in thirsty Wild West town. Lucily there's
 some colorful characters:
 
 -   the freedom-fighter gal with her heavy America South accent
@@ -20,4 +20,4 @@ some colorful characters:
     digital characters ever
 -
 
-There\'s great voice talent, but the story, not so much.
+There's great voice talent, but the story, not so much.

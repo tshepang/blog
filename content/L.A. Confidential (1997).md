@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 It has lost some of the intensity and edginess of the earlier viewings,
-perhaps because there\'s been heavier stuff since, but it maintains its
+perhaps because there's been heavier stuff since, but it maintains its
 excellence (direction, acting, script, production design). It got a
 great cast, minus Kim Bassinger as top-class prostitute, and the gal
 playing the raped character. The best performance is by Kevin Spacey

@@ -6,10 +6,10 @@ title = "Rust week of 2016-10-07"
 tags = ['Rust']
 +++
 
-I am impressed by [the documentation of curl-rust]. It\'s better than
-for all Rust crates I\'ve seen yet, if memory serves well. I am grateful
+I am impressed by [the documentation of curl-rust]. It's better than
+for all Rust crates I've seen yet, if memory serves well. I am grateful
 for the painstaking work it must have been for whoever was
-responsible\... it\'s a massive API. It could do with more examples
+responsible... it's a massive API. It could do with more examples
 though.
 
 In terms of contributions, I made [just one].

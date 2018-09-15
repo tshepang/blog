@@ -9,7 +9,7 @@ tags = ['excellent', 'gaming']
 The last time I played any of the 3 games from the [God of War] trilogy
 was nearly 2 years ago, but the experience still lives vividly in my
 mind; they offered among the greatest gaming experiences I ever had. I
-haven\'t played any of the other 4 games in the series.
+haven't played any of the other 4 games in the series.
 
 I have known about the first game for years, before playing it, and it
 was among the top of my wishlist. The appeal was simply the imagery of
@@ -40,11 +40,11 @@ My favorite characters:
     charming characters in the whole trilogy. One wishes they had a
     greater screen time. Note that there were other Centaurs in the
     trilogy, but these particular ones were most interesting, and their
-    slaying most\... beautiful. They appear first time in the 3rd game
+    slaying most... beautiful. They appear first time in the 3rd game
     in the trilogy.
 4.  Poseidon (God of the Sea), is an interesting one. His represents the
     most complex (and hardest) fight sequence in the entire trilogy, it
-    it also happens on the third installment of this fine trilogy. It\'s
+    it also happens on the third installment of this fine trilogy. It's
     not exactly my favorite, but his character has a certain level of
     charm, and the final kill is particularly brutal.
 5.  Kratos, the protagonist, was most impressive in the first game, but
@@ -54,7 +54,7 @@ My favorite characters:
     character design, and this well-enhanced by the pale color and red
     stripes on his skin, as well as a body that makes him look like pure
     lethal.
-6.  [Stone Talos] are a one-of-a-kind character\... muscular stone
+6.  [Stone Talos] are a one-of-a-kind character... muscular stone
     statues that come to life to incur damage on our protagonist.
 
 Awesome as it is, the series does have weaknesses:
@@ -68,7 +68,7 @@ Awesome as it is, the series does have weaknesses:
     real stupid idea.
 -   There were also some particilarly hard stages to pass, where I had
     to ask for help from a friend to proceed to the next level. I hate
-    stuff like that\... I normally pick the easiest difficulty level in
+    stuff like that... I normally pick the easiest difficulty level in
     games, for I hate to struggle for too long.
 
   [God of War]: http://en.wikipedia.org/wiki/God_of_War_(series)

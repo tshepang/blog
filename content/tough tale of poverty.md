@@ -14,7 +14,7 @@ Gong Li, who plays the title character in this The Story of Qiu Ju is at
 her best, and the direction is simple and raw. Oh, and the poverty and
 suffering displayed is unsettling.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 This story is more powerful than even [Yellow Earth], and with many more
 strong actors, while the winter weather looks even more harsh.

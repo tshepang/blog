@@ -53,14 +53,14 @@ by the crippled guy in [Battleship].
 
 The **best female performance** is a tie between Annette Bening &
 Julianne Moore in [The Kids Are All Right]. Runner-up is Charlotte
-Gainsbourg in [The Science of Sleep], who is just about the movie\'s
+Gainsbourg in [The Science of Sleep], who is just about the movie's
 saving grace.
 
 The best **child performance** is by Dakota Goyo, the son in [Real
 Steel], while the best **cast** is in [The Iron Lady].
 
 My favorite **voice acting** is Tom Hardy (Bane) ([The Dark Knight
-Rises]), even though it\'s hard to hear at times.
+Rises]), even though it's hard to hear at times.
 
 characters
 ==========
@@ -92,7 +92,7 @@ The best **comic characters**:
     Butler])
 4.  Ben Stiller ([Zoolander])
 
-The **worst asshole** was Marlon Brando\'s character in [A Streetcar
+The **worst asshole** was Marlon Brando's character in [A Streetcar
 Named Desire].
 
 miscellaneous
@@ -111,9 +111,9 @@ The best **costume design** comes, surprisingly, from [The Great
 Dictator].
 
 Each repeat of a movie is a different experience, hence the category,
-**best first-time viewing experience**. This year, it\'s won by the
-year\'s **greatest spectacle**, [The Avengers]. Runner-up is [Gone Baby
-Gone], and that\'s because it was so gripping that I thought it would be
+**best first-time viewing experience**. This year, it's won by the
+year's **greatest spectacle**, [The Avengers]. Runner-up is [Gone Baby
+Gone], and that's because it was so gripping that I thought it would be
 a great contender for best movie of the year. A revisit was not so
 great.
 
@@ -126,7 +126,7 @@ The most **overrated** movie is [A Nightmare on Elm Street], followed by
 [A Streetcar Named Desire]. That second is hailed a masterpice by weird
 people.
 
-\'old\' movies
+'old' movies
 ==============
 
 This section is meant to give a chance to movies I have watched before

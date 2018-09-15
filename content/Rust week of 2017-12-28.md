@@ -13,9 +13,9 @@ library for the first time. As was the case with that project, I found
 handling of keyboard input tedious and non-intuitive, and imagine there
 must be an easier way.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
-We had [another monthly meetup] (we\'ve had several of them so far),
+We had [another monthly meetup] (we've had several of them so far),
 which was the usual random informal discussion of the exciting ecosystem
 of the great language that is Rust.
 

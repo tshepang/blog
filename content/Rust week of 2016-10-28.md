@@ -12,7 +12,7 @@ of Rust:
 -   [Cretonne], an alternative to LLVM
 -   [Corrode], a C to Rust translator
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I made just [one contribution] this week, and submitted [one issue].
 

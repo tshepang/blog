@@ -19,42 +19,35 @@ project [I mentioned last week]. My favorite parts:
     that in a separate function so that you can return a `Result` type,
     something like `Result<(), std::io::Error>`. This forces you to
     isolate just the I/O handling part from the other parts of the
-    logic, where you\'d for maybe just want to return a `bool` type. In
+    logic, where you'd for maybe just want to return a `bool` type. In
     my case, I would not get any I/O error, but I would get failure from
     running an external process (see `std::process` module) where the
     exit status was not 0. That meant I/O error failure case and the
     process error case had to be handled in separate places.
 -   In the example I gave above, `Result<(), std::io::Error>`, this
-    means that we don\'t care about the success return value. On the
+    means that we don't care about the success return value. On the
     calling side, we have an option to use a `match` statement to handle
     the result:
 
-    ::: {.sourcecode}
-    rust
 
+    ```rust
     match foo() {
-
-    :   Ok(\_) =\> (), Err(error) =\> do\_something\_with(error)
-
+        Ok(_) => (), Err(error) => do_something_with(error)
     }
-    :::
+    ```
 
     There is a convenient syntax to deal with such case, where you
-    don\'t care about one of values\... `if let`:
+    don't care about one of values... `if let`:
 
-    ::: {.sourcecode}
-    rust
-
+    ```rust
     if let Err(error) = foo() {
-
-    :   do\_something\_with(error)
-
+        do_something_with(error)
     }
-    :::
+    ```
 
     So elegant!
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I submitted [just one contribution] this time around.
 

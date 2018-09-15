@@ -7,15 +7,15 @@ tags = ['good', '2005-movie']
 categories = ['movies']
 +++
 
-Here\'s what I wrote some years ago:
+Here's what I wrote some years ago:
 
-> Totally unlike anything I\'ve seen before, an extraordinary animated
+> Totally unlike anything I've seen before, an extraordinary animated
 > feature, with some superb music, magnificent characters, and amazing
-> stylistic choices, and supreme storytelling\... It\'s an awesome
+> stylistic choices, and supreme storytelling... It's an awesome
 > experience, pity it runs for less than 80 minutes. It carries greater
-> emotional impact than most movies I\'ve seen.
+> emotional impact than most movies I've seen.
 
-And here\'s what I wrote in 2010:
+And here's what I wrote in 2010:
 
 > That still stands except the last sentence, since the revisit brought
 > no such impact. Let me add that the movie is a bizarre ride (no

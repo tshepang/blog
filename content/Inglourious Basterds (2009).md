@@ -16,7 +16,7 @@ provides the weakest performance of all key characters. Quentin
 Tarantino is a weirdo who possesses the freedom (perhaps too much) to
 paint whatever he pleases on screen, and luckily got the talent. He
 gives this one superb suspense, exciting dialog, unusual (and
-unpredictable) story, and wonderful editing. It\'s my favorite and best
+unpredictable) story, and wonderful editing. It's my favorite and best
 of all his works, followed by *Reservoir Dogs*.
 
 One interesting, and rare, thing is I enjoyed the movie a lot more on a

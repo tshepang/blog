@@ -16,6 +16,6 @@ characters, and all others are either uninteresting, badly-developed,
 annoying, or practically non-existent.
 
 The movie is otherwise quite shallow and very passive, even for a
-comedy. It\'s not even funny, especially the first half of it.
+comedy. It's not even funny, especially the first half of it.
 
   [Frankenstein-like family butler]: http://en.wikipedia.org/wiki/Lurch_(The_Addams_Family)

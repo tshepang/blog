@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I was surprised by the ease of use of [libflate] when decompressing a
-gzip\'ed file:
+gzip'ed file:
 
 ::: {.sourcecode}
 rust
@@ -16,19 +16,19 @@ extern crate libflate;
 
 fn main() {
 
-:   let mut file = std::fs::<File::open>(\"file.gz\").unwrap(); let file
+:   let mut file = std::fs::<File::open>("file.gz").unwrap(); let file
     = libflate::gzip::Decoder::new(&mut file).unwrap();
-    do\_something\_with(file);
+    do_something_with(file);
 
 };
 :::
 
-And that\'s it, `file` is now like a normal file!
+And that's it, `file` is now like a normal file!
 
 Another module I used for the first time is [regex], which seems to have
 such a well-designed API actually.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 I made just [one contribution] this week.
 

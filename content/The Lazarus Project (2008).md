@@ -8,6 +8,6 @@ categories = ['movies']
 +++
 
 Slow pacing gives it a feeling of self-importance, and makes it boring,
-especially after lethal injection. Having a bad actor as lead doesn\'t
-help either. Luckily, the other performances aren\'t so bad, though none
+especially after lethal injection. Having a bad actor as lead doesn't
+help either. Luckily, the other performances aren't so bad, though none
 is any spectacular. The twist is rather implausible.

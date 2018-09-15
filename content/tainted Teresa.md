@@ -14,12 +14,12 @@ shortcomings.
 
 Nevertheless, I was captivated by her words:
 
-> \[our mission is to take care of\] the hungry, the naked, the
+> [our mission is to take care of] the hungry, the naked, the
 > homeless, the crippled, the blind, the lepers, all those people who
 > feel unwanted, unloved, uncared for throughout society, people that
 > have become a burden to the society and are shunned by everyone.
 >
-> \-- [source]
+> -- [source]
 
   [noble dreams]: http://tshepang.net/noble-dreams
   [her story]: http://en.wikipedia.org/wiki/Mother_Teresa

@@ -12,13 +12,13 @@ creator of the machine that (illegally) looks for patterns in society so
 as to predict, with high certainty, which people will be involved in
 violent crimes, either as victims or perpetrators.
 
-The series\' normal formula is that our heroic, bespectacled hero would
+The series' normal formula is that our heroic, bespectacled hero would
 mention the details of the new person, and his very capable sidekick, a
 former assassin, would go follow this person, to try avert the impending
 crime. In the 16th episode of the 2nd season, however, this formula
-isn\'t followed (by the camera). Instead we follow the person who would
+isn't followed (by the camera). Instead we follow the person who would
 be victim, and our heroes only appear midway through, like they were
-secondary characters. It\'s beautiful.
+secondary characters. It's beautiful.
 
 I love it when such breaks from normal routine occur, especially when
 they are as well-made. Not to say this is the best episode of this

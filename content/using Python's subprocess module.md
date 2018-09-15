@@ -34,7 +34,7 @@ Output:
     (b'testn', b'')
 
 Not exactly what we want. The output is actually a tuple (**stdout**,
-**stderr**). Note that by default, `shell=False`, and that\'s why it\'s
+**stderr**). Note that by default, `shell=False`, and that's why it's
 not stated here.
 
 To get the equivalent of what we get from the first example, we have to
@@ -52,14 +52,14 @@ Output:
     test
 
 The `b` thing indicates that the string is in bytes format. To get a
-normal string from that, just run the string\'s [decode method]. Also,
+normal string from that, just run the string's [decode method]. Also,
 that I had to use the `end` argument on the [print function], was to
 avoid an empty line on the terminal output.
 
 As can be seen, this means we do much of the work ourself, but the
 benefit is that we now have finer-grained control (e.g. we get to
 control when to display the output). Another benefit is that it is more
-secure to do it this way (I don\'t know the details, so see [shell
+secure to do it this way (I don't know the details, so see [shell
 injection] for the argument).
 
 further reading

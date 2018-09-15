@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 The battle between arch-villain and Dumbledore is the best action piece
-so far in this series. It\'s quite intense and has wonderful visual
+so far in this series. It's quite intense and has wonderful visual
 effects. There are other good visual effect moments here and there. Even
 the [Dementors], which I so admired in the [3rd movie], have been given
 a facelift, though I prefer the original look.

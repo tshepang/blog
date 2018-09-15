@@ -10,9 +10,9 @@ categories = ['movies']
 movie of the year
 =================
 
-[Cloverfield] is the year\'s greatest spectacle, with the inventive
+[Cloverfield] is the year's greatest spectacle, with the inventive
 style popularised by *The Blair Witch Project*, and sweetened with the
-year\'s best visual effects and superb sound. An honorable mention goes
+year's best visual effects and superb sound. An honorable mention goes
 to [Taken] while the most innovative concept is the unique time-travel
 story of [The Lake House].
 
@@ -35,16 +35,16 @@ feel-good socio-political [Hairspray]. The runner-up is the formulaic,
 yet effective, *Robots*.
 
 Nothing made me cry in my history of movie-watching as did the drama,
-[Kinsey], and there wasn\'t a movie as bizarre as [Persona], while the
-year\'s best dialogue can be found in [The Squid & the Whale].
+[Kinsey], and there wasn't a movie as bizarre as [Persona], while the
+year's best dialogue can be found in [The Squid & the Whale].
 
 As for production design, nothing beat [No Country for Old Men], while
 *TMNT* is a runner-up, animated as it is. *No Country for Old Men* also
-got the year\'s best sound, followed by a tie between [30 Days of Night]
-and [Cloverfield]. [The New World]\'s editing is the year\'s most
+got the year's best sound, followed by a tie between [30 Days of Night]
+and [Cloverfield]. [The New World]'s editing is the year's most
 accomplished.
 
-The best dancing can be found in [Step Up 2: The Streets], there\'s no
+The best dancing can be found in [Step Up 2: The Streets], there's no
 better action-thriller than [Taken] (followed by [Shooter]), while no
 horror is better than the chilling [Vacancy]. The best action is found
 in [Final Fantasy VII - Advent Children], followed by [Kung Fu Panda].
@@ -54,39 +54,39 @@ in the otherwise shitty and silly [The Forbidden Kingdom].
 misc small things
 =================
 
-The year\'s best escape was the villain\'s in *Kung Fu Panda*, followed
-by that from the \'safe house\' in [Children of Men], which also happens
+The year's best escape was the villain's in *Kung Fu Panda*, followed
+by that from the 'safe house' in [Children of Men], which also happens
 to have the best battle scene. The best confrontation was that of the
 characters of Craig Bierko and Russel Crowe in a party scene in *The
 Cinderella Man*. The best end-credits sequence can be seen in *The
-Mummy*, which uses a concept copied from *300*\'s end-credits sequence.
+Mummy*, which uses a concept copied from *300*'s end-credits sequence.
 
 *The Condemned* had my favorite sexual interaction (very brief but
-complete with beautiful comic touches) and I don\'t remember a car crash
+complete with beautiful comic touches) and I don't remember a car crash
 in movie history as great as that in *Death Proof*.
 
 performances
 ============
 
-The year\'s performance is easily Heath Ledger\'s in [The Dark Knight],
-and he happens to be the movie\'s sole redeemer, almost. Other
+The year's performance is easily Heath Ledger's in [The Dark Knight],
+and he happens to be the movie's sole redeemer, almost. Other
 outstanding male performers are Josh Brolin in [Planet Terror], Cuba
-Gooding, Jr.\'s as dirty cop in *Dirty*, John Carrol Lynch\'s bit
-appearance in [Confidence], and then Stanley Tucci\'s fashion lover in
+Gooding, Jr.'s as dirty cop in *Dirty*, John Carrol Lynch's bit
+appearance in [Confidence], and then Stanley Tucci's fashion lover in
 *The Devil Wears Prada*. My favorite comic performance is William H.
-Macy\'s in *Wild Hogs*.
+Macy's in *Wild Hogs*.
 
-The best female performance was by Cate Blanchett\'s title character as
+The best female performance was by Cate Blanchett's title character as
 a daring journalist in *Veronica Guerin*, followed by the surprisingly
 excellent Kerry Washington as a slutty girl in *I Think I Love My Wife*.
 Ger Ryan (2nd runner-up) really touched me as a loving mother in
 *interMission* followed by Ellen Barkin (3rd runner-up) in *Someone Like
-You*. That Ger Ryan also ties with Ellen Page\'s appearance in the
+You*. That Ger Ryan also ties with Ellen Page's appearance in the
 horrifying *Hard Candy* as my favorite female performance. They are
-followed by Clare-Hope Ashitey\'s key role in [Children of Men] and then
-a tie (2nd runner-up) between Katie Holmes\' thief in *Mad Money* and
-Q\'Orianka Kilcher\'s Pocahontas in [The New World]. The best bit-female
-performance is Alexandra Silber\'s book lover in *Room 1408* which is
+followed by Clare-Hope Ashitey's key role in [Children of Men] and then
+a tie (2nd runner-up) between Katie Holmes' thief in *Mad Money* and
+Q'Orianka Kilcher's Pocahontas in [The New World]. The best bit-female
+performance is Alexandra Silber's book lover in *Room 1408* which is
 the best thing in the movie even though she appears in just one short
 scene.
 
@@ -100,15 +100,15 @@ of the Native Americans.
 characters
 ==========
 
-The **best villain** is Heath Ledger\'s The Joker in [The Dark Knight],
-who is also my most favorite ever. He is followed by Sid Haig\'s
+The **best villain** is Heath Ledger's The Joker in [The Dark Knight],
+who is also my most favorite ever. He is followed by Sid Haig's
 homorous clown in *House of A Thousand Corpses*.
 
 The most desirable gal is Emelia Burns, the black girl in *The
-Condemned*. She\'s followed by Cate Blanchett in *Veronica Guerin* and
+Condemned*. She's followed by Cate Blanchett in *Veronica Guerin* and
 then Shirley Henderson as the emotionally-hurt girl in *interMission*.
 
-There were no characters as cute the young penguins in *Surf\'s Up*.
+There were no characters as cute the young penguins in *Surf's Up*.
 
 My most **favorite creature** is the super-large monster in
 [Cloverfield], followed by Pyramid Head in [Silent Hill]. 2nd runner-up
@@ -119,9 +119,9 @@ is the hyper-realistic mountain creatures in *The Mummy 3*. The best
 visuals
 =======
 
-The year\'s most beautiful imagery can be found in *Surf\'s Up* (the
+The year's most beautiful imagery can be found in *Surf's Up* (the
 waves and the hidden beach), with an honorable mention going to *The
-Bank Job*, especially its opening scene. *Appleseed* has the year\'s
+Bank Job*, especially its opening scene. *Appleseed* has the year's
 best visuals.
 
 others:

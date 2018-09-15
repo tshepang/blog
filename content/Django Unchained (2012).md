@@ -9,7 +9,7 @@ categories = ['movies']
 
 Lots of humor, brutality (the suffering of the slaves is just too
 intense), violence, and heroism. The movie has the rare quality of being
-entertaining throughout, a feat more impressive given the movie\'s
+entertaining throughout, a feat more impressive given the movie's
 running length of over 150 minutes. Tarantino also decided to go a bit
 lazy on us (as he did with the *Kill Bill* movies) by sprinkling fantasy
 over his script, where for example we find the heroic Django

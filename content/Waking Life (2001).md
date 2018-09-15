@@ -13,4 +13,4 @@ passive listener, engages a more than usual, while also introspecting
 self the most. One other scene I enjoyed is that involving a group of
 four friends, who do a lot of negative talk, which is so deliberate it
 feels rehearsed. Most of the conversations are nonsensical, which can be
-challenging to my patience. It\'s an interesting, and strange movie.
+challenging to my patience. It's an interesting, and strange movie.

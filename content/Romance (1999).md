@@ -16,5 +16,5 @@ The movie itself is pointless, and feels like a waste of time. The
 characters that are given a chance to speak blubber way too much
 philosophical non-sense. Many of the scenes are tiring, for example
 showing the entire sequence of a woman undressing, or being bonded for
-sexual pleasure\... twice. There is likely a message here, but am
+sexual pleasure... twice. There is likely a message here, but am
 perhaps too dumb to notice.

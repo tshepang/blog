@@ -9,7 +9,7 @@ categories = ['movies']
 
 If we ignore the shallow non-sense about Americanism, I find [this
 review], among the few negative ones on the movie, very true. I find the
-movie an uninteresting waste of time, and therefore it\'s appeal is
+movie an uninteresting waste of time, and therefore it's appeal is
 mysterious to me. As mentioned in the review, there is a glaring lack of
 explanation on the cruel situation some of the people find themselves
 in. Not even the visual effects are really good, though I liked the

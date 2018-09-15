@@ -14,7 +14,7 @@ province for the first time in my life, and the highlight was the
 amazing hospitality granted by the home we stayed during most of the
 visit, and the closeness of family I experienced here is unmatched in
 memory. Notable and positive mention ought be granted to 3 characters
-(Lwazi, Bongo, Siya) for reasons I\'m too lazy to mention.
+(Lwazi, Bongo, Siya) for reasons I'm too lazy to mention.
 
 ([another visit])
 

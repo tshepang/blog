@@ -7,8 +7,8 @@ tags = ['project-of-note']
 +++
 
 Weeks ago, I looked for a utility that would help me check for my
-blog\'s dead links, and I bumped onto [LinkChecker] (version on my
-system is 6.2). It turned out to be impressively advanced, and here\'s
+blog's dead links, and I bumped onto [LinkChecker] (version on my
+system is 6.2). It turned out to be impressively advanced, and here's
 the summary from its manpage:
 
 > LinkChecker features recursive checking, multithreading, output in

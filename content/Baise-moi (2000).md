@@ -16,7 +16,7 @@ The best performance is that of [Raffaëla Anderson] as the more
 trigger-happy of the 2 girls. It is sad that she has not done anything
 else of significance, beyond porn.
 
-The one complaint I have is that the switch between \'sad girls\' to
-\'killer girls\' is not really explained, and rather sudden.
+The one complaint I have is that the switch between 'sad girls' to
+'killer girls' is not really explained, and rather sudden.
 
   [Raffaëla Anderson]: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson

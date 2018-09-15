@@ -10,12 +10,11 @@ tags = ['Python']
 I was curious how my home machine performs compared to my work machine.
 Each of these have 4 logical processors (and 8GB of RAM), so are sort of
 comparable. I also added the [DigitalOcean] VPS with those specs
-([currently \$80 per month]) because\... why not.
+([currently $80 per month]) because... why not.
 
-Machine Specs
-=============
+## Machine Specs
 
-Each machine runs Debian testing (codename \"jessie\"). Following is the
+Each machine runs Debian testing (codename "jessie"). Following is the
 output of these commands for each machine:
 
     uname --all
@@ -36,8 +35,7 @@ DigitalOcean VPS:
     Linux tcloud 3.11-1-amd64 #1 SMP Debian 3.11.5-1 (2013-10-17) x86_64 GNU/Linux
     model name      : QEMU Virtual CPU version 1.0
 
-CPython benchmarks
-==================
+## CPython benchmarks
 
 I ran two benchmarks, both from the latest VCS version of CPython,
 development branch:
@@ -45,10 +43,9 @@ development branch:
     $ hg identify --id --branch
     b6a1a78818fe default
 
-Build
-+++--
+### Build
 
-Here\'s the command I used:
+Here's the command I used:
 
     make distclean; time (./configure && make --silent --jobs=4)
 
@@ -72,14 +69,13 @@ VPS:
     user    3m7.272s
     sys     0m16.592s
 
-Test suite
-+++++++++-
+### Test suite
 
-Here\'s the command I used:
+Here's the command I used:
 
     time ./python -m test --multiprocess=0
 
-**\--multiprocess=0** means that there will be 6 tests run in parallel;
+**--multiprocess=0** means that there will be 6 tests run in parallel;
 that is the number logical cores (4 in my case) + 2 (to avoid waiting
 too long for tests which are largely idle)
 
@@ -103,11 +99,10 @@ VPS:
     user    5m5.444s
     sys     0m40.008s
 
-Linux kernel build
-==================
+## Linux kernel build
 
 Just for kicks, I decided to check how long building Linux would take;
-for this, I used latest \'final\' release from Linus\' git tree:
+for this, I used latest 'final' release from Linus' git tree:
 
     $ git log -1
     commit 6e4664525b1db28f8c4e1130957f70a94c19213e
@@ -116,12 +111,11 @@ for this, I used latest \'final\' release from Linus\' git tree:
 
     Linux 3.11
 
-Here\'s the commands I used:
+Here's the commands I used:
 
     make distclean && make defconfig && time make
 
-Results
-++++++-
+### Results
 
 Home machine:
 
@@ -141,14 +135,14 @@ VPS:
     user    12m21.120s
     sys     1m17.844s
 
-Conclusion
-==========
+## Conclusion
 
 My work machine is faster than the DigitalOcean offering of comparable
 specs, and much faster than my home machine, a laptop.
 
 ([detailed explanation of the output])
 
-  [DigitalOcean]: https://www.digitalocean.com/?refcode=25b4887810cc
-  [currently \$80 per month]: https://www.digitalocean.com/pricing
-  [detailed explanation of the output]: http://stackoverflow.com/a/556411/321731
+
+[DigitalOcean]: https://www.digitalocean.com/?refcode=25b4887810cc
+[currently $80 per month]: https://www.digitalocean.com/pricing
+[detailed explanation of the output]: http://stackoverflow.com/a/556411/321731

@@ -16,11 +16,11 @@ and about everything afterwards is shitty:
 -   underdeveloped explanation of super-ability
 -   annoying plot-holes
 
-It feels like someone came up with a good story and didn\'t know where
+It feels like someone came up with a good story and didn't know where
 to run with it, and in those moments of panic, hashed up something that
 will disappoint any viewer.
 
-Luckily all casting is spot-on. Check\...
+Luckily all casting is spot-on. Check...
 
 -   the 1st corporate meeting
 -   the PR guy and his wife
@@ -31,7 +31,7 @@ Also some of the action (and visual effects) is pretty good (check the
 train smash). This a really fresh kinda superhero and it makes one
 salivate for (superior) sequels.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 It was interesting to find that [so many critics agreed] that the move
 started well and screwed up about halfway through.

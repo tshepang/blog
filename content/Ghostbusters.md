@@ -7,7 +7,7 @@ tags = ['decent', '2016']
 categories = ['movies']
 +++
 
-It\'s nothing new, but it was fun watching [Kristen Wiig] oogle over
+It's nothing new, but it was fun watching [Kristen Wiig] oogle over
 [Chris Hemsworth]. I also enjoyed the nerdy performance of [Neil Casey],
 who plays the villain, and I wish he got more screen time. There is also
 a brief performance by the ever-flawless [Charles Dance]. My most

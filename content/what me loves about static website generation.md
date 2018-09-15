@@ -6,7 +6,7 @@ title = "what me loves about static website generation"
 tags = ['blogging']
 +++
 
-There\'s a ridiculous amount of power and flexiblity in having all the
+There's a ridiculous amount of power and flexiblity in having all the
 blog sources locally:
 
 -   One can use text editor of choice, which is a big help, given the

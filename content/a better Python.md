@@ -7,34 +7,24 @@ tags = ['Python', 'non-Python']
 +++
 
 [This post] led me to an interesting paper titled *An Empirical
-Investigation into Programming Language Syntax*. Now, since I\'m a
+Investigation into Programming Language Syntax*. Now, since I'm a
 Python sucker, here is what I would change in Python in order to follow
 advice from [that paper][]:
 
+```
     before       after
-    ++++++       +++--
+    ------       -----
      !=          not=
       %          mod
-
-> string text
-
-> try-except check-error
->
-> :
->
->     finally always
->
->     :
->
->         raise alert
->
->         :   def procedure
->
->         print output
->
->     import use
->
-> int/float number
+   string        text
+  try-except  check-error
+   finally       always
+    raise        alert
+     def       procedure
+    print       output
+   import        use
+  int/float     number
+```
 
 The most surprising finding is that both programmers and non-programmers
 found *while* and *for* not intuitive for looping constructs. The
@@ -85,8 +75,8 @@ attempt:
     loop in range(3):
         action()
 
-It mimics this Python syntax, which I actually don\'t like, since we
-don\'t always need the items of the container:
+It mimics this Python syntax, which I actually don't like, since we
+don't always need the items of the container:
 
     for _ in range(3):
         action()
@@ -97,14 +87,14 @@ Quorum, the academic language mentioned above, does it like:
         action()
     end
 
-I don\'t like that either; feels contrived. The Python way strikes me as
+I don't like that either; feels contrived. The Python way strikes me as
 a good compromise, especially given how general it is. I will try again
 with the *loop* syntax:
 
     loop item in container:
         action(item)
 
-You have to admit it doesn\'t read as nice as:
+You have to admit it doesn't read as nice as:
 
     for item in container:
         action(item)
@@ -134,7 +124,7 @@ and *for*, both of which received low points in the study. Interesting.
 
 If someone (me?) were to implement these changes to Python, the result
 would not be named a Python variant (they are just too drastic), but
-more a Python descendent\... **a better Python**.
+more a Python descendent... **a better Python**.
 
   [This post]: http://neverworkintheory.org/2014/01/29/stefik-siebert-syntax
   [that paper]: http://dl.acm.org/authorize?6968137

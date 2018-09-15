@@ -11,11 +11,11 @@ Far better than the more expensive and colorful later work of this
 talented director, [Seven Psychopaths]. Great camerawork, enjoyable
 acting (including even from Colin Farrel, which must be my most favorite
 of his career), superb script (and dialog), a gorgeous and intensely
-desirable gal, unusual storyline, and, and\... what a gem?
+desirable gal, unusual storyline, and, and... what a gem?
 
 There is a bit of a lull partway through it, but soon after, the fun
 continues, and builds up to an intense and unpredictable last act, which
-does not feel rushed at all\... it\'s amazing. It\'s also helped a lot
+does not feel rushed at all... it's amazing. It's also helped a lot
 by the superb Ralph Fiennes.
 
 As in the above-mentioned movie, one can sense a work of a liberal

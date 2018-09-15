@@ -9,7 +9,7 @@ tags = ['Debian', 'developer-of-note', 'non-Debian', 'Python']
 This guy, both an official Ubuntu developer and a core [CPython]
 developer, is a great example of a FLOSS collaborator. He is always
 polite on mailing list discussions, kindly and [patiently helps foster
-collaboration between Debian and Ubuntu] (there\'s been some conflicts
+collaboration between Debian and Ubuntu] (there's been some conflicts
 between the two camps). This is on top of his superb technical efforts
 demonstrated by his highly-detailed guides on various things, like
 upgrading various Python projects to run on Python 3 ([example 1],

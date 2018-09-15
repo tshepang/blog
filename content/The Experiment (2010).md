@@ -12,7 +12,7 @@ performances; lovely romance (complete with a desirable gal); the sound
 effects are overdone.
 
 [The original movie] makes this remake look better than it actually is;
-but it\'s sadly more pretentious\... feels more \'merely for show\'; the
+but it's sadly more pretentious... feels more 'merely for show'; the
 guys performing the experiment are even given godlike status, while
 those in the original actually have faces.
 

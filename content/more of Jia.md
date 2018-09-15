@@ -6,8 +6,8 @@ title = "more of Jia"
 categories = ['movies']
 +++
 
-Jia Xhag-ke\'s Xiao Wu is nearly as dull as his Platform, but rescued by
-it\'s shorter running time and sprinkled with some joy in a form of the
+Jia Xhag-ke's Xiao Wu is nearly as dull as his Platform, but rescued by
+it's shorter running time and sprinkled with some joy in a form of the
 romance that transpires, a romance that helps one sympathize with the
 otherwise annoyingly-boring and cold title character. A more observant
 critic saw far [more than I did].

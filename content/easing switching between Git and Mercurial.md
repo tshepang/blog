@@ -7,10 +7,10 @@ tags = ['Python', 'VCS']
 +++
 
 Each chance I get, I use Mercurial (e.g. personal stuff), and use Git
-when I don\'t have much of a choice (e.g. FLOSS and work). That is, I
+when I don't have much of a choice (e.g. FLOSS and work). That is, I
 use both quite a lot, and too often I find myself running commands for
-one while on another\'s repository\... error. I therefore decided to
-ease the pain my creating [a script] which checks which VCS system I\'m
+one while on another's repository... error. I therefore decided to
+ease the pain my creating [a script] which checks which VCS system I'm
 on, and displays the relevant command.
 
 Some examples of usage:
@@ -39,10 +39,10 @@ alias vr='$(~/scripts/vcs.py --revert)'
 ```
 
 This makes my life so much easier, since I no longer have to care which
-VCS I\'m on, at least for the most common of commands. I am pleased with
+VCS I'm on, at least for the most common of commands. I am pleased with
 self.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 As a sidenote, if you want to cycle between the changesets (Mercurial
 term) or Commits (Git term), use the following search term on your pager

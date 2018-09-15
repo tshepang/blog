@@ -7,7 +7,7 @@ categories = ['movies']
 +++
 
 I was years earlier excited by *Galaxy Quest* and still enjoyed it
-through this second viewing, though I don\'t remember being this
+through this second viewing, though I don't remember being this
 irritated by characters who play the actors. The aliens are still
 interesting, most especially the love-struck female one, and so is the
 villain. Tim Allen was impressive in a scene in which he became ashamed

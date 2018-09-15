@@ -7,8 +7,8 @@ tags = ['2009-movie', 'good']
 categories = ['movies']
 +++
 
-Weird why this gets such great accolades from top critics. Sure it\'s
-not bad and it\'s actually well-made, but I don\'t see anything that is
+Weird why this gets such great accolades from top critics. Sure it's
+not bad and it's actually well-made, but I don't see anything that is
 truly exceptional. It does however tell a very universal story,
 regardless of familiarity with Japanese culture.
 

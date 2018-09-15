@@ -14,8 +14,8 @@ big
 
 -   The [introductory tutorial of GNU Emacs] (looks a lot better when
     run from within Emacs), is written in a very gentle and careful way;
-    it\'s among the best tutorials I\'ve seen. Same applies to [the
-    Emacs manual], which I\'m tempted to call the best I\'ve read yet.
+    it's among the best tutorials I've seen. Same applies to [the
+    Emacs manual], which I'm tempted to call the best I've read yet.
     It really, really goes into painstaking detail, and seems to have
     been written by professional technical writers.
 -   [CPython] - this is quite massive, so although quality is generally
@@ -28,7 +28,7 @@ small
 
 -   [Suds] - multiple, well-written examples
 -   [rdiff-backup usage examples] - much smaller than the others listed
-    here, but nevertheless deserves mention because it\'s both gentle
+    here, but nevertheless deserves mention because it's both gentle
     and thorough
 -   While working on giving a product of ours [at work] the ability to
     speak [SocketCAN], I really appreciated its [official
