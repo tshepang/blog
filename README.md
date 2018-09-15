@@ -44,7 +44,6 @@ wishlist:
 
 - tags should be displayed on the page
 - there should be /tags and /movies/tags
-- some links do not appear clickable (see http://tshepang.net/about-me)
 - add search
 
 ---
