@@ -119,7 +119,7 @@ Wu; Zack & Miri Make A Porno
   [There Will Be Blood]: http://tshepang.net/there-will-be-blood-2007
   [Changeling]: http://tshepang.net/changeling-2008
   [Seven Pounds]: http://tshepang.net/recent-movies-2009-04-14
-  [The Curious Case of Benjamin Button]: http://tshepang.net/finchers-most-pointless-yet
+  [The Curious Case of Benjamin Button]: http://tshepang.net/fincher-s-most-pointless-yet
   [Midnight Cowboy]: http://tshepang.net/recent-movies-2009-07-13
   [Still Life]: http://tshepang.net/recent-movies-2009-09-30
   [Avatar]: http://tshepang.net/avatar-2009

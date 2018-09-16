@@ -18,5 +18,5 @@ feels like... there isn't anything remarkable.
 -   The mention of the movie [Mata Hari] inspired me to watch it.
 
   [interesting comparison]: http://www.jonathanrosenbaum.com/?p=5780
-  [Schindler's List]: http://tshepang.net/schindlers-list-1993
+  [Schindler's List]: http://tshepang.net/schindler-s-list-1993
   [Mata Hari]: http://tshepang.net/mata-hari-1931

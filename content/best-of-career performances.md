@@ -43,7 +43,7 @@ related: [favorite-of-career performances][favorite-of-career]
   [Fight Club]: http://tshepang.net/fight-club-1999
   [The Counselor]: http://tshepang.net/the-counselor-2013
   [Memento]: http://tshepang.net/memento-2000
-  [The King's Speech]: http://tshepang.net/the-kings-speech-2010
+  [The King's Speech]: http://tshepang.net/the-king-s-speech-2010
   [Good Night, and Good Luck]: http://tshepang.net/good-night-and-good-luck-2005
   [Wit]: http://tshepang.net/wit-2001
   [The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006
