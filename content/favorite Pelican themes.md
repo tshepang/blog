@@ -123,6 +123,6 @@ one, despite the following issues:
   [Mockingbird]: https://github.com/wrl/pelican-mockingbird
   [neat]: https://github.com/byk/pelican-neat
   [custom fields]: https://github.com/byk/pelican-neat#configuration-options
-  [naive handling of unspecified custom fields]: images/neat.png
+  [naive handling of unspecified custom fields]: /images/neat.png
   [Chunk]: https://github.com/tbunnyman/pelican-chunk
   [Bootstrap 2]: https://github.com/getpelican/pelican-themes/tree/master/bootstrap2

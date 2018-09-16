@@ -55,6 +55,6 @@ If I provide 3 as command line argument, I get this:
 This feature left me pleasantly surprised.
 
   [matplolib]: http://matplotlib.org
-  [image resulting from running the code above]: images/matplotlib-1.png
+  [image resulting from running the code above]: /images/matplotlib-1.png
   [as I did previously]: http://tshepang.net/plotting-with-matplotlib
-  [1]: images/matplotlib-2.png
+  [1]: /images/matplotlib-2.png

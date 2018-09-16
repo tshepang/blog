@@ -214,7 +214,7 @@ For a complete list of the movies I reviewed for the year, visit the
   [Sex, Lies, and Videotape]: http://tshepang.net/sex-lies-and-videotape-1989
   [Tangled]: http://tshepang.net/tangled-2010
   [The Seventh Seal]: http://tshepang.net/the-seventh-seal-1957
-  [The Kings's Speech]: http://tshepang.net/the-kings-speech-2010
+  [The Kings's Speech]: http://tshepang.net/the-king-s-speech-2010
   [Shelter]: http://tshepang.net/shelter-2010
   [Orphan]: http://tshepang.net/orphan-2009
   [The Chronicles of Narnia: The Voyage of the Dawn Treader]: http://tshepang.net/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010
