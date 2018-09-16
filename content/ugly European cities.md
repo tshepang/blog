@@ -1,7 +1,6 @@
 +++
 date = 2008-02-17
 title = "ugly European cities"
-
 [taxonomies]
 categories = ['movies']
 +++

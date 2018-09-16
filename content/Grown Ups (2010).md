@@ -1,7 +1,6 @@
 +++
 date = 2011-08-01
 title = "Grown Ups (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

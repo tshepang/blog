@@ -1,7 +1,6 @@
 +++
 date = 2011-07-16
 title = "Asterix and the Vikings (2006)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

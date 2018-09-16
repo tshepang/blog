@@ -1,7 +1,6 @@
 +++
 date = 2014-09-14
 title = "Godzilla (2014)"
-
 [taxonomies]
 tags = ['2014-movie', 'average']
 categories = ['movies']

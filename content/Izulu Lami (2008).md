@@ -1,7 +1,6 @@
 +++
 date = 2012-07-21
 title = "Izulu Lami (2008)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

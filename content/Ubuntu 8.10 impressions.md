@@ -1,7 +1,6 @@
 +++
 date = 2008-11-13
 title = "Ubuntu 8.10 impressions"
-
 [taxonomies]
 tags = ['non-Debian']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2009-12-22
 title = "more of Jia"
-
 [taxonomies]
 categories = ['movies']
 +++

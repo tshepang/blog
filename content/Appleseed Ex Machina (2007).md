@@ -1,7 +1,6 @@
 +++
 date = 2012-05-29
 title = "Appleseed Ex Machina (2007)"
-
 [taxonomies]
 tags = ['decent', '2012-movie']
 categories = ['movies']

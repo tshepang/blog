@@ -1,7 +1,6 @@
 +++
 date = 2012-11-03
 title = "Dark Shadows (2012)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

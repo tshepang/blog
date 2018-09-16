@@ -1,7 +1,6 @@
 +++
 date = 2011-04-25
 title = "True Grit (1969)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

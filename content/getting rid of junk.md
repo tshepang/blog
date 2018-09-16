@@ -1,7 +1,6 @@
 +++
 date = 2011-01-22
 title = "getting rid of junk"
-
 [taxonomies]
 tags = ['atheism']
 +++

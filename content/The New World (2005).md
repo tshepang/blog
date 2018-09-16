@@ -1,7 +1,6 @@
 +++
 date = 2008-12-26
 title = "The New World (2005)"
-
 [taxonomies]
 tags = ['2008-movie', 'unrated']
 categories = ['movies']

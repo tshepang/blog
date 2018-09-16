@@ -1,7 +1,6 @@
 +++
 date = 2008-12-27
 title = "The Incredible Hulk (2008)"
-
 [taxonomies]
 tags = ['2008-movie', 'decent']
 categories = ['movies']

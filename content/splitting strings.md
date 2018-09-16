@@ -1,7 +1,6 @@
 +++
 date = 2011-02-01
 title = "splitting strings"
-
 [taxonomies]
 tags = ['Python', 'non-Python']
 +++

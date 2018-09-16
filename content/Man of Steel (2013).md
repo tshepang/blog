@@ -1,7 +1,6 @@
 +++
 date = 2013-10-05
 title = "Man of Steel (2013)"
-
 [taxonomies]
 tags = ['good', '2013-movie']
 categories = ['movies']

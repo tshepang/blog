@@ -1,7 +1,6 @@
 +++
 date = 2012-01-07
 title = "Colombiana (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

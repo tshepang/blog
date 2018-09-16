@@ -1,7 +1,6 @@
 +++
 date = 2008-09-18
 title = "'Catch A Fire' and South African cinema"
-
 [taxonomies]
 categories = ['movies']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-06-04
 title = "Inglourious Basterds (2009)"
-
 [taxonomies]
 tags = ['excellent', '2009-movie']
 categories = ['movies']

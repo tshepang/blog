@@ -1,7 +1,6 @@
 +++
 date = 2011-05-23
 title = "Rango (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

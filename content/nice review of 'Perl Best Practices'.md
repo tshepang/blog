@@ -1,7 +1,6 @@
 +++
 date = 2010-07-20
 title = "nice review of 'Perl Best Practices'"
-
 [taxonomies]
 tags = ['non-Python', 'quote', 'humor']
 +++

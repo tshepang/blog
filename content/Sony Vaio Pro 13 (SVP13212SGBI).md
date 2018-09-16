@@ -1,7 +1,6 @@
 +++
 date = 2014-04-24
 title = "Sony Vaio Pro 13 (SVP13212SGBI)"
-
 [taxonomies]
 tags = ['hardware']
 +++

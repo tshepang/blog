@@ -1,7 +1,6 @@
 +++
 date = 2010-07-26
 title = "revisiting 'Ghost Dog'"
-
 [taxonomies]
 categories = ['movies']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-02-01
 title = "Schindler's List (1993)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

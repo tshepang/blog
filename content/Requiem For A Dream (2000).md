@@ -1,7 +1,6 @@
 +++
 date = 2011-12-31
 title = "Requiem For A Dream (2000)"
-
 [taxonomies]
 tags = ['masterpiece']
 categories = ['movies']

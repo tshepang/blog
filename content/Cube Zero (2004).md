@@ -1,7 +1,6 @@
 +++
 date = 2013-02-21
 title = "Cube Zero (2004)"
-
 [taxonomies]
 tags = ['2013-movie', 'average']
 categories = ['movies']

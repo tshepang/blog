@@ -1,7 +1,6 @@
 +++
 date = 2012-12-21
 title = "top tracks: The Roots"
-
 [taxonomies]
 tags = ['top-tracks', 'music', 'hip-hop']
 +++

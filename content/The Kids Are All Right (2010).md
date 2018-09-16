@@ -1,7 +1,6 @@
 +++
 date = 2012-07-29
 title = "The Kids Are All Right (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

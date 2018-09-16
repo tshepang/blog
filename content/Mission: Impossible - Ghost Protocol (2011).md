@@ -1,7 +1,6 @@
 +++
 date = 2012-12-09
 title = "Mission: Impossible - Ghost Protocol (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

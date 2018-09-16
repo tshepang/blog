@@ -1,7 +1,6 @@
 +++
 date = 2010-08-30
 title = "Argument from Beauty"
-
 [taxonomies]
 tags = ['atheism', 'humor']
 +++

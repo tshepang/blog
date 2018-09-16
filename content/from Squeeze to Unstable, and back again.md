@@ -1,7 +1,6 @@
 +++
 date = 2011-04-26
 title = "from Squeeze to Unstable, and back again"
-
 [taxonomies]
 tags = ['Debian', 'GNOME']
 +++

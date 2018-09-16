@@ -1,7 +1,6 @@
 +++
 date = 2008-09-26
 title = "only the processor survives"
-
 [taxonomies]
 tags = ['hardware']
 +++

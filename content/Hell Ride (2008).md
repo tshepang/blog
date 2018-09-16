@@ -1,7 +1,6 @@
 +++
 date = 2011-03-06
 title = "Hell Ride (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

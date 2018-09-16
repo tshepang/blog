@@ -1,7 +1,6 @@
 +++
 date = 2011-05-29
 title = "Precious (2009)"
-
 [taxonomies]
 tags = ['2010-movie', 'masterpiece']
 categories = ['movies']

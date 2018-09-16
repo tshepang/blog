@@ -1,7 +1,6 @@
 +++
 date = 2011-04-02
 title = "Dracula (1992)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

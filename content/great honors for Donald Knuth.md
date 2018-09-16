@@ -1,7 +1,6 @@
 +++
 date = 2010-10-19
 title = "great honors for Donald Knuth"
-
 [taxonomies]
 tags = ['quote']
 +++

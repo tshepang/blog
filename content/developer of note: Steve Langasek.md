@@ -1,7 +1,6 @@
 +++
 date = 2007-06-11
 title = "developer of note: Steve Langasek"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note']
 +++

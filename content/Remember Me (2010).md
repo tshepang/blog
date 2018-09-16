@@ -1,7 +1,6 @@
 +++
 date = 2012-04-24
 title = "Remember Me (2010)"
-
 [taxonomies]
 tags = ['decent', '2012-movie']
 categories = ['movies']

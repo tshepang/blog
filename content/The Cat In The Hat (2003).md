@@ -1,7 +1,6 @@
 +++
 date = 2011-02-20
 title = "The Cat In The Hat (2003)"
-
 [taxonomies]
 tags = ['2011-movie', 'excellent']
 categories = ['movies']

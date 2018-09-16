@@ -1,7 +1,6 @@
 +++
 date = 2008-02-17
 title = "'Cloverfield' vs. 'I Am Legend'"
-
 [taxonomies]
 categories = ['movies']
 +++

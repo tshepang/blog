@@ -1,7 +1,6 @@
 +++
 date = 2011-12-12
 title = "Mulholland Drive (2001)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

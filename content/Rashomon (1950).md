@@ -1,7 +1,6 @@
 +++
 date = 2010-05-17
 title = "Rashomon (1950)"
-
 [taxonomies]
 tags = ['average', '2009-movie']
 categories = ['movies']

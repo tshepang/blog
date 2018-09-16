@@ -1,7 +1,6 @@
 +++
 date = 2007-04-10
 title = "'300', the visual masterpiece; 'Pulp Fiction', the ex-masterpiece"
-
 [taxonomies]
 categories = ['movies']
 +++

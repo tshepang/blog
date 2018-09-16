@@ -1,7 +1,6 @@
 +++
 date = 2015-07-17
 title = "top tracks: Louis Armstrong"
-
 [taxonomies]
 tags = ['music', 'top-tracks']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2013-08-18
 title = "Savages (2012)"
-
 [taxonomies]
 tags = ['2013-movie', 'good']
 categories = ['movies']

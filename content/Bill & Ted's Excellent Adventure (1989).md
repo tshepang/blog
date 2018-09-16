@@ -1,7 +1,6 @@
 +++
 date = 2011-02-04
 title = "Bill & Ted's Excellent Adventure (1989)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

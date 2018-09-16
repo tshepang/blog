@@ -1,7 +1,6 @@
 +++
 date = 2011-01-25
 title = "shlex and subprocess"
-
 [taxonomies]
 tags = ['Python']
 +++

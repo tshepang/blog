@@ -1,7 +1,6 @@
 +++
 date = 2011-11-02
 title = "Java gripes"
-
 [taxonomies]
 tags = ['non-Python', 'Python']
 +++

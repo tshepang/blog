@@ -1,7 +1,6 @@
 +++
 date = 2011-08-21
 title = "Monty Python's The Meaning Of Life (1983)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

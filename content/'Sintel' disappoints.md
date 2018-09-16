@@ -1,7 +1,6 @@
 +++
 date = 2010-11-02
 title = "'Sintel' disappoints"
-
 [taxonomies]
 categories = ['movies']
 +++

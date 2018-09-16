@@ -1,7 +1,6 @@
 +++
 date = 2012-11-10
 title = "Spread (2009)"
-
 [taxonomies]
 tags = ['good', '2010-movie']
 categories = ['movies']

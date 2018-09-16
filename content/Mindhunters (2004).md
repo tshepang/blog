@@ -1,7 +1,6 @@
 +++
 date = 2011-11-15
 title = "Mindhunters (2004)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

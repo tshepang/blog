@@ -1,7 +1,6 @@
 +++
 date = 2013-03-22
 title = "What's Eating Gilbert Grape (1993)"
-
 [taxonomies]
 tags = ['2013-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-01-15
 title = "developer of note: Jeff Forcier"
-
 [taxonomies]
 tags = ['Python', 'developer-of-note']
 +++

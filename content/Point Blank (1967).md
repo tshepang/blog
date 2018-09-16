@@ -1,7 +1,6 @@
 +++
 date = 2013-03-24
 title = "Point Blank (1967)"
-
 [taxonomies]
 tags = ['2013-movie', 'decent']
 categories = ['movies']

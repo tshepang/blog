@@ -1,7 +1,6 @@
 +++
 date = 2011-03-27
 title = "Saw: The Final Chapter (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

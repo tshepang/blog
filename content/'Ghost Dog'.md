@@ -1,7 +1,6 @@
 +++
 date = 2009-01-09
 title = "'Ghost Dog'"
-
 [taxonomies]
 categories = ['movies']
 +++

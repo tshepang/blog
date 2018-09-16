@@ -1,7 +1,6 @@
 +++
 date = 2011-12-27
 title = "Sweeney Todd - The Demon Barber of Fleet Street (2007)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

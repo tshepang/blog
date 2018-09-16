@@ -1,7 +1,6 @@
 +++
 date = 2013-04-11
 title = "me likes subprocess.DEVNULL"
-
 [taxonomies]
 tags = ['Python', 'VCS']
 +++

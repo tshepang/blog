@@ -1,7 +1,6 @@
 +++
 date = 2013-04-07
 title = "a bit of poetry"
-
 [taxonomies]
 tags = ['quote']
 +++

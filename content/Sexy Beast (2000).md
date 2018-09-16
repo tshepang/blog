@@ -1,7 +1,6 @@
 +++
 date = 2011-12-21
 title = "Sexy Beast (2000)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

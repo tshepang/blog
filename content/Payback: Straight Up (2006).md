@@ -1,7 +1,6 @@
 +++
 date = 2013-03-31
 title = "Payback: Straight Up (2006)"
-
 [taxonomies]
 tags = ['excellent', '2013-movie']
 categories = ['movies']

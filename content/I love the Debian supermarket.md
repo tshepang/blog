@@ -1,7 +1,6 @@
 +++
 date = 2010-05-05
 title = "I love the Debian supermarket"
-
 [taxonomies]
 tags = ['Debian']
 +++

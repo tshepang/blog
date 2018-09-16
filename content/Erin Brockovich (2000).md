@@ -1,7 +1,6 @@
 +++
 date = 2011-03-12
 title = "Erin Brockovich (2000)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2016-01-21
 title = "Asus Zenbook UX305FA"
-
 [taxonomies]
 tags = ['hardware']
 +++

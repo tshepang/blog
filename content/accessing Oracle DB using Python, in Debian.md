@@ -1,7 +1,6 @@
 +++
 date = 2011-01-15
 title = "accessing Oracle DB using Python, in Debian"
-
 [taxonomies]
 tags = ['Debian', 'Python', 'non-FLOSS']
 +++

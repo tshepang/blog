@@ -1,7 +1,6 @@
 +++
 date = 2008-11-26
 title = "GNOME killer app"
-
 [taxonomies]
 tags = ['GNOME']
 +++

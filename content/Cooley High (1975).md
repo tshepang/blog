@@ -1,7 +1,6 @@
 +++
 date = 2011-04-25
 title = "Cooley High (1975)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-11-11
 title = "Seven Samurai (1954)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

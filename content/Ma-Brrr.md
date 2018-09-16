@@ -1,7 +1,6 @@
 +++
 date = 2011-01-14
 title = "Ma-Brrr"
-
 [taxonomies]
 tags = ['music', 'theatre']
 +++

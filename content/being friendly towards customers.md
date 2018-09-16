@@ -1,7 +1,6 @@
 +++
 date = 2008-07-16
 title = "being friendly towards customers"
-
 [taxonomies]
 tags = ['quote']
 +++

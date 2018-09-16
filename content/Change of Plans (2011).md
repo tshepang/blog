@@ -1,7 +1,6 @@
 +++
 date = 2012-07-22
 title = "Change of Plans (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

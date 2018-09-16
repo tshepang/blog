@@ -1,7 +1,6 @@
 +++
 date = 2012-07-23
 title = "The Infidel (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2014-03-14
 title = "The Butler (2013)"
-
 [taxonomies]
 tags = ['2014-movie', 'average']
 categories = ['movies']

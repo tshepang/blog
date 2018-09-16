@@ -1,7 +1,6 @@
 +++
 date = 2012-11-13
 title = "The Green Mile (1999)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

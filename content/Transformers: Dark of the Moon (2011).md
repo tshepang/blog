@@ -1,7 +1,6 @@
 +++
 date = 2012-06-08
 title = "Transformers: Dark of the Moon (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

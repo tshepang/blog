@@ -1,7 +1,6 @@
 +++
 date = 2013-08-18
 title = "Redbelt (2007)"
-
 [taxonomies]
 tags = ['2013-movie', 'excellent']
 categories = ['movies']

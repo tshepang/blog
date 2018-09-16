@@ -1,7 +1,6 @@
 +++
 date = 2012-04-23
 title = "Goodfellas (1990)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-02-19
 title = "The Stepfather (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

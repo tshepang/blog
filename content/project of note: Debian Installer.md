@@ -1,7 +1,6 @@
 +++
 date = 2014-03-20
 title = "project of note: Debian Installer"
-
 [taxonomies]
 tags = ['Debian', 'non-Debian', 'project-of-note', 'quote']
 +++

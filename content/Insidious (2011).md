@@ -1,7 +1,6 @@
 +++
 date = 2011-08-07
 title = "Insidious (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

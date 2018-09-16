@@ -1,7 +1,6 @@
 +++
 date = 2012-05-15
 title = "developer of note: Martin Pitt"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note', 'non-Debian']
 +++

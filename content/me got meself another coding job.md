@@ -1,7 +1,6 @@
 +++
 date = 2012-08-02
 title = "me got meself another coding job"
-
 [taxonomies]
 tags = ['luck']
 +++

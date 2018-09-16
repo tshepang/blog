@@ -1,7 +1,6 @@
 +++
 date = 2013-10-19
 title = "projects with excellent documentation"
-
 [taxonomies]
 tags = ['list', 'Emacs', 'Python']
 +++

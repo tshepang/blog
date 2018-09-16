@@ -1,7 +1,6 @@
 +++
 date = 2012-05-20
 title = "J. Edgar (2011)"
-
 [taxonomies]
 tags = ['average', '2012-movie']
 categories = ['movies']

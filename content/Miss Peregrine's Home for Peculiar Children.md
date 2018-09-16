@@ -1,7 +1,6 @@
 +++
 date = 2017-02-14
 title = "Miss Peregrine's Home for Peculiar Children"
-
 [taxonomies]
 tags = ['decent', '2016']
 categories = ['movies']

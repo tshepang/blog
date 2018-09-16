@@ -1,7 +1,6 @@
 +++
 date = 2013-07-20
 title = "Goodbye Uncle Tom (1971)"
-
 [taxonomies]
 tags = ['good', '2013-movie']
 categories = ['movies']

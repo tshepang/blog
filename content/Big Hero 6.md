@@ -1,7 +1,6 @@
 +++
 date = 2015-03-17
 title = "Big Hero 6"
-
 [taxonomies]
 tags = ['2014', 'average']
 categories = ['movies']

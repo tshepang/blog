@@ -1,7 +1,6 @@
 +++
 date = 2011-02-16
 title = "Munich (2005)"
-
 [taxonomies]
 tags = ['2007-movie', 'good']
 categories = ['movies']

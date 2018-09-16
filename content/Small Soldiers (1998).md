@@ -1,7 +1,6 @@
 +++
 date = 2009-02-13
 title = "Small Soldiers (1998)"
-
 [taxonomies]
 tags = ['2009-movie', 'unrated']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-05-20
 title = "Gladiator (2000)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

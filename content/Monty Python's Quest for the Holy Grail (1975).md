@@ -1,7 +1,6 @@
 +++
 date = 2011-08-08
 title = "Monty Python's Quest for the Holy Grail (1975)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

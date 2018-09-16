@@ -1,7 +1,6 @@
 +++
 date = 2014-12-22
 title = "Wreck-It Ralph (2012)"
-
 [taxonomies]
 tags = ['good', '2014-movie']
 categories = ['movies']

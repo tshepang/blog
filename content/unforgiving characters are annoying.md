@@ -1,7 +1,6 @@
 +++
 date = 2012-07-08
 title = "unforgiving characters are annoying"
-
 [taxonomies]
 categories = ['movies']
 +++

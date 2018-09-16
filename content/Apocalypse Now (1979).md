@@ -1,7 +1,6 @@
 +++
 date = 2011-04-25
 title = "Apocalypse Now (1979)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2007-12-03
 title = "games in Debian"
-
 [taxonomies]
 tags = ['Debian']
 +++

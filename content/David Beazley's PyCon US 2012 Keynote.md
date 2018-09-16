@@ -1,7 +1,6 @@
 +++
 date = 2012-04-09
 title = "David Beazley's PyCon US 2012 Keynote"
-
 [taxonomies]
 tags = ['Python']
 +++

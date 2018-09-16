@@ -1,7 +1,6 @@
 +++
 date = 2011-08-06
 title = "Captain America: The First Avenger (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

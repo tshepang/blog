@@ -2,7 +2,6 @@
 date = 2013-10-27
 summary = "comparing performance of my laptop and my work machine"
 title = "a bit of benchmarking"
-
 [taxonomies]
 tags = ['Python']
 +++

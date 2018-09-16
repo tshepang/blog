@@ -1,7 +1,6 @@
 +++
 date = 2012-01-26
 title = "The Company Men (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

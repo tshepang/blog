@@ -1,7 +1,6 @@
 +++
 date = 2012-07-09
 title = "The Ides of March (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

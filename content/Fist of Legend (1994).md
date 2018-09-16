@@ -1,7 +1,6 @@
 +++
 date = 2014-05-24
 title = "Fist of Legend (1994)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

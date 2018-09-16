@@ -1,7 +1,6 @@
 +++
 date = 2010-07-13
 title = "Citizen Kane (1941)"
-
 [taxonomies]
 categories = ['movies']
 +++

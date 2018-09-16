@@ -1,7 +1,6 @@
 +++
 date = 2011-01-31
 title = "God On Trial (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

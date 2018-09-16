@@ -1,7 +1,6 @@
 +++
 date = 2011-06-26
 title = "Get Him to the Greek (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

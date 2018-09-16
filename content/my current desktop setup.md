@@ -1,7 +1,6 @@
 +++
 date = 2014-02-16
 title = "my current desktop setup"
-
 [taxonomies]
 tags = ['GNOME', 'Debian']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2016-06-13
 title = "Iron Man 2"
-
 [taxonomies]
 tags = ['2010', 'good']
 categories = ['movies']

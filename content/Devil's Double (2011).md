@@ -1,7 +1,6 @@
 +++
 date = 2013-08-30
 title = "Devil's Double (2011)"
-
 [taxonomies]
 tags = ['2013-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2014-03-27
 title = "Excision (2012)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

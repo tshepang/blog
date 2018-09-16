@@ -1,7 +1,6 @@
 +++
 date = 2012-02-01
 title = "attachment can lead to irrational behaviour"
-
 [taxonomies]
 tags = ['Debian', 'non-Python']
 +++

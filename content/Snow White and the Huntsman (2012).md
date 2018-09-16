@@ -1,7 +1,6 @@
 +++
 date = 2012-10-13
 title = "Snow White and the Huntsman (2012)"
-
 [taxonomies]
 tags = ['substandard', '2012-movie']
 categories = ['movies']

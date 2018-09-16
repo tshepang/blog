@@ -1,7 +1,6 @@
 +++
 date = 2011-04-27
 title = "Tangled (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'excellent']
 categories = ['movies']

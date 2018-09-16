@@ -1,7 +1,6 @@
 +++
 date = 2012-01-15
 title = "Serpico (1973)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2016-01-15
 title = "Ex Machina"
-
 [taxonomies]
 tags = ['2015', 'good']
 categories = ['movies']

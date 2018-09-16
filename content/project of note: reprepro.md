@@ -1,7 +1,6 @@
 +++
 date = 2012-05-11
 title = "project of note: reprepro"
-
 [taxonomies]
 tags = ['Debian', 'project-of-note']
 +++

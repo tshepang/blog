@@ -1,7 +1,6 @@
 +++
 date = 2011-11-22
 title = "The Silence of the Lambs (1991)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

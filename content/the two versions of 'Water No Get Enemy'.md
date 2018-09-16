@@ -1,7 +1,6 @@
 +++
 date = 2014-02-23
 title = "the two versions of 'Water No Get Enemy'"
-
 [taxonomies]
 tags = ['music', 'excellent']
 +++

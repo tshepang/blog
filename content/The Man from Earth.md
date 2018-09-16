@@ -1,7 +1,6 @@
 +++
 date = 2015-06-26
 title = "The Man from Earth"
-
 [taxonomies]
 tags = ['2007', 'decent']
 categories = ['movies']

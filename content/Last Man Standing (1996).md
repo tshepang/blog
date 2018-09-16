@@ -1,7 +1,6 @@
 +++
 date = 2011-03-06
 title = "Last Man Standing (1996)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

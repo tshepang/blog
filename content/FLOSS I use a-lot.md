@@ -1,7 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
 date = 2018-09-12
-
 [taxonomies]
 tags = ['list']
 +++

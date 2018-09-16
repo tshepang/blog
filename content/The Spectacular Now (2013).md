@@ -1,7 +1,6 @@
 +++
 date = 2014-10-04
 title = "The Spectacular Now (2013)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

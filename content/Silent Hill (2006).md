@@ -1,7 +1,6 @@
 +++
 date = 2013-03-29
 title = "Silent Hill (2006)"
-
 [taxonomies]
 tags = ['2008-movie', 'average']
 categories = ['movies']

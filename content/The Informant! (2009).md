@@ -1,7 +1,6 @@
 +++
 date = 2011-03-12
 title = "The Informant! (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

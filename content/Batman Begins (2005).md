@@ -1,7 +1,6 @@
 +++
 date = 2012-07-17
 title = "Batman Begins (2005)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

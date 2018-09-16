@@ -1,7 +1,6 @@
 +++
 date = 2014-11-15
 title = "Good People (2014)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

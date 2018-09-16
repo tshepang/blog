@@ -1,7 +1,6 @@
 +++
 date = 2015-05-25
 title = "various Rust ways of displaying stuff to the screen"
-
 [taxonomies]
 tags = ['Rust']
 +++

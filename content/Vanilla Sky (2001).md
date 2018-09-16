@@ -1,7 +1,6 @@
 +++
 date = 2011-11-28
 title = "Vanilla Sky (2001)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

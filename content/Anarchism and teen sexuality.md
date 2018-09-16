@@ -1,7 +1,6 @@
 +++
 date = 2007-06-01
 title = "Anarchism and teen sexuality"
-
 [taxonomies]
 tags = ['politics']
 +++

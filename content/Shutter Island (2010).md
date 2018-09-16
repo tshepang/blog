@@ -1,7 +1,6 @@
 +++
 date = 2011-12-12
 title = "Shutter Island (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

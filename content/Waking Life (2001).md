@@ -1,7 +1,6 @@
 +++
 date = 2014-05-04
 title = "Waking Life (2001)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

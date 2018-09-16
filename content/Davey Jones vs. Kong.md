@@ -1,7 +1,6 @@
 +++
 date = 2007-04-11
 title = "Davey Jones vs. Kong"
-
 [taxonomies]
 categories = ['movies']
 +++

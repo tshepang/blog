@@ -1,7 +1,6 @@
 +++
 title = "top movies"
 date = 2014-12-22
-
 [taxonomies]
 categories = ['movies']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-08-15
 title = "Machete (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

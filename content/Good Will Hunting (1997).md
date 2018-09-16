@@ -1,7 +1,6 @@
 +++
 date = 2011-02-08
 title = "Good Will Hunting (1997)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

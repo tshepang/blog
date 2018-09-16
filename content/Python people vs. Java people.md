@@ -1,7 +1,6 @@
 +++
 date = 2010-05-04
 title = "Python people vs. Java people"
-
 [taxonomies]
 tags = ['non-Python', 'Python']
 +++

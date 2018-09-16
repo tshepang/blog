@@ -1,7 +1,6 @@
 +++
 date = 2012-07-17
 title = "Debian 7 will release with wajig 2.7.3"
-
 [taxonomies]
 tags = ['wajig', 'Debian']
 +++

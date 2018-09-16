@@ -1,7 +1,6 @@
 +++
 date = 2007-06-04
 title = "'Next' and 'The Island'"
-
 [taxonomies]
 categories = ['movies']
 +++

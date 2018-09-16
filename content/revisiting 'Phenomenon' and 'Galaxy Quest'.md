@@ -1,7 +1,6 @@
 +++
 date = 2007-06-21
 title = "revisiting 'Phenomenon' and 'Galaxy Quest'"
-
 [taxonomies]
 categories = ['movies']
 +++

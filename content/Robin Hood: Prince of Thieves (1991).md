@@ -1,7 +1,6 @@
 +++
 date = 2011-03-05
 title = "Robin Hood: Prince of Thieves (1991)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

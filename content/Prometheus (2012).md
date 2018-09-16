@@ -1,7 +1,6 @@
 +++
 date = 2012-10-02
 title = "Prometheus (2012)"
-
 [taxonomies]
 tags = ['good', '2012-movie']
 categories = ['movies']

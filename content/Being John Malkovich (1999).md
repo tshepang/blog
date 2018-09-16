@@ -1,7 +1,6 @@
 +++
 date = 2012-04-15
 title = "Being John Malkovich (1999)"
-
 [taxonomies]
 tags = ['masterpiece']
 categories = ['movies']

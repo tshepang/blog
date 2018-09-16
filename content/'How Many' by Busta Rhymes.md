@@ -1,7 +1,6 @@
 +++
 date = 2013-04-28
 title = "'How Many' by Busta Rhymes"
-
 [taxonomies]
 tags = ['music', 'hip-hop']
 +++

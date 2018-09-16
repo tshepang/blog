@@ -1,7 +1,6 @@
 +++
 date = 2012-05-04
 title = "Battleship (2012)"
-
 [taxonomies]
 tags = ['decent', '2012-movie']
 categories = ['movies']

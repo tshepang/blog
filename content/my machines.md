@@ -1,7 +1,6 @@
 +++
 date = 2008-09-26
 title = "my machines"
-
 [taxonomies]
 tags = ['hardware']
 +++

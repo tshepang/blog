@@ -1,7 +1,6 @@
 +++
 date = 2013-07-28
 title = "Crash (2004)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

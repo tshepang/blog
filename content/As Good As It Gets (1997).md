@@ -1,7 +1,6 @@
 +++
 date = 2012-04-22
 title = "As Good As It Gets (1997)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

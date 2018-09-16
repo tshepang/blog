@@ -1,7 +1,6 @@
 +++
 date = 2013-03-25
 title = "A History Of Violence (2005)"
-
 [taxonomies]
 tags = ['good', '2006-movie']
 categories = ['movies']

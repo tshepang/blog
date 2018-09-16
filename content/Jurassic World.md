@@ -1,7 +1,6 @@
 +++
 date = 2015-08-26
 title = "Jurassic World"
-
 [taxonomies]
 tags = ['2015', 'decent']
 categories = ['movies']

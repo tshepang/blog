@@ -1,7 +1,6 @@
 +++
 date = 2012-12-09
 title = "A Nightmare on Elm Street (1984)"
-
 [taxonomies]
 tags = ['2012-movie', 'bad']
 categories = ['movies']

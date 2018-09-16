@@ -1,7 +1,6 @@
 +++
 date = 2013-04-19
 title = "Freelancers (2012)"
-
 [taxonomies]
 tags = ['2013-movie', 'good']
 categories = ['movies']

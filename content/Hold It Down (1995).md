@@ -1,7 +1,6 @@
 +++
 date = 2011-02-20
 title = "Hold It Down (1995)"
-
 [taxonomies]
 tags = ['excellent', 'hip-hop', 'music']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-03-16
 title = "where I live on the web"
-
 [taxonomies]
 tags = ['Debian', 'Python']
 +++

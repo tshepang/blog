@@ -1,7 +1,6 @@
 +++
 date = 2010-02-24
 title = "Kinsey (2004)"
-
 [taxonomies]
 tags = ['2008-movie', 'good']
 categories = ['movies']

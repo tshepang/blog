@@ -1,7 +1,6 @@
 +++
 date = 2010-04-14
 title = "developer of note: Michael Biebl"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note', 'Tracker', 'GNOME']
 +++

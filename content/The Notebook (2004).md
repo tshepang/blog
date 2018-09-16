@@ -1,7 +1,6 @@
 +++
 date = 2012-05-05
 title = "The Notebook (2004)"
-
 [taxonomies]
 tags = ['2008-movie', 'substandard']
 categories = ['movies']

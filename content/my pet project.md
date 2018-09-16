@@ -1,7 +1,6 @@
 +++
 date = 2010-06-09
 title = "my pet project"
-
 [taxonomies]
 tags = ['Python']
 +++

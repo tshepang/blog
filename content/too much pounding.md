@@ -2,7 +2,6 @@
 date = 2013-09-04
 public = false
 title = "too much pounding"
-
 [taxonomies]
 tags = ['list']
 categories = ['movies']

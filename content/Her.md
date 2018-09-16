@@ -1,7 +1,6 @@
 +++
 date = 2016-01-18
 title = "Her"
-
 [taxonomies]
 tags = ['2013', 'good']
 categories = ['movies']

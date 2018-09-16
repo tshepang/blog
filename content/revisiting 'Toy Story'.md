@@ -1,7 +1,6 @@
 +++
 date = 2007-05-19
 title = "revisiting 'Toy Story'"
-
 [taxonomies]
 categories = ['movies']
 +++

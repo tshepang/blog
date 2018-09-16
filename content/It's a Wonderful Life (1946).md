@@ -1,7 +1,6 @@
 +++
 date = 2012-07-02
 title = "It's a Wonderful Life (1946)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

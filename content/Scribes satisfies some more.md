@@ -1,7 +1,6 @@
 +++
 date = 2008-11-26
 title = "Scribes satisfies some more"
-
 [taxonomies]
 tags = ['Scribes']
 +++

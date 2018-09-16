@@ -1,7 +1,6 @@
 +++
 date = 2012-07-27
 title = "Johnny English Reborn (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

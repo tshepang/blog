@@ -1,7 +1,6 @@
 +++
 date = 2015-04-01
 title = "Nightcrawler"
-
 [taxonomies]
 tags = ['excellent', '2014']
 categories = ['movies']

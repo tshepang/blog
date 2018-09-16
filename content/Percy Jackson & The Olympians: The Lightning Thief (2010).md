@@ -1,7 +1,6 @@
 +++
 date = 2011-02-13
 title = "Percy Jackson & The Olympians: The Lightning Thief (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

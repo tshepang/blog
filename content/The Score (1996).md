@@ -1,7 +1,6 @@
 +++
 date = 2015-08-08
 title = "The Score (1996)"
-
 [taxonomies]
 tags = ['music', 'hip-hop']
 +++

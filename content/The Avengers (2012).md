@@ -1,7 +1,6 @@
 +++
 date = 2012-12-10
 title = "The Avengers (2012)"
-
 [taxonomies]
 tags = ['good', '2012-movie']
 categories = ['movies']

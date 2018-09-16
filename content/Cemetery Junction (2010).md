@@ -1,7 +1,6 @@
 +++
 date = 2011-10-23
 title = "Cemetery Junction (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

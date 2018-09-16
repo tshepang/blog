@@ -1,7 +1,6 @@
 +++
 date = 2012-10-21
 title = "Idiocracy (2006)"
-
 [taxonomies]
 tags = ['average', '2012-movie']
 categories = ['movies']

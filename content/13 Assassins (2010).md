@@ -1,7 +1,6 @@
 +++
 date = 2011-05-10
 title = "13 Assassins (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

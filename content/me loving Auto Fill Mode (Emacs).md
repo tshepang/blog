@@ -1,7 +1,6 @@
 +++
 date = 2013-05-10
 title = "me loving Auto Fill Mode (Emacs)"
-
 [taxonomies]
 tags = ['Emacs', 'Scribes', 'Geany']
 +++

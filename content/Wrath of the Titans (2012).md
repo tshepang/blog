@@ -1,7 +1,6 @@
 +++
 date = 2012-09-30
 title = "Wrath of the Titans (2012)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

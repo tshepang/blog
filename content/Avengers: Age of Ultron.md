@@ -1,7 +1,6 @@
 +++
 title = "Avengers: Age of Ultron"
 date = 2016-05-07
-
 [taxonomies]
 tags = ['2015', 'good']
 categories = ['movies']

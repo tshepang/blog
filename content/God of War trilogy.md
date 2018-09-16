@@ -1,7 +1,6 @@
 +++
 date = 2013-05-31
 title = "God of War trilogy"
-
 [taxonomies]
 tags = ['excellent', 'gaming']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-11-09
 title = "The Book Thief (2013)"
-
 [taxonomies]
 tags = ['2014-movie', 'decent']
 categories = ['movies']

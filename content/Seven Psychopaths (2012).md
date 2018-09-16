@@ -1,7 +1,6 @@
 +++
 date = 2013-02-23
 title = "Seven Psychopaths (2012)"
-
 [taxonomies]
 tags = ['good', '2013-movie']
 categories = ['movies']

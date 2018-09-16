@@ -1,7 +1,6 @@
 +++
 date = 2011-08-06
 title = "Semi-Pro (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2010-08-04
 title = "Smokin' Aces (2006)"
-
 [taxonomies]
 tags = ['masterpiece']
 categories = ['movies']

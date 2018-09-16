@@ -1,7 +1,6 @@
 +++
 date = 2011-02-13
 title = "Disturbia (2007)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

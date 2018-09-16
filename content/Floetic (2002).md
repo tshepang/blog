@@ -1,7 +1,6 @@
 +++
 date = 2011-02-28
 title = "Floetic (2002)"
-
 [taxonomies]
 tags = ['music', 'very-good']
 +++

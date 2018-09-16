@@ -1,7 +1,6 @@
 +++
 date = 2012-07-14
 title = "Valve appears anarchistic"
-
 [taxonomies]
 tags = ['politics']
 +++

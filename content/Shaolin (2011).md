@@ -1,7 +1,6 @@
 +++
 date = 2011-05-10
 title = "Shaolin (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

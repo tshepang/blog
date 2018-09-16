@@ -1,7 +1,6 @@
 +++
 date = 2010-08-30
 title = "Festen (1998)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

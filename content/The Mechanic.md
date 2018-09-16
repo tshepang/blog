@@ -1,7 +1,6 @@
 +++
 date = 2015-11-30
 title = "The Mechanic"
-
 [taxonomies]
 tags = ['2011', 'average']
 categories = ['movies']

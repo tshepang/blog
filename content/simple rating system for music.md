@@ -1,7 +1,6 @@
 +++
 date = 2011-01-14
 title = "simple rating system for music"
-
 [taxonomies]
 tags = ['music']
 +++

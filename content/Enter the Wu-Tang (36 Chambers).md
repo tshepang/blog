@@ -1,7 +1,6 @@
 +++
 date = 2013-05-23
 title = "Enter the Wu-Tang (36 Chambers)"
-
 [taxonomies]
 tags = ['music', 'very-good']
 +++

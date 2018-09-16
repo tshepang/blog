@@ -1,7 +1,6 @@
 +++
 date = 2013-09-22
 title = "A Serbian Film (2010)"
-
 [taxonomies]
 tags = ['2013-movie', 'decent']
 categories = ['movies']

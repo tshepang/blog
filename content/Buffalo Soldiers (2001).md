@@ -1,7 +1,6 @@
 +++
 date = 2012-12-17
 title = "Buffalo Soldiers (2001)"
-
 [taxonomies]
 tags = ['2008-movie', 'decent']
 categories = ['movies']

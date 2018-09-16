@@ -1,7 +1,6 @@
 +++
 date = 2009-07-01
 title = "recent ex-anticipated movies"
-
 [taxonomies]
 categories = ['movies']
 +++

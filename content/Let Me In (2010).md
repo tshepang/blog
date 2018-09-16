@@ -1,7 +1,6 @@
 +++
 date = 2011-04-26
 title = "Let Me In (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-01-31
 title = "I Am Love (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

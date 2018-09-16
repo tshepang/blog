@@ -1,7 +1,6 @@
 +++
 date = 2011-11-22
 title = "Lost In Space (1998)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-01-06
 title = "The Green Hornet (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

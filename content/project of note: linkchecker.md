@@ -1,7 +1,6 @@
 +++
 date = 2011-01-18
 title = "project of note: linkchecker"
-
 [taxonomies]
 tags = ['project-of-note']
 +++

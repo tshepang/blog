@@ -1,7 +1,6 @@
 +++
 title = "ideal static blog generator"
 date = 2015-01-11
-
 [taxonomies]
 tags = ['blogging']
 +++

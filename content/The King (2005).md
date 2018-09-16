@@ -1,7 +1,6 @@
 +++
 date = 2013-05-26
 title = "The King (2005)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

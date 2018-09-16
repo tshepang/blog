@@ -1,7 +1,6 @@
 +++
 date = 2015-03-05
 title = "Sherlock Holmes: A Game of Shadows"
-
 [taxonomies]
 tags = ['good', '2011']
 categories = ['movies']

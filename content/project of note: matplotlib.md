@@ -1,7 +1,6 @@
 +++
 date = 2011-02-17
 title = "project of note: matplotlib"
-
 [taxonomies]
 tags = ['project-of-note', 'Python']
 +++

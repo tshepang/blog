@@ -1,7 +1,6 @@
 +++
 date = 2017-03-28
 title = "Arrival"
-
 [taxonomies]
 tags = ['good', '2016']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-03-05
 title = "Music is the Weapon (2004)"
-
 [taxonomies]
 tags = ['decent', 'documentary', 'music']
 +++

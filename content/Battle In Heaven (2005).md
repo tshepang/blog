@@ -1,7 +1,6 @@
 +++
 date = 2012-12-25
 title = "Battle In Heaven (2005)"
-
 [taxonomies]
 tags = ['decent', '2012-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-01-11
 title = "The Sunset Limited (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'substandard']
 categories = ['movies']

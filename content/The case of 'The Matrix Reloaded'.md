@@ -1,7 +1,6 @@
 +++
 date = 2011-05-08
 title = "The case of 'The Matrix Reloaded'"
-
 [taxonomies]
 categories = ['movies']
 +++

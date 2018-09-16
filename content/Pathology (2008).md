@@ -1,7 +1,6 @@
 +++
 date = 2014-05-04
 title = "Pathology (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

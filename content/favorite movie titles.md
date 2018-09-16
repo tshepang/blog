@@ -2,7 +2,6 @@
 date = 2013-05-25
 public = false
 title = "favorite movie titles"
-
 [taxonomies]
 tags = ['list']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2014-03-13
 title = "satires and dark comedies tend to be good movies"
-
 [taxonomies]
 tags = ['list']
 categories = ['movies']

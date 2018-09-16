@@ -1,7 +1,6 @@
 +++
 date = 2011-01-23
 title = "(500) Days of Summer (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

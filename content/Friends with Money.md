@@ -1,7 +1,6 @@
 +++
 date = 2015-06-20
 title = "Friends with Money"
-
 [taxonomies]
 tags = ['decent', '2006']
 categories = ['movies']

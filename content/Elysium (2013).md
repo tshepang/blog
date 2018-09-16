@@ -1,7 +1,6 @@
 +++
 date = 2013-12-08
 title = "Elysium (2013)"
-
 [taxonomies]
 tags = ['decent', '2013-movie']
 categories = ['movies']

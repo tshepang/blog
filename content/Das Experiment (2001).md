@@ -1,7 +1,6 @@
 +++
 date = 2011-06-29
 title = "Das Experiment (2001)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

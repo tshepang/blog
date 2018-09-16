@@ -1,7 +1,6 @@
 +++
 date = 2012-12-01
 title = "No Country for Old Men (2007)"
-
 [taxonomies]
 tags = ['2008-movie', 'good']
 categories = ['movies']

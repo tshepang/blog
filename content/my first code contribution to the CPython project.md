@@ -1,7 +1,6 @@
 +++
 date = 2011-06-10
 title = "my first code contribution to the CPython project"
-
 [taxonomies]
 tags = ['Python']
 +++

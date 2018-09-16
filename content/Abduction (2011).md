@@ -1,7 +1,6 @@
 +++
 date = 2011-12-27
 title = "Abduction (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

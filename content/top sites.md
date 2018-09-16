@@ -1,7 +1,6 @@
 +++
 date = 2013-06-01
 title = "top sites"
-
 [taxonomies]
 tags = ['list']
 +++

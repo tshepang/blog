@@ -1,7 +1,6 @@
 +++
 date = 2016-01-20
 title = "The Martian"
-
 [taxonomies]
 tags = ['2015', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2008-10-18
 title = "favorite laptop"
-
 [taxonomies]
 tags = ['hardware']
 +++

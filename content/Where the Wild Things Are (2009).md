@@ -1,7 +1,6 @@
 +++
 date = 2011-12-21
 title = "Where the Wild Things Are (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

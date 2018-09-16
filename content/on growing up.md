@@ -1,7 +1,6 @@
 +++
 date = 2013-03-01
 title = "on growing up"
-
 [taxonomies]
 tags = ['humor', 'Python', 'quote']
 +++

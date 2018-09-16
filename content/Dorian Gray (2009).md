@@ -1,7 +1,6 @@
 +++
 date = 2011-02-13
 title = "Dorian Gray (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-07-13
 title = "Bob The Butler (2005)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

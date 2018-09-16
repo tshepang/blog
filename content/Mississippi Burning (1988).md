@@ -1,7 +1,6 @@
 +++
 date = 2012-01-15
 title = "Mississippi Burning (1988)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

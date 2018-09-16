@@ -1,7 +1,6 @@
 +++
 date = 2012-04-29
 title = "Persona (1966)"
-
 [taxonomies]
 tags = ['average', '2008-movie']
 categories = ['movies']

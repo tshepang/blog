@@ -1,7 +1,6 @@
 +++
 date = 2011-06-26
 title = "Gulliver's Travels (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

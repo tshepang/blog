@@ -1,7 +1,6 @@
 +++
 date = 2014-03-20
 title = "The Iceman (2012)"
-
 [taxonomies]
 tags = ['good', '2014-movie']
 categories = ['movies']

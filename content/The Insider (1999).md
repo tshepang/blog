@@ -1,7 +1,6 @@
 +++
 date = 2011-03-17
 title = "The Insider (1999)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-11-10
 title = "Devil in a Blue Dress (1995)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

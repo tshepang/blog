@@ -1,7 +1,6 @@
 +++
 date = 2010-11-05
 title = "when it seems OK to compromise on software freedom"
-
 [taxonomies]
 tags = ['non-FLOSS']
 +++

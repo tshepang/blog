@@ -1,7 +1,6 @@
 +++
 date = 2011-07-28
 title = "The Midnight Meat Train (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

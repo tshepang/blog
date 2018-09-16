@@ -1,7 +1,6 @@
 +++
 date = 2011-03-19
 title = "my JHBuild setup"
-
 [taxonomies]
 tags = ['GNOME']
 +++

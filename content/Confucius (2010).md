@@ -1,7 +1,6 @@
 +++
 date = 2011-09-14
 title = "Confucius (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-10-06
 title = "I Love You Phillip Morris (2009)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

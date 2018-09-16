@@ -1,7 +1,6 @@
 +++
 date = 2012-06-02
 title = "Final Fantasy: The Spirits Within"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

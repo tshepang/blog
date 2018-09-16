@@ -1,7 +1,6 @@
 +++
 date = 2014-04-28
 title = "Contagion (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

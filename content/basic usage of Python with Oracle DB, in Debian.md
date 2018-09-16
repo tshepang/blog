@@ -1,7 +1,6 @@
 +++
 date = 2011-01-27
 title = "basic usage of Python with Oracle DB, in Debian"
-
 [taxonomies]
 tags = ['Python']
 +++

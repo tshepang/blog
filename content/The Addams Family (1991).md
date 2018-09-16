@@ -1,7 +1,6 @@
 +++
 date = 2012-06-06
 title = "The Addams Family (1991)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

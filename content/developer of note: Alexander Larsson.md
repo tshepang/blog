@@ -1,7 +1,6 @@
 +++
 date = 2007-11-09
 title = "developer of note: Alexander Larsson"
-
 [taxonomies]
 tags = ['developer-of-note', 'GNOME']
 +++

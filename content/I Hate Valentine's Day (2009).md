@@ -1,7 +1,6 @@
 +++
 date = 2011-07-17
 title = "I Hate Valentine's Day (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

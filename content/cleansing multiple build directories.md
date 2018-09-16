@@ -1,7 +1,6 @@
 +++
 date = 2011-03-26
 title = "cleansing multiple build directories"
-
 [taxonomies]
 tags = ['Python', 'GNOME']
 +++

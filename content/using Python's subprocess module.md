@@ -1,7 +1,6 @@
 +++
 date = 2011-01-26
 title = "using Python's subprocess module"
-
 [taxonomies]
 tags = ['Python']
 +++

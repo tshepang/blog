@@ -1,7 +1,6 @@
 +++
 date = 2012-06-19
 title = "when a FLOSS project gets real big"
-
 [taxonomies]
 tags = ['quote']
 +++

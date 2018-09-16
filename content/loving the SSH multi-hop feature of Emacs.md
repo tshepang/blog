@@ -1,7 +1,6 @@
 +++
 date = 2014-09-04
 title = "loving the SSH multi-hop feature of Emacs"
-
 [taxonomies]
 tags = ['Emacs']
 +++

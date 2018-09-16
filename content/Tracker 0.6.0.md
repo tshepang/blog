@@ -1,7 +1,6 @@
 +++
 date = 2007-07-25
 title = "Tracker 0.6.0"
-
 [taxonomies]
 tags = ['Tracker']
 +++

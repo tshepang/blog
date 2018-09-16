@@ -1,7 +1,6 @@
 +++
 date = 2010-05-20
 title = "developer of note: Aleksander Morgado"
-
 [taxonomies]
 tags = ['developer-of-note', 'GNOME', 'Tracker']
 +++

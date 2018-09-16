@@ -1,7 +1,6 @@
 +++
 date = 2012-06-17
 title = "The War Zone (1999)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

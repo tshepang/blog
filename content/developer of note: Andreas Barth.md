@@ -1,7 +1,6 @@
 +++
 date = 2008-06-10
 title = "developer of note: Andreas Barth"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note']
 +++

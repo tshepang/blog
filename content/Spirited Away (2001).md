@@ -1,7 +1,6 @@
 +++
 date = 2012-01-01
 title = "Spirited Away (2001)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

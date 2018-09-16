@@ -1,7 +1,6 @@
 +++
 date = 2012-07-08
 title = "Robot (2010)"
-
 [taxonomies]
 tags = ['average', '2012-movie']
 categories = ['movies']

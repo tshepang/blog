@@ -1,7 +1,6 @@
 +++
 date = 2011-01-14
 title = "evil edits"
-
 [taxonomies]
 tags = ['music']
 +++

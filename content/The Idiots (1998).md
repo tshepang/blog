@@ -1,7 +1,6 @@
 +++
 date = 2011-04-23
 title = "The Idiots (1998)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

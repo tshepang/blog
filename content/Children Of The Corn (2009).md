@@ -1,7 +1,6 @@
 +++
 date = 2011-02-13
 title = "Children Of The Corn (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

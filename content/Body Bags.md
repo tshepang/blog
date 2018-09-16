@@ -1,7 +1,6 @@
 +++
 date = 2011-01-14
 title = "Body Bags"
-
 [taxonomies]
 tags = ['comic']
 +++

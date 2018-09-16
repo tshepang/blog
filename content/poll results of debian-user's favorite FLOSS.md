@@ -1,7 +1,6 @@
 +++
 date = 2011-01-15
 title = "poll results of debian-user's favorite FLOSS"
-
 [taxonomies]
 tags = ['Debian']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2013-03-02
 title = "Skyfall (2012)"
-
 [taxonomies]
 tags = ['2013-movie', 'average']
 categories = ['movies']

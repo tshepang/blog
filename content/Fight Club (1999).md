@@ -1,7 +1,6 @@
 +++
 date = 2014-10-05
 title = "Fight Club (1999)"
-
 [taxonomies]
 tags = ['masterpiece']
 categories = ['movies']

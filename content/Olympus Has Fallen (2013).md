@@ -1,7 +1,6 @@
 +++
 date = 2013-09-06
 title = "Olympus Has Fallen (2013)"
-
 [taxonomies]
 tags = ['2013-movie', 'average']
 categories = ['movies']

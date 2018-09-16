@@ -1,7 +1,6 @@
 +++
 date = 2012-09-04
 title = "Killers (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2016-03-07
 title = "Deadpool"
-
 [taxonomies]
 tags = ['2016', 'excellent']
 categories = ['movies']

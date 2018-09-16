@@ -1,7 +1,6 @@
 +++
 date = 2010-05-10
 title = "xfrun4 rocks"
-
 [taxonomies]
 tags = ['GNOME']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2013-10-03
 title = "from Pelican to liquidluck"
-
 [taxonomies]
 tags = ['blogging']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-12-13
 title = "Princess Mononoke (1997)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

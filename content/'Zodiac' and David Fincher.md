@@ -1,7 +1,6 @@
 +++
 date = 2007-07-04
 title = "'Zodiac' and David Fincher"
-
 [taxonomies]
 categories = ['movies']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-02-28
 title = "another visit to Eastern Cape"
-
 [taxonomies]
 tags = ['travel']
 +++

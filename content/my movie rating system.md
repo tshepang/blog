@@ -1,7 +1,6 @@
 +++
 title = "my movie rating system"
 date = 2014-12-22
-
 [taxonomies]
 tags = ['untagged']
 categories = ['movies']

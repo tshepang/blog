@@ -1,7 +1,6 @@
 +++
 date = 2013-04-21
 title = "notes on desirism"
-
 [taxonomies]
 tags = ['ethics']
 +++

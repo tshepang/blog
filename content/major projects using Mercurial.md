@@ -1,7 +1,6 @@
 +++
 title = "major projects using Mercurial"
 date = 2017-08-30
-
 [taxonomies]
 tags = ['VCS', 'non-FLOSS', 'list']
 +++

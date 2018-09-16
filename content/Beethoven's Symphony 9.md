@@ -1,7 +1,6 @@
 +++
 date = 2011-02-24
 title = "Beethoven's Symphony 9"
-
 [taxonomies]
 tags = ['classical', 'music']
 +++

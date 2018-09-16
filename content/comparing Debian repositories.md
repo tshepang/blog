@@ -1,7 +1,6 @@
 +++
 date = 2011-02-09
 title = "comparing Debian repositories"
-
 [taxonomies]
 tags = ['Debian', 'Python']
 +++

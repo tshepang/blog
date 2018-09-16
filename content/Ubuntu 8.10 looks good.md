@@ -1,7 +1,6 @@
 +++
 date = 2008-10-03
 title = "Ubuntu 8.10 looks good"
-
 [taxonomies]
 tags = ['non-Debian', 'GNOME']
 +++

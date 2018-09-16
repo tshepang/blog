@@ -1,7 +1,6 @@
 +++
 date = 2011-12-09
 title = "The Passion of the Christ (2004)"
-
 [taxonomies]
 tags = ['substandard']
 categories = ['movies']

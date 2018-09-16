@@ -1,7 +1,6 @@
 +++
 date = 2008-09-28
 title = "enjoying net connection at home, finally"
-
 [taxonomies]
 tags = ['untagged']
 +++

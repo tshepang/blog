@@ -1,7 +1,6 @@
 +++
 date = 2007-05-17
 title = "Debian and Linux"
-
 [taxonomies]
 tags = ['Debian']
 +++

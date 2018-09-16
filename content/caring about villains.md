@@ -2,7 +2,6 @@
 date = 2013-09-06
 public = false
 title = "caring about villains"
-
 [taxonomies]
 tags = ['list']
 categories = ['movies']

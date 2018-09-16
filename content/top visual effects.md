@@ -1,7 +1,6 @@
 +++
 title = "top visual effects"
 date = 2014-10-29
-
 [taxonomies]
 categories = ['movies']
 +++

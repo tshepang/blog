@@ -1,7 +1,6 @@
 +++
 date = 2014-07-21
 title = "How To Train Your Dragon (2010)"
-
 [taxonomies]
 tags = ['decent', '2010-movie']
 categories = ['movies']

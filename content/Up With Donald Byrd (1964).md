@@ -1,7 +1,6 @@
 +++
 date = 2011-01-14
 title = "Up With Donald Byrd (1964)"
-
 [taxonomies]
 tags = ['music']
 +++

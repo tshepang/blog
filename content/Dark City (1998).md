@@ -1,7 +1,6 @@
 +++
 date = 2013-03-23
 title = "Dark City (1998)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

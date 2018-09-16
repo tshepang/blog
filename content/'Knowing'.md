@@ -1,7 +1,6 @@
 +++
 date = 2010-08-31
 title = "'Knowing'"
-
 [taxonomies]
 categories = ['movies']
 +++

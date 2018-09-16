@@ -1,7 +1,6 @@
 +++
 date = 2012-12-24
 title = "Shortbus (2007)"
-
 [taxonomies]
 tags = ['decent', '2007-movie']
 categories = ['movies']

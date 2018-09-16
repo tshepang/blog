@@ -1,7 +1,6 @@
 +++
 date = 2014-04-08
 title = "Captain Phillips (2013)"
-
 [taxonomies]
 tags = ['good', '2014-movie']
 categories = ['movies']

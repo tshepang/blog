@@ -1,7 +1,6 @@
 +++
 date = 2011-12-12
 title = "Megamind (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'excellent']
 categories = ['movies']

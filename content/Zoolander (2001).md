@@ -1,7 +1,6 @@
 +++
 date = 2012-08-09
 title = "Zoolander (2001)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

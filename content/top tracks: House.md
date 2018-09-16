@@ -1,7 +1,6 @@
 +++
 date = 2014-03-04
 title = "top tracks: House"
-
 [taxonomies]
 tags = ['music', 'list']
 +++

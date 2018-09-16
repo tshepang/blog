@@ -1,7 +1,6 @@
 +++
 title = "about 'developer of note' series"
 date = 2016-02-04
-
 [taxonomies]
 tags = ['developer-of-note']
 +++

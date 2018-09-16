@@ -1,7 +1,6 @@
 +++
 date = 2013-11-30
 title = "Goodbye Bafana (2007)"
-
 [taxonomies]
 tags = ['average', '2013-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-08-11
 title = "Beginners (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

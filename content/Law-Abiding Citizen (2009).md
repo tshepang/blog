@@ -1,7 +1,6 @@
 +++
 date = 2010-07-26
 title = "Law-Abiding Citizen (2009)"
-
 [taxonomies]
 tags = ['2009-movie']
 categories = ['movies']

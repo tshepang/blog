@@ -1,7 +1,6 @@
 +++
 date = 2014-02-23
 title = "Safety Not Guaranteed (2012)"
-
 [taxonomies]
 tags = ['good', '2014-movie']
 categories = ['movies']

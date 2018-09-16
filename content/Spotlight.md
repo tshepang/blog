@@ -1,7 +1,6 @@
 +++
 date = 2016-03-30
 title = "Spotlight"
-
 [taxonomies]
 tags = ['good', '2015']
 categories = ['movies']

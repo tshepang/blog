@@ -1,7 +1,6 @@
 +++
 date = 2011-04-02
 title = "4 Months, 3 Weeks and 2 Days (2007)"
-
 [taxonomies]
 tags = ['2011-movie', 'excellent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-11-23
 title = "Collateral (2004)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

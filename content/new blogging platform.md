@@ -1,7 +1,6 @@
 +++
 date = 2010-06-02
 title = "new blogging platform"
-
 [taxonomies]
 tags = ['blogging']
 +++

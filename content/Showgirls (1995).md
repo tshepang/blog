@@ -1,7 +1,6 @@
 +++
 date = 2011-01-31
 title = "Showgirls (1995)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

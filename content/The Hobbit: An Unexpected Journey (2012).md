@@ -1,7 +1,6 @@
 +++
 date = 2013-09-04
 title = "The Hobbit: An Unexpected Journey (2012)"
-
 [taxonomies]
 tags = ['average', '2013-movie']
 categories = ['movies']

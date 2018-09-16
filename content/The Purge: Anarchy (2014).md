@@ -1,7 +1,6 @@
 +++
 date = 2014-11-09
 title = "The Purge: Anarchy (2014)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

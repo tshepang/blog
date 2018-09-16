@@ -1,7 +1,6 @@
 +++
 date = 2011-03-31
 title = "Sex, Lies, and Videotape (1989)"
-
 [taxonomies]
 tags = ['2011-movie', 'excellent']
 categories = ['movies']

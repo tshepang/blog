@@ -1,7 +1,6 @@
 +++
 date = 2011-03-13
 title = "The Chronicles of Narnia: Prince Caspian (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-04-28
 title = "The American (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

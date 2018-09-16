@@ -1,7 +1,6 @@
 +++
 date = 2014-05-01
 title = "Boogie Nights (1997)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

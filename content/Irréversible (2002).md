@@ -1,7 +1,6 @@
 +++
 date = 2011-12-14
 title = "Irréversible (2002)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

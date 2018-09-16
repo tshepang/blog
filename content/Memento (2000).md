@@ -1,7 +1,6 @@
 +++
 date = 2012-12-02
 title = "Memento (2000)"
-
 [taxonomies]
 tags = ['good', '2010-movie']
 categories = ['movies']

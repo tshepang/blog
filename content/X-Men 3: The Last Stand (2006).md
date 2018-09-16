@@ -1,7 +1,6 @@
 +++
 date = 2012-12-31
 title = "X-Men 3: The Last Stand (2006)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

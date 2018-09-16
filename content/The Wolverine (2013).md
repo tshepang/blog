@@ -1,7 +1,6 @@
 +++
 date = 2014-03-05
 title = "The Wolverine (2013)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

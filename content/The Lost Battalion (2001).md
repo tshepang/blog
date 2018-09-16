@@ -1,7 +1,6 @@
 +++
 date = 2011-03-12
 title = "The Lost Battalion (2001)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

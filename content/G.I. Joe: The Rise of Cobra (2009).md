@@ -1,7 +1,6 @@
 +++
 date = 2011-02-08
 title = "G.I. Joe: The Rise of Cobra (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

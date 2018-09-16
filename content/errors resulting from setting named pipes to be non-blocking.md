@@ -1,7 +1,6 @@
 +++
 date = 2012-11-18
 title = "errors resulting from setting named pipes to be non-blocking"
-
 [taxonomies]
 tags = ['non-Python']
 +++

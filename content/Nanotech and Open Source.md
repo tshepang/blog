@@ -1,7 +1,6 @@
 +++
 date = 2007-05-18
 title = "Nanotech and Open Source"
-
 [taxonomies]
 tags = ['future-tech']
 +++

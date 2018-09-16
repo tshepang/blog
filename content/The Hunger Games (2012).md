@@ -1,7 +1,6 @@
 +++
 date = 2012-09-30
 title = "The Hunger Games (2012)"
-
 [taxonomies]
 tags = ['2012-movie', 'substandard']
 categories = ['movies']

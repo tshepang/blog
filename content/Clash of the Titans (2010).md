@@ -1,7 +1,6 @@
 +++
 date = 2011-12-09
 title = "Clash of the Titans (2010)"
-
 [taxonomies]
 tags = ['2010-movie', 'decent']
 categories = ['movies']

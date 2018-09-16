@@ -1,7 +1,6 @@
 +++
 date = 2012-07-31
 title = "Faster (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

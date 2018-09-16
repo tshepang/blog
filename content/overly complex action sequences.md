@@ -2,7 +2,6 @@
 date = 2013-09-15
 public = false
 title = "overly complex action sequences"
-
 [taxonomies]
 tags = ['list']
 categories = ['movies']

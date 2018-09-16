@@ -1,7 +1,6 @@
 +++
 date = 2008-11-07
 title = "my 1st Python tool"
-
 [taxonomies]
 tags = ['Python']
 +++

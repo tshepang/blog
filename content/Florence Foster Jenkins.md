@@ -1,7 +1,6 @@
 +++
 date = 2017-01-22
 title = "Florence Foster Jenkins"
-
 [taxonomies]
 tags = ['good', '2016']
 categories = ['movies']

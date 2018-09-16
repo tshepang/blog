@@ -1,7 +1,6 @@
 +++
 date = 2011-07-14
 title = "thanks to the Debian backports team"
-
 [taxonomies]
 tags = ['Debian', 'VCS']
 +++

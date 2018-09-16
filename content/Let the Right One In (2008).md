@@ -1,7 +1,6 @@
 +++
 date = 2011-04-25
 title = "Let the Right One In (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

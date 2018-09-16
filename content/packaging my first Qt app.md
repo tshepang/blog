@@ -1,7 +1,6 @@
 +++
 date = 2013-08-27
 title = "packaging my first Qt app"
-
 [taxonomies]
 tags = ['Debian', 'non-Python']
 +++

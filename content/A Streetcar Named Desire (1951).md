@@ -1,7 +1,6 @@
 +++
 date = 2012-07-22
 title = "A Streetcar Named Desire (1951)"
-
 [taxonomies]
 tags = ['2012-movie', 'substandard']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-02-19
 title = "Nacho Libre (2006)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

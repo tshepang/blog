@@ -1,7 +1,6 @@
 +++
 date = 2013-12-02
 title = "Still Grazing (2004)"
-
 [taxonomies]
 tags = ['excellent']
 +++

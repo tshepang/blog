@@ -1,7 +1,6 @@
 +++
 date = 2012-05-06
 title = "Secretariat (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

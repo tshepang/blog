@@ -1,7 +1,6 @@
 +++
 date = 2012-12-17
 title = "Baise-moi (2000)"
-
 [taxonomies]
 tags = ['excellent', '2009-movie']
 categories = ['movies']

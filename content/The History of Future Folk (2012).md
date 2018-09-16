@@ -1,7 +1,6 @@
 +++
 date = 2014-03-05
 title = "The History of Future Folk (2012)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

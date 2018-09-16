@@ -1,7 +1,6 @@
 +++
 date = 2011-12-27
 title = "In the Company of Men (1997)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-03-05
 title = "Tron: Legacy (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

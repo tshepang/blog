@@ -1,7 +1,6 @@
 +++
 date = 2009-10-20
 title = "revisiting 'Breakfast Club'"
-
 [taxonomies]
 categories = ['movies']
 +++

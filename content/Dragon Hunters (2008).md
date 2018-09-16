@@ -1,7 +1,6 @@
 +++
 date = 2011-12-09
 title = "Dragon Hunters (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

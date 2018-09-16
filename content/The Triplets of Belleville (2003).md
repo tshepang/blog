@@ -1,7 +1,6 @@
 +++
 date = 2014-05-19
 title = "The Triplets of Belleville (2003)"
-
 [taxonomies]
 tags = ['good', '2005-movie']
 categories = ['movies']

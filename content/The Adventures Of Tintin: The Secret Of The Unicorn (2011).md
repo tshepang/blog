@@ -1,7 +1,6 @@
 +++
 date = 2013-09-15
 title = "The Adventures Of Tintin: The Secret Of The Unicorn (2011)"
-
 [taxonomies]
 tags = ['decent', '2013-movie']
 categories = ['movies']

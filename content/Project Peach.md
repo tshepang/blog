@@ -1,7 +1,6 @@
 +++
 date = 2008-04-04
 title = "Project Peach"
-
 [taxonomies]
 categories = ['movies']
 +++

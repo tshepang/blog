@@ -1,7 +1,6 @@
 +++
 date = 2016-02-13
 title = "Leftovers - Season 2 Episode 1"
-
 [taxonomies]
 tags = ['excellent', 'tv']
 +++

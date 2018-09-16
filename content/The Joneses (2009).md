@@ -1,7 +1,6 @@
 +++
 date = 2011-08-07
 title = "The Joneses (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

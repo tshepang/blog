@@ -1,7 +1,6 @@
 +++
 date = 2007-05-07
 title = "Spider-Man 3 (2007)"
-
 [taxonomies]
 tags = ['2007-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-11-29
 title = "Mandela: Long Walk to Freedom (2013)"
-
 [taxonomies]
 tags = ['average', '2013-movie']
 categories = ['movies']

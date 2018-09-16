@@ -1,7 +1,6 @@
 +++
 date = 2012-12-21
 title = "The Bourne Legacy (2012)"
-
 [taxonomies]
 tags = ['good', '2012-movie']
 categories = ['movies']

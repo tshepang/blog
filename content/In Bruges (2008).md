@@ -1,7 +1,6 @@
 +++
 date = 2013-02-25
 title = "In Bruges (2008)"
-
 [taxonomies]
 tags = ['2013-movie', 'excellent']
 categories = ['movies']

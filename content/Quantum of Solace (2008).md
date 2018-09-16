@@ -1,7 +1,6 @@
 +++
 date = 2009-04-14
 title = "Quantum of Solace (2008)"
-
 [taxonomies]
 tags = ['good', '2009-movie']
 categories = ['movies']

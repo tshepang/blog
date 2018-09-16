@@ -1,7 +1,6 @@
 +++
 date = 2011-11-08
 title = "Green Lantern (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

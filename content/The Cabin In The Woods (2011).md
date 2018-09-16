@@ -1,7 +1,6 @@
 +++
 date = 2012-10-22
 title = "The Cabin In The Woods (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

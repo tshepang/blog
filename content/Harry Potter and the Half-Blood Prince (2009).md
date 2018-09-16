@@ -1,7 +1,6 @@
 +++
 date = 2012-09-18
 title = "Harry Potter and the Half-Blood Prince (2009)"
-
 [taxonomies]
 tags = ['average', '2012-movie']
 categories = ['movies']

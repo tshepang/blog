@@ -1,7 +1,6 @@
 +++
 date = 2013-08-27
 title = "mentioning alternatives on a prominent place"
-
 [taxonomies]
 tags = ['list']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-06-07
 title = "RoboCop (2014)"
-
 [taxonomies]
 tags = ['decent', '2014-movie']
 categories = ['movies']

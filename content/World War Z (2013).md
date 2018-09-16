@@ -1,7 +1,6 @@
 +++
 date = 2013-10-05
 title = "World War Z (2013)"
-
 [taxonomies]
 tags = ['decent', '2013-movie']
 categories = ['movies']

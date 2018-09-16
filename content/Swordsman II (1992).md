@@ -1,7 +1,6 @@
 +++
 date = 2012-01-07
 title = "Swordsman II (1992)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

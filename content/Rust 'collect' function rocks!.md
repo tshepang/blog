@@ -1,7 +1,6 @@
 +++
 date = 2015-03-20
 title = "Rust 'collect' function rocks!"
-
 [taxonomies]
 tags = ['Rust']
 +++

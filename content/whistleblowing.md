@@ -1,7 +1,6 @@
 +++
 date = 2011-03-18
 title = "whistleblowing"
-
 [taxonomies]
 tags = ['specific-subject', 'list']
 categories = ['movies']

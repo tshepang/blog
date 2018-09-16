@@ -1,7 +1,6 @@
 +++
 date = 2012-11-11
 title = "Frost/Nixon (2009)"
-
 [taxonomies]
 tags = ['good', '2009-movie']
 categories = ['movies']

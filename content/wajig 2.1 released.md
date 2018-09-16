@@ -1,7 +1,6 @@
 +++
 date = 2011-04-27
 title = "wajig 2.1 released"
-
 [taxonomies]
 tags = ['Debian', 'wajig']
 +++

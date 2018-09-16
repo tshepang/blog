@@ -1,7 +1,6 @@
 +++
 date = 2011-12-30
 title = "The Warlords (2007)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-10-13
 title = "Man of the Year (2006)"
-
 [taxonomies]
 tags = ['good', '2012-movie']
 categories = ['movies']

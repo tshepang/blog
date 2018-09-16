@@ -1,7 +1,6 @@
 +++
 title = "tough women"
 date = 2016-06-13
-
 [taxonomies]
 tags = ['list']
 categories = ['movies']

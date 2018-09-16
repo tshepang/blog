@@ -1,7 +1,6 @@
 +++
 date = 2008-12-12
 title = "reprepro saved my live"
-
 [taxonomies]
 tags = ['Debian']
 +++

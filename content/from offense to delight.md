@@ -1,7 +1,6 @@
 +++
 date = 2017-10-22
 title = "from offense to delight"
-
 [taxonomies]
 tags = ['theatre']
 +++

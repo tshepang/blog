@@ -1,7 +1,6 @@
 +++
 date = 2011-01-14
 title = "'Toxic' by Britney Spears"
-
 [taxonomies]
 tags = ['music']
 +++

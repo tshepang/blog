@@ -1,7 +1,6 @@
 +++
 date = 2012-08-09
 title = "Please Give (2009)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

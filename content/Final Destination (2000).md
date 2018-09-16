@@ -1,7 +1,6 @@
 +++
 date = 2011-10-28
 title = "Final Destination (2000)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

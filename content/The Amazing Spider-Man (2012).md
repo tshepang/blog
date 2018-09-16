@@ -1,7 +1,6 @@
 +++
 date = 2012-11-18
 title = "The Amazing Spider-Man (2012)"
-
 [taxonomies]
 tags = ['decent', '2012-movie']
 categories = ['movies']

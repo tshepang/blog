@@ -1,7 +1,6 @@
 +++
 date = 2011-02-15
 title = "Mandingo (1975)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

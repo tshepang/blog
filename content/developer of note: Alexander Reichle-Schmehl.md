@@ -1,7 +1,6 @@
 +++
 date = 2010-07-24
 title = "developer of note: Alexander Reichle-Schmehl"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-05-09
 title = "Flight (2012)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

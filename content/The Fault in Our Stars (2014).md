@@ -1,7 +1,6 @@
 +++
 date = 2014-11-12
 title = "The Fault in Our Stars (2014)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

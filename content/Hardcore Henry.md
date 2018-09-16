@@ -1,7 +1,6 @@
 +++
 date = 2016-11-26
 title = "Hardcore Henry"
-
 [taxonomies]
 tags = ['2015', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2010-09-28
 title = "my Debian package management setup"
-
 [taxonomies]
 tags = ['Debian']
 +++

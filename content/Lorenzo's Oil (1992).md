@@ -1,7 +1,6 @@
 +++
 date = 2012-01-15
 title = "Lorenzo's Oil (1992)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2010-07-16
 title = "more on wajig development"
-
 [taxonomies]
 tags = ['wajig']
 +++

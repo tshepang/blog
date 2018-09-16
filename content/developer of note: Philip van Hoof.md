@@ -1,7 +1,6 @@
 +++
 date = 2010-08-13
 title = "developer of note: Philip van Hoof"
-
 [taxonomies]
 tags = ['developer-of-note', 'GNOME', 'Tracker']
 +++

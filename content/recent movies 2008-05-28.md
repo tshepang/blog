@@ -1,7 +1,6 @@
 +++
 date = 2008-05-28
 title = "recent movies 2008-05-28"
-
 [taxonomies]
 categories = ['movies']
 +++

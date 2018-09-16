@@ -1,7 +1,6 @@
 +++
 date = 2011-12-21
 title = "Pirates of the Caribbean - On Stranger Tides (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

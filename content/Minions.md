@@ -1,7 +1,6 @@
 +++
 date = 2015-11-15
 title = "Minions"
-
 [taxonomies]
 tags = ['2015', 'good']
 categories = ['movies']

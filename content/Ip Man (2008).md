@@ -1,7 +1,6 @@
 +++
 date = 2012-08-27
 title = "Ip Man (2008)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

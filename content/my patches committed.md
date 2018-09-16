@@ -1,7 +1,6 @@
 +++
 date = 2010-04-06
 title = "my patches committed"
-
 [taxonomies]
 tags = ['GNOME', 'Tracker']
 +++

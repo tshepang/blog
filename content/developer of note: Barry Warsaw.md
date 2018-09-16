@@ -1,7 +1,6 @@
 +++
 date = 2013-05-28
 title = "developer of note: Barry Warsaw"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note', 'non-Debian', 'Python']
 +++

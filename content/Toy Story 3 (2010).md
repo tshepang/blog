@@ -1,7 +1,6 @@
 +++
 date = 2011-12-07
 title = "Toy Story 3 (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-09-20
 title = "Priest (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

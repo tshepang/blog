@@ -1,7 +1,6 @@
 +++
 date = 2013-10-13
 title = "my first Debian upload"
-
 [taxonomies]
 tags = ['Debian', 'wajig']
 +++

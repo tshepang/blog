@@ -1,7 +1,6 @@
 +++
 date = 2014-03-23
 title = "Groundhog Day (1993)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2010-09-14
 title = "on Anarchism"
-
 [taxonomies]
 tags = ['politics']
 +++

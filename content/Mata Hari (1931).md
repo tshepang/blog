@@ -1,7 +1,6 @@
 +++
 date = 2011-03-02
 title = "Mata Hari (1931)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-09-30
 title = "blogging with Pelican"
-
 [taxonomies]
 tags = ['blogging']
 +++

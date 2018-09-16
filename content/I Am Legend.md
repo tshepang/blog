@@ -1,7 +1,6 @@
 +++
 date = 2015-03-28
 title = "I Am Legend"
-
 [taxonomies]
 tags = ['decent', '2007']
 categories = ['movies']

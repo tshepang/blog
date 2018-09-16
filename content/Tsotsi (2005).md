@@ -1,7 +1,6 @@
 +++
 date = 2011-10-28
 title = "Tsotsi (2005)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

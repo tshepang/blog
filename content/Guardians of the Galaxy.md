@@ -1,7 +1,6 @@
 +++
 date = 2017-03-22
 title = "Guardians of the Galaxy"
-
 [taxonomies]
 tags = ['2014', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2014-04-26
 title = "Incendies (2010)"
-
 [taxonomies]
 tags = ['good', '2014-movie']
 categories = ['movies']

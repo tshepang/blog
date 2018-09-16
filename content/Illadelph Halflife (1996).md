@@ -1,7 +1,6 @@
 +++
 date = 2009-07-27
 title = "Illadelph Halflife (1996)"
-
 [taxonomies]
 tags = ['music', 'hip-hop']
 +++

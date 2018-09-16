@@ -1,7 +1,6 @@
 +++
 date = 2007-10-31
 title = "revisiting 'Amadeus'"
-
 [taxonomies]
 categories = ['movies']
 +++

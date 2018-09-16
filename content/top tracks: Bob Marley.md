@@ -1,7 +1,6 @@
 +++
 date = 2011-11-02
 title = "top tracks: Bob Marley"
-
 [taxonomies]
 tags = ['music', 'top-tracks']
 +++

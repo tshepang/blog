@@ -1,7 +1,6 @@
 +++
 date = 2012-03-17
 title = "After the Rain (2000)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-11-22
 title = "There Will Be Blood (2007)"
-
 [taxonomies]
 tags = ['good', '2009-movie']
 categories = ['movies']

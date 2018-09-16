@@ -1,7 +1,6 @@
 +++
 date = 2011-03-13
 title = "The Puppet Masters (1994)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

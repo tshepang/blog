@@ -1,7 +1,6 @@
 +++
 date = 2012-01-11
 title = "The Duel (2000)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

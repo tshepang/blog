@@ -1,7 +1,6 @@
 +++
 date = 2014-11-09
 title = "Edge of Tomorrow (2014)"
-
 [taxonomies]
 tags = ['good', '2014-movie']
 categories = ['movies']

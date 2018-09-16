@@ -1,7 +1,6 @@
 +++
 date = 2016-04-21
 title = "Rust week of 2016-04-15"
-
 [taxonomies]
 tags = ['Rust']
 +++

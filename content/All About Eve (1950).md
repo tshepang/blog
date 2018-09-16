@@ -1,7 +1,6 @@
 +++
 date = 2011-02-03
 title = "All About Eve (1950)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

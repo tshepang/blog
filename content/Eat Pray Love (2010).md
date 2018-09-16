@@ -1,7 +1,6 @@
 +++
 date = 2011-02-15
 title = "Eat Pray Love (2010)"
-
 [taxonomies]
 tags = ['2010-movie', 'average']
 categories = ['movies']

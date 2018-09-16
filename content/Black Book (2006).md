@@ -1,7 +1,6 @@
 +++
 date = 2011-02-18
 title = "Black Book (2006)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

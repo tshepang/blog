@@ -1,7 +1,6 @@
 +++
 date = 2015-06-19
 title = "Dracula Untold"
-
 [taxonomies]
 tags = ['decent', '2014']
 categories = ['movies']

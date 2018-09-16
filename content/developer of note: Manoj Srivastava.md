@@ -1,7 +1,6 @@
 +++
 date = 2008-12-19
 title = "developer of note: Manoj Srivastava"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-05-25
 title = "Django Unchained (2012)"
-
 [taxonomies]
 tags = ['good', '2013-movie']
 categories = ['movies']

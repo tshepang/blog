@@ -1,7 +1,6 @@
 +++
 date = 2011-09-14
 title = "Year One (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

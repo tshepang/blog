@@ -1,7 +1,6 @@
 +++
 date = 2012-12-29
 title = "Gone Baby Gone (2008)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

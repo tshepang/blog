@@ -1,7 +1,6 @@
 +++
 date = 2011-03-06
 title = "Black Swan (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

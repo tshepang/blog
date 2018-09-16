@@ -1,7 +1,6 @@
 +++
 date = 2010-12-31
 title = "Somewhere (2010)"
-
 [taxonomies]
 tags = ['excellent', '2010-movie']
 categories = ['movies']

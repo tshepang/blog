@@ -1,7 +1,6 @@
 +++
 date = 2012-10-06
 title = "Tinker Tailor Soldier Spy (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

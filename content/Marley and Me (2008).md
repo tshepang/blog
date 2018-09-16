@@ -1,7 +1,6 @@
 +++
 date = 2013-03-03
 title = "Marley and Me (2008)"
-
 [taxonomies]
 tags = ['decent', '2013-movie']
 categories = ['movies']

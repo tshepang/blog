@@ -1,7 +1,6 @@
 +++
 date = 2008-11-13
 title = "1 more machine, 2 less"
-
 [taxonomies]
 tags = ['hardware']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2008-01-15
 title = "Transformers (2007)"
-
 [taxonomies]
 tags = ['2007-movie', 'substandard']
 categories = ['movies']

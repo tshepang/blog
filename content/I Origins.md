@@ -1,7 +1,6 @@
 +++
 date = 2015-05-10
 title = "I Origins"
-
 [taxonomies]
 tags = ['good', '2014']
 categories = ['movies']

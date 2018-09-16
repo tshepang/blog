@@ -1,7 +1,6 @@
 +++
 date = 2010-11-02
 title = "Tumblr suckage"
-
 [taxonomies]
 tags = ['blogging']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-11-10
 title = "How To Train Your Dragon 2 (2014)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

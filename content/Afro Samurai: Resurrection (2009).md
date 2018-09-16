@@ -1,7 +1,6 @@
 +++
 date = 2012-12-26
 title = "Afro Samurai: Resurrection (2009)"
-
 [taxonomies]
 tags = ['good', '2010-movie']
 categories = ['movies']

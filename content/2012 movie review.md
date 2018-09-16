@@ -1,7 +1,6 @@
 +++
 date = 2013-01-01
 title = "2012 movie review"
-
 [taxonomies]
 tags = ['year-movie-review']
 categories = ['movies']

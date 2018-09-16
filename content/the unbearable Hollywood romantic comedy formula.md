@@ -1,7 +1,6 @@
 +++
 title = "the unbearable Hollywood romantic comedy formula"
 date = 1970-01-01
-
 [taxonomies]
 categories = ['movies']
 +++

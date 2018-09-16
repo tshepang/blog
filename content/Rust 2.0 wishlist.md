@@ -1,7 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
 date = 2017-12-09
-
 [taxonomies]
 tags = ['Rust']
 +++

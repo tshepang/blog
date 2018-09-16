@@ -1,7 +1,6 @@
 +++
 date = 2012-12-27
 title = "District 9 (2009)"
-
 [taxonomies]
 tags = ['2009-movie', 'excellent']
 categories = ['movies']

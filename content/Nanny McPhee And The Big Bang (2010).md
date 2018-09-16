@@ -1,7 +1,6 @@
 +++
 date = 2011-02-20
 title = "Nanny McPhee And The Big Bang (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

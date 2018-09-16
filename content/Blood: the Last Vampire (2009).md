@@ -1,7 +1,6 @@
 +++
 date = 2012-09-30
 title = "Blood: the Last Vampire (2009)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

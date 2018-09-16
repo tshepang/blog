@@ -1,7 +1,6 @@
 +++
 date = 2017-08-09
 title = "Captain Fantastic"
-
 [taxonomies]
 tags = ['2016', 'excellent']
 categories = ['movies']

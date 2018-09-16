@@ -1,7 +1,6 @@
 +++
 date = 2011-08-01
 title = "Bridesmaids (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

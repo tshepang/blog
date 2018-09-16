@@ -1,7 +1,6 @@
 +++
 date = 2013-10-17
 title = "project of note: git-cola"
-
 [taxonomies]
 tags = ['project-of-note', 'VCS']
 +++

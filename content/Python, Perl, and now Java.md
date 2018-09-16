@@ -1,7 +1,6 @@
 +++
 date = 2009-05-05
 title = "Python, Perl, and now Java"
-
 [taxonomies]
 tags = ['non-Python', 'Python']
 +++

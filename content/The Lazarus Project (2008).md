@@ -1,7 +1,6 @@
 +++
 date = 2011-03-12
 title = "The Lazarus Project (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-07-07
 title = "Network (1976)"
-
 [taxonomies]
 tags = ['2009-movie', 'good']
 categories = ['movies']

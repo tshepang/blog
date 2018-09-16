@@ -1,7 +1,6 @@
 +++
 date = 2012-04-09
 title = "The Girl with the Dragon Tattoo (2011)"
-
 [taxonomies]
 tags = ['decent', '2011-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-11-09
 title = "Zombieland (2009)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

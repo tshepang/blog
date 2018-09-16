@@ -1,7 +1,6 @@
 +++
 date = 2014-03-26
 title = "Funny Games (1997)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

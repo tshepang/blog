@@ -1,7 +1,6 @@
 +++
 date = 2010-04-02
 title = "so much learned via Tracker bugfixing"
-
 [taxonomies]
 tags = ['GNOME', 'Tracker']
 +++

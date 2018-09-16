@@ -1,7 +1,6 @@
 +++
 date = 2012-12-25
 title = "The Dictator (2012)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

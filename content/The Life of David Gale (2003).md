@@ -1,7 +1,6 @@
 +++
 date = 2011-12-14
 title = "The Life of David Gale (2003)"
-
 [taxonomies]
 tags = ['2005-movie', 'good']
 categories = ['movies']

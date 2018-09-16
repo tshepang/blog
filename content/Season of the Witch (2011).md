@@ -1,7 +1,6 @@
 +++
 date = 2011-10-25
 title = "Season of the Witch (2011)"
-
 [taxonomies]
 tags = ['2011-movie', 'bad']
 categories = ['movies']

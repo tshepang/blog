@@ -1,7 +1,6 @@
 +++
 date = 2012-04-21
 title = "Perfume (2006)"
-
 [taxonomies]
 tags = ['good', '2006-movie']
 categories = ['movies']

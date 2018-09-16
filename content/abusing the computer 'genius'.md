@@ -1,7 +1,6 @@
 +++
 date = 2010-10-28
 title = "abusing the computer 'genius'"
-
 [taxonomies]
 tags = ['untagged']
 +++

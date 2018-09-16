@@ -1,7 +1,6 @@
 +++
 date = 2012-07-22
 title = "The Great Dictator (1940)"
-
 [taxonomies]
 tags = ['2010-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2014-01-21
 title = "12 Years a Slave (2013)"
-
 [taxonomies]
 tags = ['2014-movie', 'average']
 categories = ['movies']

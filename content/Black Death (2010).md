@@ -1,7 +1,6 @@
 +++
 date = 2012-05-06
 title = "Black Death (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-03-06
 title = "The King's Speech (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

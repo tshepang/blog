@@ -1,7 +1,6 @@
 +++
 date = 2013-02-09
 title = "Cloud Atlas (2012)"
-
 [taxonomies]
 tags = ['2013-movie', 'average']
 categories = ['movies']

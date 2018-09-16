@@ -1,7 +1,6 @@
 +++
 date = 2013-09-14
 title = "Pan's Labyrinth (2006)"
-
 [taxonomies]
 tags = ['decent', '2007-movie']
 categories = ['movies']

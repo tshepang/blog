@@ -1,7 +1,6 @@
 +++
 date = 2014-01-18
 title = "Upside Down (2012)"
-
 [taxonomies]
 tags = ['decent', '2014-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-05-26
 title = "Henry: Portrait of a Serial Killer"
-
 [taxonomies]
 tags = ['2013-movie', 'good']
 categories = ['movies']

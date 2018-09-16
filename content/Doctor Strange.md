@@ -1,7 +1,6 @@
 +++
 date = 2016-11-22
 title = "Doctor Strange"
-
 [taxonomies]
 tags = ['2016', 'decent']
 categories = ['movies']

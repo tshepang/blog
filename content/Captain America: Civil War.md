@@ -1,7 +1,6 @@
 +++
 date = 2016-05-01
 title = "Captain America: Civil War"
-
 [taxonomies]
 tags = ['2016', 'good']
 categories = ['movies']

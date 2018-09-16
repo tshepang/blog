@@ -1,7 +1,6 @@
 +++
 date = 2011-02-17
 title = "plotting with matplotlib"
-
 [taxonomies]
 tags = ['Python']
 +++

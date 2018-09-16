@@ -1,7 +1,6 @@
 +++
 date = 2011-04-08
 title = "developer of note: Josselin Mouette"
-
 [taxonomies]
 tags = ['Debian', 'developer-of-note', 'GNOME']
 +++

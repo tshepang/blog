@@ -1,7 +1,6 @@
 +++
 date = 2007-09-11
 title = "the dramatic Jim Carrey"
-
 [taxonomies]
 categories = ['movies']
 +++

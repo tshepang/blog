@@ -1,7 +1,6 @@
 +++
 date = 2011-08-01
 title = "Basic Instinct (1992)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

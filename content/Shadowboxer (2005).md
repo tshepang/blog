@@ -1,7 +1,6 @@
 +++
 date = 2011-05-29
 title = "Shadowboxer (2005)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-06-26
 title = "Letters To Juliet (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

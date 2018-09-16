@@ -1,7 +1,6 @@
 +++
 date = 2013-07-07
 title = "Good Night, and Good Luck (2005)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

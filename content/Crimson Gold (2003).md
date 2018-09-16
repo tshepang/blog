@@ -1,7 +1,6 @@
 +++
 date = 2011-02-21
 title = "Crimson Gold (2003)"
-
 [taxonomies]
 tags = ['2011-movie', 'excellent']
 categories = ['movies']

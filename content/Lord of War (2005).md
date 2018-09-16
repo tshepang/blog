@@ -1,7 +1,6 @@
 +++
 date = 2013-03-24
 title = "Lord of War (2005)"
-
 [taxonomies]
 tags = ['good', '2006-movie']
 categories = ['movies']

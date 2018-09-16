@@ -2,7 +2,6 @@
 date = 2013-05-26
 public = false
 title = "best topic treatment"
-
 [taxonomies]
 tags = ['list']
 categories = ['movies']

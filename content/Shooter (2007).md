@@ -1,7 +1,6 @@
 +++
 date = 2012-01-15
 title = "Shooter (2007)"
-
 [taxonomies]
 tags = ['2008-movie', 'good']
 categories = ['movies']

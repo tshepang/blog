@@ -1,7 +1,6 @@
 +++
 date = 2012-05-22
 title = "Horrible Bosses (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

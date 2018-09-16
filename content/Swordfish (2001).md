@@ -1,7 +1,6 @@
 +++
 date = 2011-11-25
 title = "Swordfish (2001)"
-
 [taxonomies]
 tags = ['substandard']
 categories = ['movies']

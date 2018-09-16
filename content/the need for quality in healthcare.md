@@ -1,7 +1,6 @@
 +++
 date = 2011-04-11
 title = "the need for quality in healthcare"
-
 [taxonomies]
 tags = ['quote']
 +++

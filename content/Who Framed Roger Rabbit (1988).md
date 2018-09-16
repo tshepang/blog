@@ -1,7 +1,6 @@
 +++
 date = 2011-11-15
 title = "Who Framed Roger Rabbit (1988)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

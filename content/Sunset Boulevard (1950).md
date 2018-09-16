@@ -1,7 +1,6 @@
 +++
 date = 2011-02-08
 title = "Sunset Boulevard (1950)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

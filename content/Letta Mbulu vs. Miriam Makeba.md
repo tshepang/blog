@@ -1,7 +1,6 @@
 +++
 date = 2013-08-25
 title = "Letta Mbulu vs. Miriam Makeba"
-
 [taxonomies]
 tags = ['music']
 +++

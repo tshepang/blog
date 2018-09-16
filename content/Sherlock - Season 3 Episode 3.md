@@ -1,7 +1,6 @@
 +++
 date = 2015-02-05
 title = "Sherlock - Season 3 Episode 3"
-
 [taxonomies]
 tags = ['tv', 'excellent']
 +++

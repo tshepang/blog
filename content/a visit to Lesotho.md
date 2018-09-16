@@ -1,7 +1,6 @@
 +++
 date = 2015-02-01
 title = "a visit to Lesotho"
-
 [taxonomies]
 tags = ['travel']
 +++

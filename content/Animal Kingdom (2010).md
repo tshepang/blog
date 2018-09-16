@@ -1,7 +1,6 @@
 +++
 date = 2011-04-02
 title = "Animal Kingdom (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-03-03
 title = "Nanny McPhee (2005)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-08-07
 title = "Shaolin Soccer (2001)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

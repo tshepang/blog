@@ -1,7 +1,6 @@
 +++
 date = 2012-12-16
 title = "Syriana (2005)"
-
 [taxonomies]
 tags = ['decent', '2008-movie']
 categories = ['movies']

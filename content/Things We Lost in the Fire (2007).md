@@ -1,7 +1,6 @@
 +++
 date = 2012-02-01
 title = "Things We Lost in the Fire (2007)"
-
 [taxonomies]
 tags = ['2008-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-05-24
 title = "The Bang-Bang Club (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

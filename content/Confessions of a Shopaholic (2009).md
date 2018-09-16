@@ -1,7 +1,6 @@
 +++
 date = 2010-01-26
 title = "Confessions of a Shopaholic (2009)"
-
 [taxonomies]
 tags = ['2010-movie']
 categories = ['movies']

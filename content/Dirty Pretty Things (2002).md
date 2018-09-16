@@ -1,7 +1,6 @@
 +++
 date = 2013-08-20
 title = "Dirty Pretty Things (2002)"
-
 [taxonomies]
 tags = ['2013-movie', 'good']
 categories = ['movies']

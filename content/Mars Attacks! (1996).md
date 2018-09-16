@@ -1,7 +1,6 @@
 +++
 date = 2014-06-01
 title = "Mars Attacks! (1996)"
-
 [taxonomies]
 tags = ['2008-movie', 'decent']
 categories = ['movies']

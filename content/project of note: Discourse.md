@@ -1,7 +1,6 @@
 +++
 date = 2013-05-11
 title = "project of note: Discourse"
-
 [taxonomies]
 tags = ['non-Python', 'non-Debian', 'project-of-note']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2017-02-05
 title = "Ghostbusters"
-
 [taxonomies]
 tags = ['decent', '2016']
 categories = ['movies']

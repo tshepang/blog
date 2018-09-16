@@ -1,7 +1,6 @@
 +++
 date = 2014-10-09
 title = "Enough Said (2013)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

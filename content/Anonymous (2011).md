@@ -1,7 +1,6 @@
 +++
 date = 2012-05-19
 title = "Anonymous (2011)"
-
 [taxonomies]
 tags = ['good', '2012-movie']
 categories = ['movies']

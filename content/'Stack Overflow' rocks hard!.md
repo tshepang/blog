@@ -1,7 +1,6 @@
 +++
 date = 2010-04-22
 title = "'Stack Overflow' rocks hard!"
-
 [taxonomies]
 tags = ['untagged']
 +++

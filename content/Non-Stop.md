@@ -1,7 +1,6 @@
 +++
 date = 2017-04-14
 title = "Non-Stop"
-
 [taxonomies]
 tags = ['2014', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2017-03-18
 title = "Kubo And The Two Strings"
-
 [taxonomies]
 tags = ['good', '2016']
 categories = ['movies']

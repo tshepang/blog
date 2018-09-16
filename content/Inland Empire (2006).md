@@ -1,7 +1,6 @@
 +++
 date = 2011-04-25
 title = "Inland Empire (2006)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

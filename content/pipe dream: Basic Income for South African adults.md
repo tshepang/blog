@@ -1,7 +1,6 @@
 +++
 date = 2014-04-02
 title = "pipe dream: Basic Income for South African adults"
-
 [taxonomies]
 tags = ['untagged']
 +++

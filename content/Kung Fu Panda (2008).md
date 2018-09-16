@@ -1,7 +1,6 @@
 +++
 date = 2013-09-07
 title = "Kung Fu Panda (2008)"
-
 [taxonomies]
 tags = ['2008-movie', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-03-05
 title = "Sleepy Hollow (1999)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

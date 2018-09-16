@@ -1,7 +1,6 @@
 +++
 date = 2012-05-28
 title = "Appleseed (2004)"
-
 [taxonomies]
 tags = ['good', '2008-movie']
 categories = ['movies']

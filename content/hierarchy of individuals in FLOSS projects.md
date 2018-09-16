@@ -1,7 +1,6 @@
 +++
 date = 2013-11-16
 title = "hierarchy of individuals in FLOSS projects"
-
 [taxonomies]
 tags = ['untagged']
 +++

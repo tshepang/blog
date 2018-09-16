@@ -1,7 +1,6 @@
 +++
 date = 2015-01-24
 title = "what makes Rust unique"
-
 [taxonomies]
 tags = ['quote', 'Rust']
 +++

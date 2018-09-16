@@ -1,7 +1,6 @@
 +++
 date = 2013-08-20
 title = "Kinky Boots (2005)"
-
 [taxonomies]
 tags = ['2013-movie', 'decent']
 categories = ['movies']

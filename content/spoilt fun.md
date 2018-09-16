@@ -1,7 +1,6 @@
 +++
 date = 2008-06-28
 title = "spoilt fun"
-
 [taxonomies]
 categories = ['movies']
 +++

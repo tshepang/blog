@@ -1,7 +1,6 @@
 +++
 date = 2013-09-14
 title = "Warrior (2011)"
-
 [taxonomies]
 tags = ['2013-movie', 'good']
 categories = ['movies']

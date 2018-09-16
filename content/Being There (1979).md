@@ -1,7 +1,6 @@
 +++
 date = 2013-09-22
 title = "Being There (1979)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

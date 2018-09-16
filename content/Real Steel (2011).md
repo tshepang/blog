@@ -1,7 +1,6 @@
 +++
 date = 2012-01-11
 title = "Real Steel (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

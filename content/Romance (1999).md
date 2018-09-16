@@ -1,7 +1,6 @@
 +++
 date = 2012-12-22
 title = "Romance (1999)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

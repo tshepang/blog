@@ -1,7 +1,6 @@
 +++
 date = 2007-06-22
 title = "revisiting 'Office Space' and 'Lola Rennt'"
-
 [taxonomies]
 categories = ['movies']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-07-05
 title = "The American President (1995)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

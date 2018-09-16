@@ -1,7 +1,6 @@
 +++
 date = 2011-08-06
 title = "My Big Fat Greek Wedding (2002)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

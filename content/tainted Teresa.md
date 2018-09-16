@@ -1,7 +1,6 @@
 +++
 date = 2009-09-24
 title = "tainted Teresa"
-
 [taxonomies]
 tags = ['ethics', 'quote']
 +++

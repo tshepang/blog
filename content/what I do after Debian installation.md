@@ -1,7 +1,6 @@
 +++
 date = 2012-11-10
 title = "what I do after Debian installation"
-
 [taxonomies]
 tags = ['Debian']
 +++

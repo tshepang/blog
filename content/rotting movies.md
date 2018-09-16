@@ -1,7 +1,6 @@
 +++
 date = 2007-06-07
 title = "rotting movies"
-
 [taxonomies]
 categories = ['movies']
 +++

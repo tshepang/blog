@@ -1,7 +1,6 @@
 +++
 date = 2009-02-27
 title = "many recent movies 2009-02-27"
-
 [taxonomies]
 categories = ['movies']
 +++

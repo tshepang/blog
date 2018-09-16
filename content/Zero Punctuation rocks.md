@@ -1,7 +1,6 @@
 +++
 date = 2012-07-10
 title = "Zero Punctuation rocks"
-
 [taxonomies]
 tags = ['gaming']
 +++

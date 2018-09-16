@@ -1,7 +1,6 @@
 +++
 date = 2011-12-09
 title = "Waist Deep (2006)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

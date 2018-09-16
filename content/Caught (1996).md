@@ -1,7 +1,6 @@
 +++
 date = 2011-08-14
 title = "Caught (1996)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

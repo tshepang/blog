@@ -1,7 +1,6 @@
 +++
 date = 2012-11-10
 title = "Terminator Salvation (2009)"
-
 [taxonomies]
 tags = ['2009-movie', 'average']
 categories = ['movies']

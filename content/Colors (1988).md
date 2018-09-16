@@ -1,7 +1,6 @@
 +++
 date = 2011-08-21
 title = "Colors (1988)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-11-28
 title = "Dr. Strangelove (1964)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

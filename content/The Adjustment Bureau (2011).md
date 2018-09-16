@@ -1,7 +1,6 @@
 +++
 date = 2014-05-07
 title = "The Adjustment Bureau (2011)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

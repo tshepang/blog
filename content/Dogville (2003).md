@@ -1,7 +1,6 @@
 +++
 date = 2012-01-01
 title = "Dogville (2003)"
-
 [taxonomies]
 tags = ['2006-movie', 'good']
 categories = ['movies']

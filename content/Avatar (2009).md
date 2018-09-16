@@ -1,7 +1,6 @@
 +++
 date = 2012-07-17
 title = "Avatar (2009)"
-
 [taxonomies]
 tags = ['decent', '2009-movie']
 categories = ['movies']

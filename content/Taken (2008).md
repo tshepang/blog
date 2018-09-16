@@ -1,7 +1,6 @@
 +++
 date = 2012-06-03
 title = "Taken (2008)"
-
 [taxonomies]
 tags = ['2008-movie', 'excellent']
 categories = ['movies']

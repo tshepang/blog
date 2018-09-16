@@ -1,7 +1,6 @@
 +++
 title = "favorite FLOSS"
 date = 2018-09-13
-
 [taxonomies]
 tags = ['list']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2018-09-14
 title = "1st FLOSS patch contribution"
-
 [taxonomies]
 tags = ['GNOME', 'Tracker']
 +++

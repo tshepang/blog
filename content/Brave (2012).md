@@ -1,7 +1,6 @@
 +++
 date = 2012-11-30
 title = "Brave (2012)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-05-25
 title = "Rabbit Hole (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'excellent']
 categories = ['movies']

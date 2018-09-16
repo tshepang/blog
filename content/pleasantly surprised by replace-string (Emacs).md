@@ -1,7 +1,6 @@
 +++
 date = 2013-11-26
 title = "pleasantly surprised by replace-string (Emacs)"
-
 [taxonomies]
 tags = ['Emacs']
 +++

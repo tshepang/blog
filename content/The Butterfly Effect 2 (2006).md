@@ -1,7 +1,6 @@
 +++
 date = 2012-12-15
 title = "The Butterfly Effect 2 (2006)"
-
 [taxonomies]
 tags = ['2012-movie', 'substandard']
 categories = ['movies']

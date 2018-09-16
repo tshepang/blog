@@ -1,7 +1,6 @@
 +++
 date = 2010-09-23
 title = "apt-get vs. aptitude"
-
 [taxonomies]
 tags = ['Debian', 'wajig']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-04-25
 title = "A Prophet (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

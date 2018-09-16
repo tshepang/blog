@@ -1,7 +1,6 @@
 +++
 date = 2014-09-08
 title = "more kudos for Pyramid"
-
 [taxonomies]
 tags = ['Python', 'quote', 'Pyramid']
 +++

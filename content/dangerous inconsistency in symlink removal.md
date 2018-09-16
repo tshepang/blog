@@ -1,7 +1,6 @@
 +++
 date = 2011-01-28
 title = "dangerous inconsistency in symlink removal"
-
 [taxonomies]
 tags = ['untagged']
 +++

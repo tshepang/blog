@@ -1,7 +1,6 @@
 +++
 date = 2014-05-11
 title = "The Lincoln Lawyer (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

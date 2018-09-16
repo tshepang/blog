@@ -1,7 +1,6 @@
 +++
 date = 2011-01-14
 title = "me loves Cherry Poptart"
-
 [taxonomies]
 tags = ['comic']
 +++

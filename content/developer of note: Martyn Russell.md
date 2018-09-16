@@ -1,7 +1,6 @@
 +++
 date = 2010-09-10
 title = "developer of note: Martyn Russell"
-
 [taxonomies]
 tags = ['developer-of-note', 'GNOME', 'Tracker']
 +++

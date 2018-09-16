@@ -1,7 +1,6 @@
 +++
 date = 2011-02-13
 title = "Paranormal Activity 2 (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

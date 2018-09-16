@@ -1,7 +1,6 @@
 +++
 date = 2011-06-26
 title = "The Librarian: Quest for the Spear (2004)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

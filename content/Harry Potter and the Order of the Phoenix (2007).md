@@ -1,7 +1,6 @@
 +++
 date = 2012-09-16
 title = "Harry Potter and the Order of the Phoenix (2007)"
-
 [taxonomies]
 tags = ['decent', '2012-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-04-03
 title = "me loving the Kiln Harmony concept"
-
 [taxonomies]
 tags = ['non-FLOSS', 'VCS']
 +++

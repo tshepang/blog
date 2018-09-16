@@ -1,7 +1,6 @@
 +++
 date = 2011-12-07
 title = "Shrek Forever After (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

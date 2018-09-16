@@ -1,7 +1,6 @@
 +++
 date = 2014-06-01
 title = "Kung Fu Hustle (2004)"
-
 [taxonomies]
 tags = ['good', '2005-movie']
 categories = ['movies']

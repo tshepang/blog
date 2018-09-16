@@ -1,7 +1,6 @@
 +++
 date = 2007-04-16
 title = "1st usage of RSS feeds"
-
 [taxonomies]
 tags = ['Debian']
 +++

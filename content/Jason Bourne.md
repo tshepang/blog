@@ -1,7 +1,6 @@
 +++
 date = 2016-10-27
 title = "Jason Bourne"
-
 [taxonomies]
 tags = ['2016', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2009-05-18
 title = "tough tale of poverty"
-
 [taxonomies]
 categories = ['movies']
 +++

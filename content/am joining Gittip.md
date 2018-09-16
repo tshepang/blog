@@ -1,7 +1,6 @@
 +++
 date = 2013-04-13
 title = "am joining Gittip"
-
 [taxonomies]
 tags = ['Python', 'Gittip']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2007-06-12
 title = "revisiting 'Die Hard'"
-
 [taxonomies]
 categories = ['movies']
 +++

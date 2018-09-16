@@ -1,7 +1,6 @@
 +++
 date = 2012-12-31
 title = "X-Men Origins: Wolverine (2009)"
-
 [taxonomies]
 tags = ['2009-movie', 'substandard']
 categories = ['movies']

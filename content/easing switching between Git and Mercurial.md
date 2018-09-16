@@ -1,7 +1,6 @@
 +++
 date = 2013-10-16
 title = "easing switching between Git and Mercurial"
-
 [taxonomies]
 tags = ['Python', 'VCS']
 +++

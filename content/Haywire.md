@@ -1,7 +1,6 @@
 +++
 date = 2015-08-26
 title = "Haywire"
-
 [taxonomies]
 tags = ['2011', 'excellent']
 categories = ['movies']

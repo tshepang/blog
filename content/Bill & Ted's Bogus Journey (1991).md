@@ -1,7 +1,6 @@
 +++
 date = 2011-02-07
 title = "Bill & Ted's Bogus Journey (1991)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

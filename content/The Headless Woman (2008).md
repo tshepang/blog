@@ -1,7 +1,6 @@
 +++
 date = 2011-04-25
 title = "The Headless Woman (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

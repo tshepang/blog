@@ -1,7 +1,6 @@
 +++
 date = 2012-01-15
 title = "Shoot 'Em Up (2007)"
-
 [taxonomies]
 tags = ['2009-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-12-30
 title = "Alice In Wonderland (2010)"
-
 [taxonomies]
 tags = ['2010-movie', 'good']
 categories = ['movies']

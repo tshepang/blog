@@ -1,7 +1,6 @@
 +++
 date = 2012-05-09
 title = "Dry And Heavy (1977)"
-
 [taxonomies]
 tags = ['music', 'excellent']
 +++

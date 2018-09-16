@@ -1,7 +1,6 @@
 +++
 date = 2009-09-17
 title = "there had better not be life out there!"
-
 [taxonomies]
 tags = ['future-tech']
 +++

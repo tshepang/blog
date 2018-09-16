@@ -1,7 +1,6 @@
 +++
 date = 2012-04-19
 title = "accessibility on Debian"
-
 [taxonomies]
 tags = ['Debian']
 +++

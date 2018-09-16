@@ -1,7 +1,6 @@
 +++
 date = 2013-09-25
 title = "Changeling (2008)"
-
 [taxonomies]
 tags = ['2009-movie', 'good']
 categories = ['movies']

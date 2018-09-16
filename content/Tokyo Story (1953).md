@@ -1,7 +1,6 @@
 +++
 date = 2012-12-28
 title = "Tokyo Story (1953)"
-
 [taxonomies]
 tags = ['2009-movie', 'good']
 categories = ['movies']

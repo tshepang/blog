@@ -1,7 +1,6 @@
 +++
 date = 2013-09-25
 title = "project of note: Valgrind"
-
 [taxonomies]
 tags = ['project-of-note', 'non-Python']
 +++

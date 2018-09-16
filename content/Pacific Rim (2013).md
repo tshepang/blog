@@ -1,7 +1,6 @@
 +++
 date = 2013-11-10
 title = "Pacific Rim (2013)"
-
 [taxonomies]
 tags = ['average', '2013-movie']
 categories = ['movies']

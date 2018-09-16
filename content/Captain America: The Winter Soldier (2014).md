@@ -1,7 +1,6 @@
 +++
 date = 2014-07-13
 title = "Captain America: The Winter Soldier (2014)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

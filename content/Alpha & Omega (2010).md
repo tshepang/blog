@@ -1,7 +1,6 @@
 +++
 date = 2011-01-31
 title = "Alpha & Omega (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

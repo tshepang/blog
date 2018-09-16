@@ -1,7 +1,6 @@
 +++
 date = 2012-12-05
 title = "Total Recall (2012)"
-
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']

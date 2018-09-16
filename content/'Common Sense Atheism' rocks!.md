@@ -1,7 +1,6 @@
 +++
 date = 2010-01-08
 title = "'Common Sense Atheism' rocks!"
-
 [taxonomies]
 tags = ['atheism']
 +++

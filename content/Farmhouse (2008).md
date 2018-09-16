@@ -1,7 +1,6 @@
 +++
 date = 2011-02-13
 title = "Farmhouse (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-12-13
 title = "The Castle (1997)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

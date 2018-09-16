@@ -1,7 +1,6 @@
 +++
 date = 2016-12-12
 title = "Eye in the Sky"
-
 [taxonomies]
 tags = ['2015', 'good']
 categories = ['movies']

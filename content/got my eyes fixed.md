@@ -1,7 +1,6 @@
 +++
 date = 2014-02-16
 title = "got my eyes fixed"
-
 [taxonomies]
 tags = ['untagged']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-01-20
 title = "Wall Street: Money Never Sleeps (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'substandard']
 categories = ['movies']

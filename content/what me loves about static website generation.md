@@ -1,7 +1,6 @@
 +++
 date = 2013-04-06
 title = "what me loves about static website generation"
-
 [taxonomies]
 tags = ['blogging']
 +++

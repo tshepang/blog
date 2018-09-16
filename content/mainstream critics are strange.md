@@ -1,7 +1,6 @@
 +++
 date = 2014-03-21
 title = "mainstream critics are strange"
-
 [taxonomies]
 categories = ['movies']
 +++

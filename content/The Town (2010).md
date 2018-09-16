@@ -1,7 +1,6 @@
 +++
 date = 2013-04-22
 title = "The Town (2010)"
-
 [taxonomies]
 tags = ['2013-movie', 'good']
 categories = ['movies']

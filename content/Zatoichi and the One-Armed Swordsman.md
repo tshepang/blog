@@ -1,7 +1,6 @@
 +++
 date = 2017-01-22
 title = "Zatoichi and the One-Armed Swordsman"
-
 [taxonomies]
 tags = ['decent', '1971']
 categories = ['movies']

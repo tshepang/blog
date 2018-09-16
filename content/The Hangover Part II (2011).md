@@ -1,7 +1,6 @@
 +++
 date = 2012-05-19
 title = "The Hangover Part II (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

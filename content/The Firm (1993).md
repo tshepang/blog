@@ -1,7 +1,6 @@
 +++
 date = 2011-03-16
 title = "The Firm (1993)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

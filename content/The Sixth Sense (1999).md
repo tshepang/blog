@@ -1,7 +1,6 @@
 +++
 date = 2011-12-08
 title = "The Sixth Sense (1999)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

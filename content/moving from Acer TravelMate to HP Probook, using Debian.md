@@ -1,7 +1,6 @@
 +++
 date = 2011-07-16
 title = "moving from Acer TravelMate to HP Probook, using Debian"
-
 [taxonomies]
 tags = ['Debian', 'hardware']
 +++

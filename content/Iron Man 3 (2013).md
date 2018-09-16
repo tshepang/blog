@@ -1,7 +1,6 @@
 +++
 date = 2013-09-03
 title = "Iron Man 3 (2013)"
-
 [taxonomies]
 tags = ['decent', '2013-movie']
 categories = ['movies']

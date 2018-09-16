@@ -1,7 +1,6 @@
 +++
 date = 2013-02-12
 title = "great praise for the RPython translation toolchain"
-
 [taxonomies]
 tags = ['Python', 'quote']
 +++

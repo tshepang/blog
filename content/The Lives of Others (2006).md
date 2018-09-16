@@ -1,7 +1,6 @@
 +++
 date = 2011-07-09
 title = "The Lives of Others (2006)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

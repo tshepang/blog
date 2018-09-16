@@ -1,7 +1,6 @@
 +++
 date = 2014-06-06
 title = "The Amazing Spider-Man 2 (2014)"
-
 [taxonomies]
 tags = ['average', '2014-movie']
 categories = ['movies']

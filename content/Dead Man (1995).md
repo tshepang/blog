@@ -1,7 +1,6 @@
 +++
 date = 2014-05-26
 title = "Dead Man (1995)"
-
 [taxonomies]
 tags = ['2006-movie', 'decent']
 categories = ['movies']

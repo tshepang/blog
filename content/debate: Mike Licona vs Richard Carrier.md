@@ -1,7 +1,6 @@
 +++
 date = 2010-03-23
 title = "debate: Mike Licona vs Richard Carrier"
-
 [taxonomies]
 tags = ['atheism']
 +++

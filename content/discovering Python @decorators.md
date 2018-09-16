@@ -1,7 +1,6 @@
 +++
 date = 2014-07-08
 title = "discovering Python @decorators"
-
 [taxonomies]
 tags = ['Python']
 +++

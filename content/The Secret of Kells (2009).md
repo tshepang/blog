@@ -1,7 +1,6 @@
 +++
 date = 2011-11-04
 title = "The Secret of Kells (2009)"
-
 [taxonomies]
 tags = ['2010-movie', 'decent']
 categories = ['movies']

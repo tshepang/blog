@@ -1,7 +1,6 @@
 +++
 date = 2010-02-15
 title = "Hancock (2008)"
-
 [taxonomies]
 tags = ['2008-movie']
 categories = ['movies']

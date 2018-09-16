@@ -1,7 +1,6 @@
 +++
 date = 2011-11-02
 title = "Entrapment (1999)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

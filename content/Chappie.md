@@ -1,7 +1,6 @@
 +++
 date = 2015-05-23
 title = "Chappie"
-
 [taxonomies]
 tags = ['2015', 'good']
 categories = ['movies']

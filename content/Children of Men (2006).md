@@ -1,7 +1,6 @@
 +++
 date = 2014-10-05
 title = "Children of Men (2006)"
-
 [taxonomies]
 tags = ['2008-movie', 'masterpiece']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-12-30
 title = "The Butterfly Effect (2004)"
-
 [taxonomies]
 tags = ['2006-movie', 'excellent']
 categories = ['movies']

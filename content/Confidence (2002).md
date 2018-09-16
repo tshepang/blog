@@ -1,7 +1,6 @@
 +++
 date = 2012-07-22
 title = "Confidence (2002)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

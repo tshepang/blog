@@ -1,7 +1,6 @@
 +++
 date = 2011-12-27
 title = "The Elephant Man (1980)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

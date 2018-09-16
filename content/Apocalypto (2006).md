@@ -1,7 +1,6 @@
 +++
 date = 2011-12-09
 title = "Apocalypto (2006)"
-
 [taxonomies]
 tags = ['2007-movie', 'excellent']
 categories = ['movies']

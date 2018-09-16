@@ -1,7 +1,6 @@
 +++
 date = 2013-09-25
 title = "Escape From Planet Earth (2013)"
-
 [taxonomies]
 tags = ['2013-movie', 'decent']
 categories = ['movies']

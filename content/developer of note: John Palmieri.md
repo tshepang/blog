@@ -1,7 +1,6 @@
 +++
 date = 2011-09-20
 title = "developer of note: John Palmieri"
-
 [taxonomies]
 tags = ['developer-of-note', 'GNOME', 'Python']
 +++

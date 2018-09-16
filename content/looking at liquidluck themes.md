@@ -1,7 +1,6 @@
 +++
 date = 2013-04-13
 title = "looking at liquidluck themes"
-
 [taxonomies]
 tags = ['blogging']
 +++

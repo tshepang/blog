@@ -1,7 +1,6 @@
 +++
 date = 2012-10-21
 title = "The Next Three Days (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

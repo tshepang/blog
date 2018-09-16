@@ -1,7 +1,6 @@
 +++
 date = 2012-01-11
 title = "A Dirty Shame (2004)"
-
 [taxonomies]
 tags = ['2012-movie', 'bad']
 categories = ['movies']

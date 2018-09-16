@@ -1,7 +1,6 @@
 +++
 date = 2012-11-22
 title = "Breaking the Waves (1996)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-04-20
 title = "The Thaw (2009)"
-
 [taxonomies]
 tags = ['good', '2013-movie']
 categories = ['movies']

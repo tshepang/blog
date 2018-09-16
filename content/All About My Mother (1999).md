@@ -1,7 +1,6 @@
 +++
 date = 2011-04-04
 title = "All About My Mother (1999)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

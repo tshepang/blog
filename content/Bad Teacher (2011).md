@@ -1,7 +1,6 @@
 +++
 date = 2012-01-19
 title = "Bad Teacher (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

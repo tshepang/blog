@@ -1,7 +1,6 @@
 +++
 date = 2014-03-10
 title = "Thor: The Dark World (2013)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2010-11-20
 title = "it's less work building from a VCS than from a tarball"
-
 [taxonomies]
 tags = ['untagged']
 +++

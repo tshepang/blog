@@ -1,7 +1,6 @@
 +++
 date = 2011-04-03
 title = "Waterworld (1995)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-11-16
 title = "Introducing Hedzoleh Soundz (1973)"
-
 [taxonomies]
 tags = ['music', 'very-good']
 +++

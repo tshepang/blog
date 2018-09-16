@@ -1,7 +1,6 @@
 +++
 title = "what I like about Rust"
 date = 2015-12-31
-
 [taxonomies]
 tags = ['Rust']
 +++

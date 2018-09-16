@@ -1,7 +1,6 @@
 +++
 date = 2013-04-04
 title = "project of note: PostgreSQL"
-
 [taxonomies]
 tags = ['project-of-note']
 +++

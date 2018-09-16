@@ -1,7 +1,6 @@
 +++
 date = 2012-09-22
 title = "Harry Potter and the Deathly Hallows, Part 1"
-
 [taxonomies]
 tags = ['average', '2012-movie']
 categories = ['movies']

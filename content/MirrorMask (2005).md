@@ -1,7 +1,6 @@
 +++
 date = 2013-12-20
 title = "MirrorMask (2005)"
-
 [taxonomies]
 tags = ['2013-movie', 'decent']
 categories = ['movies']

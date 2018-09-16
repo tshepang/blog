@@ -1,7 +1,6 @@
 +++
 date = 2013-02-24
 title = "Six Shooter (2005)"
-
 [taxonomies]
 tags = ['good', 'short']
 +++

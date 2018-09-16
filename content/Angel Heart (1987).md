@@ -1,7 +1,6 @@
 +++
 date = 2011-12-27
 title = "Angel Heart (1987)"
-
 [taxonomies]
 tags = ['2011-movie', 'average']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2016-03-08
 title = "boiling head"
-
 [taxonomies]
 tags = ['humor', 'quote', 'Rust']
 +++

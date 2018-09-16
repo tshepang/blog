@@ -1,7 +1,6 @@
 +++
 date = 2008-03-04
 title = "more Tracker goodness"
-
 [taxonomies]
 tags = ['Tracker']
 +++

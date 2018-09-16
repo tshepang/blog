@@ -1,7 +1,6 @@
 +++
 date = 2015-01-15
 title = "zerofree rocks!"
-
 [taxonomies]
 tags = ['untagged']
 +++

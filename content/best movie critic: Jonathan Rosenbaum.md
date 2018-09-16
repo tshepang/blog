@@ -1,7 +1,6 @@
 +++
 date = 2012-02-06
 title = "best movie critic: Jonathan Rosenbaum"
-
 [taxonomies]
 categories = ['movies']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2012-11-16
 title = "Austin Powers: International Man of Mystery (1997)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

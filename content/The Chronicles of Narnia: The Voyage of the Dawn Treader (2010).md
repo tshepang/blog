@@ -1,7 +1,6 @@
 +++
 date = 2011-03-16
 title = "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'unrated']
 categories = ['movies']

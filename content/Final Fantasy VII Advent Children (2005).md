@@ -1,7 +1,6 @@
 +++
 date = 2012-06-02
 title = "Final Fantasy VII Advent Children (2005)"
-
 [taxonomies]
 tags = ['substandard', '2008-movie']
 categories = ['movies']

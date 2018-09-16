@@ -1,7 +1,6 @@
 +++
 date = 2012-04-11
 title = "wajig 2.5 released"
-
 [taxonomies]
 tags = ['wajig']
 +++

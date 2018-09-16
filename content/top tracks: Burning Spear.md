@@ -1,7 +1,6 @@
 +++
 title = "top tracks: Burning Spear"
 date = 2015-08-17
-
 [taxonomies]
 tags = ['music', 'top-tracks']
 +++

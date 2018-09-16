@@ -1,7 +1,6 @@
 +++
 date = 2015-04-03
 title = "The Hobbit: The Battle of the Five Armies"
-
 [taxonomies]
 tags = ['average', '2014']
 categories = ['movies']

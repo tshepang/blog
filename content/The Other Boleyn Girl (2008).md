@@ -1,7 +1,6 @@
 +++
 date = 2011-07-16
 title = "The Other Boleyn Girl (2008)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

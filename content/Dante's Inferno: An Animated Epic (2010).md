@@ -1,7 +1,6 @@
 +++
 date = 2011-08-21
 title = "Dante's Inferno: An Animated Epic (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

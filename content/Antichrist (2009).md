@@ -1,7 +1,6 @@
 +++
 date = 2011-04-02
 title = "Antichrist (2009)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2012-05-06
 title = "The Science of Sleep (2006)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

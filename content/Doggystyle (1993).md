@@ -1,7 +1,6 @@
 +++
 date = 2015-08-08
 title = "Doggystyle (1993)"
-
 [taxonomies]
 tags = ['music', 'hip-hop']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2011-04-03
 title = "She's Out of My League (2010)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

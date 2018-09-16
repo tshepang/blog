@@ -1,7 +1,6 @@
 +++
 date = 2012-12-27
 title = "Planet Terror (2007)"
-
 [taxonomies]
 tags = ['2008-movie', 'good']
 categories = ['movies']

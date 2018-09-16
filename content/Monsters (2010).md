@@ -1,7 +1,6 @@
 +++
 date = 2014-05-25
 title = "Monsters (2010)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

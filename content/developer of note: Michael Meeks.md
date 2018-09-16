@@ -1,7 +1,6 @@
 +++
 date = 2012-08-09
 title = "developer of note: Michael Meeks"
-
 [taxonomies]
 tags = ['developer-of-note']
 +++

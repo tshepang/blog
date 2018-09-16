@@ -1,7 +1,6 @@
 +++
 date = 2013-09-06
 title = "Person of Interest - Season 2 Episode 16"
-
 [taxonomies]
 tags = ['tv', 'very-good']
 +++

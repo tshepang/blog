@@ -1,7 +1,6 @@
 +++
 date = 2012-09-23
 title = "Harry Potter and the Deathly Hallows, Part 2"
-
 [taxonomies]
 tags = ['decent', '2012-movie']
 categories = ['movies']

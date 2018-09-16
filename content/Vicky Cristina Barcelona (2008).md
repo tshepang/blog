@@ -1,7 +1,6 @@
 +++
 date = 2012-11-08
 title = "Vicky Cristina Barcelona (2008)"
-
 [taxonomies]
 tags = ['2010-movie', 'decent']
 categories = ['movies']

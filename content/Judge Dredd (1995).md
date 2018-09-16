@@ -1,7 +1,6 @@
 +++
 date = 2012-04-24
 title = "Judge Dredd (1995)"
-
 [taxonomies]
 tags = ['substandard']
 categories = ['movies']

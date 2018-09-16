@@ -1,7 +1,6 @@
 +++
 date = 2013-12-12
 title = "the one I revere most, after losing Madiba"
-
 [taxonomies]
 tags = ['politics']
 +++

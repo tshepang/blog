@@ -1,7 +1,6 @@
 +++
 date = 2014-05-10
 title = "South Africa 'will continue to function'"
-
 [taxonomies]
 tags = ['quote', 'politics']
 +++

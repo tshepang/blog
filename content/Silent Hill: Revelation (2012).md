@@ -1,7 +1,6 @@
 +++
 date = 2013-03-29
 title = "Silent Hill: Revelation (2012)"
-
 [taxonomies]
 tags = ['average', '2013-movie']
 categories = ['movies']

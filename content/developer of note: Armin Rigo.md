@@ -1,7 +1,6 @@
 +++
 date = 2013-10-13
 title = "developer of note: Armin Rigo"
-
 [taxonomies]
 tags = ['developer-of-note', 'Python', 'quote']
 +++

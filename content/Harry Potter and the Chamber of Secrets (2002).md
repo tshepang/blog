@@ -1,7 +1,6 @@
 +++
 date = 2012-09-02
 title = "Harry Potter and the Chamber of Secrets (2002)"
-
 [taxonomies]
 tags = ['decent']
 categories = ['movies']

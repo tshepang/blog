@@ -1,7 +1,6 @@
 +++
 date = 2013-04-24
 title = "the not grateful"
-
 [taxonomies]
 tags = ['quote']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2014-10-30
 title = "impressed by the ease of creating Upstart jobs"
-
 [taxonomies]
 tags = ['non-Debian']
 +++

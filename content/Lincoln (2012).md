@@ -1,7 +1,6 @@
 +++
 date = 2013-09-08
 title = "Lincoln (2012)"
-
 [taxonomies]
 tags = ['2013-movie', 'good']
 categories = ['movies']

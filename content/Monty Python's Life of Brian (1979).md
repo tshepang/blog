@@ -1,7 +1,6 @@
 +++
 date = 2011-08-21
 title = "Monty Python's Life of Brian (1979)"
-
 [taxonomies]
 tags = ['2011-movie', 'good']
 categories = ['movies']

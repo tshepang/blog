@@ -1,7 +1,6 @@
 +++
 date = 2007-10-23
 title = "'Dr. Strangelove' vs. 'Payback'"
-
 [taxonomies]
 categories = ['movies']
 +++

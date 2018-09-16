@@ -1,7 +1,6 @@
 +++
 title = "top musicians"
 date = 2015-09-22
-
 [taxonomies]
 tags = ['music']
 +++

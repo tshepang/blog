@@ -1,7 +1,6 @@
 +++
 date = 2014-04-03
 title = "Doubt (2008)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

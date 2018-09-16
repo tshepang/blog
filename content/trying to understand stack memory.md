@@ -1,7 +1,6 @@
 +++
 date = 2014-08-04
 title = "trying to understand stack memory"
-
 [taxonomies]
 tags = ['Rust']
 +++

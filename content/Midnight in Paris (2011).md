@@ -1,7 +1,6 @@
 +++
 date = 2012-01-05
 title = "Midnight in Paris (2011)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

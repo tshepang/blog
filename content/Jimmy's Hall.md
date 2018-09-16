@@ -1,7 +1,6 @@
 +++
 date = 2015-02-10
 title = "Jimmy's Hall"
-
 [taxonomies]
 tags = ['good', '2014']
 categories = ['movies']

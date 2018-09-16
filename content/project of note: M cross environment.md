@@ -1,7 +1,6 @@
 +++
 date = 2013-04-20
 title = "project of note: M cross environment"
-
 [taxonomies]
 tags = ['non-Debian', 'project-of-note', 'non-Python']
 +++

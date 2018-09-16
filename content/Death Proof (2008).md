@@ -1,7 +1,6 @@
 +++
 date = 2008-10-01
 title = "Death Proof (2008)"
-
 [taxonomies]
 categories = ['movies']
 +++

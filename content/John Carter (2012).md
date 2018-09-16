@@ -1,7 +1,6 @@
 +++
 date = 2013-03-10
 title = "John Carter (2012)"
-
 [taxonomies]
 tags = ['substandard', '2013-movie']
 categories = ['movies']

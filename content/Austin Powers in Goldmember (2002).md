@@ -1,7 +1,6 @@
 +++
 date = 2012-11-17
 title = "Austin Powers in Goldmember (2002)"
-
 [taxonomies]
 tags = ['average']
 categories = ['movies']

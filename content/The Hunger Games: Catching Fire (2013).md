@@ -1,7 +1,6 @@
 +++
 date = 2014-02-20
 title = "The Hunger Games: Catching Fire (2013)"
-
 [taxonomies]
 tags = ['average', '2014-movie']
 categories = ['movies']

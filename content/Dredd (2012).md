@@ -1,7 +1,6 @@
 +++
 date = 2013-02-03
 title = "Dredd (2012)"
-
 [taxonomies]
 tags = ['good', '2013-movie']
 categories = ['movies']

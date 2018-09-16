@@ -1,7 +1,6 @@
 +++
 date = 2013-07-23
 title = "challenges facing Python from other languages"
-
 [taxonomies]
 tags = ['Python', 'non-Python']
 +++

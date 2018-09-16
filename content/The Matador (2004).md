@@ -1,7 +1,6 @@
 +++
 date = 2012-10-21
 title = "The Matador (2004)"
-
 [taxonomies]
 tags = ['good', '2008-movie']
 categories = ['movies']

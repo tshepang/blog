@@ -1,7 +1,6 @@
 +++
 date = 2014-05-10
 title = "a better Python"
-
 [taxonomies]
 tags = ['Python', 'non-Python']
 +++

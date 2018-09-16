@@ -1,7 +1,6 @@
 +++
 date = 2008-03-12
 title = "revisiting 'Pirates of the Caribbean 3'"
-
 [taxonomies]
 categories = ['movies']
 +++

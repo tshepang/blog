@@ -1,7 +1,6 @@
 +++
 date = 2011-03-15
 title = "cat, Python, and Perl"
-
 [taxonomies]
 tags = ['non-Python', 'Python']
 +++

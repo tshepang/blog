@@ -1,7 +1,6 @@
 +++
 date = 2011-01-28
 title = "basic ConfigParser usage"
-
 [taxonomies]
 tags = ['Python']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2009-01-23
 title = "discarding Scribes for Geany"
-
 [taxonomies]
 tags = ['Scribes', 'Geany']
 +++

@@ -1,7 +1,6 @@
 +++
 date = 2012-06-07
 title = "Missing (1982)"
-
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']

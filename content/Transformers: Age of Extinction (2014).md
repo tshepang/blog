@@ -1,7 +1,6 @@
 +++
 date = 2014-10-29
 title = "Transformers: Age of Extinction (2014)"
-
 [taxonomies]
 tags = ['2014-movie', 'decent']
 categories = ['movies']

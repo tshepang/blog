@@ -1,7 +1,6 @@
 +++
 date = 2012-01-07
 title = "True Legend (2010)"
-
 [taxonomies]
 tags = ['2012-movie', 'average']
 categories = ['movies']

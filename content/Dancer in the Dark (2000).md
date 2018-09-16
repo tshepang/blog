@@ -1,7 +1,6 @@
 +++
 date = 2012-11-25
 title = "Dancer in the Dark (2000)"
-
 [taxonomies]
 tags = ['good']
 categories = ['movies']

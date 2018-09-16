@@ -1,7 +1,6 @@
 +++
 date = 2015-04-10
 title = "Fair Game"
-
 [taxonomies]
 tags = ['good', '2011']
 categories = ['movies']

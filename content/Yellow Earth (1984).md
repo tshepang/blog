@@ -1,7 +1,6 @@
 +++
 date = 2012-12-26
 title = "Yellow Earth (1984)"
-
 [taxonomies]
 tags = ['good', '2009-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2013-05-26
 title = "shutil.which() rocks"
-
 [taxonomies]
 tags = ['Python', 'wajig']
 +++

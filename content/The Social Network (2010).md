@@ -1,7 +1,6 @@
 +++
 date = 2012-11-05
 title = "The Social Network (2010)"
-
 [taxonomies]
 tags = ['2010-movie', 'good']
 categories = ['movies']

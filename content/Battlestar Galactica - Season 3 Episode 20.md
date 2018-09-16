@@ -1,7 +1,6 @@
 +++
 date = 2011-12-29
 title = "Battlestar Galactica - Season 3 Episode 20"
-
 [taxonomies]
 tags = ['tv']
 +++

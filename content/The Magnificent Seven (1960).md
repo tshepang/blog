@@ -1,7 +1,6 @@
 +++
 date = 2008-05-01
 title = "The Magnificent Seven (1960)"
-
 [taxonomies]
 tags = ['2008-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-12-08
 title = "L.A. Confidential (1997)"
-
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']

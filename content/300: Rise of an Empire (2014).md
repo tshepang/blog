@@ -1,7 +1,6 @@
 +++
 date = 2014-06-09
 title = "300: Rise of an Empire (2014)"
-
 [taxonomies]
 tags = ['decent', '2014-movie']
 categories = ['movies']

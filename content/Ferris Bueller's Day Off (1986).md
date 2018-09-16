@@ -1,7 +1,6 @@
 +++
 date = 2012-01-05
 title = "Ferris Bueller's Day Off (1986)"
-
 [taxonomies]
 tags = ['2012-movie', 'substandard']
 categories = ['movies']

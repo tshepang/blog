@@ -1,7 +1,6 @@
 +++
 date = 2012-06-02
 title = "Arthur (1981)"
-
 [taxonomies]
 tags = ['substandard', '2012-movie']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 title = "I am a very jealous person"
 date = 2018-02-02
-
 [taxonomies]
 tags = ['Rust', 'non-Rust']
 +++

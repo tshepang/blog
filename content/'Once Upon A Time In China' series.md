@@ -1,7 +1,6 @@
 +++
 date = 2009-05-04
 title = "'Once Upon A Time In China' series"
-
 [taxonomies]
 categories = ['movies']
 +++

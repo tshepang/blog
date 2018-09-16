@@ -1,7 +1,6 @@
 +++
 date = 2014-02-23
 title = "The Passion of Joan of Arc (1928)"
-
 [taxonomies]
 tags = ['2014-movie', 'good']
 categories = ['movies']

@@ -1,7 +1,6 @@
 +++
 date = 2011-02-21
 title = "The Legend of 1900 (1999)"
-
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']

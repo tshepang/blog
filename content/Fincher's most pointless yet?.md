@@ -1,7 +1,6 @@
 +++
 date = 2009-07-17
 title = "Fincher's most pointless yet?"
-
 [taxonomies]
 categories = ['movies']
 +++

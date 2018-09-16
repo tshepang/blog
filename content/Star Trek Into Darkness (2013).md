@@ -1,7 +1,6 @@
 +++
 date = 2013-12-08
 title = "Star Trek Into Darkness (2013)"
-
 [taxonomies]
 tags = ['substandard', '2013-movie']
 categories = ['movies']
