@@ -8,19 +8,14 @@ tags = ['Rust']
 I was surprised by the ease of use of [libflate] when decompressing a
 gzip'ed file:
 
-::: {.sourcecode}
-rust
-
+```rust
 extern crate libflate;
-
 fn main() {
-
-:   let mut file = std::fs::<File::open>("file.gz").unwrap(); let file
-    = libflate::gzip::Decoder::new(&mut file).unwrap();
+    let mut file = std::fs::<File::open>("file.gz").unwrap();
+    let file = libflate::gzip::Decoder::new(&mut file).unwrap();
     do_something_with(file);
-
 };
-:::
+```
 
 And that's it, `file` is now like a normal file!
 
