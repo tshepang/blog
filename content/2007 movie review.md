@@ -164,6 +164,6 @@ Bandits; Troy
   [Fracture]: http://tshepang.net/fracture-2007
   [The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006
   [Beowulf]: http://tshepang.net/beowulf-2007
-  [Pan's Labyrinth]: http://tshepang.net/pans-labyrinth-2006
+  [Pan's Labyrinth]: http://tshepang.net/pan-s-labyrinth-2006
   [The Bourne Ultimatum]: http://tshepang.net/the-bourne-ultimatum-2007
   [these]: http://tshepang.net/tags/2007-movie

@@ -15,4 +15,4 @@ character of Brian's mom.
 Luckily, unlike [Holy Grail], it doesn't feel too much like a
 collection of gags.
 
-  [Holy Grail]: http://tshepang.net/monty-pythons-quest-for-the-holy-grail-1975
+  [Holy Grail]: http://tshepang.net/monty-python-s-quest-for-the-holy-grail-1975
