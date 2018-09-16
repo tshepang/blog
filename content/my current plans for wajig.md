@@ -40,6 +40,6 @@ And over 800 commits later, I am glad.
 
   [argcomplete]: https://github.com/kislyuk/argcomplete
   [optcomplete]: http://furius.ca/optcomplete/
-  [I removed from wajig]: http://tshepang.net/wajig-21-released
+  [I removed from wajig]: http://tshepang.net/wajig-2-1-released
   [Tracker project]: http://projects.gnome.org/tracker/
-  [its tag]: http://tshepang.net/tagss#wajig-ref
+  [its tag]: http://tshepang.net/tags/wajig
