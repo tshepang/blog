@@ -21,7 +21,7 @@ emotional pain).
 The SONY DVD-Writer which I loved due running reliably for years until
 it failed earlier this year. I also lost the power supply which kept
 resetting when, say for example I was inserting an optical disk and the
-HDD was doing much seeking (both of which must have induced unberable
+HDD was doing much seeking (both of which must have induced unbearable
 power spikes the PSU), an obvious sign of deterioration, and great
 source of emotional pain too.
 
