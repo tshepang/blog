@@ -20,56 +20,38 @@ tags = ['Rust']
     One feature they have is they allow adding methods to types,
     including upstream ones, example being stdlib types as follows:
 
-    ::: {.sourcecode}
-    rust
-
+    ```rust
     trait Invert {
-
-    :   fn invert(&self) -> f64;
-
+        fn invert(&self) -> f64;
     }
 
     impl Invert for i32 {
-
-    :
-
         fn invert(&self) -> f64 {
-
-        :   1.0/(*self as f64)
-
+            1.0/(*self as f64)
         }
-
     }
 
     fn main() {
-
-    :   let foo = 10_i32; assert_eq!(foo.invert(), 0.1);
-
+        let foo = 10_i32; assert_eq!(foo.invert(), 0.1);
     }
-    :::
+    ```
 
     Another example is that one can limit the type of arguments accepted
     by a function, though it uses something of an ugly syntax:
 
-    ::: {.sourcecode}
-    rust
-
+    ```rust
     fn print_inverse<T: Invert>(foo: T) {
-
-    :   println!("Inverse: {}", foo.invert());
-
+       println!("Inverse: {}", foo.invert());
     }
-    :::
+    ```
 
     The `<T: Invert>` means this function will only accept `foo` whose
     type implements the `Invert` trait. You can check by calling it with
     an `i32` value, in which it will succeed:
 
-    ::: {.sourcecode}
-    rust
-
+    ```rust
     print_inverse(10_i32);
-    :::
+    ```
 
     Output:
 
@@ -77,11 +59,9 @@ tags = ['Rust']
 
     Any other type will fail:
 
-    ::: {.sourcecode}
-    rust
-
+    ```rust
     print_inverse(10_f64);
-    :::
+    ```
 
     Output:
 
@@ -91,21 +71,13 @@ tags = ['Rust']
     types for the same function. For example, that error will disappear
     if you got this:
 
-    ::: {.sourcecode}
-    rust
-
+    ```rust
     impl Invert for f64 {
-
-    :
-
         fn invert(&self) -> f64 {
-
-        :   1.0/(*self)
-
+            1.0/(*self)
         }
-
     }
-    :::
+    ```
 
   [an oddity regarding 'pow' method]: http://stackoverflow.com/q/30413090/321731
   [not as obvious as I hoped]: http://stackoverflow.com/a/28003842/321731
