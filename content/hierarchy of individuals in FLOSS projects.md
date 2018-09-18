@@ -34,7 +34,7 @@ From top to bottom:
     This is someone who suggests improvements to the project. Depending
     on the project, any of these are used: a mailing list, an IRC
     channel, a social networking service, email, or a dedicated
-    Issue/Bug tracking system can be used.
+    Issue/Bug tracking system.
 
 5.  User
 
