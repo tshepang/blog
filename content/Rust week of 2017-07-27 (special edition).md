@@ -9,7 +9,7 @@ I been using this series to help push me into constant Rust activity,
 ensuring I do not skip a week sitting idle. It worked in that, indeed,
 no 7 days passed without a single contribution to the ecosystem, no
 matter how tiny, and this has been going on for over a 100 weeks (i.e.
-[since 2015-05-15], also Rust 1.0 release date).
+[since 2015-05-15], the Rust 1.0 release date).
 
 The problem is I felt silly recording the tiny parts, stuff like a typo
 fixes, just to keep this going. Well, it's time to stop that. I intend
