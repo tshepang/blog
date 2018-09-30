@@ -30,7 +30,7 @@ desirable) is the lady who seduced our hero on the beach in what is
 easily the silliest moment in the movie.
 
 [**sidenote**]
-Now, this Gary Busy guy is one prolific muthafucka,
+Now, this Gary Busy guy is one prolific guy,
 with over 120 movie appearances! I think most are shit though, as is
 often the case with actors this active. Remember [Dennis Hopper]?
 
