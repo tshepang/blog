@@ -7,7 +7,7 @@ tags = ["2018", "year-review"]
 categories = ['movies']
 +++
 
-The greatest **spectable** is *Real Player One* (great supply of
+The greatest **spectable** is *Ready Player One* (great supply of
 iconic fictional characters, fantastic environment, and story concept).
 The movie also has the best **animation**.
 
