@@ -23,7 +23,7 @@ There is [a separate post] for those.
 *software development*
 
 -   **cargo**: primary tool for Rust development
--   **Git**: this one has won the mindshare... using it for work and open source
+-   **Git**: this one has won the mindshare
 -   **Mercurial**: slight preference over Git
 
 *work*
