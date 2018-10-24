@@ -18,7 +18,7 @@ There is [a separate post] for those.
 - **Emacs**: pleasant text editing and file management
 - **bash**, and **fish**: the latter is new to me, and likely here to stay...
   it's a far more pretty ui, with a fancy completion
-  system that also gets in the way rather often
+  system, which sadly gets in the way rather often
 
 *software development*
 
