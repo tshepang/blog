@@ -16,8 +16,8 @@ There is [a separate post] for those.
 - [dwm]: simple and clean window management
 - [tmux][]: amazingly powerful, though I wish it had less rendering bugs
 - **Emacs**: pleasant text editing and file management
-- **bash**, and **fish**: the latter is new to me, and still under
-  evaluation... it's a far more pretty ui, with a fancy completion
+- **bash**, and **fish**: the latter is new to me, and likely here to stay...
+  it's a far more pretty ui, with a fancy completion
   system that also gets in the way rather often
 
 *software development*
