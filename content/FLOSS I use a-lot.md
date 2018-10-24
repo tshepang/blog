@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2018-09-12
+date = 2018-10-25
 [taxonomies]
 tags = ['list']
 +++
@@ -36,6 +36,7 @@ central servers
 -   **VirtualBox**: these remotes can be virtual... great for testing
 -   **journalctl** & **sysmtemctl**: these remotes run systemd
 -   **Elasticsearch**: the data store
+-   **Ubuntu**: the OS running these remotes, and the server ([I jealous])
 
 *GUI applications*
 
@@ -89,3 +90,4 @@ central servers
   [Sudo]: http://tshepang.net/project-of-note-sudo
   [Iotop]: http://tshepang.net/project-of-note-sudo
   [vnstat]: http://humdi.net/vnstat
+  [I jealous]: http://tshepang.net/i-am-a-very-jealous-person
