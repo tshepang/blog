@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2018-10-25
+date = 2019-02-20
 [taxonomies]
 tags = ['list']
 +++
@@ -75,7 +75,8 @@ central servers
 - [ripgrep]: grep replacement (better speed and ux),
   and the most important non-dev tool written in Rust
 - [Iotop]: nifty I/O usage viewer
-
+- [exa]: a more pleasant, more pretty, `ls` replacement
+- [bat]: a more pleasant, more fancy, `cat` replacement
 
 
 [a separate post]: http://tshepang.net/favorite-floss
@@ -91,3 +92,5 @@ central servers
 [Iotop]: http://tshepang.net/project-of-note-sudo
 [vnstat]: http://humdi.net/vnstat
 [I jealous]: http://tshepang.net/i-am-a-very-jealous-person
+[exa]: https://the.exa.website
+[bat]: https://crates.io/crates/bat
