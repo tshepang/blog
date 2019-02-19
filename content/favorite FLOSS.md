@@ -1,6 +1,6 @@
 +++
 title = "favorite FLOSS"
-date = 2018-09-13
+date = 2019-02-20
 [taxonomies]
 tags = ['list']
 +++
@@ -16,17 +16,15 @@ it has to both be personally useful and I have to like it a-lot:
 
 **file manager**: Emacs (Dired mode)
 
-**misc utilities:** [ripgrep], [Sudo], Lsof, less, procps (top, watch),
-Ex Falso, gnumeric, coreutils (head, tail),
-[LinkChecker], [Iotop], [rdiff-backup], OpenSSH, [vnstat], [tmux], File
-Roller, youtube-dl
+**misc utilities:** [ripgrep], [Sudo], Lsof, [bat], procps (top, watch),
+Ex Falso, coreutils (head, tail),
+[Iotop], OpenSSH, [vnstat], [tmux], youtube-dl
 
   [FLOSS]: http://en.wikipedia.org/wiki/Free_and_open-source_software
   [dwm]: http://dwm.suckless.org
   [ripgrep]: http://blog.burntsushi.net/ripgrep
   [Sudo]: http://tshepang.net/project-of-note-sudo
-  [LinkChecker]: http://tshepang.net/project-of-note-linkchecker
   [Iotop]: http://guichaz.free.fr/iotop
-  [rdiff-backup]: http://tshepang.net/project-of-note-rdiff-backup
   [vnstat]: http://humdi.net/vnstat
   [tmux]: http://tmux.sourceforge.net
+  [bat]: https://crates.io/crates/bat
