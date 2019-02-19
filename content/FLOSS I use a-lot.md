@@ -66,17 +66,14 @@ central servers
   for it)
 - **apt**: Debian package management
 - **head** and **tail**: included in GNU coreutils suite of tools
-- [less][]: indispensable!
 - **OpenSSH**: duh!
 - [Sudo]: another duh!
-- [Fabric][]: I use it to build and deploy my blogs... it's some
-  sort of replacement for shell scripting
 - [youtube-dl][]: I prefer watching videos locally, with VLC
 - [ripgrep]: grep replacement (better speed and ux),
   and the most important non-dev tool written in Rust
 - [Iotop]: nifty I/O usage viewer
 - [exa]: a more pleasant, more pretty, `ls` replacement
-- [bat]: a more pleasant, more fancy, `cat` replacement
+- [bat]: a more pleasant, more fancy, `cat` (and `less`) replacement
 
 
 [a separate post]: http://tshepang.net/favorite-floss
@@ -84,8 +81,6 @@ central servers
 [Transmission]: http://www.transmissionbt.com
 [dwm]: http://tshepang.net/my-current-desktop-setup
 [tmux]: http://tmux.sourceforge.net
-[less]: http://www.greenwoodsoftware.com/less
-[Fabric]: http://fabfile.org
 [youtube-dl]: http://rg3.github.io/youtube-dl
 [ripgrep]: http://blog.burntsushi.net/ripgrep
 [Sudo]: http://tshepang.net/project-of-note-sudo
