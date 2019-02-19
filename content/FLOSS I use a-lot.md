@@ -35,7 +35,7 @@ central servers
 - **VirtualBox**: these remotes can be virtual... great for testing
 - **journalctl** & **systemctl**: these remotes run systemd
 - **Elasticsearch**: the data store
-- **Ubuntu**: the OS running these remotes, and the server ([I jealous])
+- **Ubuntu**: the OS running these remotes, and the server
 - **Bash**: default shell on Ubuntu, this one can hardly be avoided
 
 *GUI applications*
@@ -91,6 +91,5 @@ central servers
 [Sudo]: http://tshepang.net/project-of-note-sudo
 [Iotop]: http://tshepang.net/project-of-note-sudo
 [vnstat]: http://humdi.net/vnstat
-[I jealous]: http://tshepang.net/i-am-a-very-jealous-person
 [exa]: https://the.exa.website
 [bat]: https://crates.io/crates/bat
