@@ -69,11 +69,10 @@ central servers
 - **OpenSSH**: duh!
 - [Sudo]: another duh!
 - [youtube-dl][]: I prefer watching videos locally, with VLC
-- [ripgrep]: grep replacement (better speed and ux),
-  and the most important non-dev tool written in Rust
 - [Iotop]: nifty I/O usage viewer
-- [exa]: a more pleasant, more pretty, `ls` replacement
-- [bat]: a more pleasant, more fancy, `cat` (and `less`) replacement
+- [ripgrep]: a more pleasant `grep`
+- [exa]: a more pleasant, more pretty `ls`
+- [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
 
 
 [a separate post]: http://tshepang.net/favorite-floss
