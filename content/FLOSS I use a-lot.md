@@ -31,10 +31,10 @@ There is [a separate post] for those.
 Out infrastructure is made up of remote machines that ferry data to
 central servers
 
--   **Docker**: each component of the server runs in a container
--   **salt**: administers the remote machines
+-   **Docker** & **Docker Compose**: each component of the server runs in a container
+-   **SaltStack**: administers the remote machines
 -   **VirtualBox**: these remotes can be virtual... great for testing
--   **journalctl** & **sysmtemctl**: these remotes run systemd
+-   **journalctl** & **systemctl**: these remotes run systemd
 -   **Elasticsearch**: the data store
 -   **Ubuntu**: the OS running these remotes, and the server ([I jealous])
 
