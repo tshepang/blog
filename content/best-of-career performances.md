@@ -36,8 +36,6 @@ categories = ['movies']
 -   Will Smith (Ali); also [favorite-of-career]
 -   Woody Harrelson (Seven Pounds)
 
----
-
 related: [favorite-of-career performances][favorite-of-career]
 
   [Fight Club]: http://tshepang.net/fight-club-1999
