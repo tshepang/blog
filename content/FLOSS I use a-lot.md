@@ -16,9 +16,8 @@ There is [a separate post] for those.
 - [dwm]: simple and clean window management
 - [tmux][]: amazingly powerful, though I wish it had less rendering bugs
 - **Emacs**: pleasant text editing and file management
-- **bash**, and **fish**: the latter is new to me, and likely here to stay...
-  it's a far more pretty ui, with a fancy completion
-  system, which sadly gets in the way rather often
+- **fish**: compared to mighty Bash, it is far more pretty,
+   and has a far better command completion system
 
 *software development*
 
@@ -37,6 +36,7 @@ central servers
 - **journalctl** & **systemctl**: these remotes run systemd
 - **Elasticsearch**: the data store
 - **Ubuntu**: the OS running these remotes, and the server ([I jealous])
+- **Bash**: default shell on Ubuntu, this one can hardly be avoided
 
 *GUI applications*
 
