@@ -24,7 +24,7 @@ contrived circumstances and... fuck, there is nothing there!
 
 Anyways, as I complained about the show, someone passively invited me to
 another show named *Day of Absence*, which was such a pleasure. Concept
-is great (and fresh)... "white face* black performers play roles of
+is great (and fresh)... "white face" black performers play roles of
 white people in shitty-ass USA where blacks are treated like sub-humans,
 in a society so dependent on them that chaos ensues when they
 mysteriously disappear. There's lots of good humor, there's decent
