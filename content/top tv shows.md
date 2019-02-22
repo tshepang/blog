@@ -10,7 +10,7 @@ watched them.
 
 - Yizo Yizo (seasons 1 and 2)
 - 24
-- Game of Thrones
+- Game of Thrones (seasons 1 to 6)
 - Homeland
 - Utopia
 - Girls (seasons 1 and 2)
