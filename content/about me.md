@@ -5,7 +5,7 @@ date = 2018-09-11
 
 - Tshepang Lekhonkhobe
 - <tshepang@gmail.com>
-- Gauteng province, [South Africa]
+- Johannesburg, [South Africa]
 
 I do software development [for a living] and as a hobby.
 My favorite language (and ecosystem) is [Rust], and my OS of choice is
