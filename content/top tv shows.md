@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2015-11-04
+date = 2019-02-22
 [taxonomies]
 tags = ['tv']
 +++
@@ -21,8 +21,6 @@ them.
 
 **honorable mentions**
 
-- House
-- Death Note
 - Alphas
 - Breaking Bad
 - The Americans
