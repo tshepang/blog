@@ -53,8 +53,7 @@ central servers
 
 *entertainment*
 
-- **Quod Libet**: audio player that comes with a very excellent tag
-  editor, **Ex Falso**
+- [Quod Libet]: audio player
 - **VLC**: user interface could be a lot better
 
 *miscellaneous tools*
@@ -87,3 +86,4 @@ central servers
 [vnstat]: http://humdi.net/vnstat
 [exa]: https://the.exa.website
 [bat]: https://crates.io/crates/bat
+[Quod Libet]: https://quodlibet.readthedocs.io
