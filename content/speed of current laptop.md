@@ -1,6 +1,6 @@
 +++
 title = "speed of current laptop"
-date = 2018-09-20
+date = 2019-03-01
 
 [taxonomies]
 tags = ["hardware", "Rust"]
@@ -15,33 +15,30 @@ To check performance, I use [Rust JSON Benchmark]:
 ```
 git clone https://github.com/serde-rs/json-benchmark
 cd json-benchmark
-git rev-parse HEAD
-rustc --version
+git checkout ac6076683bb73e1e82181e4928d7bc520db9aaa7
+rustup default 1.33.0
 cargo run --release --bin json-benchmark
 ```
 
 Results:
 
 ```
-9eae8499c19ecdf3531d72451e0172b56e570c99
-rustc 1.29.0 (aa3ca1994 2018-09-11)
-    Finished release [optimized + debuginfo] target(s) in 0.04s
-     Running `target/release/json-benchmark`
-                                DOM                STRUCT
-======= serde_json ======= parse|stringify === parse|stringify ===
-data/canada.json           9.3ms     5.3ms     3.3ms     4.2ms
-data/citm_catalog.json     5.5ms     1.5ms     1.7ms     1.2ms
-data/twitter.json          2.1ms     0.9ms     0.9ms     0.8ms
+ac6076683bb73e1e82181e4928d7bc520db9aaa7
+DOM                  STRUCT
+======= serde_json ======= parse|stringify ===== parse|stringify ====
+data/canada.json         260 MB/s   430 MB/s   620 MB/s   330 MB/s
+data/citm_catalog.json   410 MB/s   410 MB/s   950 MB/s   600 MB/s
+data/twitter.json        270 MB/s   640 MB/s   590 MB/s   740 MB/s
 
-======= json-rust ======== parse|stringify === parse|stringify ===
-data/canada.json           6.1ms     3.0ms
-data/citm_catalog.json     2.8ms     0.7ms
-data/twitter.json          1.2ms     0.5ms
+======= json-rust ======== parse|stringify ===== parse|stringify ====
+data/canada.json         430 MB/s   810 MB/s
+data/citm_catalog.json   710 MB/s   520 MB/s
+data/twitter.json        470 MB/s   700 MB/s
 
-==== rustc_serialize ===== parse|stringify === parse|stringify ===
-data/canada.json          14.6ms    33.4ms    19.3ms    48.5ms
-data/citm_catalog.json    11.6ms     3.1ms    15.4ms     2.9ms
-data/twitter.json          6.3ms     1.5ms     7.9ms     1.4ms
+==== rustc_serialize ===== parse|stringify ===== parse|stringify ====
+data/canada.json         180 MB/s    70 MB/s   130 MB/s    53 MB/s
+data/citm_catalog.json   200 MB/s   200 MB/s   140 MB/s   230 MB/s
+data/twitter.json        110 MB/s   390 MB/s    94 MB/s   420 MB/s
 ```
 
 [Rust JSON Benchmark]: https://github.com/serde-rs/json-benchmark
