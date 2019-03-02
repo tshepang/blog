@@ -7,8 +7,10 @@ tags = ['Rust']
 
 -   Remove the `try!` macro... it has a better replacement in the form
     of the question_mark (`?`) operator.
+
 -   Remove `std::sync::mpsc` from stdlib, making it available
     externally... it does not feel general enough. ([more issues])
+
 -   Assigning values to struct bindings should use the equal sign, not
     the colon:
 
