@@ -5,28 +5,28 @@ date = 2017-12-09
 tags = ['Rust']
 +++
 
--   Remove the `try!` macro... it has a better replacement in the form
-    of the question_mark (`?`) operator.
+- Remove the `try!` macro... it has a better replacement in the form
+  of the question_mark (`?`) operator.
 
--   Remove `std::sync::mpsc` from stdlib, making it available
-    externally... it does not feel general enough. ([more issues])
+- Remove `std::sync::mpsc` from stdlib, making it available
+  externally... it does not feel general enough. ([more issues])
 
--   Assigning values to struct bindings should use the equal sign, not
-    the colon:
+- Assigning values to struct bindings should use the equal sign, not
+  the colon:
 
-    ```rust
-    // now
-    Shoe { size: 10, style: "sneaker" };
-    // dream
-    Shoe { size = 10, style = "sneaker" };
-    ```
+  ```rust
+  // now
+  Shoe { size: 10, style: "sneaker" };
+  // dream
+  Shoe { size = 10, style = "sneaker" };
+  ```
 
-    This would be consistent with the rest of the language.
+  This would be consistent with the rest of the language.
 
--   All collections types removed, except these basic ones: Vec,
-    HashMap, and HashSet. Also, they would also be available from
-    top-level (i.e. `std::{Vec, HashMap, HashSet}`), resulting in
-    `std::collections` removal.
+- All collections types removed, except these basic ones: Vec,
+  HashMap, and HashSet. Also, they would also be available from
+  top-level (i.e. `std::{Vec, HashMap, HashSet}`), resulting in
+  `std::collections` removal.
 
 
 [more issues]: https://github.com/rust-lang/rust/pull/42397#issuecomment-315867774
