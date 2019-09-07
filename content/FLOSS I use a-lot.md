@@ -74,7 +74,7 @@ central servers
 [I used to maintain it]: http://tshepang.net/tags/wajig
 [Transmission]: http://www.transmissionbt.com
 [dwm]: http://tshepang.net/my-current-desktop-setup
-[tmux]: http://tmux.sourceforge.net
+[tmux]: https://github.com/tmux/tmux/wiki
 [youtube-dl]: http://rg3.github.io/youtube-dl
 [ripgrep]: http://blog.burntsushi.net/ripgrep
 [Sudo]: http://tshepang.net/project-of-note-sudo
