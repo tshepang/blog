@@ -15,20 +15,20 @@ json! macro:
 
 ```rust
 let query = json!({
-  "sort": [
-      { "@timestamp": { "order": "asc", } }
-  ],
-  "query": {
-      "bool": {
-          "must": [
-              { "term": { "marker": "test0" } },
-              { "range": { "@timestamp": {
-                  "gte": "now-100s",
-                  "lte": "now",
-              }}},
-          ]
-      }
-  }
+    "sort": [
+        { "@timestamp": { "order": "asc", } }
+    ],
+    "query": {
+        "bool": {
+            "must": [
+                { "term": { "marker": "test0" } },
+                { "range": { "@timestamp": {
+                    "gte": "now-100s",
+                    "lte": "now",
+                }}},
+            ]
+        }
+    }
 });
 ```
 
