@@ -5,10 +5,6 @@ date = 2019-02-20
 tags = ['list']
 +++
 
-Following are tools I use a lot, but am not necessarily loving...
-There is [a separate post] for those.
-
----
 
 *environment*
 
