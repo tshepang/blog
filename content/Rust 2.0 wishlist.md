@@ -1,9 +1,15 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2017-12-09
+date = 2019-09-07
 [taxonomies]
 tags = ['Rust']
 +++
+
+- Do not allow crate names with underscores, because taste...
+
+  `less_pretty` (example `lazy_static`)
+
+  `more-pretty` ( example `regex-syntax`)
 
 - Remove the `try!` macro... it has a better replacement in the form
   of the question_mark (`?`) operator.
