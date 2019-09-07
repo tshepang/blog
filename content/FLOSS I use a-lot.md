@@ -68,6 +68,7 @@ central servers
 - [ripgrep]: a more pleasant `grep`
 - [exa]: a more pleasant, more pretty `ls`
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
+- **top**: a powerful and flexible process viewer, part of [procps suite]
 
 
 [a separate post]: http://tshepang.net/favorite-floss
@@ -82,4 +83,5 @@ central servers
 [vnstat]: http://humdi.net/vnstat
 [exa]: https://the.exa.website
 [bat]: https://crates.io/crates/bat
+[procps suite]: https://gitlab.com/procps-ng/procps
 [Quod Libet]: https://quodlibet.readthedocs.io
