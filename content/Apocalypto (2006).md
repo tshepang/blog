@@ -6,8 +6,8 @@ tags = ['2007-movie', 'excellent']
 categories = ['movies']
 +++
 
-There's a bunch of movies that showcase primitive cultures, the kind
-that wear skimpy clothes and use heavy body modification, and this one
+There's a bunch of movies that showcase cultures where people
+wear skimpy clothes and use heavy body modification, and this
 is the best of them. There is also excellent casting and directing, and
 an interesting story that's spoiled by some plot holes:
 
