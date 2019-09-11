@@ -11,9 +11,9 @@ wear skimpy clothes and use heavy body modification, and this
 is the best of them. There is also excellent casting and directing, and
 an interesting story that's spoiled by some plot holes:
 
--   how far can a human outrun a jaguar?
--   how close can a 30m+ waterfall be to an ocean?
--   how long can a human run with a wound that bad?.
+- How far can a human outrun a jaguar?
+- How close can a 30m+ waterfall be to an ocean?
+- How long can a human run with a wound that bad?.
 
 Anyways, back to the good stuff: The environment where the human
 sacrifices take place is among the richest ever committed to screen, and
