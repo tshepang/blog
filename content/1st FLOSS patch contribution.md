@@ -8,7 +8,7 @@ tags = ['GNOME', 'Tracker']
 A few months ago,
 I sent a patch that slightly improved the README of [Tracker],
 a project that is meant to be a data indexer (like [Google  Desktop]) and much more.
-It is the first ever FLOSS contribution I ever made:
+It is the first FLOSS contribution I ever made:
 
 
 ```diff
