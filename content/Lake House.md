@@ -1,7 +1,9 @@
 +++
+title = "Lake House"
 date = 2008-02-25
-title = "recent movies 2008-02-25"
+
 [taxonomies]
+tags = ["2006-movie", "good"]
 categories = ['movies']
 +++
 
@@ -11,7 +13,3 @@ enjoyable and laid-back romance whose star is its wonderful play on the
 concept of time, all this while refraining from shitty-ass formula
 typical of Hollywood romance.
 
-The history and origin of the jumpers of *Jumper* would have been fun,
-but instead some seemingly hurried producers/editors decided to reduce
-it to mere passing mention... I could have done with a better villain,
-fearsome as Jackson was.
