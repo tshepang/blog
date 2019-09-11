@@ -26,6 +26,8 @@ events following the king's death. It's a very interesting portrayal
 of how fast a respected person can fall, given a powerful-enough
 opponent.
 
+---
+
 The Oscars are embarassing to have honored the movie with Best Picture
 Oscar. They deserve to be ignored, for there surely must have been
 numerous superior movies that year.
