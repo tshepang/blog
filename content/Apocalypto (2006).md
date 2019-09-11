@@ -13,7 +13,7 @@ an interesting story that's spoiled by some plot holes:
 
 - How far can a human outrun a jaguar?
 - How close can a 30m+ waterfall be to an ocean?
-- How long can a human run with a wound that bad?.
+- How long can a human run with a wound that bad?
 
 Anyways, back to the good stuff: The environment where the human
 sacrifices take place is among the richest ever committed to screen, and
