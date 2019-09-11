@@ -12,11 +12,11 @@ iconic fictional characters, fantastic environment, and story concept).
 The movie also has the best **animation**.
 
 The best **humor** is found in *Deadpool 2*,
-a sequel that also happens to be better than the delightful original.
+a sequel that also happens to be better than the (delightful) original.
 
 The best **thriller** is the intense *Mile 22*,
 and its [Iko Uwais] gives the year's **favorite performance**.
-The movie also has best **action direction**.
+The movie also has the best **action direction**.
 Runner-up for **favorite performance** is by [Jesse Plemons] in *Game
 Night*.
 
