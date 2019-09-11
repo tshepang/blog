@@ -1,11 +1,11 @@
 +++
-date = 2018-09-14
+date = 2007-04-03
 title = "1st FLOSS patch contribution"
 [taxonomies]
 tags = ['GNOME', 'Tracker']
 +++
 
-Back in 2007,
+A few months ago,
 I sent a patch that slightly improved the README of [Tracker],
 a project that is meant to be a data indexer (like [Google  Desktop]) and much more.
 It is the first ever FLOSS contribution I ever made:
