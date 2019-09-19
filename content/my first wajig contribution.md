@@ -18,5 +18,5 @@ rights]. I was amazed by the trust.
 
   [Quod Libet]: http://code.google.com/p/quodlibet/
   [wajig]: http://code.google.com/p/wajig/
-  [nice guy]: http://code.google.com/u/113620423708378221129/
-  [commit rights]: http://code.google.com/p/wajig/people/list
+  [nice guy]: https://web.archive.org/web/20160417041437/https://code.google.com/p/wajig/people/detail?u=113620423708378221129
+  [commit rights]: https://web.archive.org/web/20160417041059/http://code.google.com/p/wajig/people/list
