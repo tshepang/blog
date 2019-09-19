@@ -12,5 +12,5 @@ there was me also unloving the idea of switching text editors, so
 decided to get [stuck with Geany], and am not complaining much. It's
 been a year-and-a-half of pleasure and pain and it was well worth it.
 
-  [version of Scribes in development]: http://tshepang.net/scribes-satisfies-some-more
-  [stuck with Geany]: http://tshepang.net/project-of-note-geany
+[version of Scribes in development]: http://tshepang.net/scribes-satisfies-some-more
+[stuck with Geany]: http://tshepang.net/project-of-note-geany
