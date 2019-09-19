@@ -14,7 +14,7 @@ My favorite language (and ecosystem) is [Rust], and my OS of choice is
 Among my profiles on the web:
 
 - [Twitter] (social)
-- [GitHub] and [Bitbucket] (software)
+- [GitHub] (software)
 - [Stack Exchange] (help)
 
 ---
@@ -26,7 +26,6 @@ The sources for this blog can be found [on Bitbucket].
   [Rust]: https://rust-lang.org
   [Debian]: https://debian.org
   [GitHub]: https://github.com/tshepang
-  [Bitbucket]: https://bitbucket.org/tshepang
   [Stack Exchange]: https://stackexchange.com/users/125744
   [Twitter]: https://twitter.com/tshepang_dev
   [on Bitbucket]: https://bitbucket.org/tshepang/blog
