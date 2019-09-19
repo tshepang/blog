@@ -2,6 +2,7 @@
 title = "top movie elements"
 date = 2015-02-09
 [taxonomies]
+tags = ['list']
 categories = ['movies']
 +++
 
@@ -166,6 +167,14 @@ most beautiful suicide scene
 
 -   *Wanted*
 
+whistleblowing
+==============
+
+1. [The Insider]
+2. [The Firm]
+3. [Erin Brockovich]
+4. [The Informant]
+
 [Fight Club]: http://tshepang.net/fight-club-1999
 [Se7en]: http://tshepang.net/se7en-1995
 [Requiem for a Dream]: http://tshepang.net/requiem-for-a-dream-2000
@@ -187,3 +196,7 @@ most beautiful suicide scene
 [The Hurt Locker]: http://tshepang.net/recent-movies-2010-05-06
 [Irréversible]: http://tshepang.net/irreversible-2002
 [Children of the Corn]: http://tshepang.net/children-of-the-corn-2009
+[The Insider]: http://tshepang.net/the-insider-1999
+[The Firm]: http://tshepang.net/the-firm-1993
+[Erin Brockovich]: http://tshepang.net/erin-brockovich-2000
+[The Informant]: http://tshepang.net/the-informant-2009
