@@ -2,7 +2,7 @@
 date = 2010-07-08
 title = "my first wajig contribution"
 [taxonomies]
-tags = ['wajig', 'QuodLibet']
+tags = ['wajig']
 +++
 
 Due to my love for the application [Quod Libet], I have been
