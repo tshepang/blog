@@ -9,7 +9,7 @@ Due to my love for the application [Quod Libet], I have been
 contributing a bit to it. But due the complexity of the code, I looked
 elsewhere, and found a favorite tool package management tool, [wajig],
 and was surprised to find that it's not kept in a VCS. Useful as it is,
-it's code looks like a collection of hacks, so I started by offering a
+its code looks like a collection of hacks, so I started by offering a
 PEP-8 fix.
 
 [**a day later**] Inspired by that offer, the [nice guy] that founded
