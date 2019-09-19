@@ -16,7 +16,7 @@ PEP-8 fix.
 the project created a VCS repo for it, and even offered me [commit
 rights]. I was amazed by the trust.
 
-  [Quod Libet]: http://code.google.com/p/quodlibet/
-  [wajig]: http://code.google.com/p/wajig/
-  [nice guy]: https://web.archive.org/web/20160417041437/https://code.google.com/p/wajig/people/detail?u=113620423708378221129
-  [commit rights]: https://web.archive.org/web/20160417041059/http://code.google.com/p/wajig/people/list
+[Quod Libet]: http://code.google.com/p/quodlibet/
+[wajig]: http://code.google.com/p/wajig/
+[nice guy]: https://web.archive.org/web/20160417041437/https://code.google.com/p/wajig/people/detail?u=113620423708378221129
+[commit rights]: https://web.archive.org/web/20160417041059/http://code.google.com/p/wajig/people/list
