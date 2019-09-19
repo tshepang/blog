@@ -2,7 +2,7 @@
 date = 2013-05-10
 title = "me loving Auto Fill Mode (Emacs)"
 [taxonomies]
-tags = ['Emacs', 'Scribes', 'Geany']
+tags = ['Emacs', 'Scribes']
 +++
 
 For the past 2 weeks or so, I have been learning Emacs, something I've
