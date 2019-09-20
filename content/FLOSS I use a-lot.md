@@ -29,7 +29,6 @@ central servers
 
 - **Docker** & **Docker Compose**: each component of the server runs in a container
 - **SaltStack**: administers the remote machines
-- **VirtualBox**: these remotes can be virtual... great for testing
 - **journalctl** & **systemctl**: these remotes run systemd
 - **Elasticsearch**: the data store
 - **Ubuntu**: the OS running these remotes, and the server
