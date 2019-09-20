@@ -24,7 +24,7 @@ tags = ['list']
 
 *work*
 
-Out infrastructure is made up of remote machines that ferry data to
+Our infrastructure is made up of remote machines that ferry data to
 central servers
 
 - **Docker** & **Docker Compose**: each component of the server runs in a container
