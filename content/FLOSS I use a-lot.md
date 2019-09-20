@@ -71,7 +71,6 @@ central servers
 - **top**: a powerful and flexible process viewer, part of [procps suite]
 
 
-[a separate post]: http://tshepang.net/favorite-floss
 [I used to maintain it]: http://tshepang.net/tags/wajig
 [Transmission]: http://www.transmissionbt.com
 [dwm]: http://tshepang.net/my-current-desktop-setup

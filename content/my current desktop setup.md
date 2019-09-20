@@ -206,7 +206,7 @@ Note that this diff is against the Debian package (version **6.0-6**). I
 could not change the modifier key with the upstream version of dwm.
 
 You will notice that I'm still using one major GNOME package, Nautilus,
-the file browser. It remains [my favorite].
+the file browser. It remains my favorite GUI file manager.
 
   [my home machine]: http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
   [this post]: http://tshepang.net/floss-i-use-a-lot
@@ -214,4 +214,3 @@ the file browser. It remains [my favorite].
   [LightDM]: http://www.freedesktop.org/wiki/Software/LightDM
   [~/.xsession]: https://bitbucket.org/tshepang/custom/src/tip/xsession
   [config.def.h]: https://bitbucket.org/tshepang/custom/src/tip/config.def.h
-  [my favorite]: http://tshepang.net/favorite-floss
