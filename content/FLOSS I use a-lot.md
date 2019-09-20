@@ -10,7 +10,8 @@ tags = ['list']
 
 - **Debian**: my primary OS, and also my favorite
 - [dwm]: simple and clean window management
-- [tmux][]: amazingly powerful, though I wish it had less rendering bugs
+- [tmux][]: amazingly powerful terminal multiplexer,
+  though I am yet to figure out how mouse integration works
 - **Emacs**: pleasant text editing and file management
 - **fish**: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
