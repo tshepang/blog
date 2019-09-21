@@ -25,4 +25,4 @@ scenes. [Great toughness portrayal] there.
 
   [Prisoners]: http://tshepang.net/prisoners-2013
   [Zodiac]: http://tshepang.net/zodiac-and-david-fincher
-  [Great toughness portrayal]: http://tshepang.net/tough-women
+  [Great toughness portrayal]: http://tshepang.net/top-movie-characters#tough-women

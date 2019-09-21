@@ -28,8 +28,19 @@ asshole
 1.  Ben Kingsley (*Sexy Beast*)
 2.  Marlon Brandon ([A Streetcar Named Desire])
 
-[tough women]
-=============
+tough women
+===========
+
+It's such a rare sight seeing women being tough in movies,
+and by this I mean the sort normally assigned to men.
+So, when such characters are developed and/or performed well,
+I always celebrate:
+
+1.  Viola Davies as the mayor ([Law Abiding Citizen])
+2.  Antje Traue as second-in-command of Zod ([Man of Steel])
+3.  Julianne Moore as FBI agent (*Next*)
+4.  Michael Hyatt as detective ([Nightcrawler])
+
 
 animated gals
 =============
@@ -104,3 +115,6 @@ character design
   [9]: http://tshepang.net/9-2009
   [Afro Samurai: Resurrection]: http://tshepang.net/afro-samurai-resurrection-2009
   [Harry Potter and the Sorcerer's Stone]: http://tshepang.net/harry-potter-and-the-sorcerers-stone-2001
+  [Law Abiding Citizen]: http://tshepang.net/law-abiding-citizen-2009
+  [Man of Steel]: http://tshepang.net/man-of-steel-2013
+  [Nightcrawler]: http://tshepang.net/nightcrawler
