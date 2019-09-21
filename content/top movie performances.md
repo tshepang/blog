@@ -1,6 +1,6 @@
 +++
 title = "top movie performances"
-date = 2015-06-23
+date = 2019-09-21
 
 [taxonomies]
 tags = ['list']
@@ -49,6 +49,11 @@ detectives
 - two dirty cops ([Payback])
 - [Lennie James] ([The Next Three Days])
 - Julianne Moore (*Next*)
+
+romantic couple
+===============
+
+Holly Hunter and Ray Romano in *The Big Sick*
 
 witch
 =====
