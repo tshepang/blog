@@ -1,6 +1,7 @@
 +++
 title = "top tv shows"
-date = 2019-02-22
+date = 2019-09-21
+
 [taxonomies]
 tags = ['tv']
 +++
@@ -17,6 +18,7 @@ watched them.
 - House of Cards (seasons 1 and 2)
 - The Knick
 - Mr. Robot
+- Barry (season 1)
 
 **honorable mentions**
 
