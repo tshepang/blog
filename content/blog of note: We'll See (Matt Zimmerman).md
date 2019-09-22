@@ -14,8 +14,8 @@ write about it so well.
 
 -   I started with one post with an obviously interesting title, "[How
     to decide what to read (and what not to read)?]". This piqued my
-    interest also because I've been thinking about [my own activities
-    on the web] too. Also, his mention of News closely match mine, other
+    interest also because I've been thinking about my own activities
+    on the web too. Also, his mention of News closely match mine, other
     than that I'm simply (mostly) not interested in traditional big
     news (presidents approves blah) and tabloids, and normally get
     enough of a dose from co-workers and friends, and mostly
@@ -39,7 +39,6 @@ read yet, and hope to keep the above list updated when I do.
 
   [Planet Debian]: http://planet.debian.org/
   [How to decide what to read (and what not to read)?]: http://mdzlog.alcor.net/2010/06/12/how-to-decide-what-to-read-and-what-not-to-read/
-  [my own activities on the web]: http://tshepang.net/where-i-live-on-the-web
   [Breadth and depth]: http://mdzlog.alcor.net/2010/04/06/breadth-and-depth/
   [Internet discussion trends: from Usenet to micro-blogs]: http://mdzlog.alcor.net/2009/05/03/internet-discussion-trends/
   [Breathing information]: http://mdzlog.alcor.net/2010/12/02/breathing-information/
