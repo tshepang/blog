@@ -8,7 +8,7 @@ categories = ['movies']
 
 - Antonio Banderas ([The Expendables 3])
 - Ben Stiller ([Zoolander])
-- Brad Pitt (Snatch)
+- Brad Pitt (*Snatch*)
 - Dennis Hopper ([Apocalypse Now])
 - Eamonn Walker ([Lord of War])
 - Gwyneth Paltrow ([Contagion])
@@ -16,11 +16,11 @@ categories = ['movies']
 - Kris Kristofferson ([Payback])
 - Mark Margolis ([Pi])
 - Nicole Kidman ([Birth])
-- Rosario Dawson (Seven Pounds)
-- Samuel L. Jackson (Pulp Fiction)
+- Rosario Dawson (*Seven Pounds*)
+- Samuel L. Jackson (*Pulp Fiction*)
 - Penélope Cruz ([Vicky Cristina Barcelona])
 - Pierce Brosnan ([The Matador])
-- Will Smith (Ali)
+- Will Smith (*Ali*)
 
 ---
 
