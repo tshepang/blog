@@ -6,83 +6,58 @@ tags = ['list']
 categories = ['movies']
 +++
 
-direction
-=========
-
+## direction
 1. [Fight Club]
 2. [Se7en]
 3. [Requiem for a Dream]
 4. [Children of Men]
 
-cinematography
-==============
-
+## cinematography
 1. [Fight Club]
 2. [Doubt]
 3. Munich
 4. [Se7en]
 
-editing
-=======
-
+## editing
 1. [Requiem for a Dream]
 2. [Fight Club]
 
-production design
-=================
-
+## production design
 1. [Fight Club]
 2. [Se7en]; [J. Edgar]
 3. [Doubt]
 
-make-up
-=======
-
+## make-up
 - The Pirates of the Caribbean (trilogy)
 
-costumes
-========
-
+## costumes
 - [Apocalypto]; The New World
 
-score
-=====
-
+## score
 - [Requiem for A Dream]
 
-sound
-=====
-
+## sound
 1. [Fight Club]
 2. The Ring
 
-visual design
-=============
-
+## visual design
 1. 300
 2. [Sucker Punch]
 
-painful
-=======
-
+## painful
 - [Requiem for A Dream] (what the four characters at the end endure)
 - 21 Grams (the subject matter)
 
-hand-to-hand combat
-===================
-
+## hand-to-hand combat
 - [Haywire]
 - [The Bourne Legacy]
 - [The Bourne Supremacy] (tie) [The Bourne Ultimatum]
 - [Non-Stop]
 
-eccentric
-=========
-
+## eccentric
 - Underground
 
-story concept
-=============
+## story concept
 
 1. Memento - a guy without short-term memory investigates a murder, in
    a story that is told backwards
@@ -94,82 +69,54 @@ story concept
 5. Next - treatment of the concept of being able to see the future
 6. Lake House - treatment of the concept of time travel
 
-touching
-========
-
+## touching
 1. [Life is Beautiful]
 2. [Yellow Earth]
 3. [The Kite Runner][Life is Beautiful]
 
-touching moments
-================
-
+## touching moments
 1. an interview with a woman whose life was improved by Kinsey's work
    ([Kinsey])
 2. strapped with bombs ([The Hurt Locker])
 
-heaven portrayal
-================
-
+## heaven portrayal
 - What Dreams May Come
 
-hell portrayal
-==============
-
+## hell portrayal
 - Constantine
 
-romantic moment
-===============
-
+## romantic moment
 - "the definition of beauty" (Next)
 
-painful moment
-==============
-
+## painful moment
 - explosive execution (Next)
 
-shocking moment
-===============
-
+## shocking moment
 1. murder ([Irréversible])
 2. murder (Bamboozled)
 
-magical moment
-==============
-
+## magical moment
 - near-accident of the magic train, the dance sequence of chocolate
   presentation, and North Pole environment (*The Polar Express*)
 
-car crash
-=========
-
+## car crash
 - Death Proof
 
-highway chase
-=============
-
+## highway chase
 - The Matrix Reloaded
 - Bad Boys 2
 
-most intense couple quarrel
-===========================
-
+## most intense couple quarrel
 - [Children of the Corn]
 
-dvd design
-==========
-
+## dvd design
 1. [Requiem for A Dream]
 2. [Se7en]
 
-most beautiful suicide scene
-============================
-
+## most beautiful suicide scene
 - *Wanted*
 
-whistleblowing
-==============
-
+## whistleblowing
 1. [The Insider]
 2. [The Firm]
 3. [Erin Brockovich]
