@@ -109,10 +109,6 @@ categories = ['movies']
 ## most intense couple quarrel
 - [Children of the Corn]
 
-## dvd design
-1. [Requiem for A Dream]
-2. [Se7en]
-
 ## most beautiful suicide scene
 - *Wanted*
 
