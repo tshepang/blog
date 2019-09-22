@@ -8,7 +8,7 @@ categories = ['movies']
 
 - Brat Pitt ([Fight Club]); honorable mention ([The Counselor])
 - Carrie-Anne Moss ([Memento])
-- Clive Owen (Closer)
+- Clive Owen (*Closer*)
 - Colin Firth ([The King's Speech])
 - David Straithairn ([Good Night, and Good Luck])
 - Emma Thompson ([Wit])
@@ -18,23 +18,22 @@ categories = ['movies']
 - Hugh Jackman ([Prisoners])
 - Jake Gyllenhaal ([Nightcrawler])
 - Jet Li ([The Warlords])
-- John Carroll Lynch (Zodiac)
+- John Carroll Lynch (*Zodiac*)
 - John Malkovich ([Changeling])
 - Jon Voigt ([The Rainmaker])
-- Kerry Washington (I Think I Love My Wife)
-- Kirsten Dunst (Eternal Sunshine of the Spotless Mind)
-- Laurence Fishburne (Mystic River; [Contagion])
-- Mickey Rourke (The Wrestler)
-- Morgan Freeman (Million Dollar Baby)
-- Nicole Kidman ([Birth]); also [favorite-of-career]; honorable
-  mention ([Rabbit Hole])
+- Kerry Washington (*I Think I Love My Wife*)
+- Kirsten Dunst (*Eternal Sunshine of the Spotless Mind*)
+- Laurence Fishburne (*Mystic River*; [Contagion])
+- Mickey Rourke (*The Wrestler*)
+- Morgan Freeman (*Million Dollar Baby*)
+- Nicole Kidman ([Birth]); also [favorite-of-career]; honorable mention ([Rabbit Hole])
 - Penélope Cruz ([Vicky Cristina Barcelona])
 - Philip Seymour Hoffman ([Doubt])
-- Rosario Dawson (Seven Pounds)
-- Samuel L. Jackson (Pulp Fiction)
+- Rosario Dawson (*Seven Pounds*)
+- Samuel L. Jackson (*Pulp Fiction*)
 - Sandra Oh ([Rabbit Hole])
-- Will Smith (Ali); also [favorite-of-career]
-- Woody Harrelson (Seven Pounds)
+- Will Smith (*Ali*); also [favorite-of-career]
+- Woody Harrelson (*Seven Pounds*)
 
 related: [favorite-of-career performances][favorite-of-career]
 
