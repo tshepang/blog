@@ -15,7 +15,7 @@ categories = ['movies']
 ## cinematography
 1. [Fight Club]
 2. [Doubt]
-3. Munich
+3. *Munich*
 4. [Se7en]
 
 ## editing
@@ -28,7 +28,7 @@ categories = ['movies']
 3. [Doubt]
 
 ## make-up
-- The Pirates of the Caribbean (trilogy)
+- *The Pirates of the Caribbean* (trilogy)
 
 ## costumes
 - [Apocalypto]; The New World
@@ -38,10 +38,10 @@ categories = ['movies']
 
 ## sound
 1. [Fight Club]
-2. The Ring
+2. *The Ring*
 
 ## visual design
-1. 300
+1. *300*
 2. [Sucker Punch]
 
 ## painful
@@ -55,19 +55,19 @@ categories = ['movies']
 - [Non-Stop]
 
 ## eccentric
-- Underground
+- *Underground*
 
 ## story concept
 
-1. Memento - a guy without short-term memory investigates a murder, in
+1. *Memento* - a guy without short-term memory investigates a murder, in
    a story that is told backwards
-2. Inception - a technology that allows one to tap into unused brain
+2. *Inception* - a technology that allows one to tap into unused brain
    power, resulting in an altered experience of time, where a second
    could feel like a year (as an example)
 3. [Limitless] - a drug that enhances mental performance
 4. [Groundhog Day] - reliving the same day over and over again
-5. Next - treatment of the concept of being able to see the future
-6. Lake House - treatment of the concept of time travel
+5. *Next* - treatment of the concept of being able to see the future
+6. *Lake House* - treatment of the concept of time travel
 
 ## touching
 1. [Life is Beautiful]
@@ -80,31 +80,31 @@ categories = ['movies']
 2. strapped with bombs ([The Hurt Locker])
 
 ## heaven portrayal
-- What Dreams May Come
+- *What Dreams May Come*
 
 ## hell portrayal
-- Constantine
+- *Constantine*
 
 ## romantic moment
-- "the definition of beauty" (Next)
+- "the definition of beauty" (*Next*)
 
 ## painful moment
-- explosive execution (Next)
+- explosive execution (*Next*)
 
 ## shocking moment
 1. murder ([Irréversible])
-2. murder (Bamboozled)
+2. murder (*Bamboozled*)
 
 ## magical moment
 - near-accident of the magic train, the dance sequence of chocolate
   presentation, and North Pole environment (*The Polar Express*)
 
 ## car crash
-- Death Proof
+- *Death Proof*
 
 ## highway chase
-- The Matrix Reloaded
-- Bad Boys 2
+- *The Matrix Reloaded*
+- *Bad Boys 2*
 
 ## most intense couple quarrel
 - [Children of the Corn]
