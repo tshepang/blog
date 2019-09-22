@@ -10,19 +10,17 @@ Being fresh, eye-popping, and immersive helps:
 1.  King Kong
 2.  [2012]
 3.  [The Avengers]
-4.  -   The Lord of the Rings: The Return of the King
-    -   The Matrix
-
-5.  Pirates of the Caribbean: Dead Man's Chest
+4.  *The Lord of the Rings: The Return of the King* (tie) *The Matrix*
+5.  *Pirates of the Caribbean: Dead Man's Chest*
 6.  [Avatar]
 7.  [Battleship]
 8.  [Thor: The Dark World]
-9.  -   [Transformers]
-    -   [Transformers: Revenge of the Fallen]
-    -   [Transformers: Dark of the Moon]
-    -   [Transformers: Age of Extinction]
-
-10. Independence Day
+9.  A tie between the first 4 movies in the *Transformers* series
+    - [Transformers]
+    - [Transformers: Revenge of the Fallen]
+    - [Transformers: Dark of the Moon]
+    - [Transformers: Age of Extinction]
+10. *Independence Day*
 
   [2012]: http://tshepang.net/2012-2009
   [The Avengers]: http://tshepang.net/the-avengers-2012
