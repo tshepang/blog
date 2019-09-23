@@ -6,7 +6,7 @@ date = 2019-03-01
 tags = ["hardware", "Rust"]
 +++
 
-Few weeks ago I got me a new laptop (battery circuitry of my old Asus
+Last year I got me a new laptop (battery circuitry of my old Asus
 UX305 got fried).  This one is Asus UX410, with Intel i7-8550U
 processor and 16GB of DDR4 RAM.
 
