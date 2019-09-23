@@ -5,10 +5,12 @@ title = "Rust week of 2018-01-25"
 tags = ['Rust']
 +++
 
-Continuing on [a work project] I mentioned months ago, I had [a failure
-related to cross-building pnet], a library I was using to get network
-interfaces. As a side note, [the fault was in the build process], not
-the crate itself. I tried a few others as replacement:
+Continuing on [a work project] I mentioned months ago,
+I had [a failure related to cross-building pnet],
+a library I was using to get network interfaces.
+As a side note, [the fault was in the build process],
+not the crate itself.
+I tried a few others as replacement:
 
 - [getaddrs] can't find ip address, and it's abandoned according to
   the author, in favor of [nix crate]
