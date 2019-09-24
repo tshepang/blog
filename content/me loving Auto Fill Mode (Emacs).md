@@ -18,7 +18,7 @@ automatically get applied for you. Am very sure that this feature exists
 elsewhere, but I actually never used it.
 
 Related to that is the [fill-paragraph] command, which is invoked via
-the Alt+q shortcut (M-q) in Emacs speak. What it does is reformat the
+the Alt+q shortcut (M-q in Emacs speak). What it does is reformat the
 paragraph as if it was typed while in Auto Fill Mode. Is gorgeous!
 
 [well-written]: http://tshepang.net/projects-with-excellent-documentation
