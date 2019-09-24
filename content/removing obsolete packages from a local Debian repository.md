@@ -89,7 +89,7 @@ And here's a snippet of its output:
     remove from cache [Y/n]?
 
 What it does is look for packages which are only available in my custom
-reposity, as compared with the one in Wheezy (soon to be Debian 7). It
+repository, as compared with the one in Wheezy (soon to be Debian 7). It
 then prompts me on whether or not to remove it from that custom
 repository. Today, it helped me get rid of dozens of junk.
 
