@@ -5,8 +5,7 @@ title = "removing obsolete packages from a local Debian repository"
 tags = ['Debian']
 +++
 
-background info
-===============
+## background info
 
 Bandwidth in South Africa is neither readily-available nor cheap, so
 whenever I fetch and install Debian packages (e.g. `apt-get upgrade`), I
@@ -20,8 +19,7 @@ What's nice about the command is that, if there is an older version of
 the package I'm adding, it gets replaced, and the package index is
 updated accordingly.
 
-and now to the topic at hand
-============================
+## and now to the topic at hand
 
 I run that command more or less regularly, but very often the repository
 accumulates some junk:
