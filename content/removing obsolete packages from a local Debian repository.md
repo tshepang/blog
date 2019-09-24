@@ -41,7 +41,7 @@ accumulates some junk:
 
 To help with the cleanup, I have written the following simple script:
 
-``` {.sourceCode .python}
+```python
 #!/usr/bin/env python3
 
 import apt_pkg
