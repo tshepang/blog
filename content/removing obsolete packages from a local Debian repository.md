@@ -17,8 +17,8 @@ repository, given the location of the fresh package files:
     $ reprepro -vv --basedir ~/.custom_repo/ includedeb tshepang /var/cache/apt/archives/*deb
 
 What's nice about the command is that, if there is an older version of
-the pacakge I'm adding, it gets replaced, and the package index is
-update accordingly.
+the package I'm adding, it gets replaced, and the package index is
+updated accordingly.
 
 and now to the topic at hand
 ============================
@@ -93,4 +93,5 @@ reposity, as compared with the one in Wheezy (soon to be Debian 7). It
 then prompts me on whether or not to remove it from that custom
 repository. Today, it helped me get rid of dozens of junk.
 
-  [reprepro]: http://mirrorer.alioth.debian.org/
+
+[reprepro]: https://salsa.debian.org/brlink/reprepro
