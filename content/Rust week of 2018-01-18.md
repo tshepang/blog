@@ -10,7 +10,7 @@ I did very little Rust on week of 2018-01-11, but [added
 
 This week was more active...
 
--   I used the fantastic dialoguer for the first time... so pleasant,
+-   I used the fantastic [dialoguer] for the first time... so pleasant,
     resulting in much cleaner code for a private project.
 -   For [the work project I mentioned some months ago], I added a
     feature to check if certain ports of a remote machine are reachable.
@@ -21,3 +21,4 @@ This week was more active...
 
   [added --ignore-uncommitted-repos to mrh]: https://github.com/tshepang/mrh/commit/0bb76224978fca2324ae7b673472b68033db5a78
   [the work project I mentioned some months ago]: http://tshepang.net/rust-week-of-2017-10-05
+  [dialoguer]: https://crates.io/crates/dialoguer
