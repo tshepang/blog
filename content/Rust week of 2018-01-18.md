@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I did very little Rust on week of 2018-01-11,
-but [added--ignore-uncommitted-repos to mrh].
+but [added --ignore-uncommitted-repos to mrh].
 
 This week was more active...
 
