@@ -15,7 +15,7 @@ Some more work on [mrh][]:
 
 I experienced some failures too:
 
-- I looked to using termcolor (used by ripgrep and cargo, and [may
+- I looked to using [termcolor] (used by ripgrep and cargo, and [may
   replace termcolor in clap]), but found it too hard to use... API
   not as pleasant
 - I also failed to turn output into an iterator (instead of Vec)
@@ -23,3 +23,4 @@ I experienced some failures too:
 
 [mrh]: https://crates.io/crates/mrh
 [may replace termcolor in clap]: https://github.com/kbknapp/clap-rs/issues/836
+[termcolor]: https://crates.io/crates/termcolor
