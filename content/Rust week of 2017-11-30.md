@@ -8,7 +8,7 @@ tags = ['Rust']
 
 Like last week, I did some more work on [mrh][]:
 
-- Replace colored with ansi_term (I prefer the API, and the latter
+- Replace [colored] with [ansi_term] (I prefer the API, and the latter
   was already a dependency of something else)
 - Remove [follow_symlinks] feature (caused weird behavior)
 - Use [Path.strip_prefix] instead of a custom solution
@@ -30,3 +30,5 @@ file containing network ports and their descriptions to a format that
 [csv]: https://crates.io/crates/ordermap
 [ordermap]: https://crates.io/crates/csv
 [tera]: https://crates.io/crates/tera
+[colored]: https://crates.io/crates/colored
+[ansi_term]: https://crates.io/crates/ansi_term
