@@ -35,8 +35,8 @@ problems, which, I later found out weren't actually part of the show,
 yet served it so well.
 
 Show wasn't perfect, and there was even a moment were I felt sleepy. I
-also felt the accents could do with a bit of work where,for example, I
-could not tell if they were mimicking black or white Americans. I
+also felt the accents could do with a bit of work where, for example, I
+could not tell at times if they were mimicking black or white Americans. I
 sometimes also struggled with hearing what the fuck they were saying,
 though that could also be a property of those accents. I felt
 inconsistencies in those accents as well, as if they actors didn't get
