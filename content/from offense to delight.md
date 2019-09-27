@@ -39,8 +39,7 @@ also felt the accents could do with a bit of work where, for example, I
 could not tell at times if they were mimicking black or white Americans. I
 sometimes also struggled with hearing what the fuck they were saying,
 though that could also be a property of those accents. I felt
-inconsistencies in those accents as well, as if they actors didn't get
-enough practice.
+inconsistencies in those accents as well.
 
 Despite those (rather minor) complaints, the director deserves much
 respect for what she created (what's her name?).
