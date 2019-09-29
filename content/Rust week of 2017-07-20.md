@@ -12,7 +12,7 @@ I am surprised by the ease of changing default Rust toolchain:
     # switch to stable
     rustup default stable
 
-This is more easy than remembering how to tell cargo to use to use a
+This is more easy than remembering how to tell cargo to use a
 non-default toolchain, though that approach is not too bad either:
 
     # build with nightly
