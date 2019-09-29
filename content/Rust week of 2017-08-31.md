@@ -20,7 +20,7 @@ done so].
 
   [mrh]: https://github.com/tshepang/mrh
   [Branch::wrap]: https://docs.rs/git2/0.6.8/git2/struct.Branch.html#method.wrap
-  [improvement to make doc less misleading]: https://github.com/alexcrichton/git2-rs/pull/246
+  [improvement to make doc less misleading]: https://github.com/rust-lang/git2-rs/pull/246
   [Branch::upstream]: https://docs.rs/git2/0.6.8/git2/struct.Branch.html#method.upstream
   [Repositoty::head]: https://docs.rs/git2/0.6.8/git2/struct.Repository.html#method.head
   [publishing the tool]: https://crates.io/crates/mrh
