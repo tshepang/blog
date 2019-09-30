@@ -6,7 +6,7 @@ tags = ['Rust']
 +++
 
 I asked [two][] [questions] on Stack Overflow. The first led me to use
-the nifty [lazy_static] macro for the first time, The second led me to
+the nifty [lazy_static] macro for the first time, and the second led me to
 submit [a complaint] (which got fixed within 3 minutes by the way).
 
 ---
