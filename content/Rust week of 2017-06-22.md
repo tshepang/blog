@@ -11,6 +11,6 @@ needs lots of love, or at a more idiomatic replacement.
 
 Regarding contributions, I made [just one].
 
-  [semver]: http://semver.org
-  [git2-rs library]: https://github.com/alexcrichton/git2-rs
-  [just one]: https://github.com/chyh1990/yaml-rust/pull/79
+[semver]: http://semver.org
+[git2-rs library]: https://github.com/alexcrichton/git2-rs
+[just one]: https://github.com/chyh1990/yaml-rust/pull/79
