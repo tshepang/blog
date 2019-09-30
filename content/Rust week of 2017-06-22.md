@@ -7,7 +7,7 @@ tags = ['Rust']
 
 I wrote a tool that helps with [semver] git tagging, which made me
 explore the rather large (and unfriendly) API of [git2-rs library]. It
-needs lots of love, or at a more idiomatic replacement.
+needs lots of love, or at least a more idiomatic replacement.
 
 Regarding contributions, I made [just one].
 
