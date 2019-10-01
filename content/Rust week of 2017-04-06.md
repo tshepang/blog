@@ -12,8 +12,8 @@ to CBOR on one side of a TCP socket, and decode it back to JSON on the
 other side (using [serde_json]). I failed, however, transporting that
 CBOR data over MQTT (using the oh-so-complex [mqtt-rs]).
 
-  [probor]: https://github.com/tailhook/probor
-  [a submission]: https://github.com/tailhook/probor/pull/6
-  [examples/directory]: https://github.com/tailhook/probor/tree/master/rust/examples
-  [serde_json]: https://github.com/serde-rs/json
-  [mqtt-rs]: https://github.com/zonyitoo/mqtt-rs
+[probor]: https://github.com/tailhook/probor
+[a submission]: https://github.com/tailhook/probor/pull/6
+[examples/directory]: https://github.com/tailhook/probor/tree/master/rust/examples
+[serde_json]: https://github.com/serde-rs/json
+[mqtt-rs]: https://github.com/zonyitoo/mqtt-rs
