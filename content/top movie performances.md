@@ -7,61 +7,51 @@ tags = ['list']
 categories = ['movies']
 +++
 
-best performance
-================
+## best performance
 
 1. Robert De Niro as boxer (*Raging Bull*)
 2. Heath Ledger as The Joker ([The Dark Knight])
 3. Daniel Day-Lewis as oil-rich titan ([There Will Be Blood])
 
-best child performance
-======================
+## best child performance
 
 - [Dillon Freasier] as the adopted son ([There Will Be Blood])
 - [Dakota Goyo] as the son ([Real Steel])
 
-favorite
-========
+## favorite
 
 1. Heath Ledger as The Joker ([The Dark Knight])
 2. Sterling Hayden as the mad general ([Dr. Strangelove])
 3. John Carrol Lynch as the suspect (*Zodiac*)
 4. Taraji Hanson as the sniper ([Smokin' Aces])
 
-favorite eccentric
-==================
+## favorite eccentric
 
 Kiefer Sutherland as the doctor ([Dark City])
 
-cast
-====
+## cast
 
 - [Precious]
 
-voice talent
-============
+## voice talent
 
 - *Ghost in the Shell* 1 and 2 (English translation)
 
-detectives
-==========
+## detectives
 
 - two dirty cops ([Payback])
 - [Lennie James] ([The Next Three Days])
 - Julianne Moore (*Next*)
 
-romantic couple
-===============
+## romantic couple
 
 Holly Hunter and Ray Romano in *The Big Sick*
 
-witch
-=====
+## witch
 
 - Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
 
-airport checkpoint officer
-==========================
+## airport checkpoint officer
 
 - The humorless guy at airport checkpoint ([The Next Three Days])
 
