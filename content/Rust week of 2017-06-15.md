@@ -7,7 +7,7 @@ tags = ['Rust']
 
 I used [structopt] for the first time, and found it reduces the pain of
 CLI parsing (via [clap]). Its main shortcoming is [lack of subcommand
-support], whose implementation would make a go-to for me.
+support], whose implementation would make it a go-to for me.
 
 Regarding contributions, I made [one tiny one].
 
