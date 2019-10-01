@@ -31,11 +31,11 @@ Kiefer Sutherland as the doctor ([Dark City])
 
 ## cast
 
-- [Precious]
+[Precious]
 
 ## voice talent
 
-- *Ghost in the Shell* 1 and 2 (English translation)
+*Ghost in the Shell* 1 and 2 (English translation)
 
 ## detectives
 
@@ -49,11 +49,11 @@ Holly Hunter and Ray Romano in *The Big Sick*
 
 ## witch
 
-- Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
+Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
 
 ## airport checkpoint officer
 
-- The humorless guy at airport checkpoint ([The Next Three Days])
+The humorless guy at airport checkpoint ([The Next Three Days])
 
 
 [The Dark Knight]: http://tshepang.net/the-dark-knight-2008
