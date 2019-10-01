@@ -18,7 +18,7 @@ best child performance
 ======================
 
 - [Dillon Freasier] as the adopted son ([There Will Be Blood])
-- [Dakota Goyo] as the son in ([Real Steel])
+- [Dakota Goyo] as the son ([Real Steel])
 
 favorite
 ========
