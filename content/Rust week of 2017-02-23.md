@@ -21,12 +21,12 @@ process::command::new(command.next().unwrap())
 If the command is something like `hg commit --message 'git eat world'`,
 then the iterator would expand to:
 
--   hg
--   commit
--   --message
--   'git
--   eat
--   world'
+- hg
+- commit
+- --message
+- 'git
+- eat
+- world'
 
 That will not run, and will fail with a not-obvious error message. Using
 shlex, instead:
@@ -41,15 +41,16 @@ process::command::new(command.remove(1).unwrap())
 
 Output should then be like:
 
--   hg
--   commit
--   --message
--   git eat world
+- hg
+- commit
+- --message
+- git eat world
 
 ---
 
 [Just one contribution] this week, and it's not even that great... not
 sure it's an improvement
 
-  [shlex]: https://crates.io/crates/shlex
-  [Just one contribution]: https://github.com/ctz/hyper-rustls/pull/5
+
+[shlex]: https://crates.io/crates/shlex
+[Just one contribution]: https://github.com/ctz/hyper-rustls/pull/5
