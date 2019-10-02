@@ -16,7 +16,7 @@ let mut command = command.split(char::is_whitespace);
 process::command::new(command.next().unwrap())
     .args(command.collect::<Vec<_>>)
     .spawn()
-  ...
+...
 ```
 
 If the command is something like `hg commit --message 'git eat world'`,
@@ -37,7 +37,7 @@ let mut command = shlex::split(args).unwrap());
 process::command::new(command.remove(1).unwrap())
     .args(command)
     .spawn()
-    ...
+ ...
 ```
 
 Output should then be like:
