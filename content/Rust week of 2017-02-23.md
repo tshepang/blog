@@ -30,7 +30,7 @@ then the iterator would expand to:
 - world'
 
 That will not run, and will fail with a not-obvious error message. Using
-shlex, instead:
+shlex, we instead:
 
 ```rust
 let mut command = shlex::split(command).unwrap());
