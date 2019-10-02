@@ -13,8 +13,8 @@ one to avoid the pain experienced by naively doing the following:
 
 ```rust
 let mut command = command.split(char::is_whitespace);
-process::command::new(command.next().unwrap())
-    .args(command.collect::<Vec<_>>)
+std::process::Command::new(command.next().unwrap())
+    .args(command)
     .spawn()
 ...
 ```
@@ -33,8 +33,8 @@ That will not run, and will fail with a not-obvious error message. Using
 shlex, instead:
 
 ```rust
-let mut command = shlex::split(args).unwrap());
-process::command::new(command.remove(1).unwrap())
+let mut command = shlex::split(command).unwrap());
+std::process::Command::new(command.remove(0).unwrap())
     .args(command)
     .spawn()
  ...
