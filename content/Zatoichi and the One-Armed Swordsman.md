@@ -1,6 +1,7 @@
 +++
-date = 2017-01-22
 title = "Zatoichi and the One-Armed Swordsman"
+date = 2017-01-22
+
 [taxonomies]
 tags = ['decent', '1971']
 categories = ['movies']
@@ -16,4 +17,4 @@ The only other performance I enjoyed is that of the prostitute that
 falls for him. A darker movie with the same character is [Zatoichi]
 (2003).
 
-  [Zatoichi]: http://tshepang.net/zatoichi
+[Zatoichi]: http://tshepang.net/zatoichi

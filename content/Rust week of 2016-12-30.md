@@ -1,6 +1,7 @@
 +++
-date = 2017-01-03
 title = "Rust week of 2016-12-30"
+date = 2017-01-03
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -39,7 +40,7 @@ desired.
 
 Just [one contribution] this time.
 
-  [this one]: http://blog.mbrt.it/2016-12-01-ripgrep-code-review
-  [reqwest]: https://docs.rs/reqwest
-  [hyper]: https://docs.rs/hyper
-  [one contribution]: https://github.com/serde-rs/json/pull/182
+[this one]: http://blog.mbrt.it/2016-12-01-ripgrep-code-review
+[reqwest]: https://docs.rs/reqwest
+[hyper]: https://docs.rs/hyper
+[one contribution]: https://github.com/serde-rs/json/pull/182
