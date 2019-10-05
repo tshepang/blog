@@ -15,8 +15,3 @@ let listener = TcpListener::bind("localhost:80")? for stream in
 listener.incoming() { let content = Vec::new();
 stream?.read_to_end(&mut content); // do stuff with content }
 :::
-
-I also submitted [a change] that makes the example in the docs more
-simple.
-
-  [a change]: https://github.com/rust-lang/rust/pull/36134
