@@ -1,6 +1,7 @@
 +++
-date = 2016-11-26
 title = "Hardcore Henry"
+date = 2016-11-26
+
 [taxonomies]
 tags = ['2015', 'good']
 categories = ['movies']
@@ -13,5 +14,5 @@ multiple characters, was given an excellent performance by [Sharlto
 Copley], in what is his most satisfying work since [District 9]. The
 story is also fascinating and so is the technology.
 
-  [Sharlto Copley]: https://en.wikipedia.org/wiki/Sharlto_Copley
-  [District 9]: http://tshepang.net/district-9-2009
+[Sharlto Copley]: https://en.wikipedia.org/wiki/Sharlto_Copley
+[District 9]: http://tshepang.net/district-9-2009

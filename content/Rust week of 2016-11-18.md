@@ -1,6 +1,7 @@
 +++
-date = 2016-11-24
 title = "Rust week of 2016-11-18"
+date = 2016-11-24
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -26,6 +27,6 @@ such a well-designed API actually.
 
 I made just [one contribution] this week.
 
-  [libflate]: https://crates.io/crates/libflate
-  [regex]: https://crates.io/crates/regex
-  [one contribution]: https://github.com/rust-lang/rust/pull/37956
+[libflate]: https://crates.io/crates/libflate
+[regex]: https://crates.io/crates/regex
+[one contribution]: https://github.com/rust-lang/rust/pull/37956
