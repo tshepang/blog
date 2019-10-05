@@ -11,11 +11,6 @@ of Rust:
 -   [Cretonne], an alternative to LLVM
 -   [Corrode], a C to Rust translator
 
----
-
-I made just [one contribution] this week, and submitted [one issue].
 
   [Cretonne]: https://internals.rust-lang.org/t/4275
   [Corrode]: http://jamey.thesharps.us/2016/10/corrode-update-support-from-mozilla-and.html
-  [one contribution]: https://github.com/borntyping/rust-psutil/issues/13
-  [one issue]: https://github.com/borntyping/rust-psutil/issues/14
