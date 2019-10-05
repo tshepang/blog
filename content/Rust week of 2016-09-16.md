@@ -1,6 +1,7 @@
 +++
-date = 2016-09-22
 title = "Rust week of 2016-09-16"
+date = 2016-09-22
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -16,7 +17,7 @@ where you'd use functions instead of a macro named `middleware`. I've
 also been playing with [nickel-jwt-session], which offers such a
 convenient API to use for working with [JSON Web Tokens].
 
-  [bcrypt]: https://crates.io/crates/bcrypt
-  [started few weeks ago]: http://tshepang.net/rust-week-of-2016-09-02
-  [nickel-jwt-session]: https://github.com/kaj/nickel-jwt-session
-  [JSON Web Tokens]: https://jwt.io
+[bcrypt]: https://crates.io/crates/bcrypt
+[started few weeks ago]: http://tshepang.net/rust-week-of-2016-09-02
+[nickel-jwt-session]: https://github.com/kaj/nickel-jwt-session
+[JSON Web Tokens]: https://jwt.io
