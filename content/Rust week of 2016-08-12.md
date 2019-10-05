@@ -26,10 +26,3 @@ fn main() {
 
 }
 :::
-
-I submitted to [small][] [improvements] to its documentation. I also
-contributed [a style improvement] to Cargo, the Rust package manager.
-
-  [small]: https://github.com/dtolnay/indoc/pull/4
-  [improvements]: https://github.com/dtolnay/indoc/pull/5
-  [a style improvement]: https://github.com/rust-lang/cargo/pull/3015
