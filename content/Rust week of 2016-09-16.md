@@ -11,7 +11,7 @@ brute-force attacks... there is lots of CPU usage during hashing and
 verification.
 
 I continued playing with Nickel ([started few weeks ago]), and am liking
-it more, largely due discovering a less-magical way of doing things
+it more, largely due to discovering a less-magical way of doing things
 where you'd use functions instead of a macro named `middleware`. I've
 also been playing with [nickel-jwt-session], which offers such a
 convenient API to use for working with [JSON Web Tokens]. I even made
