@@ -12,4 +12,4 @@ responsible... it's a massive API. It could do with more examples
 though.
 
 
-  [the documentation of curl-rust]: https://docs.rs/curl-rust
+  [the documentation of curl-rust]: https://docs.rs/curl
