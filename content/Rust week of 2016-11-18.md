@@ -22,10 +22,6 @@ And that's it, `file` is now like a normal file!
 Another module I used for the first time is [regex], which seems to have
 such a well-designed API actually.
 
----
-
-I made just [one contribution] this week.
 
 [libflate]: https://crates.io/crates/libflate
 [regex]: https://crates.io/crates/regex
-[one contribution]: https://github.com/rust-lang/rust/pull/37956
