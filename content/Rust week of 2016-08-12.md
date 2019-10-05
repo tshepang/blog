@@ -8,21 +8,15 @@ tags = ['Rust']
 I enjoyed a useful (and tiny) library that helps align text nicely.
 Following is an example of its usage:
 
-::: {.sourcecode}
-rust
-
-extern crate unindent; use unindent::unindent;
+```rust
+extern crate unindent;
+use unindent::unindent;
 
 fn main() {
-
-:
-
     let text = "
-
-    :   A long text is beginning here and not in the previous line,
+        A long text is beginning here and not in the previous line,
         because it wouldn't fit in comfort.
-
-    " println!("{}", unindent(text));
-
+    ";
+    println!("{}", unindent(text));
 }
-:::
+```
