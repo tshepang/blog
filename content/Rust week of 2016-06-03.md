@@ -46,11 +46,7 @@ project [I mentioned last week]. My favorite parts:
 
     So elegant!
 
----
-
-I submitted [just one contribution] this time around.
 
   [I mentioned last week]: http://tshepang.net/rust-week-of-2016-05-27
   [inotify-rs]: https://github.com/hannobraun/inotify-rs
   [first mention]: http://tshepang.net/rust-week-of-2015-07-31
-  [just one contribution]: https://github.com/rust-lang/rust/pull/34185
