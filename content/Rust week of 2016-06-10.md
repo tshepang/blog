@@ -20,11 +20,3 @@ fn o_to_0() -> std::io::Result<bool> {
 ```
 
 I wonder if this can be more easy, in other languages and/or libraries.
-
----
-
-I made [two][] [submissions], and gave some commentary [on another].
-
-  [two]: https://github.com/uutils/coreutils/pull/899
-  [submissions]: https://github.com/rust-lang/rust/pull/34314
-  [on another]: https://github.com/rust-lang/rust/pull/34114
