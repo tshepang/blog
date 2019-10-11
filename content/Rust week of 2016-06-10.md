@@ -7,7 +7,7 @@ tags = ['Rust']
 +++
 
 I was made sad by the complexity of involving STDIN when using
-`std::process` module:
+[std::process] module:
 
 ```rust
 fn o_to_0() -> std::io::Result<bool> {
@@ -25,3 +25,6 @@ fn o_to_0() -> std::io::Result<bool> {
 ```
 
 I wonder if this can be more easy, in other languages and/or libraries.
+
+
+[std::process]: https://doc.rust-lang.org/std/process
