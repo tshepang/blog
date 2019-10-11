@@ -18,7 +18,7 @@ project [I mentioned last week]. My favorite parts:
     that in a separate function so that you can return a `Result` type,
     something like `Result<(), std::io::Error>`. This forces you to
     isolate just the I/O handling part from the other parts of the
-    logic, where you'd for maybe just want to return a `bool` type. In
+    logic, where you'd maybe just want to return a `bool` type. In
     my case, I would not get any I/O error, but I would get failure from
     running an external process (see `std::process` module) where the
     exit status was not 0. That meant I/O error failure case and the
