@@ -9,8 +9,7 @@ categories = ['movies']
 favorite
 ========
 
-1. Kinsey by Liam Neeson ([Kinsey])
-2. Hans by Geoffrey Rush ([The Book Thief])
+- Hans by Geoffrey Rush ([The Book Thief])
 
 perfect gentleman
 =================
@@ -99,7 +98,6 @@ character design
 10. chess pieces ([Harry Potter and the Sorcerer's Stone])
 
 
-[Kinsey]: http://tshepang.net/kinsey-2004
 [The Book Thief]: http://tshepang.net/the-book-thief-2013
 [A Streetcar Named Desire]: http://tshepang.net/a-streetcar-named-desire-1951
 [tough women]: http://tshepang.net/tough-women
