@@ -1,6 +1,7 @@
 +++
-date = 2016-06-13
 title = "Iron Man 2"
+date = 2016-06-13
+
 [taxonomies]
 tags = ['2010', 'good']
 categories = ['movies']
@@ -15,4 +16,4 @@ predecessor]. The rivalry between Stark and Hammer is lots of fun to watch.
 The villain is also fun to watch, even though his motivations were given
 lazy treatment. All three are given very good performances.
 
-  [its predecessor]: http://tshepang.net/iron-man
+[its predecessor]: http://tshepang.net/iron-man
