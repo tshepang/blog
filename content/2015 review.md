@@ -17,7 +17,7 @@ The best **direction** can be found in [The Survivalist], followed by
 My **favorite performance** is that of Benedict Wong in [The Martian],
 while my **favorite villain** is Scarlet, the lead villain of [Minions].
 That movie also boasts best **visual design**. My **favorite character**
-is Ultron, the lead villain in [Avengers: Age of Ultron] The most
+is Ultron, the lead villain in [Avengers: Age of Ultron]. The most
 **desirable gal** is Sonoya Mizuno in [Ex Machina], which also happens
 to have the **best dialog**.
 
