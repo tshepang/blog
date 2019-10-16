@@ -18,8 +18,7 @@ blog sources locally:
   connected to the web, or deeper changes like playing search-replace
   through the entire blog.
 
-cons
-====
+## cons
 
 - The complexity of [the setup] is going to scare many people away.
 - It can take a lot of time to setup; For me, this was made worse by
