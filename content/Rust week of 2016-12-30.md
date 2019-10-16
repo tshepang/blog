@@ -38,11 +38,6 @@ client.get("example.com").header(auth_bearer).send();
 I did not think much about this, so maybe there are issues with the
 desired.
 
----
-
-Just [one contribution] this time.
-
 [this one]: http://blog.mbrt.it/2016-12-01-ripgrep-code-review
 [reqwest]: https://docs.rs/reqwest
 [hyper]: https://docs.rs/hyper
-[one contribution]: https://github.com/serde-rs/json/pull/182
