@@ -1,34 +1,30 @@
 +++
 title = "top movie characters"
 date = 2016-06-13
+
 [taxonomies]
 tags = ['list']
 categories = ['movies']
 +++
 
-favorite
-========
+## favorite
 
 - Hans by Geoffrey Rush ([The Book Thief])
 
-perfect gentleman
-=================
+## perfect gentleman
 
 - Idris Elba (*Obsessed*)
 
-arrogant
-========
+## arrogant
 
 - Al Pacino (*Scarface*)
 
-asshole
-=======
+## asshole
 
 1. Ben Kingsley (*Sexy Beast*)
 2. Marlon Brandon ([A Streetcar Named Desire])
 
-tough women
-===========
+## tough women
 
 It's such a rare sight seeing women being tough in movies,
 and by this I mean the sort normally assigned to men.
@@ -40,38 +36,31 @@ I always celebrate:
 3. Julianne Moore as FBI agent (*Next*)
 4. Michael Hyatt as detective ([Nightcrawler])
 
-
-animated gals
-=============
+## animated gals
 
 1. gal in [Avatar] (toughness, attitude, and sex appeal)
 2. gal in [Rango] (accent and character)
 
-cute
-====
+## cute
 
 1. new-born baby alien (*Men In Black*)
 2. the young penguins (*Surf's Up*)
 
-nerd
-====
+## nerd
 
 - Jason Schwartzman (*Shopgirl*)
 
-creature
-========
+## creature
 
 1. Davey Jones (*Pirates of the Caribbean: Dead Man's Chest*)
 2. Kong (*King Kong*)
 3. Na'vi species ([Avatar])
 
-dragon
-======
+## dragon
 
 - [The Hobbit: The Battle of the Five Armies]
 
-monster
-=======
+## monster
 
 1. Monster ([Cloverfield])
 2. Pyramid Head ([Silent Hill] and [Silent Hill: Revelation])
@@ -83,8 +72,7 @@ monster
 8. The Kraken ([Clash of the Titans])
 9. Bug on the street (*Constantine*)
 
-character design
-================
+## character design
 
 1. Maltazard (*Arthur & the Invisibles*)
 2. Iron Man suits (*Iron Man* movies)
