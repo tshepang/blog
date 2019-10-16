@@ -1,6 +1,7 @@
 +++
-date = 2017-01-13
 title = "Rust week of 2017-01-06"
+date = 2017-01-13
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -17,9 +18,9 @@ I am looking forward to two projects:
 -   [Remacs], Emacs gradually implemented in Rust
 
 
-  [two]: http://stackoverflow.com/q/41551036/321731
-  [questions]: http://stackoverflow.com/q/41614923/321731
-  [lazy_static]: https://docs.rs/lazy_static
-  [a complaint]: https://github.com/sfackler/hyper-native-tls/issues/1
-  [Alacritty]: http://blog.jwilm.io/announcing-alacritty
-  [Remacs]: https://github.com/Wilfred/remacs
+[two]: http://stackoverflow.com/q/41551036/321731
+[questions]: http://stackoverflow.com/q/41614923/321731
+[lazy_static]: https://docs.rs/lazy_static
+[a complaint]: https://github.com/sfackler/hyper-native-tls/issues/1
+[Alacritty]: http://blog.jwilm.io/announcing-alacritty
+[Remacs]: https://github.com/Wilfred/remacs
