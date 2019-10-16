@@ -6,10 +6,11 @@ flow pre-requisite:
 
         cargo install --git https://github.com/tshepang/post
 
-- get themes
+- get theme
 
         cd ~/blog
-        git clone --recursive https://github.com/Keats/gutenberg-themes themes
+        mkdir themes && cd themes
+        git clone --recursive https://github.com/tshepang/even --branch custom
 
 flow:
 
