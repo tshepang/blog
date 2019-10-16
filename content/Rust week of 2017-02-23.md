@@ -47,11 +47,5 @@ Output should then be like:
 - --message
 - git eat world
 
----
-
-[Just one contribution] this week, and it's not even that great... not
-sure it's an improvement
-
 
 [shlex]: https://crates.io/crates/shlex
-[Just one contribution]: https://github.com/ctz/hyper-rustls/pull/5
