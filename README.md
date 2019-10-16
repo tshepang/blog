@@ -4,13 +4,13 @@ flow pre-requisite:
 
 - install post, a helper for creating new blog posts:
 
-        cargo install --git https://github.com/tshepang/post
+      cargo install --git https://github.com/tshepang/post
 
 - get theme
 
-        cd ~/blog
-        mkdir themes && cd themes
-        git clone --recursive https://github.com/tshepang/even --branch custom
+      cd ~/blog
+      mkdir themes && cd themes
+      git clone --recursive https://github.com/tshepang/even --branch custom
 
 flow:
 
