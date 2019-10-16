@@ -13,8 +13,7 @@ matter how tiny, and this has been going on for over a 100 weeks (i.e.
 
 The problem is I felt silly recording the tiny parts, stuff like a typo
 fixes, just to keep this going. Well, it's time to stop that. I intend
-to avoid recording such, and if it means no blog post for that week, so
-be it.
+to avoid recording such, even if it means no blog post for that week.
 
 *This was inspired by having a laptop failure, with a draft that wasn't
 backed up anywhere. That draft only consisted of a list of those tiny
