@@ -19,7 +19,7 @@ Among my profiles on the web:
 
 ---
 
-The sources for this blog can be found [on Bitbucket].
+The sources for this blog can be found [on GitHub].
 
   [South Africa]: https://en.wikipedia.org/wiki/South_Africa
   [for a living]: https://panoptix.co.za
@@ -28,4 +28,4 @@ The sources for this blog can be found [on Bitbucket].
   [GitHub]: https://github.com/tshepang
   [Stack Exchange]: https://stackexchange.com/users/125744
   [Twitter]: https://twitter.com/tshepang_dev
-  [on Bitbucket]: https://bitbucket.org/tshepang/blog
+  [on GitHub]: https://github.com/tshepang/blog
