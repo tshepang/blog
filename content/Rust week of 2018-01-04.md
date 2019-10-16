@@ -1,6 +1,7 @@
 +++
-date = 2018-01-11
 title = "Rust week of 2018-01-04"
+date = 2018-01-11
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -14,4 +15,4 @@ having to authenticate, in the case of private repos for example. It was
 painful (we need an easier git library), but it works (but so damn
 slow). The result is version 0.9.
 
-  [mrh]: https://crates.io/crates/mrh
+[mrh]: https://crates.io/crates/mrh

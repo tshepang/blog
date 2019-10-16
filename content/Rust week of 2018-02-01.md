@@ -1,6 +1,7 @@
 +++
-date = 2018-02-08
 title = "Rust week of 2018-02-01"
+date = 2018-02-08
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -16,7 +17,7 @@ and letting it support usage of ssh-agent. This was inspired by a friend
 pushing me to make [an announcement], which I promised would happen
 before [2018-02-06 meetup], and something I haven't done before.
 
-  [serde_rusqlite]: https://crates.io/crates/serde_rusqlite
-  [rename_all attribute of serde]: https://serde.rs/container-attrs.html#serderenameall--
-  [an announcement]: https://www.reddit.com/r/rust/comments/7vb3u7/announcing_mrh_the_multigitrepo_helper
-  [2018-02-06 meetup]: https://twitter.com/tshepang_dev/status/960955091296702466
+[serde_rusqlite]: https://crates.io/crates/serde_rusqlite
+[rename_all attribute of serde]: https://serde.rs/container-attrs.html#serderenameall--
+[an announcement]: https://www.reddit.com/r/rust/comments/7vb3u7/announcing_mrh_the_multigitrepo_helper
+[2018-02-06 meetup]: https://twitter.com/tshepang_dev/status/960955091296702466

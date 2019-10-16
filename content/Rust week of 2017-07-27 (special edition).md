@@ -1,6 +1,7 @@
 +++
-date = 2017-08-04
 title = "Rust week of 2017-07-27 (special edition)"
+date = 2017-08-04
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -20,4 +21,4 @@ backed up anywhere. That draft only consisted of a list of those tiny
 contributions, and it felt extra silly trying to recreate it for
 publication.*
 
-  [since 2015-05-15]: http://tshepang.net/rust-week-of-2015-05-15
+[since 2015-05-15]: http://tshepang.net/rust-week-of-2015-05-15

@@ -1,6 +1,7 @@
 +++
-date = 2017-10-13
 title = "Rust week of 2017-10-05"
+date = 2017-10-13
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -14,8 +15,8 @@ network-related), unlike is the case with *interfaces*. It is also
 comforting that the library has more users ([one] vs. [eight] at time of
 writing).
 
-  [Continuing with the work project]: http://tshepang.net/rust-weeks-of-2017-09-14-to-2017-09-28
-  [interfaces]: https://github.com/andrew-d/interfaces-rs
-  [pnet]: https://github.com/libpnet/libpnet
-  [one]: https://crates.io/crates/interfaces/reverse_dependencies
-  [eight]: https://crates.io/crates/pnet/reverse_dependencies
+[Continuing with the work project]: http://tshepang.net/rust-weeks-of-2017-09-14-to-2017-09-28
+[interfaces]: https://github.com/andrew-d/interfaces-rs
+[pnet]: https://github.com/libpnet/libpnet
+[one]: https://crates.io/crates/interfaces/reverse_dependencies
+[eight]: https://crates.io/crates/pnet/reverse_dependencies
