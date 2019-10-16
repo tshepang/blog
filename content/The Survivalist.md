@@ -1,6 +1,7 @@
 +++
-date = 2016-03-30
 title = "The Survivalist"
+date = 2016-03-30
+
 [taxonomies]
 tags = ['good', '2015']
 categories = ['movies']
