@@ -9,4 +9,5 @@ echo "tshepang.net" > CNAME
 git add --all
 git commit --message "build"
 git push origin master
-hg push
+cd -
+git push
