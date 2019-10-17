@@ -1,6 +1,7 @@
 +++
 title = "Rust 2.0 wishlist"
 date = 2019-09-07
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -32,9 +33,9 @@ tags = ['Rust']
 
 - Do not allow crate names with underscores, because taste...
 
-  `less_pretty` (example `lazy_static`)
+  `lazy_static` (bad)
 
-  `more-pretty` ( example `regex-syntax`)
+  `regex-syntax` (good)
 
 
 [more issues]: https://github.com/rust-lang/rust/pull/42397#issuecomment-315867774
