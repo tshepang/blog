@@ -5,12 +5,6 @@ date = 2019-09-07
 tags = ['Rust']
 +++
 
-- Do not allow crate names with underscores, because taste...
-
-  `less_pretty` (example `lazy_static`)
-
-  `more-pretty` ( example `regex-syntax`)
-
 - Remove the `try!` macro... it has a better replacement in the form
   of the question_mark (`?`) operator.
 
@@ -33,6 +27,14 @@ tags = ['Rust']
   HashMap, and HashSet. Also, they would also be available from
   top-level (i.e. `std::{Vec, HashMap, HashSet}`), resulting in
   `std::collections` removal.
+
+## cargo
+
+- Do not allow crate names with underscores, because taste...
+
+  `less_pretty` (example `lazy_static`)
+
+  `more-pretty` ( example `regex-syntax`)
 
 
 [more issues]: https://github.com/rust-lang/rust/pull/42397#issuecomment-315867774
