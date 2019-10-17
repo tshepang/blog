@@ -27,6 +27,22 @@ tags = ['Rust']
   top-level (i.e. `std::{Vec, HashMap, HashSet}`), resulting in
   `std::collections` removal.
 
+- Rename Vec to Array, a more clear/obvious name
+
+- Consistent names for string-y types:
+
+  |           | current  | wish          |
+  |-----------|----------|---------------|
+  | string    | str      | Str           |
+  |           | String   | StrOwned      |
+  | os string | OsStr    | OsStr (same)  |
+  |           | OsString | OsStrOwned    |
+  | fs path   | Path     | Path (same)   |
+  |           | PathBuf  | PathOwned     |
+
+
+  Not exactly happy with above, but much better than the current 'mess'
+
 - Remove `std::sync::mpsc` from stdlib, making it available
   externally... it does not feel general enough. ([more issues])
 
