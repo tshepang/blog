@@ -33,7 +33,7 @@ common sense as in the gorgeous suits on display here.
 ---
 
 I really hated these bad things on the first revisit, but they were easy
-to overlook this time around. The good stuff managed to distract me well
+to overlook this time around... the good stuff managed to distract me well
 enough.
 
   [Clark Gregg]: http://en.wikipedia.org/wiki/Clark_Gregg
