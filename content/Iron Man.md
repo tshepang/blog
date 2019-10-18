@@ -28,7 +28,7 @@ The bad:
 -   He also survives way too much physical pounding
 
 You'll wish the filmmakers would invest as much in plausibility and
-common sense as in the gorgeous suit on display here.
+common sense as in the gorgeous suits on display here.
 
 ---
 
