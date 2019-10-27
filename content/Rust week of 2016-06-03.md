@@ -6,8 +6,8 @@ date = 2016-06-09
 tags = ['Rust']
 +++
 
-I did more Rust coding than most weeks this time around, busy with the
-project [I mentioned last week]. My favorite parts:
+I did more Rust coding than most weeks this time around, busy with some
+project at work. My favorite parts:
 
 - I love the fact that [inotify-rs] ([first mention]) collects events
   in the background, so that when you are done with whatever task you
@@ -48,6 +48,5 @@ project [I mentioned last week]. My favorite parts:
   So elegant!
 
 
-[I mentioned last week]: http://tshepang.net/rust-week-of-2016-05-27
 [inotify-rs]: https://github.com/hannobraun/inotify-rs
 [first mention]: http://tshepang.net/rust-week-of-2015-07-31
