@@ -46,5 +46,30 @@ data/citm_catalog.json   610 MB/s   430 MB/s   900 MB/s
 data/twitter.json        470 MB/s   510 MB/s   620 MB/s
 ```
 
+Results for the UX305:
+
+```
+                                DOM                  STRUCT
+======= serde_json ======= parse|stringify ===== parse|stringify ====
+data/canada.json         240 MB/s   510 MB/s   570 MB/s   390 MB/s
+data/citm_catalog.json   370 MB/s   680 MB/s   920 MB/s   890 MB/s
+data/twitter.json        290 MB/s   900 MB/s   640 MB/s   920 MB/s
+
+======= json-rust ======== parse|stringify ===== parse|stringify ====
+data/canada.json         500 MB/s   990 MB/s
+data/citm_catalog.json   700 MB/s   860 MB/s
+data/twitter.json        520 MB/s  1030 MB/s
+
+==== rustc_serialize ===== parse|stringify ===== parse|stringify ====
+data/canada.json         160 MB/s    65 MB/s   120 MB/s    51 MB/s
+data/citm_catalog.json   170 MB/s   210 MB/s   120 MB/s   240 MB/s
+data/twitter.json        100 MB/s   410 MB/s    80 MB/s   440 MB/s
+
+======= simd-json ======== parse|stringify ===== parse|stringify ====
+data/canada.json         380 MB/s   490 MB/s   650 MB/s
+data/citm_catalog.json  1000 MB/s   790 MB/s  1540 MB/s
+data/twitter.json        870 MB/s   900 MB/s  1030 MB/s
+```
+
 [Rust JSON Benchmark]: https://github.com/serde-rs/json-benchmark
 [the UX305]: http://tshepang.net/asus-zenbook-ux305fa
