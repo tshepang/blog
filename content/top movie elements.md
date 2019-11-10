@@ -67,7 +67,6 @@ categories = ['movies']
 3. [Limitless] - a drug that enhances mental performance
 4. [Groundhog Day] - reliving the same day over and over again
 5. *Next* - treatment of the concept of being able to see the future
-6. *Lake House* - treatment of the concept of time travel
 
 ## touching
 1. [Life is Beautiful]
