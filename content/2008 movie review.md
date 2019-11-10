@@ -12,8 +12,7 @@ movie of the year
 [Cloverfield] is the year's greatest spectacle, with the inventive
 style popularised by *The Blair Witch Project*, and sweetened with the
 year's best visual effects and superb sound. An honorable mention goes
-to [Taken] while the most innovative concept is the unique time-travel
-story of [The Lake House].
+to [Taken].
 
 best movie
 ==========
@@ -152,7 +151,6 @@ Marshall; Weather Man; Zoom
 
   [Cloverfield]: http://tshepang.net/cloverfield-2008
   [Taken]: http://tshepang.net/taken-2008
-  [The Lake House]: http://tshepang.net/the-lake-house
   [Children of Men]: http://tshepang.net/children-of-men-2006
   [No Country for Old Men]: http://tshepang.net/no-country-for-old-men-2007
   [Hairspray]: http://tshepang.net/recent-movies-2008-05-19
