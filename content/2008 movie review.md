@@ -1,6 +1,7 @@
 +++
 title = "2008 movie review"
 date = 2015-06-20
+
 [taxonomies]
 tags = ['year-movie-review']
 categories = ['movies']
@@ -149,25 +150,26 @@ Beginning; Things We Lost in the Fire; Three Colours Red; Three Colours
 White; Torque; Trapped; Truth About Love, The; Unfaithful; War; We Are
 Marshall; Weather Man; Zoom
 
-  [Cloverfield]: http://tshepang.net/cloverfield-2008
-  [Taken]: http://tshepang.net/taken-2008
-  [Children of Men]: http://tshepang.net/children-of-men-2006
-  [No Country for Old Men]: http://tshepang.net/no-country-for-old-men-2007
-  [Hairspray]: http://tshepang.net/recent-movies-2008-05-19
-  [Kinsey]: http://tshepang.net/kinsey-2004
-  [Persona]: http://tshepang.net/persona-1966
-  [The Squid & the Whale]: http://tshepang.net/recent-movies-2008-11-06
-  [30 Days of Night]: http://tshepang.net/recent-movies-2008-02-01
-  [The New World]: http://tshepang.net/the-new-world-2005
-  [Step Up 2: The Streets]: http://tshepang.net/recent-movies-2008-12-15
-  [Shooter]: http://tshepang.net/shooter-2007
-  [Vacancy]: http://tshepang.net/recent-movies-2008-06-26
-  [Final Fantasy VII - Advent Children]: http://tshepang.net/final-fantasy-vii-advent-children-2005
-  [Kung Fu Panda]: http://tshepang.net/kung-fu-panda-2008
-  [The Forbidden Kingdom]: http://tshepang.net/recent-movies-2008-10-12
-  [The Dark Knight]: http://tshepang.net/the-dark-knight-2008
-  [Planet Terror]: http://tshepang.net/planet-terror-2007
-  [Confidence]: http://tshepang.net/confidence-2002
-  [Silent Hill]: http://tshepang.net/silent-hill-2006
-  [Iron Man]: http://tshepang.net/iron-man
-  [these]: http://tshepang.net/tags/2008-movie
+
+[Cloverfield]: http://tshepang.net/cloverfield-2008
+[Taken]: http://tshepang.net/taken-2008
+[Children of Men]: http://tshepang.net/children-of-men-2006
+[No Country for Old Men]: http://tshepang.net/no-country-for-old-men-2007
+[Hairspray]: http://tshepang.net/recent-movies-2008-05-19
+[Kinsey]: http://tshepang.net/kinsey-2004
+[Persona]: http://tshepang.net/persona-1966
+[The Squid & the Whale]: http://tshepang.net/recent-movies-2008-11-06
+[30 Days of Night]: http://tshepang.net/recent-movies-2008-02-01
+[The New World]: http://tshepang.net/the-new-world-2005
+[Step Up 2: The Streets]: http://tshepang.net/recent-movies-2008-12-15
+[Shooter]: http://tshepang.net/shooter-2007
+[Vacancy]: http://tshepang.net/recent-movies-2008-06-26
+[Final Fantasy VII - Advent Children]: http://tshepang.net/final-fantasy-vii-advent-children-2005
+[Kung Fu Panda]: http://tshepang.net/kung-fu-panda-2008
+[The Forbidden Kingdom]: http://tshepang.net/recent-movies-2008-10-12
+[The Dark Knight]: http://tshepang.net/the-dark-knight-2008
+[Planet Terror]: http://tshepang.net/planet-terror-2007
+[Confidence]: http://tshepang.net/confidence-2002
+[Silent Hill]: http://tshepang.net/silent-hill-2006
+[Iron Man]: http://tshepang.net/iron-man
+[these]: http://tshepang.net/tags/2008-movie
