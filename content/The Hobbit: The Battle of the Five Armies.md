@@ -6,7 +6,7 @@ tags = ['average', '2014']
 categories = ['movies']
 +++
 
-I found the creature design of the dragon amazing; best dragon design
+I found the creature design of the dragon amazing, best dragon design
 I've yet seen. Most everything else is stale, though I do love the
 giants. The combat moments were annoying, where you see puny creatures
 stand their own against the fearsome beasts. I wish these beasts were
