@@ -9,10 +9,8 @@ tags = ['Rust']
     fallback.
 -   I found that converting a char to a String (or &str) is [not as
     obvious as I hoped].
--   I read some of `std::path` code which resulted in [some small
-    changes].
--   I re-discovered the convenience function, `Iterator::cloned`, and
-    submitted two related [documentation][] [improvements].
+-   I read some of `std::path` code
+-   I re-discovered the convenience function, `Iterator::cloned`
 -   I added syntax highlighting to the [Rust posts on my blog] that were
     missing it. I also updated the code to run on modern Rust.
 -   I got some clarity on the concept of traits by re-reading the
@@ -81,8 +79,5 @@ tags = ['Rust']
 
   [an oddity regarding 'pow' method]: http://stackoverflow.com/q/30413090/321731
   [not as obvious as I hoped]: http://stackoverflow.com/a/28003842/321731
-  [some small changes]: https://github.com/rust-lang/rust/pull/25736
-  [documentation]: https://github.com/rust-lang/rust/pull/25756
-  [improvements]: https://github.com/rust-lang/rust/pull/25758
   [Rust posts on my blog]: http://tshepang.net/tags/rust
   [Abstraction without overhead: traits in Rust]: http://blog.rust-lang.org/2015/05/11/traits.html
