@@ -15,6 +15,3 @@ Emma Thompson, though appearing briefly, does offer the movie's most
 electrifying performance. Will Smith, on the other hand, shows a great
 lack of acting skills, and is even embarrassing at times. He is,
 however, interesting enough to lead the story well.
-
-The movie was a great first-time experience, but the revisits were
-lesser by far.
