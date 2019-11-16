@@ -94,6 +94,8 @@ Some docs:
 
 ---
 
+***update**: there is now `eprintln!`, for sending output to stderr*
+
 So, why bother with all these many ways when there's a simple
 `println!`? Flexibility. One example I can think of is writing to
 stderr. There is no simple macro for that (`println!` is for stdout).
