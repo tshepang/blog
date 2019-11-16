@@ -1,6 +1,7 @@
 +++
-date = 2015-02-06
 title = "a visit to Mozambique"
+date = 2015-02-06
+
 [taxonomies]
 tags = ['travel']
 +++
@@ -27,7 +28,7 @@ Maputo. Other issues:
     didn't explore it as much as I would have liked, but it's such
     pain, given the language barriers, as well as hardly having any
     street names or markings on buildings. We were in bad need for a
-    guide. Most on the buildings are in a very dilapidated state. A very
+    guide. Most of the buildings are in a very dilapidated state. A very
     rough guess is over 80% of them, though you'd find something
     gorgeous here and there. The roads are heavily congested and the
     drivers very inconsiderate... the worst I've seen. It's amazing
@@ -38,20 +39,20 @@ Maputo. Other issues:
     example is the price of eggs as we saw in a franchise that also
     operates in South Africa. A pack of 60 eggs went for M360 (about
     R120)! That's about twice the price in South Africa. Accommodation
-    was expensive too; the place we got cost about M2200 and that was
+    was expensive too... the place we got cost about M2200 and that was
     the cheaper one we could get, but was yet disappointing:
     -   We were provided only a single pillow for each of us (separate
         beds in one room), and it didn't look pleasant for the
         attendant to get us another.
-    -   There was just one parking space. That I just don't understand.
+    -   There was just one parking space (WTF!).
     -   The bed I was on was uncomfortable. I was discouraged from
         complaining because it just felt like I was bothering the hosts,
         and I had already complained about the not-cold water provided
-        in the room. I don't like feeling like a bother.
+        in the room.
     -   The hot water was rather luke-warm, though it wasn't too much
         of an issue given the high temperatures of the city. In
         addition, the pressure of the water was quite low.
-    -   I didn't like it when one the senior workers asked us not to
+    -   I didn't like it when one of the senior workers asked us not to
         drink alcohol (in case we were planning to) because he was
         Muslim, and that it was a Muslim-owned place. Such arrogance!
 
@@ -66,7 +67,7 @@ it really, and decided to take a chance. It didn't work out, but I'm
 glad we tried. I would like to go some other time (I hear there's great
 beaches), but with proper guides, perhaps via a cruise ship.
 
-In the end, we just decided to cut our trip short, and went back to
+In the end, we just decided to cut our trip short, and went back home to
 South Africa.
 
-  [a friend]: https://twitter.com/tshepomathopa
+[a friend]: https://twitter.com/tshepomathopa
