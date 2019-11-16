@@ -20,5 +20,6 @@ if let foo = ... (if block)
 while let foo = ... (while loop)
 fn func(foo: ... (function argument)
 | foo | ... (closure argument)
+```
 
 [Rust ownership, the hard way]: http://chrismorgan.info/blog/rust-ownership-the-hard-way.html
