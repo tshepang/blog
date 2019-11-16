@@ -32,14 +32,15 @@ fn main() {
 }
 ```
 
-What I did is is call `unwrap` which basically asks our operation to
+What I did is call `unwrap` which basically asks our operation to
 `panic!` in case of some error. Think of it as a shortcut of:
 
 ```rust
 use std::io::{self, Write};
 fn main() {
-    match io::stdout().write_all(b"some outputn") {
-        Ok(_) => (), Err(_) => panic!(),
+    match io::stdout().write_all(b"some output") {
+        Ok(_) => (),
+        Err(_) => panic!(),
     }
 }
 ```
