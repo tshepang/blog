@@ -9,7 +9,7 @@ categories = ['movies']
 The movie is overall well-made and got a story that feels fresh, and one
 that's seldom told: people taking video footage of gruesome events. The
 scene that culminates in a police car chase is intense and feels
-realistic; great direction and camerawork.
+realistic... great direction and camerawork.
 
 Jake Gyllenhaal, the lead of the quality cast, is a highly skilled actor
 (see [Prisoners] and [Zodiac]), but I haven't seen him this good. His
