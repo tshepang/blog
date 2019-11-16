@@ -1,6 +1,7 @@
 +++
-date = 2015-05-25
 title = "various Rust ways of displaying stuff to the screen"
+date = 2015-05-25
+
 [taxonomies]
 tags = ['Rust']
 +++
@@ -79,7 +80,6 @@ There is an even shorter shortcut:
 
 ```rust
 fn main() {
-
     let second_word = "output"; println!("some {}", second_word);
 }
 ```
