@@ -13,21 +13,22 @@ Maseru is a lot better than I thought:
     hardly any shacks.
 -   I was especially impressed by the parliament building... so
     majestic, made better by them overlooking the city down below. I
-    feel it's a bit of overkill though... imagine what it cost.
+    feel it's a bit of overkill though... imagine what it cost!
 -   Something I noticed is the overly smooth tile surfaces, which is a
     health hazard. I saw it in 3 separate places:
-    -   A rather large mall, which is the only one I we saw
+    -   A rather large mall, which is the only mall I saw
     -   A fast food shop (where the food was very unimpressive; I've
         never in my life been served a burger whose bread was so dry it
         was hard)
     -   A supermarket
 
 The quality of service was rather horrible, and worse than any place
-I've been to in South Africa. Worst of this was the place we stayed at:
+I've been to in South Africa. Worst of this was the place we (was with
+friend) stayed at:
 
 -   On the gate, there was some guy who looked very unexcited about his
     life. He was just sitting there, his face looking down, and he
-    didn't even give us a look. I guessed he was the security because
+    didn't even give us a look. I guess he was the security because
     he had a two-way radio.
 -   The reception room was very stuffy... I wonder if the two ladies
     noticed. I didn't check if the windows were open. It must have been
@@ -39,7 +40,7 @@ I've been to in South Africa. Worst of this was the place we stayed at:
     Not even "I'd get it cleaned right away for you, sir" or
     something like that.
 -   We went away to do a city tour and came back late, so it was quite
-    dark. There was no lighting on the path the the room, so one had to
+    dark. There was no lighting on the path to the room, so one had to
     tread carefully.
 -   It's normal practice for the light switch to be near the door, but
     not in this case. And it was so dark that we had to ask for
@@ -58,10 +59,10 @@ I've been to in South Africa. Worst of this was the place we stayed at:
 -   Maybe there wasn't much they could do about this, but there wasn't
     water in the morning so we could bath and get the fuck out. The
     receptionist said the issue was in the area.
--   Now, this is maybe the best on: before we could leave, they didn't
+-   Now, this is maybe the best one: before we could leave, they didn't
     open the gate for us before first checking the room. My guess is
     they ensured we didn't steal anything. The receptionist did earlier
-    claim they wanted to check if we didn't leave anything. Maybe
+    claim they wanted to check if we didn't leave anything behind. Maybe
     that's true :)
 
 Maybe that explains the price... the room cost M290 for the night, for
