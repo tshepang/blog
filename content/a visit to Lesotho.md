@@ -32,8 +32,7 @@ friend) stayed at:
     he had a two-way radio.
 -   The reception room was very stuffy... I wonder if the two ladies
     noticed. I didn't check if the windows were open. It must have been
-    a result of some serious cost-saving. At least our room had that
-    modern convenience.
+    a result of some serious cost-saving.
 -   While waiting to check if a room is available, the lady openly asked
     some other worker to check if the room is clean. I asked what
     happens if it isn't, and she said she'd just send us away. Weird.
