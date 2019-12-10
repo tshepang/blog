@@ -1,6 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2019-10-18
+date = 2019-12-10
 
 [taxonomies]
 tags = ['Rust']
@@ -27,7 +27,9 @@ tags = ['Rust']
   top-level (i.e. `std::{Vec, HashMap, HashSet}`), resulting in
   `std::collections` removal.
 
-- Rename Vec to Array, a more clear/obvious name
+- Rename `Vec` to `Array`, a more clear/obvious name.
+  An alternative is `List`, but that type in Python accepts members of
+  different types, which is not the case for `Vec`.
 
 - Consistent names for string-y types:
 
