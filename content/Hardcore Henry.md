@@ -15,4 +15,4 @@ Copley], in what is his most satisfying work since [District 9]. The
 story is also fascinating and so is the technology.
 
 [Sharlto Copley]: https://en.wikipedia.org/wiki/Sharlto_Copley
-[District 9]: http://tshepang.net/district-9-2009
+[District 9]: http://tshepang.net/district-9

@@ -10,18 +10,11 @@ The year started with a whole lot of stellar performers but slowed down
 later on since I did things other than watch movies. Regardless, that
 early period represented some of the best movie years in recent memory.
 
-### movie of the year
-
-The super-fresh [District 9] takes the title, and is also the best movie
-to ever come out of South Africa.
-
 ### best movie
 
 The year's best movie is [Baise-moi], whose unflinching and unsettling
 violence has the raw intensity of [Bamboozled]'s climax and the
-harshness of *Natural Born Killers*, without the humor. It's runner-up
-is [District 9], followed by [Inglourious Basterds], Tarantino's best
-movie yet.
+harshness of *Natural Born Killers*, without the humor.
 
 ### performances
 
@@ -34,7 +27,6 @@ There was quite a number of superb male performances, the best being
 Daniel-Day Lewis' near-flawless performances as oil miner in [There
 Will Be Blood]. Here's the runner-ups:
 
-1.  Christoph Waltz as Nazi officer in [Inglourious Basterds]
 2.  John Malkovich as activist in [Changeling]
 3.  Jack Nicholson as grumpy tycoon in *Bucket List*
 4.  Woody Harrelson as blind man in [Seven Pounds]
@@ -61,10 +53,9 @@ The runner-ups:
 
 1.  [Transformers 2]
 2.  [Avatar]
-3.  [District 9]
 
 The best visual effects artefact is the robo-bikes in [Terminator
-Salvation], which ties with the exo-suit in [District 9].
+Salvation].
 
 ### misc elements
 
@@ -74,8 +65,7 @@ which however gets **best cinematography**. [Changeling] also has **best
 costume design** and **best cast**.
 
 The year's greatest spectacles are *2012* and [Avatar]; best thriller
-is [Law-Abiding Citizen]; most original movie, or one that feels so, is
-[District 9]; best comedy is [You Don't Mess With the Zohan]; the most
+is [Law-Abiding Citizen]; best comedy is [You Don't Mess With the Zohan]; the most
 enchanting/delightful is [Wall-E][You Don't Mess With the Zohan],
 followed up by [Sponge Bob].
 
@@ -110,10 +100,8 @@ Clone Wars; Still Life; Superhero Movie; Taste of Cherry; Tie Me Up, Tie
 Me Down; Traitor; Valkyrie; Wind Will Carry Us, The; Wrestler, The; Xiao
 Wu; Zack & Miri Make A Porno
 
-  [District 9]: http://tshepang.net/district-9-2009
   [Baise-moi]: http://tshepang.net/baise-moi-2000
   [Bamboozled]: http://tshepang.net/bamboozled-2000
-  [Inglourious Basterds]: http://tshepang.net/inglourious-basterds-2009
   [Watchmen]: http://tshepang.net/watchmen-2009
   [Raffaëla Anderson]: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
   [There Will Be Blood]: http://tshepang.net/there-will-be-blood-2007

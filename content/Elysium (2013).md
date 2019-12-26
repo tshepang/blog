@@ -1,6 +1,7 @@
 +++
-date = 2013-12-08
 title = "Elysium (2013)"
+date = 2013-12-08
+
 [taxonomies]
 tags = ['decent', '2013-movie']
 categories = ['movies']
@@ -15,5 +16,5 @@ The movie also feels rushed. It's a pity because it starts well, and is
 well-made (the director made [District 9] after all), complete with
 great visual effects and action direction.
 
-  [William Fichtner]: http://en.wikipedia.org/wiki/William_Fichtner
-  [District 9]: http://tshepang.net/district-9-2009
+[William Fichtner]: http://en.wikipedia.org/wiki/William_Fichtner
+[District 9]: http://tshepang.net/district-9
