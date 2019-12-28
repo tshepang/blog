@@ -64,7 +64,6 @@ categories = ['movies']
 2. *Inception* - a technology that allows one to tap into unused brain
    power, resulting in an altered experience of time, where a second
    could feel like a year (as an example)
-3. [Limitless] - a drug that enhances mental performance
 4. [Groundhog Day] - reliving the same day over and over again
 5. *Next* - treatment of the concept of being able to see the future
 
@@ -131,7 +130,6 @@ categories = ['movies']
 [The Bourne Supremacy]: http://tshepang.net/the-bourne-supremacy-2004
 [The Bourne Ultimatum]: http://tshepang.net/the-bourne-ultimatum-2007
 [Non-Stop]: http://tshepang.net/non-stop
-[Limitless]: http://tshepang.net/limitless-2011
 [Groundhog Day]: http://tshepang.net/groundhog-day-1993
 [Life is Beautiful]: http://tshepang.net/many-many-recent-movies
 [Yellow Earth]: http://tshepang.net/yellow-earth-1984
