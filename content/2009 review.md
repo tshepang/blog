@@ -20,5 +20,5 @@ in [Inglourious Basterds].
 He plays a very fearsome Nazi officer that is so damn easy to hate.
 
 
-[District 9]: http://tshepang.net/district-9-2009
-[Inglourious Basterds]: http://tshepang.net/inglourious-basterds-2009
+[District 9]: http://tshepang.net/district-9
+[Inglourious Basterds]: http://tshepang.net/inglourious-basterds
