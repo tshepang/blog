@@ -8,8 +8,10 @@ categories = ['movies']
 +++
 
 My **favorite performance** is that of [Andrew Howard] as the Russian
-gangster in *Limitless*,
-and the most **desirable gal** is [Kelly Reilly] in [Sherlock Holmes: A Game
+gangster in *Limitless*. The movie also has my most **favorite story
+concept**, that of a drug that vastly improves mental performance.
+
+The most **desirable gal** is [Kelly Reilly] in [Sherlock Holmes: A Game
 of Shadows].
 
 [Kelly Reilly]: http://en.wikipedia.org/wiki/Kelly_Reilly
