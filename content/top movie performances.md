@@ -24,7 +24,7 @@ categories = ['movies']
 2. Sterling Hayden as the mad general ([Dr. Strangelove])
 3. John Carrol Lynch as the suspect (*Zodiac*)
 4. Taraji Hanson as the sniper ([Smokin' Aces])
-5. [Andrew Howard] as the Russian gangster in [Limitless]
+5. [Andrew Howard] as the Russian gangster in *Limitless*
 
 ## favorite eccentric
 
@@ -70,4 +70,3 @@ The humorless guy at airport checkpoint ([The Next Three Days])
 [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
 [The Next Three Days]: http://tshepang.net/the-next-three-days-2010
 [Andrew Howard]: https://en.wikipedia.org/wiki/Andrew_Howard
-[Limitless]: http://tshepang.net/limitless
