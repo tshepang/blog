@@ -13,8 +13,8 @@ tags = ["Rust"]
   One of those adopters [has over 200m users](https://pingcap.com/success-stories/tidb-in-mobike) (mid 2018).
   This is, for me, the most impressive Rust success story.
 
-- [500m people use Dropbox](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire)
-  (early 2016), whose file storage system is written in Rus.
+- [600m people use Dropbox][dropbox] (late 2019),
+  [whose file storage system is written in Rust][rust@dropbox].
 
 - [250m people use Firefox](https://data.firefox.com/dashboard/user-activity)
   (late 2019), which has various components written in Rust,
@@ -23,3 +23,6 @@ tags = ["Rust"]
 - [250m people use Discord](https://blog.discordapp.com/a190bbca2b1f)
   (early 2020), which has Read States service written in Rust,
   whose "sole purpose is to keep track of which channels and messages you have read".
+
+[dropbox]: https://investors.dropbox.com/news-releases/news-release-details/dropbox-announces-fourth-quarter-and-fiscal-2019-results
+[rust@dropbox]: https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
