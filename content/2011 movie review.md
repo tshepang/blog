@@ -217,7 +217,7 @@ For a complete list of the movies I reviewed for the year, visit the
   [Sucker Punch]: http://tshepang.net/sucker-punch-2011
   [Percy Jackson & The Olympians: The Lightning Thief]: http://tshepang.net/percy-jackson-the-olympians-the-lightning-thief-2010
   [Tron: Legacy]: http://tshepang.net/tron-legacy-2010
-  [Transformers: Dark of the Moon]:
+  [Transformers: Dark of the Moon]: http://tshepang.net/transformers-dark-of-the-moon-2011
   [Super 8]: http://tshepang.net/super-8-2011
   [The Chronicles of Narnia: Prince Caspian]: http://tshepang.net/the-chronicles-of-narnia-prince-caspian-2008
   [exoskeletons]: http://en.wikipedia.org/wiki/Powered_exoskeleton
