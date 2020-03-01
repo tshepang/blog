@@ -41,8 +41,7 @@ the **best male performances**:
 6.  Brad Pitt in [The Counselor]
 
 The **best female performance** was given by [Susanne Lothar] in [Funny
-Games], followed by [Julia Louis-Dreyfus] in [Enough Said]. In third
-place is Emily Watson in [The Book Thief].
+Games], followed by Emily Watson in [The Book Thief].
 
 characters
 ==========
@@ -59,13 +58,11 @@ There was no better **character design** than the giant samurai robot in
 [The Wolverine]. In second place is the Alpha dragon from [How To Train
 Your Dragon 2].
 
-In terms of **character development**, nothing beats [Enough Said].
-
 miscellaneous
 =============
 
-There was no **direction** better than [Funny Games], the best
-**script/dialogue** can be found in [Enough Said], and There was no
+There was no **direction** better than [Funny Games],
+and There was no
 greater **spectacle** than [Edge of Tomorrow].
 
 The following have the best **story concept**:
@@ -99,8 +96,6 @@ movies in history]. Really, WTF happened there!
   [The Counselor]: http://tshepang.net/the-counselor-2013
   [Susanne Lothar]: http://en.wikipedia.org/wiki/Susanne_Lothar
   [Funny Games]: http://tshepang.net/funny-games-1997
-  [Julia Louis-Dreyfus]: http://en.wikipedia.org/wiki/Julia_Louis-Dreyfus
-  [Enough Said]: http://tshepang.net/enough-said-2013
   [How To Train Your Dragon 2]: http://tshepang.net/how-to-train-your-dragon-2-2014
   [Dania Ramirez]: http://en.wikipedia.org/wiki/Dania_Ramirez
   [The Wolverine]: http://tshepang.net/the-wolverine-2013

@@ -78,7 +78,6 @@ runner-ups:
 
 1.  Brooke White as wife and new mother ([Change of Plans])
 2.  Sissy Spacek as wife ([Missing])
-3.  Rebecca Hall as breast inspection worker ([Please Give])
 
 The **best character design** is the Chitauri, the alien race in [The
 Avengers].
@@ -104,7 +103,7 @@ The most **funny** movies:
 3.  [The Hangover Part II]
 4.  [Zoolander]
 
-The best **script/dialogue** is in [Missing], followed by [Please Give].
+The best **script/dialogue** is in [Missing].
 
 The best **costume design** comes, surprisingly, from [The Great
 Dictator].
@@ -164,7 +163,6 @@ The **fall from glory** award goes to:
   [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
   [Dark Shadows]: http://tshepang.net/dark-shadows-2012
   [Change of Plans]: http://tshepang.net/change-of-plans-2011
-  [Please Give]: http://tshepang.net/please-give-2009
   [The Hangover Part II]: http://tshepang.net/the-hangover-part-ii-2011
   [Bad Teacher]: http://tshepang.net/bad-teacher-2011
   [Bob the Butler]: http://tshepang.net/bob-the-butler-2005
