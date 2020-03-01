@@ -88,7 +88,6 @@ The **best male performance** is by Geoffrey Rush when playing a
 therapist in [The Kings's Speech]. Here's the runner-ups:
 
 1.  [Miles Teller] ([Rabbit Hole])
-2.  Laurence Fishburne ([Contagion])
 3.  [Lennie James] ([The Next Three Days])
 4.  [Russell Brand] ([Get Him to the Greek])
 
@@ -141,8 +140,6 @@ the movie the winner. There's a tie between the 2 runner-ups:
 
 -   [Fair Game] (harmful suppression of truth by powerful government
     officials)
--   [Contagion] (a reminder of how fragile our existence is, and the
-    social chaos that can result from desperation and fear)
 
 Each repeat of a movie is a different experience, hence this category of
 **best first-time viewing experience**. It's won by [Megamind] (it blew
@@ -154,8 +151,7 @@ masterpiece on first viewing, but it seemed a different (and worse)
 movie on a revisit. Not that it was trash. It was just not very good.
 The runner-up is [The Warrior's Way].
 
-As for the year's **best script/dialog**, there is a tie between [Sex,
-Lies, and Videotape] and [Contagion].
+As for the year's **best script/dialog**, we have [Sex, Lies, and Videotape].
 
 The year's **funniest movie** is [Bill & Ted's Bogus Journey]. The
 first runner-up is [Being There], while its three 2nd runner-ups are a
@@ -236,7 +232,6 @@ For a complete list of the movies I reviewed for the year, visit the
   [Jon de Lancie]: http://en.wikipedia.org/wiki/John_de_Lancie
   [Pathology]: http://tshepang.net/pathology-2008
   [Miles Teller]: http://en.wikipedia.org/wiki/Miles_Teller
-  [Contagion]: http://tshepang.net/contagion-2011
   [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
   [The Next Three Days]: http://tshepang.net/the-next-three-days-2010
   [Russell Brand]: http://en.wikipedia.org/wiki/Russell_Brand

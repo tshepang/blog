@@ -37,7 +37,7 @@ domestic abuse
 existential threats
 ===================
 
-1.  [Contagion]
+1.  *Contagion*
 2.  [The Thaw]
 
 alternate reality concepts
@@ -50,7 +50,6 @@ alternate reality concepts
   [The Lives of Others]: http://tshepang.net/the-lives-of-others-2006
   [Precious]: http://tshepang.net/precious-2009
   [Festen]: http://tshepang.net/festen-1998
-  [Contagion]: http://tshepang.net/contagion-2011
   [The Thaw]: http://tshepang.net/the-thaw-2009
   [The Butterfly Effect]: http://tshepang.net/the-butterfly-effect-2004
   [The Thirteenth Floor]: http://tshepang.net/the-thirteenth-floor-1999

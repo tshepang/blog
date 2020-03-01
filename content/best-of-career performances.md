@@ -23,7 +23,7 @@ categories = ['movies']
 - Jon Voigt ([The Rainmaker])
 - Kerry Washington (*I Think I Love My Wife*)
 - Kirsten Dunst (*Eternal Sunshine of the Spotless Mind*)
-- Laurence Fishburne (*Mystic River*; [Contagion])
+- Laurence Fishburne (*Mystic River*)
 - Mickey Rourke (*The Wrestler*)
 - Morgan Freeman (*Million Dollar Baby*)
 - Nicole Kidman ([Birth]); also [favorite-of-career]; honorable mention ([Rabbit Hole])
@@ -52,7 +52,6 @@ related: [favorite-of-career performances][favorite-of-career]
 [The Warlords]: http://tshepang.net/the-warlords-2007
 [Changeling]: http://tshepang.net/changeling-2008
 [The Rainmaker]: http://tshepang.net/the-rainmaker-1997
-[Contagion]: http://tshepang.net/contagion-2011
 [Birth]: http://tshepang.net/birth-2004
 [favorite-of-career]: http://tshepang.net/favorite-of-career-performances
 [Rabbit Hole]: http://tshepang.net/rabbit-hole-2010
