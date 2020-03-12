@@ -18,7 +18,7 @@ flow:
 
   + I'm then transported to the open post, with my favorite editor
 
-- ./publish
+- `./publish`
 
 demo:
 ```
