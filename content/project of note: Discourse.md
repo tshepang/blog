@@ -1,6 +1,7 @@
 +++
-date = 2013-05-11
 title = "project of note: Discourse"
+date = 2013-05-11
+
 [taxonomies]
 tags = ['non-Python', 'non-Debian', 'project-of-note']
 +++
@@ -12,6 +13,6 @@ web]. So whenever he goes and creates something else, I naturally do pay
 attention, and this [Discourse] thing looks amazing, at least from my
 limited usage so far.
 
-  [The announcement]: http://www.codinghorror.com/blog/2013/02/civilized-discourse-construction-kit.html
-  [the most important programming resource on the web]: http://stackoverflow.com
-  [Discourse]: http://www.discourse.org
+[The announcement]: http://www.codinghorror.com/blog/2013/02/civilized-discourse-construction-kit.html
+[the most important programming resource on the web]: http://stackoverflow.com
+[Discourse]: http://www.discourse.org
