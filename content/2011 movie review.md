@@ -21,8 +21,6 @@ vivid, so they stay, at least for now.
 
 Here's the rest (ranked alphabetically):
 
--   [The Cat In The Hat] (a case where I drastically differ with general
-    critical approval)
 -   [Downfall]
 -   [Kung Fu Panda 2] (also happens to be the year's **greatest
     spectacle**)
@@ -154,9 +152,8 @@ The runner-up is [The Warrior's Way].
 As for the year's **best script/dialog**, we have [Sex, Lies, and Videotape].
 
 The year's **funniest movie** is [Bill & Ted's Bogus Journey]. The
-first runner-up is [Being There], while its three 2nd runner-ups are a
-tie: [Brewster's Millions] (surprising entrant), [The Cat In The Hat],
-and [Semi-Pro].
+first runner-up is [Being There], while its two 2nd runner-ups are a
+tie: [Brewster's Millions] (surprising entrant) and [Semi-Pro].
 
 The year's **most enchanting** movie is [Megamind], followed by
 [Tangled].
@@ -203,7 +200,6 @@ For a complete list of the movies I reviewed for the year, visit the
   [Megamind]: http://tshepang.net/megamind-2010
   [4 Months, 3 Weeks and 2 Days]: http://tshepang.net/4-months-3-weeks-and-2-days-2007
   [Crimson Gold]: http://tshepang.net/crimson-gold-2003
-  [The Cat In The Hat]: http://tshepang.net/the-cat-in-the-hat-2003
   [Downfall]: http://tshepang.net/downfall-2004
   [Kung Fu Panda 2]: http://tshepang.net/kung-fu-panda-2-2011
   [Rabbit Hole]: http://tshepang.net/rabbit-hole-2010
