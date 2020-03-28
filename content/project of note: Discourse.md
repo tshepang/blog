@@ -9,7 +9,7 @@ tags = ['non-Python', 'non-Debian', 'project-of-note']
 rather incredible guy, a game changer of sorts, most notable for helping
 create what is likely [the most important programming resource on the
 web]. So whenever he goes and creates something else, I naturally do pay
-attention, and this [Discourse] thing looks amazing, at least from by
+attention, and this [Discourse] thing looks amazing, at least from my
 limited usage so far.
 
   [The announcement]: http://www.codinghorror.com/blog/2013/02/civilized-discourse-construction-kit.html
