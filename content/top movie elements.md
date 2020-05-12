@@ -111,7 +111,6 @@ categories = ['movies']
 - *Wanted*
 
 ## whistleblowing
-1. [The Insider]
 2. [The Firm]
 3. [Erin Brockovich]
 4. [The Informant]
