@@ -30,10 +30,6 @@ categories = ['movies']
 
 Kiefer Sutherland as the doctor ([Dark City])
 
-## cast
-
-[Precious]
-
 ## voice talent
 
 *Ghost in the Shell* 1 and 2 (English translation)
@@ -65,7 +61,6 @@ The humorless guy at airport checkpoint ([The Next Three Days])
 [Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964
 [Smokin' Aces]: http://tshepang.net/smokin-aces-2006
 [Dark City]: http://tshepang.net/dark-city-1998
-[Precious]: http://tshepang.net/precious-2009
 [Payback]: http://tshepang.net/payback-1999
 [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
 [The Next Three Days]: http://tshepang.net/the-next-three-days-2010

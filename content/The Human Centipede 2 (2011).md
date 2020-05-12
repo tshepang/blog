@@ -15,7 +15,7 @@ on others, given he's mentally disturbed, complete with a rather
 unhappy toddler-hood. It's a pity three of the other characters were
 just lazily-developed, making them unconvincing:
 
--   Mommy was a cheap copy of the one in [Precious]. The story went too
+-   Mommy was a cheap copy of the one in *Precious*. The story went too
     far by having her try to kill her own child, though the reaction of
     this child, the lead character, was super-kool... so damn oblivious
     to what just occurred. Did I mention I love this character?
@@ -34,4 +34,3 @@ boundaries. Also, the movie may not be as fresh as its predecessor, but
 it's a lot better (direction, cinematography, acting).
 
   [Laurence R. Harvey]: http://www.imdb.com/name/nm4030776
-  [Precious]: http://tshepang.net/precious-2009

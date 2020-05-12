@@ -30,8 +30,7 @@ You would love to have some:
 domestic abuse
 ==============
 
-1. [Precious]
-2. [Festen]
+[Festen]
 
 existential threats
 ===================
@@ -47,7 +46,6 @@ alternate reality concepts
 
 [Cleanskin]: http://tshepang.net/cleanskin-2012
 [The Lives of Others]: http://tshepang.net/the-lives-of-others-2006
-[Precious]: http://tshepang.net/precious-2009
 [Festen]: http://tshepang.net/festen-1998
 [The Thaw]: http://tshepang.net/the-thaw-2009
 [The Butterfly Effect]: http://tshepang.net/the-butterfly-effect-2004

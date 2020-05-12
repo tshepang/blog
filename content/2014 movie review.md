@@ -74,9 +74,6 @@ The following have the best **story concept**:
 5.  [The Purge: Anarchy]
 6.  [13 Sins]
 
-The **WTF** of the year: the guy who directed a very unimpressive [The
-Butler] is the same one who made [Precious], which [one of the best
-movies in history]. Really, WTF happened there!
 
   [Doubt]: http://tshepang.net/doubt-2008
   [The Iceman]: http://tshepang.net/the-iceman-2012
@@ -104,6 +101,4 @@ movies in history]. Really, WTF happened there!
   [Her]: http://tshepang.net/her
   [The Purge: Anarchy]: http://tshepang.net/the-purge-anarchy-2014
   [13 Sins]: http://tshepang.net/13-sins-2014
-  [The Butler]: http://tshepang.net/the-butler-2013
-  [Precious]: http://tshepang.net/precious-2009
   [one of the best movies in history]: http://tshepang.net/top-movies

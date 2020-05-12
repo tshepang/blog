@@ -7,8 +7,8 @@ categories = ['movies']
 +++
 
 The most shocking thing about this overrated bore is that it was made by
-Lee Daniels, the same guy who made [the most impressive movie made in
-the last few years]. It's fucking weird! It's among the most
+Lee Daniels, the same guy who made the most impressive movie made in
+the last few years, *Precious* (2009). It's fucking weird! It's among the most
 surprising things in all of my experiences watching movies. Not even a
 wonderful actor like Forest Whitaker pulled off a decent performance.
 He's embarrassing even, though not as much as Oprah Winfrey, who was
@@ -24,5 +24,3 @@ the younger brother of the activist at the dinner table, specifically
 the *party* moment. It was beautiful. Sadly, not much else was. None of
 the other performances were good (and I'm not exaggerating), and the
 old-age make-up was even worse. Ridiculous!
-
-  [the most impressive movie made in the last few years]: http://tshepang.net/precious-2009

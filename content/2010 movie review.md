@@ -6,10 +6,10 @@ tags = ['year-movie-review']
 categories = ['movies']
 +++
 
-The **best movie** I have seen this year is [Precious], and runner-up is
+The **best movie** I have seen this year is
 [Somewhere]. The year's **greatest spectacle**, however, is
 [Inception], followed by [The A-Team]. The best **direction** is
-[Precious], followed by a tie between [Brooklyn's Finest][Inception]
+a tie between [Brooklyn's Finest][Inception]
 and [Somewhere].
 
 visuals
@@ -27,12 +27,12 @@ miscellaneous
 =============
 
 The best **adventure** movie is *Prince of Persia*, the best **horror**,
-*Call Back*, and the most **painful**, [Precious], followed by *The
+*Call Back*, and the most **painful** is *The
 Magdalene Sisters*. The **funniest** is *Get Smart*, and most
 **enchanting** is *Alice In Wonderland*. The best **action direction**
 is in [Takers][Inception].
 
-The best **script/dialogue** is a tie between [Memento] and [Precious],
+The best **script/dialogue** is [Memento],
 followed by [The Social Network]. The best **narration** can be found in
 the most **bizarre** movie of the year, *Sita Sings the Blues*. There
 was nothing more **moody** than *Anamorph*.
@@ -48,9 +48,7 @@ clearly decide who was better than who, and here's an attempt:
 The year's most **favorite performance** is that of Jesse Eisenberg in
 ([The Social Network]), followed by:
 
-1.  a tie between Stanley Tucci & Patricia Clarkson (*Easy A*); Amina
-    Robinson's scarface, Xosha Roquemore's never-serious classmate,
-    Chyna Layne's Jamaican classmate ([Precious])
+1.  a tie between Stanley Tucci & Patricia Clarkson (*Easy A*)
 2.  Ron Perlman ([The Job])
 3.  homo guy (*Woman On Top*); John Cleese (*Spud*); friend (*Lottery
     Ticket*)
@@ -58,14 +56,10 @@ The year's most **favorite performance** is that of Jesse Eisenberg in
 In the category of **best male performance**, Guy Pearce ([Memento])
 ties with Woody Harrelson (*The Messenger*).
 
-As for **best female performance**, many would consider this heresy, but
-I find that Meryl Streep in [Sophie's Choice][The Job] ties with
-Mo'Nique in [Precious][1]. Runner-up is Carrie-Anne Moss in
+As for **best female performance**,
+we have Meryl Streep in [Sophie's Choice][The Job],
+followed by Carrie-Anne Moss in
 [Memento], her best performance so far.
-
-The sole winner in the category of **character development** is
-[Precious], with classmates, the teacher's lover, and the mother
-(Mo'Nique).
 
 My most **favorite character** is the admirable Nelson Mandela (played
 by Morgan Freeman) in ([Invictus][The Job]). Runner-up is Rosalind
@@ -74,23 +68,15 @@ Pike's superbly gorgeous but dumb-ass blonde in ([An Education]).
 The **best child performance** was by the girl palying the daughter in
 ([Somewhere]), followed by title character in *Spud*.
 
-The best **cast** can be found in [Precious]. It also so happens to be
-the best cast of any movie I've seen yet. Amazing shit right there.
-Runner-up is the cast of [An Education], followed by that of *Calendar
+The best **cast** that of [An Education], followed by that of *Calendar
 Girls*.
 
 The best **cast of children** can be found in *Spud*, while the year's
-best **villain** is that played by Mo'Nique in [Precious]. Here's the
-runner-ups:
+best **villain** is that played of Hades in [Clash of the Titans]
+(also the year's most fearsome character),
+followed by the tough and smart shooter in [The A-Team].
 
-1.  Hades ([Clash of the Titans]) -- also the year's most fearsome
-2.  tough and smart shooter ([The A-Team])
-
-The most **desirable gal** is cheat, having multiple characters. It's
-the classmates in [Precious], best of which is scarface. Oh man, why do
-people have to look and be like her. Damn!
-
-Here's the follow-ups:
+The most **desirable gal** list follows:
 
 1.  Vera Farmiga (Up in the Air) and Lois character
     ([Superman][Inception])
@@ -140,8 +126,7 @@ interior in *Resident Evil Afterlife*, the best **warfare** is in
 
 Each repeat of a movie is a different experience, hence this category of
 **best first-time viewing experience**. This year, it is won by [Iron
-Man 2], which failed on the rewatch value department. Runner-up is the
-masterful [Precious].
+Man 2], which failed on the rewatch value department.
 
 'old' movies
 ==============
@@ -188,7 +173,6 @@ Twilight Saga -- Eclipse; Ultimate Gift, The; The Unborn; Up; Wall
 Street; War, Inc; What Doesn't Kill You; World's Greatest Dad;
 Smokin' Aces 2; The Expendables; August Rush; Karate Kid; Skin
 
-  [Precious]: http://tshepang.net/precious-2009
   [Somewhere]: http://tshepang.net/somewhere-2010
   [Inception]: http://tshepang.net/many-many-recent-movies
   [The A-Team]: http://tshepang.net/recent-movies-2010-09-15

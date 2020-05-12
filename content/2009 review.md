@@ -19,6 +19,10 @@ The **best male performance** is that of Christoph Waltz as Nazi officer
 in [Inglourious Basterds].
 He plays a very fearsome Nazi officer that is so damn easy to hate.
 
+The best **cast** can be found in *Precious*.
+Among them is the most **desirable gal**, Amina Robinson,
+who plays the more quiet of the classmates, one with scar on face.
+Oh man, why do people have to look and be like her. Damn!
 
 [District 9]: http://tshepang.net/district-9
 [Inglourious Basterds]: http://tshepang.net/inglourious-basterds

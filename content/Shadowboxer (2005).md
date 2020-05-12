@@ -17,8 +17,7 @@ List] and [Red], respectively).
 
 The movie pretty much weird, with the sort of direction I haven't seen
 before. It didn't see much distribution, and I only watched it because
-I deeply enjoyed the director's later work, [Precious].
+I deeply enjoyed the director's later work, *Precious*.
 
   [The Hit List]: http://tshepang.net/the-hit-list-2011
   [Red]: http://tshepang.net/red-2010
-  [Precious]: http://tshepang.net/precious-2009
