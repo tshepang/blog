@@ -2,7 +2,7 @@
 date = 2010-12-31
 title = "Bamboozled (2000)"
 [taxonomies]
-tags = ['masterpiece']
+tags = ['excellent']
 categories = ['movies']
 +++
 
