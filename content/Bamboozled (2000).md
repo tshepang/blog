@@ -1,6 +1,7 @@
 +++
-date = 2010-12-31
 title = "Bamboozled (2000)"
+date = 2010-12-31
+
 [taxonomies]
 tags = ['excellent']
 categories = ['movies']
