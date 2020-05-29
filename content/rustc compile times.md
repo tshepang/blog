@@ -24,7 +24,7 @@ incremental = true
 parallel-compiler = true
 ```
 
-Following is output of latest commit:
+Following is the commit I built:
 
 ```
 ❯ git show
