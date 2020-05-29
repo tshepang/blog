@@ -1,6 +1,6 @@
 +++
 title = "rustc compile times"
-date = 2020-05-20
+date = 2020-05-29
 
 [taxonomies]
 tags = ["Rust"]
@@ -9,7 +9,7 @@ tags = ["Rust"]
 Running `./x.py build --stage 1` on a codebase that already has LLVM
 built results in the following as the last line:
 
-> Build completed successfully in 0:33:47
+> Build completed successfully in 0:47:06
 
 Following is my *config.toml*:
 
@@ -17,22 +17,32 @@ Following is my *config.toml*:
 [build]
 compiler-docs = true
 extended = true
-tools = [ "clippy" ]
+tools = [ "clippy", "rustfmt" ]
 
 [rust]
 incremental = true
+parallel-compiler = true
 ```
 
 Following is output of latest commit:
 
 ```
 ❯ git show
-commit 8858a435f3eef655df3e4fb6bec15d33e44a374e (HEAD -> master, origin/master, origin/HEAD)
-Merge: f182c4af8a2 2d4d0dbaa72
+commit 96dd4690c3aa70ec312448c3f2d50e6dc6fb87df (HEAD -> master, origin/master, origin/HEAD)
+Merge: 77f95a89a10 3f3e0ee4b04
 Author: bors <bors@rust-lang.org>
-Date:   Wed May 20 15:55:59 2020 +0000
+Date:   Fri May 29 11:16:45 2020 +0000
 
-    Auto merge of #72384 - mati865:ci-fix, r=pietroalbini
+    Auto merge of #72671 - flip1995:clippyup, r=Xanewok
 
-    Workaround MSYS2/chocolatey issue again
+    Update Clippy, RLS, and rustfmt
+
+    r? @Dylan-DPC
+
+    This makes Clippy test-pass again: 3089c3b
+
+    Otherwise this includes bugfixes and a few new lints.
+
+    Fixes #72231
+    Fixes #72232
 ```
