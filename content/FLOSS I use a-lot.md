@@ -17,7 +17,7 @@ tags = ['list']
 
 *software development*
 
-- **cargo**: primary tool for Rust development
+- **cargo**: central tool for Rust development
 - **Git**: this one has won the mindshare
 - **Mercurial**: slight preference over Git
 
