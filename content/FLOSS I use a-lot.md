@@ -27,7 +27,7 @@ central servers
 
 - **Docker** & **Docker Compose**: each component of the server runs in a container
 - **SaltStack**: administers the remote machines
-- **journalctl** & **systemctl**: these remotes run systemd
+- **journalctl** & **systemctl**: these remote machines run systemd
 - **Elasticsearch**: the data store
 - **Ubuntu**: the OS running these remotes, and the server
 - **Bash**: default shell on Ubuntu
@@ -52,7 +52,7 @@ central servers
 
 *miscellaneous tools*
 
-- **wajig**: acts as pleasant front-end to apt and other
+- **wajig**: acts as pleasant front-end to `apt` and other
   package management tools;
   [I used to maintain it], and it happens to be the one Debian
   package that makes me a Debian Maintainer (I got upload access
