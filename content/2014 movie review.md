@@ -1,6 +1,7 @@
 +++
 title = "2014 movie review"
-date = 2016-01-18
+date = 2020-05-31
+
 [taxonomies]
 tags = ['year-movie-review']
 categories = ['movies']
@@ -29,9 +30,7 @@ The best **visual effects** are in [Thor: The Dark World], followed by
 performances
 ============
 
-My **favorite performance** is by [Laurence R. Harvey] as the disgusting
-(and evil) security guard in [The Human Centipede 2]. However, here are
-the **best male performances**:
+Following is the ranking of the **best male performances**:
 
 1.  [Michael Shannon] in [The Iceman]
 2.  Anthony Hopkins in [Red 2]
@@ -83,7 +82,6 @@ The following have the best **story concept**:
   [Transformers: Age of Extinction]: http://tshepang.net/transformers-age-of-extinction-2014
   [Edge of Tomorrow]: http://tshepang.net/edge-of-tomorrow-2014
   [Laurence R. Harvey]: http://www.imdb.com/name/nm4030776
-  [The Human Centipede 2]: http://tshepang.net/the-human-centipede-2-2011
   [Michael Shannon]: http://en.wikipedia.org/wiki/Michael_Shannon
   [Red 2]: http://tshepang.net/red-2-2013
   [Tom Wilkinson]: http://en.wikipedia.org/wiki/Tom_Wilkinson
