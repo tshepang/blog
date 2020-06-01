@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2020-05-30
+date = 2020-06-01
 
 [taxonomies]
 tags = ['list']
@@ -67,6 +67,7 @@ central servers
 - [ripgrep]: a more pleasant `grep`
 - [exa]: a more pleasant, more pretty `ls`
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
+  (though it actually makes use of the latter for paging through long text)
 - **top**: a powerful and flexible process viewer, part of [procps suite]
 
 
