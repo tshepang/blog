@@ -44,9 +44,8 @@ miscellaneous
 =============
 
 The most **important** movie is [The Thaw] due to its well-delivered
-story, which is related to the consequences of global warming. Runner-up
-is [Seven Psychopaths] due to its stance on homophobia and interracial
-relationships. There is a tie for the most **bizarre** movie: [Cloud
+story, which is related to the consequences of global warming.
+There is a tie for the most **bizarre** movie: [Cloud
 Atlas] and [MirrorMask].
 
 The most **innovative** movie is the satirical [Goodbye Uncle Tom][]:
@@ -73,7 +72,6 @@ should go to the [Director's Cut version], which I saw first time in
   [Silent Hill: Revelation]: http://tshepang.net/silent-hill-revelation-2012
   [MirrorMask]: http://tshepang.net/mirrormask-2005
   [The Thaw]: http://tshepang.net/the-thaw-2009
-  [Seven Psychopaths]: http://tshepang.net/seven-psychopaths-2012
   [Cloud Atlas]: http://tshepang.net/cloud-atlas-2012
   [Goodbye Uncle Tom]: http://tshepang.net/goodbye-uncle-tom-1971
   [Payback]: http://tshepang.net/payback-1999
