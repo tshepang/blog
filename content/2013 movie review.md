@@ -15,7 +15,7 @@ excellent movie is [Redbelt].
 visuals
 =======
 
-[Cleanskin] has the best **action**, while [Man of Steel] has the best
+[Man of Steel] has the best
 **action sequence**, the first battle with second-in-command of Zod. The
 movie also has the best **visual effects**, followed by [Elysium].
 
@@ -26,8 +26,7 @@ My **favorite performance** is that of Tom Towles playing Otis in
 [Henry: Portrait of a Serial Killer]. Runner-up is the hypnotized lady
 in [Now You See Me], followed by [Michael Parks] in [Django Unchained].
 The **best male performance** is by [Chiwetel Ejiofor] as an instructor
-in [Redbelt], while the **best female performance** is by Charlotte
-Rampling in [Cleanskin].
+in [Redbelt].
 
 characters
 ==========
@@ -61,7 +60,6 @@ should go to the [Director's Cut version], which I saw first time in
   [last year]: http://tshepang.net/2012-movie-review
   [In Bruges]: http://tshepang.net/in-bruges-2008
   [Redbelt]: http://tshepang.net/redbelt-2007
-  [Cleanskin]: http://tshepang.net/cleanskin-2012
   [Man of Steel]: http://tshepang.net/man-of-steel-2013
   [Elysium]: http://tshepang.net/elysium-2013
   [Henry: Portrait of a Serial Killer]: http://tshepang.net/henry-portrait-of-a-serial-killer

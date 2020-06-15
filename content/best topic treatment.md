@@ -1,16 +1,11 @@
 +++
 title = "best topic treatment"
-date = 2020-05-12
+date = 2020-06-15
 
 [taxonomies]
 tags = ['list']
 categories = ['movies']
 +++
-
-middle-Eastern terrorism
-========================
-
-- [Cleanskin]
 
 political oppression
 ====================
