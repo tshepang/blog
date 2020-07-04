@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 The **best movie** is [Smokin' Aces] for its exciting action, excellent
-direction, and appealing story concept..
+direction, and appealing story concept.
 
 My **favorite performances** is by Taraji Henson who plays an exciting,
 yet heartbreaking, role of a feminist sniper in [Smokin' Aces].
