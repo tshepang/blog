@@ -12,11 +12,11 @@ ended up calling it a masterpiece at some point.
 
 Some highlights:
 
--   Taraji P. Hanson (I saw her first time here and was an instant fan)
--   Taraji P. Hanson's rifle
--   FBI poser getting information from security guy
--   story concept (multiple pro-killers targeting one guy)
--   the murderous neo-nazi trio
+- Taraji P. Hanson (I saw her first time here and was an instant fan)
+- Taraji P. Hanson's rifle
+- FBI poser getting information from security guy
+- story concept (multiple pro-killers targeting one guy)
+- the murderous neo-nazi trio
 
 Like [Fight Club] before it, the movie is packed too much of goodness.
 
