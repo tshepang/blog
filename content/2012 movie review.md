@@ -130,8 +130,8 @@ people.
 This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
 
-Of those, the **best experience** was offered by [Being John Malkovich],
-which has now been elevated to a [masterpiece]. Runner-up is [Taken],
+Of those, the **best experience** was offered by *Being John Malkovich*,
+which led me to elevate it to a [masterpiece]. Runner-up is [Taken],
 which remains as intense and exciting as ever.
 
 The **fall from glory** award goes to:
@@ -175,7 +175,6 @@ The **fall from glory** award goes to:
   [Battle In Heaven]: http://tshepang.net/battle-in-heaven-2005
   [Zombieland]: http://tshepang.net/zombieland-2009
   [A Nightmare on Elm Street]: http://tshepang.net/a-nightmare-on-elm-street-1984
-  [Being John Malkovich]: http://tshepang.net/being-john-malkovich-1999
   [masterpiece]: http://tshepang.net/tags/masterpiece
   [Taken]: http://tshepang.net/taken-2008
   [Vicky Cristina Barcelona]: http://tshepang.net/vicky-cristina-barcelona-2008
