@@ -16,11 +16,6 @@ Nothing this year has had as much impact on me as has Mel Gibson's
 witnessed before. The runner-up is *300* for its awe-inspiring visual
 magnificence.
 
-### best movie of the year
-
-There was a number of very well-made movies this year, but none was as
-good as [Smokin' Aces] for its exciting action and excellent direction.
-
 ### enchanting
 
 *Polar Express* was made a number of years ago but it still packs a
@@ -53,9 +48,7 @@ leads). *Hot Fuzz* wins the title for comic cast.
 
 ### performances
 
-My most favorite of all the year's performances goes to Taraji Henson
-who plays an exciting, yet heartbreaking, role of a sniper in [Smokin'
-Aces]. The best female performance was however that of Anne Parillaud,
+The best female performance is that of Anne Parillaud,
 who plays the lead in *Sex is Comedy*, portraying a tough yet lovely
 movie director. The performance is enhanced very well by her limp. As
 for male performances, there's a tie between Anthony Hopkins in
@@ -159,7 +152,6 @@ Bandits; Troy
   [2005]: http://tshepang.net/2005-movie-review
   [2006]: http://tshepang.net/2006-movie-review
   [Apocalypto]: http://tshepang.net/apocalypto-2006
-  [Smokin' Aces]: http://tshepang.net/smokin-aces-2006
   [Munich]: http://tshepang.net/munich-2005
   [Fracture]: http://tshepang.net/fracture-2007
   [The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006
