@@ -25,7 +25,8 @@ You would love to have some:
 domestic abuse
 ==============
 
-[Festen]
+Always a painful subject, *Festen* does a better job than anyone,
+to a level where I once deemed it a masterpiece. It remains high impact.
 
 existential threats
 ===================
@@ -41,7 +42,6 @@ alternate reality concepts
 
 [Cleanskin]: http://tshepang.net/cleanskin-2012
 [The Lives of Others]: http://tshepang.net/the-lives-of-others-2006
-[Festen]: http://tshepang.net/festen-1998
 [The Thaw]: http://tshepang.net/the-thaw-2009
 [The Butterfly Effect]: http://tshepang.net/the-butterfly-effect-2004
 [The Thirteenth Floor]: http://tshepang.net/the-thirteenth-floor-1999
