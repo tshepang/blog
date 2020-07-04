@@ -1,6 +1,6 @@
 +++
 title = "best topic treatment"
-date = 2020-06-15
+date = 2020-07-04
 
 [taxonomies]
 tags = ['list']
