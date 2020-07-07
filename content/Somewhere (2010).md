@@ -6,7 +6,7 @@ tags = ['excellent', '2010-movie']
 categories = ['movies']
 +++
 
-The lead character of rich, famous, and easily fucks ultra-hot gals, yet
+The lead character is rich, famous, and easily fucks ultra-hot gals, yet
 the only bright thing in his life seems to be her beloved daughter (who
 is given a flawless portrayal). This feeling of purposelessness is
 well-punctuated by Sofia Coppola's superb direction of loong takes and
