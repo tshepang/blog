@@ -14,7 +14,7 @@ beautiful, though nearly as much as the gal across the street... wow!
 The ending is a let-down... too unrealistic.
 
 I liked this bit in [another quality review], which will become relevant
-one you are done watching:
+once you are done watching:
 
 > ...she's quickly blossoming into quite the amateur surgeon.
 
