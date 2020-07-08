@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2020-06-01
+date = 2020-07-08
 
 [taxonomies]
 tags = ['list']
@@ -59,6 +59,8 @@ central servers
   package that makes me a Debian Maintainer (I got upload access
   for it)
 - **apt**: Debian package management
+- **apt-cacher-ng**: avoids the need to re-fetch Debian packages when needed for
+  additional installs, which helps speed things up, especially for poor connections
 - **head** and **tail**: included in GNU coreutils suite of tools
 - **OpenSSH**: duh!
 - [Sudo]: another duh!
