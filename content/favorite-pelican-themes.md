@@ -21,7 +21,7 @@ This the least static-like of all themes I've seen yet which makes it
 the most innovative. The search feature, which sets it apart from its
 competitors, got me excited.
 
-It has some issues though ([to be fixed at some point]):
+It has some issues though (to be fixed at some point):
 
 -   ignores Twitter setting
 -   RSS feeds are supported, but the icons aren't made visible
@@ -114,7 +114,6 @@ one, despite the following issues:
 
   [Pelican]: http://docs.getpelican.com/en/latest/
   [Elegant]: http://oncrashreboot.com/pelican-elegant
-  [to be fixed at some point]: @/favorite-pelican-themes#comment-1064640476.md
   [gum]: https://github.com/getpelican/pelican-themes/tree/master/gum
   [it doesn't display bullets]: https://github.com/getpelican/pelican-themes/issues/152
   [monospace]: https://github.com/getpelican/pelican-themes/tree/master/monospace

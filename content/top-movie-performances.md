@@ -59,7 +59,7 @@ The humorless guy at airport checkpoint ([The Next Three Days])
 [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
 [Real Steel]: @/real-steel-2011.md
 [Dr. Strangelove]: @/dr-strangelove-1964.md
-[Smokin' Aces]: @/smokin-aces-2006.md
+[Smokin' Aces]: @/smokin-aces.md
 [Dark City]: @/dark-city-1998.md
 [Payback]: @/payback-1999.md
 [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James

@@ -184,6 +184,6 @@ Smokin' Aces 2; The Expendables; August Rush; Karate Kid; Skin
   [Clash of the Titans]: @/clash-of-the-titans-2010.md
   [Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md
   [Iron Man 2]: @/iron-man-2.md
-  [Smokin' Aces]: @/smokin-aces-2006.md
+  [Smokin' Aces]: @/smokin-aces.md
   [Se7en]: @/se7en-1995.md
   [these]: http://tshepang.net/tags/2010-movie/.md

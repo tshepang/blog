@@ -217,11 +217,11 @@ For a complete list of the movies I reviewed for the year, visit the
   [Super 8]: @/super-8-2011.md
   [The Chronicles of Narnia: Prince Caspian]: @/the-chronicles-of-narnia-prince-caspian-2008.md
   [exoskeletons]: http://en.wikipedia.org/wiki/Powered_exoskeleton
-  [G.I. Joe: The Rise of Cobra]: @/gi-joe-the-rise-of-cobra-2009.md
-  [Gulliver's Travels]: @/gullivers-travels-2010.md
+  [G.I. Joe: The Rise of Cobra]: @/g-i-joe-the-rise-of-cobra-2009.md
+  [Gulliver's Travels]: @/gulliver-s-travels-2010.md
   [Toy Story 3]: @/toy-story-3-2010.md
   [Rango]: @/rango-2011.md
-  [Legend of the Guardians]: @/legend-of-the-guardians-the-owls-of-gahoole-2010.md
+  [Legend of the Guardians]: @/legend-of-the-guardians-the-owls-of-ga-hoole-2010.md
   [9]: @/9-2009.md
   [The Green Hornet]: @/the-green-hornet-2011.md
   [Andie MacDowell]: http://en.wikipedia.org/wiki/Andie_MacDowell
@@ -232,21 +232,21 @@ For a complete list of the movies I reviewed for the year, visit the
   [The Next Three Days]: @/the-next-three-days-2010.md
   [Russell Brand]: http://en.wikipedia.org/wiki/Russell_Brand
   [Get Him to the Greek]: @/get-him-to-the-greek-2010.md
-  [The Warrior's Way]: @/the-warriors-way-2010.md
+  [The Warrior's Way]: @/the-warrior-s-way-2010.md
   [Sandra Oh]: http://en.wikipedia.org/wiki/Sandra_Oh
   [Teri Hatcher]: http://en.wikipedia.org/wiki/Teri_Hatcher
   [Tango & Cash]: @/tango-cash-1989.md
   [Jill Schoelen]: http://en.wikipedia.org/wiki/Jill_Schoelen
   [The Stepfather]: @/the-stepfather-1987.md
   [According to Greta]: @/according-to-greta-2009.md
-  [She's Out of My League]: @/shes-out-of-my-league-2010.md
+  [She's Out of My League]: @/she-s-out-of-my-league-2010.md
   [Nacho Libre]: @/nacho-libre-2006.md
   [Nanny McPhee And The Big Bang]: @/nanny-mcphee-and-the-big-bang-2010.md
   [Fair Game]: @/fair-game.md
   [Shrek Forever After]: @/shrek-forever-after-2010.md
-  [Bill & Ted's Bogus Journey]: @/bill-teds-bogus-journey-1991.md
+  [Bill & Ted's Bogus Journey]: @/bill-ted-s-bogus-journey-1991.md
   [Being There]: @/being-there-1979.md
-  [Brewster's Millions]: @/brewsters-millions-1985.md
+  [Brewster's Millions]: @/brewster-s-millions-1985.md
   [Semi-Pro]: @/semi-pro-2008.md
   [Dark Matter]: @/dark-matter-2007.md
   [Groundhog Day]: @/groundhog-day-1993.md
@@ -255,5 +255,5 @@ For a complete list of the movies I reviewed for the year, visit the
   [Requiem for A Dream]: @/requiem-for-a-dream-2000.md
   [Mandingo]: @/mandingo-1975.md
   [The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
-  [Bill & Ted's Excellent Adventure]: @/bill-teds-excellent-adventure-1989.md
+  [Bill & Ted's Excellent Adventure]: @/bill-ted-s-excellent-adventure-1989.md
   [2011-movies tag]: http://tshepang.net/tags/2011-movie.md

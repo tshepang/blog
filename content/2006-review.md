@@ -16,4 +16,4 @@ Runner-up is that of Frances McDormand in [Friends with
 Money].
 
 [Friends with Money]: @/friends-with-money.md
-[Smokin' Aces]: @/smokin-aces-2006.md
+[Smokin' Aces]: @/smokin-aces.md

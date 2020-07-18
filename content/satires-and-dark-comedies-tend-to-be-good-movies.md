@@ -21,7 +21,7 @@ fit the description:
 
 [good]: @/my-movie-rating-system.md
 [Fight Club]: @/fight-club-1999.md
-[Requiem for A Dream]: @/being-john-malkovich-1999.md
-[Dr. Strangelove]: @/lord-of-war-2005.md
+[Requiem for A Dream]: @/requiem-for-a-dream-2000.md
+[Dr. Strangelove]: @/dr-strangelove-1964.md
 [Payback]: @/payback-1999.md
-[Lord of War]: @/requiem-for-a-dream-2000.md
+[Lord of War]: @/lord-of-war-2005.md
