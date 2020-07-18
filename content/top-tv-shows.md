@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2019-09-21
+date = 2020-07-19
 
 [taxonomies]
 tags = ['tv']
@@ -17,7 +17,6 @@ watched them.
 - Girls (seasons 1 and 2)
 - House of Cards (seasons 1 and 2)
 - The Knick
-- Mr. Robot
 - Barry (season 1)
 
 **honorable mentions**
@@ -26,3 +25,4 @@ watched them.
 - Breaking Bad
 - The Americans
 - Bodyguard (season 1)
+- Mr. Robot
