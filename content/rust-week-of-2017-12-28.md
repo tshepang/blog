@@ -20,5 +20,5 @@ which was the usual random informal discussion of the exciting ecosystem
 of the great language that is Rust.
 
 [termion]: https://github.com/ticki/termion
-[a project I mentioned previously]: http://tshepang.net/rust-weeks-of-2017-09-14-to-2017-09-28
+[a project I mentioned previously]: @/rust-weeks-of-2017-09-14-to-2017-09-28.md
 [another monthly meetup]: https://www.meetup.com/Johannesburg-Rust-Meetup/events/246240196

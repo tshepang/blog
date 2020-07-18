@@ -16,4 +16,4 @@ released in 2008. The imagery is very (too) stylish. None of the
 performances are worthy of praise (did they have to cast Olivia
 Wilde!?).
 
-  [The Curious Case of Benjamin Button]: http://tshepang.net/fincher-s-most-pointless-yet
+  [The Curious Case of Benjamin Button]: @/fincher-s-most-pointless-yet.md

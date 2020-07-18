@@ -71,5 +71,5 @@ special mentions
     really favorite chorus by the Kim lady
 -   Shove This Jay-Oh-Bee (Canibus) - me loving the so-alive beat
 
-  [Doggystyle]: http://tshepang.net/doggystyle-1993
-  [The Score]: http://tshepang.net/the-score-1996
+  [Doggystyle]: @/doggystyle-1993.md
+  [The Score]: @/the-score-1996.md

@@ -15,4 +15,4 @@ money back. The guys playing them give superb performances. One other
 quality performance is that of company boss, while the best friend is
 not so bad in parts.
 
-  [its predecessor]: http://tshepang.net/the-butterfly-effect-2004
+  [its predecessor]: @/the-butterfly-effect-2004.md

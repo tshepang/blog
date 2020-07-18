@@ -13,7 +13,7 @@ here, though none tops the humorous one of [Irrfan Khan]. I was also
 pleased to see [Omar Sy] again (saw him first time in [Good People]).
 
   [Chris Pratt]: https://en.wikipedia.org/wiki/Chris_Pratt
-  [Guardians of the Galaxy]: http://tshepang.net/guardians-of-the-galaxy
+  [Guardians of the Galaxy]: @/guardians-of-the-galaxy.md
   [Irrfan Khan]: https://en.wikipedia.org/wiki/Irrfan_Khan
   [Omar Sy]: https://en.wikipedia.org/wiki/Omar_Sy
-  [Good People]: http://tshepang.net/good-people-2014
+  [Good People]: @/good-people-2014.md

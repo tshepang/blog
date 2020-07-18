@@ -12,5 +12,5 @@ it gets, and seems far more realistic than *Eli* and [I Am Legend]. The
 danger they face, where people kill and/or eat each other for survival,
 gives an edge to the movie as well.
 
-  [*The Book of Eli*]: http://tshepang.net/recent-movies-2010-10-25
-  [I Am Legend]: http://tshepang.net/i-am-legend
+  [*The Book of Eli*]: @/recent-movies-2010-10-25.md
+  [I Am Legend]: @/i-am-legend.md

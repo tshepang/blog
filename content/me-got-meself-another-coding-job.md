@@ -27,5 +27,5 @@ with C and C++, and it tends to be a serious challenge, given that
 there's a lot less hand-holding with those than with my favorite,
 Python.
 
-  [my first job working on software]: http://tshepang.net/me-got-meself-a-coding-job
+  [my first job working on software]: @/me-got-meself-a-coding-job.md
   [some company]: http://eiq.co.za

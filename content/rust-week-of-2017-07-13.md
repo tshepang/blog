@@ -13,7 +13,7 @@ drop-in-replacement effect.
 I am glad [the change to add subcommands to structopt] has been merged.
 It was the one important missing piece to [this wonderful project].
 
-[once again]: http://tshepang.net/rust-week-of-2017-01-06
+[once again]: @/rust-week-of-2017-01-06.md
 [Remacs]: https://github.com/Wilfred/remacs
 [the change to add subcommands to structopt]: https://github.com/TeXitoi/structopt/pull/17
 [this wonderful project]: https://github.com/TeXitoi/structopt

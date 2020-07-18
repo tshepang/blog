@@ -40,8 +40,8 @@ alternate reality concepts
 - [The Butterfly Effect]
 - [The Thirteenth Floor]
 
-[Cleanskin]: http://tshepang.net/cleanskin-2012
-[The Lives of Others]: http://tshepang.net/the-lives-of-others-2006
-[The Thaw]: http://tshepang.net/the-thaw-2009
-[The Butterfly Effect]: http://tshepang.net/the-butterfly-effect-2004
-[The Thirteenth Floor]: http://tshepang.net/the-thirteenth-floor-1999
+[Cleanskin]: @/cleanskin-2012.md
+[The Lives of Others]: @/the-lives-of-others-2006.md
+[The Thaw]: @/the-thaw-2009.md
+[The Butterfly Effect]: @/the-butterfly-effect-2004.md
+[The Thirteenth Floor]: @/the-thirteenth-floor-1999.md

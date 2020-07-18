@@ -13,4 +13,4 @@ Firewire, and even age-old DB9 serial port, while also not being short
 on specs (Intel T7500 processor, 2GB DDR2, 250GB HDD). Even better,
 unlike those two machines, I also get to take it home.
 
-  [two machines]: http://tshepang.net/my-machines
+  [two machines]: @/my-machines.md

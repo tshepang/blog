@@ -29,4 +29,4 @@ get what the point of it was. Maybe it's kinda biblical, since it
 centers around some all-important book (and the lead character looks
 like Jesus when grown-up).
 
-  [The Triplets of Belleville]: http://tshepang.net/the-triplets-of-belleville-2003
+  [The Triplets of Belleville]: @/the-triplets-of-belleville-2003.md

@@ -19,5 +19,5 @@ Debian that are absent in XP or I'm not motivated to find replacements
 for stuff like workspaces, copy-text-on-highlight, Epiphany, Quod Libet,
 debmirror, Nautilus, ...
 
-  [for over 2 weeks]: http://tshepang.net/net-connection-at-home-finally
+  [for over 2 weeks]: @/net-connection-at-home-finally.md
   [with a lot of help]: http://mybroadband.co.za/vb/showthread.php/129619-Neotel-working-on-Linux!

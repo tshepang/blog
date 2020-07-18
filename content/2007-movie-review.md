@@ -149,13 +149,13 @@ Man, The; Pursuit of Happiness, The; Searchers, The; She's the Man;
 Sleeping Bride; Star Wrek; Sum of All Fears, The; Throne of Blood; Time
 Bandits; Troy
 
-  [2005]: http://tshepang.net/2005-movie-review
-  [2006]: http://tshepang.net/2006-movie-review
-  [Apocalypto]: http://tshepang.net/apocalypto-2006
-  [Munich]: http://tshepang.net/munich-2005
-  [Fracture]: http://tshepang.net/fracture-2007
-  [The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006
-  [Beowulf]: http://tshepang.net/beowulf-2007
-  [Pan's Labyrinth]: http://tshepang.net/pan-s-labyrinth-2006
-  [The Bourne Ultimatum]: http://tshepang.net/the-bourne-ultimatum-2007
-  [these]: http://tshepang.net/tags/2007-movie
+  [2005]: @/2005-movie-review.md
+  [2006]: @/2006-movie-review.md
+  [Apocalypto]: @/apocalypto-2006.md
+  [Munich]: @/munich-2005.md
+  [Fracture]: @/fracture-2007.md
+  [The Last King of Scotland]: @/the-last-king-of-scotland-2006.md
+  [Beowulf]: @/beowulf-2007.md
+  [Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
+  [The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
+  [these]: http://tshepang.net/tags/2007-movie.md

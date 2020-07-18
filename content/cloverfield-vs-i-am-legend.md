@@ -25,4 +25,4 @@ the movie is presented. That Cloverfield weakness is however more than
 well-compensated by the wonderful acting and direction, all pretty
 realistic, and that's before the unnamed monster begins its rampage.
 
-  [I Am Legend]: http://tshepang.net/i-am-legend
+  [I Am Legend]: @/i-am-legend.md

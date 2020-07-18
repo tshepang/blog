@@ -54,4 +54,4 @@ only one with internet access is the desktop HP system at work actually,
 mainly because web-access in SA isn't nearly as affordable as I'd
 like.
 
-  [expansion/update]: http://tshepang.net/favorite-laptop
+  [expansion/update]: @/favorite-laptop.md

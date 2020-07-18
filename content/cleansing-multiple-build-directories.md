@@ -59,7 +59,7 @@ further reading
 
 modules: [os], [os.path], [subprocess]
 
-  [building GNOME with JHBuild]: http://tshepang.net/my-jhbuild-setup
+  [building GNOME with JHBuild]: @/my-jhbuild-setup.md
   [a bunch of suggestions]: http://codereview.stackexchange.com/questions/1476/cleansing-multiple-build-directories/1477#1477
   [os]: http://docs.python.org//library/os
   [os.path]: http://docs.python.org//library/os.path

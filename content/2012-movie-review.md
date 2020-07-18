@@ -142,40 +142,40 @@ The **fall from glory** award goes to:
 -   [Perfume][]: It is sad that I used to consider this a masterpiece.
     It remains good, just nowhere near the top.
 
-  [last year]: http://tshepang.net/2011-movie-review
-  [The Avengers]: http://tshepang.net/the-avengers-2012
-  [Battleship]: http://tshepang.net/battleship-2012
-  [Harry Potter and the Order of the Phoenix]: http://tshepang.net/harry-potter-and-the-order-of-the-phoenix-2007
-  [The Bourne Legacy]: http://tshepang.net/the-bourne-legacy-2012
-  [Haywire]: http://tshepang.net/haywire
-  [Harry Potter and the Deathly Hallows, Part 1]: http://tshepang.net/harry-potter-and-the-deathly-hallows-part-1
-  [True Legend]: http://tshepang.net/true-legend-2010
-  [The Girl With the Dragon Tattoo]: http://tshepang.net/the-girl-with-the-dragon-tattoo-2011
-  [Harry Potter and the Half-Blood Prince]: http://tshepang.net/harry-potter-and-the-half-blood-prince-2009
-  [J. Edgar]: http://tshepang.net/j-edgar-2011
-  [The Bang Bang Club]: http://tshepang.net/the-bang-bang-club-2010
-  [The Science of Sleep]: http://tshepang.net/the-science-of-sleep-2006
-  [The Kids Are All Right]: http://tshepang.net/the-kids-are-all-right-2010
-  [Real Steel]: http://tshepang.net/real-steel-2011
-  [The Iron Lady]: http://tshepang.net/the-iron-lady-2011
-  [The Dark Knight Rises]: http://tshepang.net/the-dark-knight-rises-2012
-  [Missing]: http://tshepang.net/missing-1982
+  [last year]: @/2011-movie-review.md
+  [The Avengers]: @/the-avengers-2012.md
+  [Battleship]: @/battleship-2012.md
+  [Harry Potter and the Order of the Phoenix]: @/harry-potter-and-the-order-of-the-phoenix-2007.md
+  [The Bourne Legacy]: @/the-bourne-legacy-2012.md
+  [Haywire]: @/haywire.md
+  [Harry Potter and the Deathly Hallows, Part 1]: @/harry-potter-and-the-deathly-hallows-part-1.md
+  [True Legend]: @/true-legend-2010.md
+  [The Girl With the Dragon Tattoo]: @/the-girl-with-the-dragon-tattoo-2011.md
+  [Harry Potter and the Half-Blood Prince]: @/harry-potter-and-the-half-blood-prince-2009.md
+  [J. Edgar]: @/j-edgar-2011.md
+  [The Bang Bang Club]: @/the-bang-bang-club-2010.md
+  [The Science of Sleep]: @/the-science-of-sleep-2006.md
+  [The Kids Are All Right]: @/the-kids-are-all-right-2010.md
+  [Real Steel]: @/real-steel-2011.md
+  [The Iron Lady]: @/the-iron-lady-2011.md
+  [The Dark Knight Rises]: @/the-dark-knight-rises-2012.md
+  [Missing]: @/missing-1982.md
   [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
-  [Dark Shadows]: http://tshepang.net/dark-shadows-2012
-  [Change of Plans]: http://tshepang.net/change-of-plans-2011
-  [The Hangover Part II]: http://tshepang.net/the-hangover-part-ii-2011
-  [Bad Teacher]: http://tshepang.net/bad-teacher-2011
-  [Bob the Butler]: http://tshepang.net/bob-the-butler-2005
-  [Zoolander]: http://tshepang.net/zoolander-2001
-  [A Streetcar Named Desire]: http://tshepang.net/a-streetcar-named-desire-1951
-  [The Dictator]: http://tshepang.net/the-dictator-2012
-  [Horrible Bosses]: http://tshepang.net/horrible-bosses-2011
-  [The Great Dictator]: http://tshepang.net/the-great-dictator-1940
-  [Gone Baby Gone]: http://tshepang.net/gone-baby-gone-2008
-  [Battle In Heaven]: http://tshepang.net/battle-in-heaven-2005
-  [Zombieland]: http://tshepang.net/zombieland-2009
-  [A Nightmare on Elm Street]: http://tshepang.net/a-nightmare-on-elm-street-1984
-  [masterpiece]: http://tshepang.net/tags/masterpiece
-  [Taken]: http://tshepang.net/taken-2008
-  [Vicky Cristina Barcelona]: http://tshepang.net/vicky-cristina-barcelona-2008
-  [Perfume]: http://tshepang.net/perfume-2006
+  [Dark Shadows]: @/dark-shadows-2012.md
+  [Change of Plans]: @/change-of-plans-2011.md
+  [The Hangover Part II]: @/the-hangover-part-ii-2011.md
+  [Bad Teacher]: @/bad-teacher-2011.md
+  [Bob the Butler]: @/bob-the-butler-2005.md
+  [Zoolander]: @/zoolander-2001.md
+  [A Streetcar Named Desire]: @/a-streetcar-named-desire-1951.md
+  [The Dictator]: @/the-dictator-2012.md
+  [Horrible Bosses]: @/horrible-bosses-2011.md
+  [The Great Dictator]: @/the-great-dictator-1940.md
+  [Gone Baby Gone]: @/gone-baby-gone-2008.md
+  [Battle In Heaven]: @/battle-in-heaven-2005.md
+  [Zombieland]: @/zombieland-2009.md
+  [A Nightmare on Elm Street]: @/a-nightmare-on-elm-street-1984.md
+  [masterpiece]: http://tshepang.net/tags/masterpiece.md
+  [Taken]: @/taken-2008.md
+  [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md
+  [Perfume]: @/perfume-2006.md

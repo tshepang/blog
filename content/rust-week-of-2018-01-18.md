@@ -21,5 +21,5 @@ This week was more active...
   seconds, but would check load average once in 6.
 
 [added --ignore-uncommitted-repos to mrh]: https://github.com/tshepang/mrh/commit/0bb76224978fca2324ae7b673472b68033db5a78
-[the work project I mentioned some months ago]: http://tshepang.net/rust-week-of-2017-10-05
+[the work project I mentioned some months ago]: @/rust-week-of-2017-10-05.md
 [dialoguer]: https://crates.io/crates/dialoguer

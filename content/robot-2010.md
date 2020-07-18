@@ -21,4 +21,4 @@ deeds, including saving a girl from being raped, saving a number of
 people from fire, as well as helping a woman in difficult labour. All
 that is conveniently forgotten... it's just unberarable.
 
-  [a flaw in Hollywood movies]: http://tshepang.net/unforgiving-characters-are-annoying
+  [a flaw in Hollywood movies]: @/unforgiving-characters-are-annoying.md

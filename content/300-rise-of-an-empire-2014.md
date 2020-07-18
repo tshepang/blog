@@ -20,4 +20,4 @@ look good, but nowhere near those from the original, nor are the visuals
 as amazing. The sex scene was even more stupid than the one in the
 original.
 
-  [Dark Shadows]: http://tshepang.net/dark-shadows-2012
+  [Dark Shadows]: @/dark-shadows-2012.md

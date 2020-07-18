@@ -18,4 +18,4 @@ John C. McGinley provides the only interesting performance of his I've
 yet seen in *Office Space*.
 
   [the oft-occurring case of being over-impressed by first-time
-  viewings]: http://tshepang.net/the-case-of-the-matrix-reloaded
+  viewings]: @/the-case-of-the-matrix-reloaded.md

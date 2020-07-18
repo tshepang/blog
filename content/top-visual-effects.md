@@ -22,12 +22,12 @@ Being fresh, eye-popping, and immersive helps:
    - [Transformers: Age of Extinction]
 10. *Independence Day*
 
-[2012]: http://tshepang.net/2012-2009
-[The Avengers]: http://tshepang.net/the-avengers-2012
-[Avatar]: http://tshepang.net/avatar-2009
-[Battleship]: http://tshepang.net/battleship-2012
-[Thor: The Dark World]: http://tshepang.net/thor-the-dark-world-2013
-[Transformers]: http://tshepang.net/transformers-2007
-[Transformers: Revenge of the Fallen]: http://tshepang.net/transformers-revenge-of-the-fallen-2009
-[Transformers: Dark of the Moon]: http://tshepang.net/transformers-dark-of-the-moon-2011
-[Transformers: Age of Extinction]: http://tshepang.net/transformers-age-of-extinction-2014
+[2012]: @/2012-2009.md
+[The Avengers]: @/the-avengers-2012.md
+[Avatar]: @/avatar-2009.md
+[Battleship]: @/battleship-2012.md
+[Thor: The Dark World]: @/thor-the-dark-world-2013.md
+[Transformers]: @/transformers-2007.md
+[Transformers: Revenge of the Fallen]: @/transformers-revenge-of-the-fallen-2009.md
+[Transformers: Dark of the Moon]: @/transformers-dark-of-the-moon-2011.md
+[Transformers: Age of Extinction]: @/transformers-age-of-extinction-2014.md

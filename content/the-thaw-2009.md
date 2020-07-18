@@ -18,4 +18,4 @@ of Val Kilmer. He was always good, but he seems to get better with age
 (see him in [Felon]). I also liked the Asian gal and the Black guy (an
 unusual performance, and a fresh face).
 
-  [Felon]: http://tshepang.net/felon-2008
+  [Felon]: @/felon-2008.md

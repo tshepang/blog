@@ -24,4 +24,4 @@ Complaints:
 -   Near the end of the movie, tough lady simply disappears without
     explanation.
 
-  [Iron Man]: http://tshepang.net/iron-man
+  [Iron Man]: @/iron-man.md

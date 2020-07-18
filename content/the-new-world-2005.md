@@ -28,4 +28,4 @@ worry, since it's hard to find good ones. It doesn't disappoint in
 that department, and the courtship moments are just about unbeatable.
 It's like paradise.
 
-  [Apocalypto]: http://tshepang.net/apocalypto-2006
+  [Apocalypto]: @/apocalypto-2006.md

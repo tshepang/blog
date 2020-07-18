@@ -12,4 +12,4 @@ formidable that it makes the remake laughable or disgusting actually +++
 compare the wise old man for example, or worse, the young wannabe
 (played by the Toshiro Mifune in the original).
 
-  [Seven Samurai]: http://tshepang.net/seven-samurai-1954
+  [Seven Samurai]: @/seven-samurai-1954.md

@@ -72,28 +72,28 @@ The following have the best **story concept**:
 6.  [13 Sins]
 
 
-[Doubt]: http://tshepang.net/doubt-2008
-[Upside Down]: http://tshepang.net/upside-down-2012
-[The Hunger Games: Catching Fire]: http://tshepang.net/the-hunger-games-catching-fire-2013
-[Thor: The Dark World]: http://tshepang.net/thor-the-dark-world-2013
-[Transformers: Age of Extinction]: http://tshepang.net/transformers-age-of-extinction-2014
-[Edge of Tomorrow]: http://tshepang.net/edge-of-tomorrow-2014
+[Doubt]: @/doubt-2008.md
+[Upside Down]: @/upside-down-2012.md
+[The Hunger Games: Catching Fire]: @/the-hunger-games-catching-fire-2013.md
+[Thor: The Dark World]: @/thor-the-dark-world-2013.md
+[Transformers: Age of Extinction]: @/transformers-age-of-extinction-2014.md
+[Edge of Tomorrow]: @/edge-of-tomorrow-2014.md
 [Laurence R. Harvey]: http://www.imdb.com/name/nm4030776
 [Michael Shannon]: http://en.wikipedia.org/wiki/Michael_Shannon
-[Red 2]: http://tshepang.net/red-2-2013
+[Red 2]: @/red-2-2013.md
 [Tom Wilkinson]: http://en.wikipedia.org/wiki/Tom_Wilkinson
-[Good People]: http://tshepang.net/good-people-2014
-[The Book Thief]: http://tshepang.net/the-book-thief-2013
-[Premium Rush]: http://tshepang.net/premium-rush-2012
-[The Counselor]: http://tshepang.net/the-counselor-2013
+[Good People]: @/good-people-2014.md
+[The Book Thief]: @/the-book-thief-2013.md
+[Premium Rush]: @/premium-rush-2012.md
+[The Counselor]: @/the-counselor-2013.md
 [Susanne Lothar]: http://en.wikipedia.org/wiki/Susanne_Lothar
-[Funny Games]: http://tshepang.net/funny-games-1997
-[How To Train Your Dragon 2]: http://tshepang.net/how-to-train-your-dragon-2-2014
+[Funny Games]: @/funny-games-1997.md
+[How To Train Your Dragon 2]: @/how-to-train-your-dragon-2-2014.md
 [Dania Ramirez]: http://en.wikipedia.org/wiki/Dania_Ramirez
-[The Wolverine]: http://tshepang.net/the-wolverine-2013
-[In Time]: http://tshepang.net/in-time-2011
-[The Adjustment Bureau]: http://tshepang.net/the-adjustment-bureau-2011
-[Her]: http://tshepang.net/her
-[The Purge: Anarchy]: http://tshepang.net/the-purge-anarchy-2014
-[13 Sins]: http://tshepang.net/13-sins-2014
-[one of the best movies in history]: http://tshepang.net/top-movies
+[The Wolverine]: @/the-wolverine-2013.md
+[In Time]: @/in-time-2011.md
+[The Adjustment Bureau]: @/the-adjustment-bureau-2011.md
+[Her]: @/her.md
+[The Purge: Anarchy]: @/the-purge-anarchy-2014.md
+[13 Sins]: @/13-sins-2014.md
+[one of the best movies in history]: @/top-movies.md

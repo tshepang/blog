@@ -117,4 +117,4 @@ Issues
   [the laptop]: http://www.youtube.com/watch?v=Xq-ZBke68tA
   [these guys]: http://www.comx.co.za
   [I got some help]: https://wiki.archlinux.org/index.php/Sony_Vaio_Pro_SVP-1x21#Sound
-  [these others]: http://tshepang.net/a-bit-of-benchmarking
+  [these others]: @/a-bit-of-benchmarking.md

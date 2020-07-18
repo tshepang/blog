@@ -16,4 +16,4 @@ than would be realisitc (check how much they're thrown around, only to
 stand and continue fighting). Very little of the humor is effective, my
 favorite being the part where the lead assaults own car.
 
-  [the previous movie]: http://tshepang.net/transformers-revenge-of-the-fallen-2009
+  [the previous movie]: @/transformers-revenge-of-the-fallen-2009.md

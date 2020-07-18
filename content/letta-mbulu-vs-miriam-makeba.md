@@ -32,5 +32,5 @@ the question "who's the greatest female South African musician?".
 That's the answer that I also once had until I savoured much of Letta
 Mbulu's work and walked away amazed.
 
-  [simple rating system]: http://tshepang.net/simple-rating-system-for-music
-  [she's superior to Salif Keita]: http://tshepang.net/top-musicians
+  [simple rating system]: @/simple-rating-system-for-music.md
+  [she's superior to Salif Keita]: @/top-musicians.md

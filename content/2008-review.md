@@ -8,4 +8,4 @@ categories = ['movies']
 
 The best **visual effects** can be found in [Iron Man].
 
-  [Iron Man]: http://tshepang.net/iron-man
+  [Iron Man]: @/iron-man.md

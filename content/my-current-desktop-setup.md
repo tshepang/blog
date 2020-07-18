@@ -208,8 +208,8 @@ could not change the modifier key with the upstream version of dwm.
 You will notice that I'm still using one major GNOME package, Nautilus,
 the file browser. It remains my favorite GUI file manager.
 
-  [my home machine]: http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
-  [this post]: http://tshepang.net/floss-i-use-a-lot
+  [my home machine]: @/sony-vaio-pro-13-svp13212sgbi.md
+  [this post]: @/floss-i-use-a-lot.md
   [dwm]: http://dwm.suckless.org
   [LightDM]: http://www.freedesktop.org/wiki/Software/LightDM
   [~/.xsession]: https://bitbucket.org/tshepang/custom/src/tip/xsession

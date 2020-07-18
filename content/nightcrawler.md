@@ -23,6 +23,6 @@ portraying the detective, Michael Hyatt. The latter is very imposing,
 and pretty much towers above everyone in her (few and short-lived)
 scenes. [Great toughness portrayal] there.
 
-[Prisoners]: http://tshepang.net/prisoners-2013
-[Zodiac]: http://tshepang.net/zodiac-and-david-fincher
-[Great toughness portrayal]: http://tshepang.net/top-movie-characters#tough-women
+[Prisoners]: @/prisoners-2013.md
+[Zodiac]: @/zodiac-and-david-fincher.md
+[Great toughness portrayal]: @/top-movie-characters#tough-women.md

@@ -15,7 +15,7 @@ network-related), unlike is the case with *interfaces*. It is also
 comforting that the library has more users ([one] vs. [eight] at time of
 writing).
 
-[Continuing with the work project]: http://tshepang.net/rust-weeks-of-2017-09-14-to-2017-09-28
+[Continuing with the work project]: @/rust-weeks-of-2017-09-14-to-2017-09-28.md
 [interfaces]: https://github.com/andrew-d/interfaces-rs
 [pnet]: https://github.com/libpnet/libpnet
 [one]: https://crates.io/crates/interfaces/reverse_dependencies

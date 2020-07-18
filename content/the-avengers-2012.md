@@ -23,5 +23,5 @@ So, what makes it so good:
 -   I found the reaction of the city public refreshingly-realistic:
     instead of watch and cheer the heroes, they run away from danger.
 
-  [Thor]: http://tshepang.net/thor-2011
-  [Captain America]: http://tshepang.net/captain-america-the-first-avenger-2011
+  [Thor]: @/thor-2011.md
+  [Captain America]: @/captain-america-the-first-avenger-2011.md

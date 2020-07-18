@@ -32,4 +32,4 @@ didn't find the costumes that great, the lead performance so super, the
 direction so laudable, nor the cast so great. Sure it remains way better
 than your average movie, but the novelty just wears off.
 
-  [*Apocalypto*]: http://tshepang.net/apocalypto-2006
+  [*Apocalypto*]: @/apocalypto-2006.md

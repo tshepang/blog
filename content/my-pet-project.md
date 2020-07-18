@@ -30,4 +30,4 @@ line masterpiece of mine, and here's what I used:
   [sys]: http://docs.python.org/py3k/library/sys
   [time]: http://docs.python.org/py3k/library/time
   [cx_Oracle]: http://cx-oracle.sourceforge.net/html/index.html
-  [instructions]: http://tshepang.net/accessing-oracle-db-using-python-in-debian
+  [instructions]: @/accessing-oracle-db-using-python-in-debian.md

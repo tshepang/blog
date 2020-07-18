@@ -12,4 +12,4 @@ direction is good, and the lead character superbly-developed. It's just
 not a match for the director's earlier masterful [Triplets of
 Belleville].
 
-  [Triplets of Belleville]: http://tshepang.net/the-triplets-of-belleville-2003
+  [Triplets of Belleville]: @/the-triplets-of-belleville-2003.md

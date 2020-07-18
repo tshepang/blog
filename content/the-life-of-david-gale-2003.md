@@ -21,4 +21,4 @@ refused access to his child. It reminds me of the injustice suffered by
 the ever-drunk lead character found in [Crazy Heart] at the hand of his
 lover.
 
-  [Crazy Heart]: http://tshepang.net/crazy-heart-2009
+  [Crazy Heart]: @/crazy-heart-2009.md

@@ -20,5 +20,5 @@ I do, however, wish:
 -   The acts of the villain were given better justification
 -   More people should have died, given the rough landing
 
-  [Taken]: http://tshepang.net/taken-2008
+  [Taken]: @/taken-2008.md
   [Nate Parker]: https://en.wikipedia.org/wiki/Nate_Parker

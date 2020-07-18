@@ -18,6 +18,6 @@ also been playing with [nickel-jwt-session], which offers such a
 convenient API to use for working with [JSON Web Tokens].
 
 [bcrypt]: https://crates.io/crates/bcrypt
-[started few weeks ago]: http://tshepang.net/rust-week-of-2016-09-02
+[started few weeks ago]: @/rust-week-of-2016-09-02.md
 [nickel-jwt-session]: https://github.com/kaj/nickel-jwt-session
 [JSON Web Tokens]: https://jwt.io

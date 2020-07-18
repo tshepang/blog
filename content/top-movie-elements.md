@@ -117,27 +117,27 @@ categories = ['movies']
 4. [The Informant]
 
 
-[Fight Club]: http://tshepang.net/fight-club-1999
-[Se7en]: http://tshepang.net/se7en-1995
-[Requiem for a Dream]: http://tshepang.net/requiem-for-a-dream-2000
-[Children of Men]: http://tshepang.net/children-of-men-2006
-[Doubt]: http://tshepang.net/doubt-2008
-[J. Edgar]: http://tshepang.net/j-edgar-2011
-[Apocalypto]: http://tshepang.net/apocalypto-2006
-[Sucker Punch]: http://tshepang.net/sucker-punch-2011
-[Haywire]: http://tshepang.net/haywire
-[The Bourne Legacy]: http://tshepang.net/the-bourne-legacy-2012
-[The Bourne Supremacy]: http://tshepang.net/the-bourne-supremacy-2004
-[The Bourne Ultimatum]: http://tshepang.net/the-bourne-ultimatum-2007
-[Non-Stop]: http://tshepang.net/non-stop
-[Groundhog Day]: http://tshepang.net/groundhog-day-1993
-[Life is Beautiful]: http://tshepang.net/many-many-recent-movies
-[Yellow Earth]: http://tshepang.net/yellow-earth-1984
-[Kinsey]: http://tshepang.net/kinsey-2004
-[The Hurt Locker]: http://tshepang.net/recent-movies-2010-05-06
-[Irréversible]: http://tshepang.net/irreversible-2002
-[Children of the Corn]: http://tshepang.net/children-of-the-corn-2009
-[The Insider]: http://tshepang.net/the-insider-1999
-[The Firm]: http://tshepang.net/the-firm-1993
-[Erin Brockovich]: http://tshepang.net/erin-brockovich-2000
-[The Informant]: http://tshepang.net/the-informant-2009
+[Fight Club]: @/fight-club-1999.md
+[Se7en]: @/se7en-1995.md
+[Requiem for a Dream]: @/requiem-for-a-dream-2000.md
+[Children of Men]: @/children-of-men-2006.md
+[Doubt]: @/doubt-2008.md
+[J. Edgar]: @/j-edgar-2011.md
+[Apocalypto]: @/apocalypto-2006.md
+[Sucker Punch]: @/sucker-punch-2011.md
+[Haywire]: @/haywire.md
+[The Bourne Legacy]: @/the-bourne-legacy-2012.md
+[The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
+[The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
+[Non-Stop]: @/non-stop.md
+[Groundhog Day]: @/groundhog-day-1993.md
+[Life is Beautiful]: @/many-many-recent-movies.md
+[Yellow Earth]: @/yellow-earth-1984.md
+[Kinsey]: @/kinsey-2004.md
+[The Hurt Locker]: @/recent-movies-2010-05-06.md
+[Irréversible]: @/irreversible-2002.md
+[Children of the Corn]: @/children-of-the-corn-2009.md
+[The Insider]: @/the-insider-1999.md
+[The Firm]: @/the-firm-1993.md
+[Erin Brockovich]: @/erin-brockovich-2000.md
+[The Informant]: @/the-informant-2009.md

@@ -72,4 +72,4 @@ data/twitter.json        870 MB/s   900 MB/s  1030 MB/s
 ```
 
 [Rust JSON Benchmark]: https://github.com/serde-rs/json-benchmark
-[the UX305]: http://tshepang.net/asus-zenbook-ux305fa
+[the UX305]: @/asus-zenbook-ux305fa.md

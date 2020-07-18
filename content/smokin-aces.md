@@ -20,4 +20,4 @@ Some highlights:
 
 Like [Fight Club] before it, the movie is packed too much of goodness.
 
-[Fight Club]: http://tshepang.net/fight-club-1999
+[Fight Club]: @/fight-club-1999.md

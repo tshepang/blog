@@ -18,4 +18,4 @@ The are three performances that stand out:
 The movie is very well-made, complete with quality production design and
 an interesting story.
 
-  [the best one of his career]: http://tshepang.net/best-of-career-performances
+  [the best one of his career]: @/best-of-career-performances.md

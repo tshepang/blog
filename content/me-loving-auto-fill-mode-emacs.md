@@ -21,6 +21,6 @@ Related to that is the [fill-paragraph] command, which is invoked via
 the Alt+q shortcut (M-q in Emacs speak). What it does is reformat the
 paragraph as if it was typed while in Auto Fill Mode. Is gorgeous!
 
-[well-written]: http://tshepang.net/projects-with-excellent-documentation
+[well-written]: @/projects-with-excellent-documentation.md
 [Auto Fill Mode]: http://www.gnu.org/software/emacs/manual/html_node/emacs/Auto-Fill
 [fill-paragraph]: http://www.gnu.org/software/emacs/manual/html_node/emacs/Fill-Commands

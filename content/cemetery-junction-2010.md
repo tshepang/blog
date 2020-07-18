@@ -15,4 +15,4 @@ caricature than a shitty husband.
 Trivia: I don't remember anyone mocking own father as the troubled kid
 does here.
 
-  [*An Education*]: http://tshepang.net/recent-movies-2010-05-06
+  [*An Education*]: @/recent-movies-2010-05-06.md

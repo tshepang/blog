@@ -21,7 +21,7 @@ minutes. The evil Transformers were scarily-violent, as they always were
 in this series. The scariest of them, Megatron, was pretty much cast
 aside in this movie.
 
-  [its predecessor]: http://tshepang.net/transformers-dark-of-the-moon-2011
-  [the first movie in the series]: http://tshepang.net/transformers-2007
+  [its predecessor]: @/transformers-dark-of-the-moon-2011.md
+  [the first movie in the series]: @/transformers-2007.md
   [Tyrese Gibson]: http://en.wikipedia.org/wiki/Tyrese_Gibson
   [Josh Duhamel]: http://en.wikipedia.org/wiki/Josh_Duhamel

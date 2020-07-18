@@ -29,4 +29,4 @@ only it performed such restarting/reindex faster than it often does
 'forever' for such to happen.
 
   [Tracker]: http://projects.gnome.org/tracker/
-  [update]: http://tshepang.net/more-tracker-goodness
+  [update]: @/more-tracker-goodness.md

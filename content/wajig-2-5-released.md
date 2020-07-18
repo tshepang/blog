@@ -16,6 +16,6 @@ there were also words of appreciation of my efforts in maintaining it.
 
 Here's [the gory details].
 
-  [wajig 2.3]: http://tshepang.net/wajig-2-3-released
+  [wajig 2.3]: @/wajig-2-3-released.md
   [mailing list]: http://groups.google.com/group/wajig
   [the gory details]: http://packages.qa.debian.org/w/wajig/news/20120411T124858Z.html

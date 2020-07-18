@@ -16,6 +16,6 @@ surprising, given the director's other movies, *Pi* and [Requiem for A
 Dream], which could hardly be called easy viewing. It's very well-made,
 but I seriously didn't enjoy it.
 
-  [Showgirls]: http://tshepang.net/showgirls-1995
-  [All About Eve]: http://tshepang.net/all-about-eve-1950
-  [Requiem for A Dream]: http://tshepang.net/requiem-for-a-dream-2000
+  [Showgirls]: @/showgirls-1995.md
+  [All About Eve]: @/all-about-eve-1950.md
+  [Requiem for A Dream]: @/requiem-for-a-dream-2000.md

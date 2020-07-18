@@ -12,4 +12,4 @@ what the point was. Feels random. I wish it was more fun, but it was
 engaging enough to not leave me feeling too punished.
 
   [Miles Teller]: http://en.wikipedia.org/wiki/Miles_Teller
-  [Rabbit Hole]: http://tshepang.net/rabbit-hole-2010
+  [Rabbit Hole]: @/rabbit-hole-2010.md

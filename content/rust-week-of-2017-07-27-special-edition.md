@@ -21,4 +21,4 @@ backed up anywhere. That draft only consisted of a list of those tiny
 contributions, and it felt extra silly trying to recreate it for
 publication.*
 
-[since 2015-05-15]: http://tshepang.net/rust-week-of-2015-05-15
+[since 2015-05-15]: @/rust-week-of-2015-05-15.md

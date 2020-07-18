@@ -13,5 +13,5 @@ far poorer than one would hope. It is full of lame utterances and
 uninteresting performances, all but from the super-fast lady, the
 Aaliyah (dead RnB artist) looklike, played by [Dania Ramirez].
 
-  [immediate predecessor]: http://tshepang.net/x-men-2-2003
+  [immediate predecessor]: @/x-men-2-2003.md
   [Dania Ramirez]: http://en.wikipedia.org/wiki/Dania_Ramirez

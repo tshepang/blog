@@ -22,5 +22,5 @@ It would be less surprising if we had the following instead:
     let server = TcpListener::bind(&address).unwrap();
 
   [one submission]: https://github.com/rust-lang/rust/pull/29651
-  [back in May]: http://tshepang.net/rust-week-of-2015-05-29
+  [back in May]: @/rust-week-of-2015-05-29.md
   [this example]: https://github.com/carllerche/mio/blob/getting-started/doc/getting-started.md#writing-the-echo-server

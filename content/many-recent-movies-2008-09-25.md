@@ -52,4 +52,4 @@ unfortunate considering that this was my personal best for a number of
 years, until it was of course toppled by the still-unbeaten *Fight
 Club*.
 
-  [The War Zone]: http://tshepang.net/the-war-zone-1999
+  [The War Zone]: @/the-war-zone-1999.md

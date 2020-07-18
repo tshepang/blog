@@ -79,5 +79,5 @@ tags = ['Rust']
 
   [an oddity regarding 'pow' method]: http://stackoverflow.com/q/30413090/321731
   [not as obvious as I hoped]: http://stackoverflow.com/a/28003842/321731
-  [Rust posts on my blog]: http://tshepang.net/tags/rust
+  [Rust posts on my blog]: http://tshepang.net/tags/rust.md
   [Abstraction without overhead: traits in Rust]: http://blog.rust-lang.org/2015/05/11/traits.html

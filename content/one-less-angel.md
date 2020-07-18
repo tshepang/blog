@@ -12,4 +12,4 @@ royalty on a [recent visit].
 
 Of all personal losses I have ever experienced, this is the greatest.
 
-  [recent visit]: http://tshepang.net/a-visit-to-eastern-cape
+  [recent visit]: @/a-visit-to-eastern-cape.md

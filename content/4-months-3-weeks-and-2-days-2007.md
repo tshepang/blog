@@ -18,4 +18,4 @@ doesn't cover as much ground and is therefore simpler. I can't decide
 which is superior between the two, but *Crimson Gold* had a stronger
 emotional impact on me. Maybe that makes it a better movie.
 
-  [*Crimson Gold*]: http://tshepang.net/crimson-gold-2003
+  [*Crimson Gold*]: @/crimson-gold-2003.md

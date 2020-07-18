@@ -22,4 +22,4 @@ categories = ['movies']
 
 [The earlier movie] is much better.
 
-  [The earlier movie]: http://tshepang.net/the-stepfather-1987
+  [The earlier movie]: @/the-stepfather-1987.md

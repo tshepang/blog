@@ -24,4 +24,4 @@ of it all is. Why do people make movies like this? It does however
 possess the honor of having an entire book written about it, by [the
 great Jonathan Rosenbaum].
 
-  [the great Jonathan Rosenbaum]: http://tshepang.net/best-movie-critic-jonathan-rosenbaum
+  [the great Jonathan Rosenbaum]: @/best-movie-critic-jonathan-rosenbaum.md

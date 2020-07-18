@@ -15,4 +15,4 @@ also has very good production design.
 There is one trashy scene where the lead helps deliver a child, but the
 punchline actually makes it worth it.
 
-  [You Don't Mess With the Zohan]: http://tshepang.net/many-recent-movies-2009-02-27
+  [You Don't Mess With the Zohan]: @/many-recent-movies-2009-02-27.md

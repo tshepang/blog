@@ -18,6 +18,6 @@ Here are some examples:
 -   [Robot]
 -   [The Green Hornet]
 
-  [Cloudy With A Chance Of Meatballs]: http://tshepang.net/cloudy-with-a-chance-of-meatballs-2009
-  [Robot]: http://tshepang.net/robot-2010
-  [The Green Hornet]: http://tshepang.net/the-green-hornet-2011
+  [Cloudy With A Chance Of Meatballs]: @/cloudy-with-a-chance-of-meatballs-2009.md
+  [Robot]: @/robot-2010.md
+  [The Green Hornet]: @/the-green-hornet-2011.md

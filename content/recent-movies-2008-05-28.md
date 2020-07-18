@@ -24,4 +24,4 @@ Kingdom. [[update]]
 highly-dedicated performances, a well-written dialogue, and got the
 earliest ever twist of any movie I've seen.
 
-  [update]: http://tshepang.net/recent-movies-2008-10-12
+  [update]: @/recent-movies-2008-10-12.md

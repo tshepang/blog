@@ -40,21 +40,21 @@ categories = ['movies']
 
 related: [favorite-of-career performances][favorite-of-career]
 
-[Fight Club]: http://tshepang.net/fight-club-1999
-[The Counselor]: http://tshepang.net/the-counselor-2013
-[Memento]: http://tshepang.net/memento-2000
-[The King's Speech]: http://tshepang.net/the-king-s-speech-2010
-[Good Night, and Good Luck]: http://tshepang.net/good-night-and-good-luck-2005
-[Wit]: http://tshepang.net/wit-2001
-[The Last King of Scotland]: http://tshepang.net/the-last-king-of-scotland-2006
-[Prisoners]: http://tshepang.net/prisoners-2013
-[Nightcrawler]: http://tshepang.net/nightcrawler
-[The Warlords]: http://tshepang.net/the-warlords-2007
-[Changeling]: http://tshepang.net/changeling-2008
-[The Rainmaker]: http://tshepang.net/the-rainmaker-1997
-[Birth]: http://tshepang.net/birth-2004
-[favorite-of-career]: http://tshepang.net/favorite-of-career-performances
-[Rabbit Hole]: http://tshepang.net/rabbit-hole-2010
-[Vicky Cristina Barcelona]: http://tshepang.net/vicky-cristina-barcelona-2008
-[Doubt]: http://tshepang.net/doubt-2008
-[Good People]: http://tshepang.net/good-people-2014
+[Fight Club]: @/fight-club-1999.md
+[The Counselor]: @/the-counselor-2013.md
+[Memento]: @/memento-2000.md
+[The King's Speech]: @/the-king-s-speech-2010.md
+[Good Night, and Good Luck]: @/good-night-and-good-luck-2005.md
+[Wit]: @/wit-2001.md
+[The Last King of Scotland]: @/the-last-king-of-scotland-2006.md
+[Prisoners]: @/prisoners-2013.md
+[Nightcrawler]: @/nightcrawler.md
+[The Warlords]: @/the-warlords-2007.md
+[Changeling]: @/changeling-2008.md
+[The Rainmaker]: @/the-rainmaker-1997.md
+[Birth]: @/birth-2004.md
+[favorite-of-career]: @/favorite-of-career-performances.md
+[Rabbit Hole]: @/rabbit-hole-2010.md
+[Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md
+[Doubt]: @/doubt-2008.md
+[Good People]: @/good-people-2014.md

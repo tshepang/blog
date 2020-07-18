@@ -39,5 +39,5 @@ justifies its existence at all. There's nothing new and movie makers
 know it. WTF! Other than for financial gain, why the fuck did they make
 it?
 
-  [Iron Man 2]: http://tshepang.net/iron-man-2
-  [I Am Legend]: http://tshepang.net/i-am-legend
+  [Iron Man 2]: @/iron-man-2.md
+  [I Am Legend]: @/i-am-legend.md

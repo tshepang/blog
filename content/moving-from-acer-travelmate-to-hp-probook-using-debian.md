@@ -81,7 +81,7 @@ Unstable at the moment, but my "/etc/sources.list" file points solely
 at my custom repository and Testing, for it just is tiring to keep
 tracking Unstable... way too much bandwidth.
 
-  [my coding job]: http://tshepang.net/me-got-meself-a-coding-job
+  [my coding job]: @/me-got-meself-a-coding-job.md
   [it's damn ugly]: http://www.google.co.za/search?hl=en&biw=1366&bih=630&q=6592+acer&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi
   [it's stunning]: http://www.google.co.za/search?q=probook+4530s&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&hl=en&tab=wi&biw=1366&bih=630
-  [Debian Backports folk]: http://tshepang.net/thanks-to-the-debian-backports-team
+  [Debian Backports folk]: @/thanks-to-the-debian-backports-team.md

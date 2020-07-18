@@ -15,4 +15,4 @@ the pacing is slow and the gloss is limited.
 [**sidenote**] The re-make had good reviews, so I went into it
 excited, only to be [seriously disappointed].
 
-  [seriously disappointed]: http://tshepang.net/let-me-in-2010
+  [seriously disappointed]: @/let-me-in-2010.md

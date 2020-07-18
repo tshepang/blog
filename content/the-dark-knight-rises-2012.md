@@ -15,4 +15,4 @@ sounds unconvincing with the silly voice, and the movie feels like a
 mess. Maybe it's just too long, and the writers too desperate to
 impress. The stupid twist didn't help.
 
-  [the immediate predecessor]: http://tshepang.net/the-dark-knight-2008
+  [the immediate predecessor]: @/the-dark-knight-2008.md

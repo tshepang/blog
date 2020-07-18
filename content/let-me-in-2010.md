@@ -28,8 +28,8 @@ A Vampire*). It's not even remotely interesting. What's most puzzling,
 beyond that the shit (it's not that smelly, I just hate it) got made is
 the [positive response] it received from critics. WTF!
 
-  [The first novel-to-movie adaptation]: http://tshepang.net/let-the-right-one-in-2008
+  [The first novel-to-movie adaptation]: @/let-the-right-one-in-2008.md
   [Elias Koteas]: http://en.wikipedia.org/wiki/Elias_Koteas
   [Richard Jenkins]: http://en.wikipedia.org/wiki/Richard_Jenkins
-  [*Eat Pray Love*]: http://tshepang.net/eat-pray-love-2010
+  [*Eat Pray Love*]: @/eat-pray-love-2010.md
   [positive response]: http://en.wikipedia.org/wiki/Let_Me_In_(film)#Critical_response

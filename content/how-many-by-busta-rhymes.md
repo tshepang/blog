@@ -14,4 +14,4 @@ hip-hop tracks ever (from one of [the best ever hip-hop albums]).
 
   [Busta Rhymes]: http://en.wikipedia.org/wiki/Busta_Rhymes
   [The Score]: http://en.wikipedia.org/wiki/The_Score_(album)
-  [the best ever hip-hop albums]: http://tshepang.net/the-score-1996
+  [the best ever hip-hop albums]: @/the-score-1996.md

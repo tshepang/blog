@@ -33,5 +33,5 @@ One thing that attracted me to *Closer* is Mike Nichol's attachment as
 director and he here crafts a movie of gorgeous sets and camerawork
 armed with a fresh and original storyline, albeit depressing.
 
-  [I Am Legend]: http://tshepang.net/i-am-legend
-  [Planet Terror]: http://tshepang.net/planet-terror-2007
+  [I Am Legend]: @/i-am-legend.md
+  [Planet Terror]: @/planet-terror-2007.md

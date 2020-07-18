@@ -27,4 +27,4 @@ of character) was left unexplained, and is simply over-the-top.
   [Pyramid Head]: http://en.wikipedia.org/wiki/Pyramid_Head
   [The Missionary]: http://silenthill.wikia.com/wiki/Missionary_(film)
   [nurses]: http://silenthill.wikia.com/wiki/Nurse
-  [the previous movie]: http://tshepang.net/silent-hill-2006
+  [the previous movie]: @/silent-hill-2006.md

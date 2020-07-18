@@ -24,5 +24,5 @@ Among them is the most **desirable gal**, Amina Robinson,
 who plays the more quiet of the classmates, one with scar on face.
 Oh man, why do people have to look and be like her. Damn!
 
-[District 9]: http://tshepang.net/district-9
-[Inglourious Basterds]: http://tshepang.net/inglourious-basterds
+[District 9]: @/district-9.md
+[Inglourious Basterds]: @/inglourious-basterds.md

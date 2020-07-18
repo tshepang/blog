@@ -16,4 +16,4 @@ moment our (very uninteresting) lead character gets to have after doing
 something unbearably stupid. All this spoils the various good spots the
 movie offers.
 
-  [Cloudy With A Chance of Meatballs]: http://tshepang.net/cloudy-with-a-chance-of-meatballs-2009
+  [Cloudy With A Chance of Meatballs]: @/cloudy-with-a-chance-of-meatballs-2009.md

@@ -26,6 +26,6 @@ Also, here is what one of speakers at that conferences said:
 > -- [source]
 
   [PyPy]: http://pypy.org
-  [legendary RPython translation framework]: http://tshepang.net/great-praise-for-the-rpython-translation-toolchain
+  [legendary RPython translation framework]: @/great-praise-for-the-rpython-translation-toolchain.md
   [one of his PyCon US 2013 talks]: http://pyvideo.org/video/1669/keynote-3
   [source]: http://ashfall.github.io/blog/2013/03/23/pycon-2013-down-the-rabbit-hole

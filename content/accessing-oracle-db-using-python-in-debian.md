@@ -37,4 +37,4 @@ For basic usage, see [this tiny tutorial].
   [Debian Squeeze]: http://www.debian.org/releases/squeeze/
   [elsewhere]: http://agiletesting.blogspot.com/2005/05/installing-and-using-cxoracle-on-unix.html
   [cx-Oracle]: http://cx-oracle.sourceforge.net/
-  [this tiny tutorial]: http://tshepang.net/basic-usage-of-python-with-oracle-db-in-debian
+  [this tiny tutorial]: @/basic-usage-of-python-with-oracle-db-in-debian.md

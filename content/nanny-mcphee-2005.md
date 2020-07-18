@@ -12,4 +12,4 @@ were written by one person, because it's full of formulaic family
 values, and stuff that is so stupid it makes me cringe. Even Emma
 Thompson sucks. The only enjoyable character is the caricatured cook.
 
-  [far superior sequel]: http://tshepang.net/nanny-mcphee-and-the-big-bang-2010
+  [far superior sequel]: @/nanny-mcphee-and-the-big-bang-2010.md

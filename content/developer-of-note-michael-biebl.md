@@ -20,5 +20,5 @@ for Michael's other work.
   [Michael Biebl]: http://qa.debian.org/developer.php?login=biebl@debian.org
   [Tracker]: http://projects.gnome.org/tracker/
   [a bunch of patches]: http://mail.gnome.org/archives/tracker-list/2010-April/msg00044.html
-  [the great Josselin Mouette]: http://tshepang.net/developer-of-note-josselin-mouette
+  [the great Josselin Mouette]: @/developer-of-note-josselin-mouette.md
   [did offer accolades too]: http://np237.livejournal.com/26532.html

@@ -25,5 +25,5 @@ don't even remember who I was referring to by *one voice of sane
 reason*, and the latter movie I mentioned is a lesser movie overall. One
 thing I still celebrate though is that very last scene... the meeting.
 
-  [Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964
-  [Good Night & Good Luck]: http://tshepang.net/good-night-and-good-luck-2005
+  [Dr. Strangelove]: @/dr-strangelove-1964.md
+  [Good Night & Good Luck]: @/good-night-and-good-luck-2005.md

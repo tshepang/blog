@@ -20,4 +20,4 @@ senior in the military was quite powerful.
     bothered.
 -   I hate [the original].
 
-  [the original]: http://tshepang.net/nanny-mcphee-2005
+  [the original]: @/nanny-mcphee-2005.md

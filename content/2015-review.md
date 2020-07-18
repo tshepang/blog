@@ -22,11 +22,11 @@ is Ultron, the lead villain in [Avengers: Age of Ultron]. The most
 **desirable gal** is Sonoya Mizuno in [Ex Machina], which also happens
 to have the **best dialog**.
 
-[Avengers: Age of Ultron]: http://tshepang.net/avengers-age-of-ultron
-[Chappie]: http://tshepang.net/chappie
-[Jurassic World]: http://tshepang.net/jurassic-world
-[The Survivalist]: http://tshepang.net/the-survivalist
-[Spotlight]: http://tshepang.net/spotlight
-[The Martian]: http://tshepang.net/the-martian
-[Minions]: http://tshepang.net/minions
-[Ex Machina]: http://tshepang.net/ex-machina
+[Avengers: Age of Ultron]: @/avengers-age-of-ultron.md
+[Chappie]: @/chappie.md
+[Jurassic World]: @/jurassic-world.md
+[The Survivalist]: @/the-survivalist.md
+[Spotlight]: @/spotlight.md
+[The Martian]: @/the-martian.md
+[Minions]: @/minions.md
+[Ex Machina]: @/ex-machina.md

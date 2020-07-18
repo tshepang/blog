@@ -56,5 +56,5 @@ This feature left me pleasantly surprised.
 
   [matplolib]: http://matplotlib.org
   [image resulting from running the code above]: /images/matplotlib-1.png
-  [as I did previously]: http://tshepang.net/plotting-with-matplotlib
+  [as I did previously]: @/plotting-with-matplotlib.md
   [1]: /images/matplotlib-2.png

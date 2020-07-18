@@ -19,7 +19,7 @@ wajig" and I really liked how that part was handled as well. It serves
 as a nice reminder of why the heck I'm working on [wajig] in the first
 place... it rocks!
 
-  [I love Stack Overflow]: http://tshepang.net/stack-overflow-rocks-hard
+  [I love Stack Overflow]: @/stack-overflow-rocks-hard.md
   [the best new content]: http://stackexchange.com
   [the answer]: http://unix.stackexchange.com/questions/767/what-is-the-real-difference-between-apt-get-and-aptitude-how-about-wajig/935#935
   [what's the difference between apt-get and aptitude?]: http://unix.stackexchange.com/questions/767/what-is-the-real-difference-between-apt-get-and-aptitude-how-about-wajig

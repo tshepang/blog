@@ -18,4 +18,4 @@ really good peformance is that of Michael Rapaport, who plays the TV
 executive. Shit, this niggah is (nearly) worth the entire movie itself,
 and is so **real**.
 
-  [Baise-moi]: http://tshepang.net/baise-moi-2000
+  [Baise-moi]: @/baise-moi-2000.md

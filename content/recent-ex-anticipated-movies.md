@@ -18,4 +18,4 @@ felt to be the best mainland Chinese movie ever, Platform. It turned out
 to lack any interesting characters and story. It's a fucking mystery
 that anyone liked (or made) it.
 
-  [Jonathan Rosenbaum]: http://tshepang.net/best-movie-critic-jonathan-rosenbaum
+  [Jonathan Rosenbaum]: @/best-movie-critic-jonathan-rosenbaum.md

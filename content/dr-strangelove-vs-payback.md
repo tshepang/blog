@@ -28,5 +28,5 @@ lesser extent, this also applies to George C. Scott's general as
 compared to Gregg Henry's Val Resnick, the one who betrayed [Payback]
 lead.
 
-  [Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964
-  [Payback]: http://tshepang.net/payback-1999
+  [Dr. Strangelove]: @/dr-strangelove-1964.md
+  [Payback]: @/payback-1999.md

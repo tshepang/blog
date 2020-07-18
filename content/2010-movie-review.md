@@ -174,16 +174,16 @@ Twilight Saga -- Eclipse; Ultimate Gift, The; The Unborn; Up; Wall
 Street; War, Inc; What Doesn't Kill You; World's Greatest Dad;
 Smokin' Aces 2; The Expendables; August Rush; Karate Kid; Skin
 
-  [Somewhere]: http://tshepang.net/somewhere-2010
-  [Inception]: http://tshepang.net/many-many-recent-movies
-  [The A-Team]: http://tshepang.net/recent-movies-2010-09-15
-  [An Education]: http://tshepang.net/recent-movies-2010-05-06
-  [The Social Network]: http://tshepang.net/the-social-network-2010
-  [Memento]: http://tshepang.net/memento-2000
-  [The Job]: http://tshepang.net/recent-movies-2010-11-19
-  [Clash of the Titans]: http://tshepang.net/clash-of-the-titans-2010
-  [Afro Samurai: Resurrection]: http://tshepang.net/afro-samurai-resurrection-2009
-  [Iron Man 2]: http://tshepang.net/iron-man-2
-  [Smokin' Aces]: http://tshepang.net/smokin-aces-2006
-  [Se7en]: http://tshepang.net/se7en-1995
-  [these]: http://tshepang.net/tags/2010-movie/
+  [Somewhere]: @/somewhere-2010.md
+  [Inception]: @/many-many-recent-movies.md
+  [The A-Team]: @/recent-movies-2010-09-15.md
+  [An Education]: @/recent-movies-2010-05-06.md
+  [The Social Network]: @/the-social-network-2010.md
+  [Memento]: @/memento-2000.md
+  [The Job]: @/recent-movies-2010-11-19.md
+  [Clash of the Titans]: @/clash-of-the-titans-2010.md
+  [Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md
+  [Iron Man 2]: @/iron-man-2.md
+  [Smokin' Aces]: @/smokin-aces-2006.md
+  [Se7en]: @/se7en-1995.md
+  [these]: http://tshepang.net/tags/2010-movie/.md

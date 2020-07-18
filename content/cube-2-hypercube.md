@@ -21,4 +21,4 @@ feeling too unrealistic. The ending is weird, leaving me with questions,
 and me wonders if it was delibarate on the part of the filmmakers, or if
 I simply am not smart enough to figure WTF's happenin.
 
-  [first movie]: http://tshepang.net/cube-1997
+  [first movie]: @/cube-1997.md

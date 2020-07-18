@@ -46,5 +46,5 @@ for me to follow thoroughly.
   [Luke Muehlhauser]: http://commonsenseatheism.com/?page_id=3
   [well-argued take]: http://commonsenseatheism.com/?p=30
   [Common Sense Atheism]: http://commonsenseatheism.com
-  [praise]: http://tshepang.net/common-sense-atheism-rocks
+  [praise]: @/common-sense-atheism-rocks.md
   [the largest collection of links to atheist vs theist debates]: http://commonsenseatheism.com/?p=50

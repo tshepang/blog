@@ -38,6 +38,6 @@ In the interest of balance, here's [what attracted me].
 
   [Pelican]: http://pelican.notmyidea.org
   [GitHub Pages]: http://pages.github.com
-  [Here's the setup]: http://tshepang.net/blogging-with-pelican
+  [Here's the setup]: @/blogging-with-pelican.md
   [Calepin]: http://calepin.co/
-  [what attracted me]: http://tshepang.net/what-me-loves-about-static-website-generation
+  [what attracted me]: @/what-me-loves-about-static-website-generation.md

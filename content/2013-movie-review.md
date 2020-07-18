@@ -57,20 +57,20 @@ a title for a movie I've seen before this year. A special mention
 should go to the [Director's Cut version], which I saw first time in
 2013.
 
-  [last year]: http://tshepang.net/2012-movie-review
-  [In Bruges]: http://tshepang.net/in-bruges-2008
-  [Redbelt]: http://tshepang.net/redbelt-2007
-  [Man of Steel]: http://tshepang.net/man-of-steel-2013
-  [Elysium]: http://tshepang.net/elysium-2013
-  [Henry: Portrait of a Serial Killer]: http://tshepang.net/henry-portrait-of-a-serial-killer
-  [Now You See Me]: http://tshepang.net/now-you-see-me-2013
+  [last year]: @/2012-movie-review.md
+  [In Bruges]: @/in-bruges-2008.md
+  [Redbelt]: @/redbelt-2007.md
+  [Man of Steel]: @/man-of-steel-2013.md
+  [Elysium]: @/elysium-2013.md
+  [Henry: Portrait of a Serial Killer]: @/henry-portrait-of-a-serial-killer.md
+  [Now You See Me]: @/now-you-see-me-2013.md
   [Michael Parks]: http://en.wikipedia.org/wiki/Michael_Parks
-  [Django Unchained]: http://tshepang.net/django-unchained-2012
+  [Django Unchained]: @/django-unchained-2012.md
   [Chiwetel Ejiofor]: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
-  [Silent Hill: Revelation]: http://tshepang.net/silent-hill-revelation-2012
-  [MirrorMask]: http://tshepang.net/mirrormask-2005
-  [The Thaw]: http://tshepang.net/the-thaw-2009
-  [Cloud Atlas]: http://tshepang.net/cloud-atlas-2012
-  [Goodbye Uncle Tom]: http://tshepang.net/goodbye-uncle-tom-1971
-  [Payback]: http://tshepang.net/payback-1999
-  [Director's Cut version]: http://tshepang.net/payback-straight-up-2006
+  [Silent Hill: Revelation]: @/silent-hill-revelation-2012.md
+  [MirrorMask]: @/mirrormask-2005.md
+  [The Thaw]: @/the-thaw-2009.md
+  [Cloud Atlas]: @/cloud-atlas-2012.md
+  [Goodbye Uncle Tom]: @/goodbye-uncle-tom-1971.md
+  [Payback]: @/payback-1999.md
+  [Director's Cut version]: @/payback-straight-up-2006.md

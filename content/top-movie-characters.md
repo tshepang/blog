@@ -86,22 +86,22 @@ I always celebrate:
 10. chess pieces ([Harry Potter and the Sorcerer's Stone])
 
 
-[The Book Thief]: http://tshepang.net/the-book-thief-2013
-[A Streetcar Named Desire]: http://tshepang.net/a-streetcar-named-desire-1951
-[tough women]: http://tshepang.net/tough-women
-[Avatar]: http://tshepang.net/avatar-2009
-[Rango]: http://tshepang.net/rango-2011
-[The Hobbit: The Battle of the Five Armies]: http://tshepang.net/the-hobbit-the-battle-of-the-five-armies
-[Cloverfield]: http://tshepang.net/cloverfield-2008
-[Silent Hill]: http://tshepang.net/silent-hill-2006
-[Silent Hill: Revelation]: http://tshepang.net/silent-hill-revelation-2012
-[Pan's Labyrinth]: http://tshepang.net/pan-s-labyrinth-2006
-[Harry Potter and the Prisoner of Azkaban]: http://tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
-[Clash of the Titans]: http://tshepang.net/clash-of-the-titans-2010
-[Sucker Punch]: http://tshepang.net/sucker-punch-2011
-[9]: http://tshepang.net/9-2009
-[Afro Samurai: Resurrection]: http://tshepang.net/afro-samurai-resurrection-2009
-[Harry Potter and the Sorcerer's Stone]: http://tshepang.net/harry-potter-and-the-sorcerer-s-stone-2001
-[Law Abiding Citizen]: http://tshepang.net/law-abiding-citizen-2009
-[Man of Steel]: http://tshepang.net/man-of-steel-2013
-[Nightcrawler]: http://tshepang.net/nightcrawler
+[The Book Thief]: @/the-book-thief-2013.md
+[A Streetcar Named Desire]: @/a-streetcar-named-desire-1951.md
+[tough women]: @/tough-women.md
+[Avatar]: @/avatar-2009.md
+[Rango]: @/rango-2011.md
+[The Hobbit: The Battle of the Five Armies]: @/the-hobbit-the-battle-of-the-five-armies.md
+[Cloverfield]: @/cloverfield-2008.md
+[Silent Hill]: @/silent-hill-2006.md
+[Silent Hill: Revelation]: @/silent-hill-revelation-2012.md
+[Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
+[Harry Potter and the Prisoner of Azkaban]: @/harry-potter-and-the-prisoner-of-azkaban-2004.md
+[Clash of the Titans]: @/clash-of-the-titans-2010.md
+[Sucker Punch]: @/sucker-punch-2011.md
+[9]: @/9-2009.md
+[Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md
+[Harry Potter and the Sorcerer's Stone]: @/harry-potter-and-the-sorcerer-s-stone-2001.md
+[Law Abiding Citizen]: @/law-abiding-citizen-2009.md
+[Man of Steel]: @/man-of-steel-2013.md
+[Nightcrawler]: @/nightcrawler.md

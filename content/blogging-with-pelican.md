@@ -79,8 +79,8 @@ That's a [fabric] command that uses the instructions found in
 also pushes the sources to Bitbucket. Within a minute, the blog will be
 updated.
 
-  [what I love about static website generators]: http://tshepang.net/what-me-loves-about-static-website-generation
-  [I started using liquidluck]: http://tshepang.net/from-pelican-to-liquidluck
+  [what I love about static website generators]: @/what-me-loves-about-static-website-generation.md
+  [I started using liquidluck]: @/from-pelican-to-liquidluck.md
   [Pelican]: http://pelican.notmyidea.org/
   [Markdown]: http://en.wikipedia.org/wiki/Markdown
   [reStructuredText]: http://en.wikipedia.org/wiki/ReStructuredText

@@ -16,5 +16,5 @@ The relationship this protagonist of ours has with the prison guard is
 quite touching. This is helped a lot by the portrayal of that guard, by
 [Siobhan Fallon], who gives my most favorite performance of the movie.
 
-  [Breaking the Waves]: http://tshepang.net/breaking-the-waves-1996
+  [Breaking the Waves]: @/breaking-the-waves-1996.md
   [Siobhan Fallon]: http://en.wikipedia.org/wiki/Siobhan_Fallon_Hogan

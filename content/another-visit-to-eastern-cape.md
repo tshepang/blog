@@ -27,5 +27,5 @@ One could say it was me (us?) paying homage to that wonderful family
 their welcome, not to mention the gorgeous scenery of the surrounding
 hills.
 
-  [Last time]: http://tshepang.net/a-visit-to-eastern-cape
-  [a funeral]: http://tshepang.net/one-less-angel
+  [Last time]: @/a-visit-to-eastern-cape.md
+  [a funeral]: @/one-less-angel.md

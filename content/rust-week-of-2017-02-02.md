@@ -13,4 +13,4 @@ it also nicely summarises Rust traits. [I wrote a tiny bit about the
 feature] myself some time ago.
 
 [the design of Rust futures]: http://aturon.github.io/blog/2016/09/07/futures-design
-[I wrote a tiny bit about the feature]: http://tshepang.net/rust-week-of-2015-05-22
+[I wrote a tiny bit about the feature]: @/rust-week-of-2015-05-22.md

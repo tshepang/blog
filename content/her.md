@@ -22,5 +22,5 @@ that, she has never been this good (see the heartbreak moment), and this
 desirable. It's also a brief performance, a fact that's probably in
 her favor, given she's not the most excellent of actors.
 
-  [Tree of Life]: http://tshepang.net/tree-of-life-2011
-  [In Time]: http://tshepang.net/in-time-2011
+  [Tree of Life]: @/tree-of-life-2011.md
+  [In Time]: @/in-time-2011.md

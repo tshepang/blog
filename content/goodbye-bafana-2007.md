@@ -25,4 +25,4 @@ Most of the world won't notice of course, but it still does matter...
 it's embarassing if you have any passing familiarity of the language.
 Lazy!
 
-  [Mandela: Long Walk to Freedom]: http://tshepang.net/mandela-long-walk-to-freedom-2013
+  [Mandela: Long Walk to Freedom]: @/mandela-long-walk-to-freedom-2013.md

@@ -27,5 +27,5 @@ works right? We are nice folk.
 There are separate posts where I celebrate his two albums, [Introducing
 Hedzoleh Soundz] and [Still Grazing].
 
-  [Introducing Hedzoleh Soundz]: http://tshepang.net/introducing-hedzoleh-soundz-1973
-  [Still Grazing]: http://tshepang.net/still-grazing-2004
+  [Introducing Hedzoleh Soundz]: @/introducing-hedzoleh-soundz-1973.md
+  [Still Grazing]: @/still-grazing-2004.md

@@ -28,4 +28,4 @@ various appearances: birth, broken robot, first meeting with the twins,
 the severed arm, and the self-killing (in which he occupies a more
 shitty body).
 
-[the original]: http://tshepang.net/the-avengers-2012
+[the original]: @/the-avengers-2012.md

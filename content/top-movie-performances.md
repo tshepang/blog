@@ -53,15 +53,15 @@ Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
 The humorless guy at airport checkpoint ([The Next Three Days])
 
 
-[The Dark Knight]: http://tshepang.net/the-dark-knight-2008
-[There Will Be Blood]: http://tshepang.net/there-will-be-blood-2007
+[The Dark Knight]: @/the-dark-knight-2008.md
+[There Will Be Blood]: @/there-will-be-blood-2007.md
 [Dillon Freasier]: http://en.wikipedia.org/wiki/Dillon_Freasier
 [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
-[Real Steel]: http://tshepang.net/real-steel-2011
-[Dr. Strangelove]: http://tshepang.net/dr-strangelove-1964
-[Smokin' Aces]: http://tshepang.net/smokin-aces-2006
-[Dark City]: http://tshepang.net/dark-city-1998
-[Payback]: http://tshepang.net/payback-1999
+[Real Steel]: @/real-steel-2011.md
+[Dr. Strangelove]: @/dr-strangelove-1964.md
+[Smokin' Aces]: @/smokin-aces-2006.md
+[Dark City]: @/dark-city-1998.md
+[Payback]: @/payback-1999.md
 [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
-[The Next Three Days]: http://tshepang.net/the-next-three-days-2010
+[The Next Three Days]: @/the-next-three-days-2010.md
 [Andrew Howard]: https://en.wikipedia.org/wiki/Andrew_Howard

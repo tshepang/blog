@@ -22,5 +22,5 @@ of Shadows]. She is followed by [Marion Cotillard] in *Contagion*.
 
 [Marion Cotillard]: https://en.wikipedia.org/wiki/Marion_Cotillard
 [Kelly Reilly]: http://en.wikipedia.org/wiki/Kelly_Reilly
-[Sherlock Holmes: A Game of Shadows]: http://tshepang.net/sherlock-holmes-a-game-of-shadows
+[Sherlock Holmes: A Game of Shadows]: @/sherlock-holmes-a-game-of-shadows.md
 [Andrew Howard]: https://en.wikipedia.org/wiki/Andrew_Howard

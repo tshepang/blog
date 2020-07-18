@@ -9,4 +9,4 @@ categories = ['movies']
 
 The **best dialog** is in [The Man from Earth].
 
-[The Man from Earth]: http://tshepang.net/the-man-from-earth
+[The Man from Earth]: @/the-man-from-earth.md

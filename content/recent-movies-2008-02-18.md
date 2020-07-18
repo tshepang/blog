@@ -21,4 +21,4 @@ been a better lead, while William Hurt provides a really good
 performance. By the way, this it happens to be the first movie I've
 seen that touches on Intelligent Design.
 
-  [isn't really a good movie]: http://tshepang.net/recent-movies-2007-11-05
+  [isn't really a good movie]: @/recent-movies-2007-11-05.md

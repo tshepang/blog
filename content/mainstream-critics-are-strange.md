@@ -19,7 +19,7 @@ find anyone honoring [Rashomon] at all. Of all those I've seen, the
 only one I actually like is [The Passion of Joan of Arc]
 
   [Sight & Sound list]: http://www.bfi.org.uk/news/50-greatest-films-all-time
-  [Citizen Kane]: http://tshepang.net/citizen-kane-1941
-  [Tokyo Story]: http://tshepang.net/tokyo-story-1953
-  [Rashomon]: http://tshepang.net/rashomon-1950
-  [The Passion of Joan of Arc]: http://tshepang.net/the-passion-of-joan-of-arc-1928
+  [Citizen Kane]: @/citizen-kane-1941.md
+  [Tokyo Story]: @/tokyo-story-1953.md
+  [Rashomon]: @/rashomon-1950.md
+  [The Passion of Joan of Arc]: @/the-passion-of-joan-of-arc-1928.md

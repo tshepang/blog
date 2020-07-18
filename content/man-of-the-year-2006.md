@@ -19,4 +19,4 @@ Goldblum performance didn't help either.
 
   [critics disliked this one]: http://en.wikipedia.org/wiki/Man_of_the_Year_(2006_film)#Reception
   [Laura Linney]: http://en.wikipedia.org/wiki/Laura_Linney
-  [Kinsey]: http://tshepang.net/kinsey-2004
+  [Kinsey]: @/kinsey-2004.md

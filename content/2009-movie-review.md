@@ -100,27 +100,27 @@ Clone Wars; Still Life; Superhero Movie; Taste of Cherry; Tie Me Up, Tie
 Me Down; Traitor; Valkyrie; Wind Will Carry Us, The; Wrestler, The; Xiao
 Wu; Zack & Miri Make A Porno
 
-  [Baise-moi]: http://tshepang.net/baise-moi-2000
-  [Bamboozled]: http://tshepang.net/bamboozled-2000
-  [Watchmen]: http://tshepang.net/watchmen-2009
+  [Baise-moi]: @/baise-moi-2000.md
+  [Bamboozled]: @/bamboozled-2000.md
+  [Watchmen]: @/watchmen-2009.md
   [Raffaëla Anderson]: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
-  [There Will Be Blood]: http://tshepang.net/there-will-be-blood-2007
-  [Changeling]: http://tshepang.net/changeling-2008
-  [Seven Pounds]: http://tshepang.net/recent-movies-2009-04-14
-  [The Curious Case of Benjamin Button]: http://tshepang.net/fincher-s-most-pointless-yet
-  [Midnight Cowboy]: http://tshepang.net/recent-movies-2009-07-13
-  [Still Life]: http://tshepang.net/recent-movies-2009-09-30
-  [Avatar]: http://tshepang.net/avatar-2009
-  [Small Soldiers]: http://tshepang.net/small-soldiers-1998
-  [2012]: http://tshepang.net/2012-2009
-  [Transformers 2]: http://tshepang.net/transformers-revenge-of-the-fallen-2009
-  [Terminator Salvation]: http://tshepang.net/terminator-salvation-2009
-  [Shoot 'Em Up]: http://tshepang.net/recent-movies-2009-03-06
-  [Law-Abiding Citizen]: http://tshepang.net/law-abiding-citizen-2009
-  [You Don't Mess With the Zohan]: http://tshepang.net/many-recent-movies-2009-02-27
-  [Sponge Bob]: http://tshepang.net/recent-movies-2009-10-23
-  [Quantum of Solace]: http://tshepang.net/quantum-of-solace-2008
-  [Ghost Dog]: http://tshepang.net/ghost-dog
-  [Yellow Earth]: http://tshepang.net/yellow-earth-1984
-  [The World]: http://tshepang.net/more-of-jia
-  [these]: http://tshepang.net/tags/2009-movie/
+  [There Will Be Blood]: @/there-will-be-blood-2007.md
+  [Changeling]: @/changeling-2008.md
+  [Seven Pounds]: @/recent-movies-2009-04-14.md
+  [The Curious Case of Benjamin Button]: @/fincher-s-most-pointless-yet.md
+  [Midnight Cowboy]: @/recent-movies-2009-07-13.md
+  [Still Life]: @/recent-movies-2009-09-30.md
+  [Avatar]: @/avatar-2009.md
+  [Small Soldiers]: @/small-soldiers-1998.md
+  [2012]: @/2012-2009.md
+  [Transformers 2]: @/transformers-revenge-of-the-fallen-2009.md
+  [Terminator Salvation]: @/terminator-salvation-2009.md
+  [Shoot 'Em Up]: @/recent-movies-2009-03-06.md
+  [Law-Abiding Citizen]: @/law-abiding-citizen-2009.md
+  [You Don't Mess With the Zohan]: @/many-recent-movies-2009-02-27.md
+  [Sponge Bob]: @/recent-movies-2009-10-23.md
+  [Quantum of Solace]: @/quantum-of-solace-2008.md
+  [Ghost Dog]: @/ghost-dog.md
+  [Yellow Earth]: @/yellow-earth-1984.md
+  [The World]: @/more-of-jia.md
+  [these]: http://tshepang.net/tags/2009-movie/.md

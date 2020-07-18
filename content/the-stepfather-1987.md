@@ -19,4 +19,4 @@ categories = ['movies']
     its remake..
 -   Not fun enough... sleep-inducing.
 
-  [its remake]: http://tshepang.net/the-stepfather-2009
+  [its remake]: @/the-stepfather-2009.md

@@ -24,4 +24,4 @@ title character to prevail are tiring. The movie also moves too quick
 from Somalia to the seas... there is not enough exploration of the
 background of our villains.
 
-  [a villain we get to care for]: http://tshepang.net/caring-about-villains
+  [a villain we get to care for]: @/caring-about-villains.md

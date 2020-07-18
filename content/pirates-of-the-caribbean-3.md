@@ -34,8 +34,8 @@ to be beaten, though none have visual effects matching this pirates
 movie, and I doubt there will be this year [[update]], which will
 result in this being a reluctant winner in that department.
 
-  [before]: http://tshepang.net/davey-jones-vs-kong
-  [update: 03 Mar 2008]: http://tshepang.net/revisiting-pirates-of-the-caribbean-3
-  [Apocalypto]: http://tshepang.net/apocalypto-2006
-  [300]: http://tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece
-  [update]: http://tshepang.net/transformers-2007
+  [before]: @/davey-jones-vs-kong.md
+  [update: 03 Mar 2008]: @/revisiting-pirates-of-the-caribbean-3.md
+  [Apocalypto]: @/apocalypto-2006.md
+  [300]: @/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece.md
+  [update]: @/transformers-2007.md

@@ -17,7 +17,7 @@ through [Philip van Hoof]'s guidance.
 Philip van Hoof also [fixed] a hard-to-reproduce bug which was a pain
 for me. The fix is a workaround for a [GTK+] bug.
 
-  [patches I created]: http://tshepang.net/so-much-learned-via-tracker-bugfixing
+  [patches I created]: @/so-much-learned-via-tracker-bugfixing.md
   [Tracker]: http://projects.gnome.org/tracker/
   [2]: http://git.gnome.org/browse/tracker/commit/?id=ade2655a2f9fecf7100d58a8908493b9d71e2273
   [Philip van Hoof]: http://pvanhoof.be/blog/

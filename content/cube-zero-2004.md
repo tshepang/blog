@@ -22,6 +22,6 @@ portray an eccentric evil character. It's a far less successful attempt
 than the a character he reminds me of: the genius scientist in [Afro
 Samurai: Resurrection].
 
-  [the first]: http://tshepang.net/cube-1997
-  [the second]: http://tshepang.net/cube-2-hypercube
-  [Afro Samurai: Resurrection]: http://tshepang.net/afro-samurai-resurrection-2009
+  [the first]: @/cube-1997.md
+  [the second]: @/cube-2-hypercube.md
+  [Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md

@@ -14,4 +14,4 @@ award. The review makes me salivate. [[update]]
 
   [2006 review]: https://web.archive.org/web/20120603023844/http://goty.gamespy.com/2006
   [their review of BioShock]: https://web.archive.org/web/20131030142800/http://goty.gamespy.com/2007/special/22.html
-  [update]: http://tshepang.net/bioshock
+  [update]: @/bioshock.md

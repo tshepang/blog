@@ -17,5 +17,5 @@ applies to the Black Widow character. The story is okay but does not
 rise above the feeling that it attempts nothing other than keep the
 franchise going. There's lots of shortcuts, and not much depth.
 
-  [the disgusting original]: http://tshepang.net/captain-america-the-first-avenger-2011
-  [The Avengers]: http://tshepang.net/the-avengers-2012
+  [the disgusting original]: @/captain-america-the-first-avenger-2011.md
+  [The Avengers]: @/the-avengers-2012.md

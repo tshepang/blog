@@ -17,4 +17,4 @@ visual effects impress, being worse than those of its predecessor [the
 relaxed manner to this Spider-Man. However, his skills are ridiculously
 high, and he survives way too much current flowing through his body.
 
-  [the 2012 movie]: http://tshepang.net/the-amazing-spider-man-2012
+  [the 2012 movie]: @/the-amazing-spider-man-2012.md

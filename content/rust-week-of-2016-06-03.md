@@ -49,4 +49,4 @@ project at work. My favorite parts:
 
 
 [inotify-rs]: https://github.com/hannobraun/inotify-rs
-[first mention]: http://tshepang.net/rust-week-of-2015-07-31
+[first mention]: @/rust-week-of-2015-07-31.md

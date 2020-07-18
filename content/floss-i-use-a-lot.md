@@ -73,14 +73,14 @@ central servers
 - **top**: a powerful and flexible process viewer, part of [procps suite]
 
 
-[I used to maintain it]: http://tshepang.net/tags/wajig
+[I used to maintain it]: http://tshepang.net/tags/wajig.md
 [Transmission]: http://www.transmissionbt.com
-[dwm]: http://tshepang.net/my-current-desktop-setup
+[dwm]: @/my-current-desktop-setup.md
 [tmux]: https://github.com/tmux/tmux/wiki
 [youtube-dl]: http://rg3.github.io/youtube-dl
 [ripgrep]: http://blog.burntsushi.net/ripgrep
-[Sudo]: http://tshepang.net/project-of-note-sudo
-[Iotop]: http://tshepang.net/project-of-note-sudo
+[Sudo]: @/project-of-note-sudo.md
+[Iotop]: @/project-of-note-sudo.md
 [vnstat]: http://humdi.net/vnstat
 [exa]: https://the.exa.website
 [bat]: https://crates.io/crates/bat

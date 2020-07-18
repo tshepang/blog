@@ -23,4 +23,4 @@ top of the group's work, and therefore removing it from the list of
 [hip-hop landmarks].
 
   [The Roots]: http://en.wikipedia.org/wiki/The_Roots
-  [hip-hop landmarks]: http://tshepang.net/top-tracks-hip-hop
+  [hip-hop landmarks]: @/top-tracks-hip-hop.md

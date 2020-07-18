@@ -16,4 +16,4 @@ Here's some examples:
 -   The cave fall in [The Hobbit - An Unexpected Journey] must be the
     most egregious I've seen yet.
 
-  [The Hobbit - An Unexpected Journey]: http://tshepang.net/the-hobbit-an-unexpected-journey-2012
+  [The Hobbit - An Unexpected Journey]: @/the-hobbit-an-unexpected-journey-2012.md

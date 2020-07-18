@@ -21,4 +21,4 @@ like *Taken*, it's not set in dark Europe, the twist not too
 interesting (unless it's your first time), and the untrained life-saver
 merely irritating.
 
-  [The case of 'The Matrix Reloaded']: http://tshepang.net/the-case-of-the-matrix-reloaded
+  [The case of 'The Matrix Reloaded']: @/the-case-of-the-matrix-reloaded.md

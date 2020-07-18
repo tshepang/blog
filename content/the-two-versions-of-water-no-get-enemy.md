@@ -20,6 +20,6 @@ original. I am sometimes tempted to call the whole thing superior, which
 would not be accurate.
 
   [The first version of this song]: http://www.youtube.com/watch?v=IQBC5URoF0s
-  [the best works of Fela Kuti]: http://tshepang.net/top-tracks-fela-kuti
-  [himself the best musician in history]: http://tshepang.net/top-musicians
+  [the best works of Fela Kuti]: @/top-tracks-fela-kuti.md
+  [himself the best musician in history]: @/top-musicians.md
   [a great friend of mine]: https://twitter.com/tshepomathopa

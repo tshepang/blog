@@ -45,6 +45,6 @@ director, Zhang Yimou. Another honorable mention goes to *The
 Incredibles* which happened to be the most impressive of all 3D animated
 films so far, and also blessed with a wonderful and fresh script.
 
-  [Kung Fu Hustle]: http://tshepang.net/kung-fu-hustle-2004
-  [The Triplets of Belleville]: http://tshepang.net/the-triplets-of-belleville-2003
-  [The Life of David Gale]: http://tshepang.net/the-life-of-david-gale-2003
+  [Kung Fu Hustle]: @/kung-fu-hustle-2004.md
+  [The Triplets of Belleville]: @/the-triplets-of-belleville-2003.md
+  [The Life of David Gale]: @/the-life-of-david-gale-2003.md

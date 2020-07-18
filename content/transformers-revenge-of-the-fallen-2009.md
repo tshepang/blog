@@ -33,4 +33,4 @@ especially annoyed by the impossible survival our heroes have, and worse
 still, none of the members of the military are any interesting. It's
 nearly unbearable and just too noisy. It's as bad as the first.
 
-  [predecessor]: http://tshepang.net/transformers-2007
+  [predecessor]: @/transformers-2007.md

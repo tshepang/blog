@@ -16,4 +16,4 @@ performance is good, but the appeal wore off, but it remains [my
 favorite of her performances]. I guess the main appeal of the movie is
 the concept of open relationships (and frank sex talk).
 
-  [my favorite of her performances]: http://tshepang.net/favorite-of-career-performances
+  [my favorite of her performances]: @/favorite-of-career-performances.md

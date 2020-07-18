@@ -20,6 +20,6 @@ Nevertheless, I was captivated by her words:
 >
 > -- [source]
 
-  [noble dreams]: http://tshepang.net/noble-dreams
+  [noble dreams]: @/noble-dreams.md
   [her story]: http://en.wikipedia.org/wiki/Mother_Teresa
   [source]: http://en.wikipedia.org/wiki/Mother_Teresa#Missionaries_of_Charity

@@ -17,11 +17,11 @@ rating system].
 -   [The Roots], 10
 -   [Michael Jackson], 10
 
-  [a simple rating system]: http://tshepang.net/simple-rating-system-for-music
-  [Fela Kuti]: http://tshepang.net/top-tracks-fela-kuti
-  [Burning Spear]: http://tshepang.net/top-tracks-burning-spear
-  [Letta Mbulu]: http://tshepang.net/letta-mbulu-vs-miriam-makeba
-  [Salif Keita]: http://tshepang.net/top-tracks-salif-keita
-  [Bob Marley]: http://tshepang.net/top-tracks-bob-marley
-  [The Roots]: http://tshepang.net/top-tracks-the-roots
-  [Michael Jackson]: http://tshepang.net/top-tracks-michael-jackson
+  [a simple rating system]: @/simple-rating-system-for-music.md
+  [Fela Kuti]: @/top-tracks-fela-kuti.md
+  [Burning Spear]: @/top-tracks-burning-spear.md
+  [Letta Mbulu]: @/letta-mbulu-vs-miriam-makeba.md
+  [Salif Keita]: @/top-tracks-salif-keita.md
+  [Bob Marley]: @/top-tracks-bob-marley.md
+  [The Roots]: @/top-tracks-the-roots.md
+  [Michael Jackson]: @/top-tracks-michael-jackson.md

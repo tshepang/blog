@@ -30,7 +30,7 @@ README if their software is abandoned, perhaps with mentions of
 alternatives.
 
 
-[a work project]: http://tshepang.net/rust-week-of-2017-10-05
+[a work project]: @/rust-week-of-2017-10-05.md
 [a failure related to cross-building pnet]: https://github.com/libpnet/libpnet/issues/309
 [the fault was in the build process]: https://github.com/japaric/cross/issues/39
 [nix crate]: https://crates.io/crates/nix

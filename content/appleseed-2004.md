@@ -38,4 +38,4 @@ appeal worked well.
 
 [my review of its sequel]
 
-  [my review of its sequel]: http://tshepang.net/appleseed-ex-machina-2007
+  [my review of its sequel]: @/appleseed-ex-machina-2007.md

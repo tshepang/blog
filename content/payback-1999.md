@@ -38,4 +38,4 @@ major:
 
 [A Director's Cut version] was released in 2006, and I loved it too.
 
-  [A Director's Cut version]: http://tshepang.net/payback-straight-up-2006
+  [A Director's Cut version]: @/payback-straight-up-2006.md

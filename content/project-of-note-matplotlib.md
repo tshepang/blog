@@ -17,5 +17,5 @@ versatility].
   [extensive documentation]: http://matplotlib.sourceforge.net/contents.html
   [examples]: http://matplotlib.sourceforge.net/examples/index.html
   [gallery]: http://matplotlib.sourceforge.net/gallery.html
-  [I played a bit with it]: http://tshepang.net/plotting-with-matplotlib
-  [was later on impressed by its versatility]: http://tshepang.net/matplotlib-rocks
+  [I played a bit with it]: @/plotting-with-matplotlib.md
+  [was later on impressed by its versatility]: @/matplotlib-rocks.md

@@ -16,4 +16,4 @@ portrayal as Will Smith's sweetheart in *Seven Pounds*.
 collection of gals of all movies. It's a nice display of the challenge
 of resisting temptation.
 
-  [I Think I Love My Wife]: http://tshepang.net/many-recent-movies-2008-09-25
+  [I Think I Love My Wife]: @/many-recent-movies-2008-09-25.md

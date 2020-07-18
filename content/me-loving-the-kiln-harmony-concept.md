@@ -13,6 +13,6 @@ two I'm using. This comes in a form of a product named [Kiln Harmony],
 which also turns out to be [a complex beast] behind-the-scenes. Would be
 kool to see a FLOSS implementation of this.
 
-  [another post]: http://tshepang.net/easing-switching-between-git-and-mercurial
+  [another post]: @/easing-switching-between-git-and-mercurial.md
   [Kiln Harmony]: http://blog.fogcreek.com/announcing-kiln-harmony-the-future-of-dvcs/
   [a complex beast]: https://news.ycombinator.com/item?id=5363085

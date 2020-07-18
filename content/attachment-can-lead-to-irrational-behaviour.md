@@ -41,7 +41,7 @@ Matt Zimmerman's [excellent post], where he touches on this issue.
 I did wise up a bit by simply doing things the way the makers of Mule
 intended.
 
-  [my previous job]: http://tshepang.net/me-got-meself-a-coding-job
+  [my previous job]: @/me-got-meself-a-coding-job.md
   [Mule ESB]: http://www.mulesoft.org/
   [software guidelines]: http://www.debian.org/social_contract#guidelines
   [not everybody knows that]: http://askubuntu.com/q/11592/2591

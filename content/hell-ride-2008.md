@@ -13,4 +13,4 @@ unbearable, and the smart-ass dialogue is just not as good as Tarantino
 can make it. Interestingly, Tarantino lend his name to the movie
 (*Tarantino presents...*). Seems like he's not easily embarassed.
 
-  [Reservoir Dogs]: http://tshepang.net/recent-movies-2010-10-25
+  [Reservoir Dogs]: @/recent-movies-2010-10-25.md

@@ -19,4 +19,4 @@ Chen Kaige's *The Promise* is nearly as annoyingly bad as his other
 overly-depressing piece of shit, *The Emperor & the Assassin*. Strange
 for a guy who excelled with [Yellow Earth].
 
-  [Yellow Earth]: http://tshepang.net/yellow-earth-1984
+  [Yellow Earth]: @/yellow-earth-1984.md

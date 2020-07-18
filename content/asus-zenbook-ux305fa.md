@@ -45,4 +45,4 @@ Given all above, this is overall a better laptop:
     bottom of the touchpad. The rigidity also ensures that there are no
     keyboard marks on the screen.
 
-  [Vaio Pro 13]: http://tshepang.net/sony-vaio-pro-13-svp13212sgbi
+  [Vaio Pro 13]: @/sony-vaio-pro-13-svp13212sgbi.md

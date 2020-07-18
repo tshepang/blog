@@ -21,4 +21,4 @@ powerful but its syntax ugly and over-varied +++ too much of a free-form
 language. That's bad for someone used to the gracious elegance of
 mighty Python. If I could stay away from it, I would!
 
-  [my new job]: http://tshepang.net/me-got-meself-a-coding-job
+  [my new job]: @/me-got-meself-a-coding-job.md

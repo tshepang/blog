@@ -18,4 +18,4 @@ memory. Notable and positive mention ought be granted to 3 characters
 ([another visit])
 
   [Eastern Cape]: http://en.wikipedia.org/wiki/Eastern_Cape
-  [another visit]: http://tshepang.net/another-visit-to-eastern-cape
+  [another visit]: @/another-visit-to-eastern-cape.md

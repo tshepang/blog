@@ -23,5 +23,5 @@ the fix was in before Debian 7 freeze.
 This work is my greatest contribution for this upcoming Debian release.
 
   [Reuben Thomas]: http://rrt.sc3d.org/
-  [update]: http://tshepang.net/debian-7-will-release-with-wajig-2-7-3
+  [update]: @/debian-7-will-release-with-wajig-2-7-3.md
   [did complain about this]: http://bugs.debian.org/670687

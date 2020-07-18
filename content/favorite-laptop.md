@@ -14,6 +14,6 @@ the placement of the 3 USB ports - at the back. It's a pity that I'll
 have to leave it behind since [I'm changing jobs]. I also use an
 external USB mouse, which also enhances the experience. [[update]]
 
-  [I previously mentioned]: http://tshepang.net/my-machines
-  [I'm changing jobs]: http://tshepang.net/me-got-meself-a-coding-job
-  [update]: http://tshepang.net/1-more-machine-2-less
+  [I previously mentioned]: @/my-machines.md
+  [I'm changing jobs]: @/me-got-meself-a-coding-job.md
+  [update]: @/1-more-machine-2-less.md

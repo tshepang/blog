@@ -56,5 +56,5 @@ enough for illustrative purposes. Also, note that there is no timeout
 set in case of problematic/slow network access, so my code will just sit
 there waiting to connect.
 
-  [set up]: http://tshepang.net/accessing-oracle-db-using-python-in-debian
+  [set up]: @/accessing-oracle-db-using-python-in-debian.md
   [cx_Oracle]: http://cx-oracle.sourceforge.net/html/index.html

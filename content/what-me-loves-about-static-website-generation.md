@@ -27,5 +27,5 @@ blog sources locally:
 
 [VCS]: http://en.wikipedia.org/wiki/Revision_control
 [a remote server]: https://bitbucket.org/tshepang/blog
-[the setup]: http://tshepang.net/blogging-with-pelican
-[being rather particular]: http://tshepang.net/favorite-pelican-themes
+[the setup]: @/blogging-with-pelican.md
+[being rather particular]: @/favorite-pelican-themes.md

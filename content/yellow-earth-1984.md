@@ -17,4 +17,4 @@ of tears.
 Amidst all the pain is at least one hilarious moment which involves
 bed-wetting.
 
-  [Raise the Red Lantern]: http://tshepang.net/recent-movies-2009-05-04
+  [Raise the Red Lantern]: @/recent-movies-2009-05-04.md

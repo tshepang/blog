@@ -41,6 +41,6 @@ small
   [sqlite3]: http://www.sqlite.org/docs.html
   [Suds]: https://fedorahosted.org/suds/wiki/Documentation
   [rdiff-backup usage examples]: http://www.nongnu.org/rdiff-backup/examples.html
-  [at work]: http://tshepang.net/me-got-meself-another-coding-job
+  [at work]: @/me-got-meself-another-coding-job.md
   [SocketCAN]: http://en.wikipedia.org/wiki/Socketcan
   [official documentation]: http://www.kernel.org/doc/Documentation/networking/can.txt

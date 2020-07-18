@@ -14,11 +14,11 @@ categories = ['movies']
 - [best-of-career performances]
 - [favorite-of-career performances]
 
-[top movies]: http://tshepang.net/top-movies
-[top elements]: http://tshepang.net/top-movie-elements
-[top characters]: http://tshepang.net/top-movie-characters
-[top performances]: http://tshepang.net/top-movie-performances
-[top visual effects]: http://tshepang.net/top-visual-effects
-[yearly reviews]: http://tshepang.net/tags/year-movie-review
-[best-of-career performances]: http://tshepang.net/best-of-career-performances
-[favorite-of-career performances]: http://tshepang.net/favorite-of-career-performances
+[top movies]: @/top-movies.md
+[top elements]: @/top-movie-elements.md
+[top characters]: @/top-movie-characters.md
+[top performances]: @/top-movie-performances.md
+[top visual effects]: @/top-visual-effects.md
+[yearly reviews]: http://tshepang.net/tags/year-movie-review.md
+[best-of-career performances]: @/best-of-career-performances.md
+[favorite-of-career performances]: @/favorite-of-career-performances.md

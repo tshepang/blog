@@ -15,4 +15,4 @@ screen (if memory serves well). Luckily, the movie isn't soiled with
 the silly characters that were so common in Akira's movies.
 
 
-[Seven Samurai]: http://tshepang.net/seven-samurai-1954
+[Seven Samurai]: @/seven-samurai-1954.md

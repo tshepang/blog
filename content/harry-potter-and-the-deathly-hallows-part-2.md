@@ -11,4 +11,4 @@ others too, though not really an interesting conclusion. The main battle
 feels like a poor copy of that in *Lord of the Rings: The Return of the
 King*, though it's not bad at all.
 
-  [the previous movie]: http://tshepang.net/harry-potter-and-the-deathly-hallows-part-1
+  [the previous movie]: @/harry-potter-and-the-deathly-hallows-part-1.md

@@ -50,5 +50,5 @@ flick, *The Texas Chainsaw Massacre: The Beginning*.
 One movie that should be forbidden from the eyes of all is *The
 Forbidden Kingdom*, even though I [enjoyed it more previously].
 
-  [Pan's Labyrinth]: http://tshepang.net/pan-s-labyrinth-2006
-  [enjoyed it more previously]: http://tshepang.net/recent-movies-2008-05-28
+  [Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
+  [enjoyed it more previously]: @/recent-movies-2008-05-28.md

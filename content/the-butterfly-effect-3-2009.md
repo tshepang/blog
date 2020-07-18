@@ -14,5 +14,5 @@ detectives, though no one was as good as overweight plant-loving
 character, a sort of wise guide for the lead character. The 'rape'
 scene is superbly made.
 
-  [immediate predecessor]: http://tshepang.net/the-butterfly-effect-2-2006
-  [the original]: http://tshepang.net/the-butterfly-effect-2004
+  [immediate predecessor]: @/the-butterfly-effect-2-2006.md
+  [the original]: @/the-butterfly-effect-2004.md
