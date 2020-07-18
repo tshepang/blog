@@ -16,13 +16,12 @@ Regardless, there was still much to celebrate. Let's see.
 visuals
 =======
 
-The best **production design** is in [Doubt], followed by [The Iceman].
+The best **production design** is in [Doubt].
 
 The best **visual design** is in [Upside Down], followed by [The Hunger
 Games: Catching Fire].
 
-The best **cinematography** is in [Doubt], also followed by [The
-Iceman].
+The best **cinematography** is in [Doubt].
 
 The best **visual effects** are in [Thor: The Dark World], followed by
 [Transformers: Age of Extinction], then [Edge of Tomorrow].
@@ -32,11 +31,10 @@ performances
 
 Following is the ranking of the **best male performances**:
 
-1.  [Michael Shannon] in [The Iceman]
 2.  Anthony Hopkins in [Red 2]
 3.  [Tom Wilkinson] in [Good People]
 4.  Geoffrey Rush in [The Book Thief]
-5.  Michael Shannon (repeat appearance) in [Premium Rush]
+5.  [Michael Shannon] in [Premium Rush]
 6.  Brad Pitt in [The Counselor]
 
 The **best female performance** was given by [Susanne Lothar] in [Funny
@@ -75,7 +73,6 @@ The following have the best **story concept**:
 
 
 [Doubt]: http://tshepang.net/doubt-2008
-[The Iceman]: http://tshepang.net/the-iceman-2012
 [Upside Down]: http://tshepang.net/upside-down-2012
 [The Hunger Games: Catching Fire]: http://tshepang.net/the-hunger-games-catching-fire-2013
 [Thor: The Dark World]: http://tshepang.net/thor-the-dark-world-2013
