@@ -15,15 +15,10 @@ style popularised by *The Blair Witch Project*, and sweetened with the
 year's best visual effects and superb sound. An honorable mention goes
 to [Taken].
 
-best movie
-==========
-
-[Children of Men] easily takes this one.
-
 direction
 =========
 
-Nothing was done better than [Children of Men], followed by [No Country
+Nothing was done better than [No Country
 for Old Men].
 
 misc elements
@@ -53,9 +48,8 @@ in the otherwise shitty and silly [The Forbidden Kingdom].
 misc small things
 =================
 
-The year's best escape was the villain's in *Kung Fu Panda*, followed
-by that from the 'safe house' in [Children of Men], which also happens
-to have the best battle scene. The best confrontation was that of the
+The year's best escape was the villain's in *Kung Fu Panda*.
+The best confrontation was that of the
 characters of Craig Bierko and Russel Crowe in a party scene in *The
 Cinderella Man*. The best end-credits sequence can be seen in *The
 Mummy*, which uses a concept copied from *300*'s end-credits sequence.
@@ -82,8 +76,7 @@ Ger Ryan (2nd runner-up) really touched me as a loving mother in
 *interMission* followed by Ellen Barkin (3rd runner-up) in *Someone Like
 You*. That Ger Ryan also ties with Ellen Page's appearance in the
 horrifying *Hard Candy* as my favorite female performance. They are
-followed by Clare-Hope Ashitey's key role in [Children of Men] and then
-a tie (2nd runner-up) between Katie Holmes' thief in *Mad Money* and
+followed by a tie between Katie Holmes' thief in *Mad Money* and
 Q'Orianka Kilcher's Pocahontas in [The New World]. The best bit-female
 performance is Alexandra Silber's book lover in *Room 1408* which is
 the best thing in the movie even though she appears in just one short
@@ -153,7 +146,6 @@ Marshall; Weather Man; Zoom
 
 [Cloverfield]: @/cloverfield-2008.md
 [Taken]: @/taken-2008.md
-[Children of Men]: @/children-of-men-2006.md
 [No Country for Old Men]: @/no-country-for-old-men-2007.md
 [Hairspray]: @/recent-movies-2008-05-19.md
 [Kinsey]: @/kinsey-2004.md

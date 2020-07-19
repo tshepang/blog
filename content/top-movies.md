@@ -12,4 +12,4 @@ categories = ['movies']
 
 [Fight Club]: @/fight-club-1999.md
 [Requiem for A Dream]: @/requiem-for-a-dream-2000.md
-[Children of Men]: @/children-of-men-2006.md
+[Children of Men]: @/children-of-men.md

@@ -18,6 +18,7 @@ categories = ['movies']
 2. [Doubt]
 3. *Munich*
 4. [Se7en]
+5. [Children of Men]
 
 ## editing
 1. [Requiem for a Dream]
@@ -27,6 +28,7 @@ categories = ['movies']
 1. [Fight Club]
 2. [Se7en]; [J. Edgar]
 3. [Doubt]
+4. [Children of Men]
 
 ## make-up
 - *The Pirates of the Caribbean* (trilogy)
@@ -120,7 +122,7 @@ categories = ['movies']
 [Fight Club]: @/fight-club-1999.md
 [Se7en]: @/se7en-1995.md
 [Requiem for a Dream]: @/requiem-for-a-dream-2000.md
-[Children of Men]: @/children-of-men-2006.md
+[Children of Men]: @/children-of-men.md
 [Doubt]: @/doubt-2008.md
 [J. Edgar]: @/j-edgar-2011.md
 [Apocalypto]: @/apocalypto-2006.md
