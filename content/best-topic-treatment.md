@@ -7,35 +7,30 @@ tags = ['list']
 categories = ['movies']
 +++
 
-political oppression
-====================
+### **political oppression**
 
 One of the worst things than can happen to anyone is being politically
 oppressed. Here's a movie that covers that topic best,
 [The Lives of Others].
 
-food
-====
+### **food**
 
 You would love to have some:
 
 1. Ratatouille
 2. Julie & Julia
 
-domestic abuse
-==============
+### **domestic abuse**
 
 Always a painful subject, *Festen* does a better job than anyone,
 to a level where I once deemed it a masterpiece. It remains high impact.
 
-existential threats
-===================
+### **existential threats**
 
 1. *Contagion*
 2. [The Thaw]
 
-alternate reality concepts
-==========================
+### **alternate reality concepts**
 
 - [The Butterfly Effect]
 - [The Thirteenth Floor]
