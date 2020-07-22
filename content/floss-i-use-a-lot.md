@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2020-07-08
+date = 2020-07-22
 
 [taxonomies]
 tags = ['list']
@@ -50,6 +50,7 @@ central servers
 
 - [Quod Libet]: audio player
 - **VLC**: user interface could be a lot better
+- [miniserve]: file server I use at home for video
 
 ## miscellaneous tools
 
@@ -86,3 +87,4 @@ central servers
 [bat]: https://crates.io/crates/bat
 [procps suite]: https://gitlab.com/procps-ng/procps
 [Quod Libet]: https://quodlibet.readthedocs.io
+[miniserve]: https://github.com/svenstaro/miniserve
