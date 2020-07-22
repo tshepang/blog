@@ -7,7 +7,7 @@ tags = ['list']
 +++
 
 
-*environment*
+## environment
 
 - **Debian**: my primary OS, and also my favorite
 - [dwm]: simple and clean window management
@@ -16,12 +16,12 @@ tags = ['list']
 - **fish**: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
 
-*software development*
+## software development
 
 - **cargo**: central tool for Rust development
 - **Git**: this one has won the mindshare
 
-*work*
+## work
 
 Our infrastructure is made up of remote machines that ferry data to
 central servers
@@ -33,25 +33,25 @@ central servers
 - **Ubuntu**: the OS running these remotes, and the server
 - **Bash**: default shell on Ubuntu
 
-*GUI applications*
+ ## GUI applications
 
 - **Xfce Terminal**
 - **Firefox**
 - [Transmission][]: the only torrent client I have ever used
 - **Nautilus**: decent GUI file manager
 
-*network diagnosis*
+## network diagnosis
 - [vnstat]: nifty network usage viewer
 - **ping**: checks general reachability
 - **mtr**: interactive traceroute tool
 - **netcat**: for checking if tcp ports are reachable
 
-*entertainment*
+## entertainment
 
 - [Quod Libet]: audio player
 - **VLC**: user interface could be a lot better
 
-*miscellaneous tools*
+## miscellaneous tools
 
 - **wajig**: acts as pleasant front-end to `apt` and other
   package management tools;
