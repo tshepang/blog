@@ -25,4 +25,5 @@ leading me to trust them.
 
 [Mullvad]: https://mullvad.net
 [in public]: https://github.com/mullvad
+[Cloudflare]: https://cloudflare.com
 [have to do with Rust]: https://blog.cloudflare.com/tag/rust
