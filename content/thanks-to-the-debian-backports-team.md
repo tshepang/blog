@@ -2,7 +2,7 @@
 date = 2011-07-14
 title = "thanks to the Debian backports team"
 [taxonomies]
-tags = ['Debian', 'VCS']
+tags = ['Debian', 'VCS', 'hardware']
 +++
 
 So I got this new HP laptop, Probook 4530s, and installed Debian 6
