@@ -1,6 +1,6 @@
 +++
 title = "favorite companies"
-date = 2020-07-26
+date = 2020-08-02
 
 [taxonomies]
 tags = ["Rust"]
@@ -8,6 +8,13 @@ tags = ["Rust"]
 
 I like these companies a lot for they appear transparent,
 leading me to trust them.
+
+- [Ferrous Systems], which offers Rust consulting and training,
+  also does a lot for the language in the embedded domain by running [Oxidise].
+  That, combined with having Jorge Aparicio work for them,
+  makes them the most visible name in that domain for Rust.
+  I am also excited for the effort in helping Rust get to be certified
+  to be used in Safety Critical systems, [Sealed Rust].
 
 - [Mullvad], which offers a VPN service,
   develop their tools [in public] (open source),
@@ -23,6 +30,9 @@ leading me to trust them.
   A number of them [have to do with Rust],
   for they use the language to develop some of their tools.
 
+[Ferrous Systems]: https://ferrous-systems.com
+[Oxidise]: https://oxidizeconf.com
+[Sealed Rust]: https://ferrous-systems.com/blog/sealed-rust-the-pitch
 [Mullvad]: https://mullvad.net
 [in public]: https://github.com/mullvad
 [Cloudflare]: https://cloudflare.com
