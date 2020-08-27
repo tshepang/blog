@@ -8,4 +8,4 @@ categories = ["movies"]
 +++
 
 *Captive State* has the best **direction**, which made the movie riveting.
-It also has the best **production design** (referring to scenes of a decaying city).
+It also has the best **production design** (referring here to scenes of a decaying city).
