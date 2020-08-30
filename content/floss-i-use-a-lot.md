@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2020-07-22
+date = 2020-08-30
 
 [taxonomies]
 tags = ['list']
@@ -15,6 +15,8 @@ tags = ['list']
 - **Emacs**: pleasant text editing and file management
 - **fish**: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
+- **NetworkManager**: handles all networking on my workstation,
+  and accessed via **nmcli** and **nm-applet**
 
 ### software development
 
