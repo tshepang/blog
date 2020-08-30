@@ -13,8 +13,8 @@ leading me to trust them.
   also does a lot for the language in the embedded domain by running [Oxidise].
   That, combined with having Jorge Aparicio work for them,
   makes them the most visible name in that domain for Rust.
-  I am also excited for the effort in helping Rust get to be certified
-  to be used in Safety Critical systems, [Sealed Rust].
+  I am also excited for [their effort][Sealed Rust] in helping Rust get to be
+  certified for use in Safety Critical systems.
 
 - [Mullvad], which offers a VPN service,
   develop their tools [in public] (open source),
