@@ -24,7 +24,7 @@ leading me to trust them.
 
 - [Cloudflare], which offers various internet services,
   offers many of them without a fee.
-  The one I use is the DNS service, with a promise of speed and privacy.
+  The one I use is their DNS service, with a promise of speed and privacy.
   Also impressive is their blog posts,
   which are both detailed and numerous.
   A number of them [have to do with Rust],
