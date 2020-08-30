@@ -6,7 +6,7 @@ date = 2020-08-02
 tags = ["Rust"]
 +++
 
-I like these companies a lot for they appear transparent,
+I like these companies a lot, for they appear transparent,
 leading me to trust them.
 
 - [Ferrous Systems], which offers Rust consulting and training,
