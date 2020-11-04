@@ -1,6 +1,5 @@
 title = "Tshepang logs"
 base_url = "http://tshepang.net"
-compile_sass = true
 highlight_code = true
 theme = "even"
 generate_rss = true
