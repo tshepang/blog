@@ -87,7 +87,6 @@ therapist in [The Kings's Speech]. Here's the runner-ups:
 
 1.  [Miles Teller] ([Rabbit Hole])
 3.  [Lennie James] ([The Next Three Days])
-4.  [Russell Brand] ([Get Him to the Greek])
 
 The **best female performance** is by Nicole Kidman in [Rabbit Hole],
 and the **best cast** is from the same movie. Maybe it's a distant
@@ -230,7 +229,6 @@ For a complete list of the movies I reviewed for the year, visit the
   [Miles Teller]: http://en.wikipedia.org/wiki/Miles_Teller
   [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
   [The Next Three Days]: @/the-next-three-days-2010.md
-  [Russell Brand]: http://en.wikipedia.org/wiki/Russell_Brand
   [Get Him to the Greek]: @/get-him-to-the-greek-2010.md
   [The Warrior's Way]: @/the-warrior-s-way-2010.md
   [Sandra Oh]: http://en.wikipedia.org/wiki/Sandra_Oh
