@@ -1,8 +1,9 @@
 +++
+title = "Birth"
 date = 2012-01-11
-title = "Birth (2004)"
+
 [taxonomies]
-tags = ['2012-movie', 'good']
+tags = ['2004', 'good']
 categories = ['movies']
 +++
 

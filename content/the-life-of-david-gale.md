@@ -3,7 +3,7 @@ title = "The Life of David Gale"
 date = 2011-12-14
 
 [taxonomies]
-tags = ['2005-movie', 'good']
+tags = ['2005', 'good']
 categories = ['movies']
 +++
 

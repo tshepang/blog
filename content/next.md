@@ -4,7 +4,7 @@ date = 2007-06-04
 
 [taxonomies]
 categories = ['movies']
-tags = ['2007-movie', 'good']
+tags = ['2007', 'good']
 +++
 
 A really well-made spectable, possessing high production standards,
