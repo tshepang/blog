@@ -6,7 +6,7 @@ tags = ['2012-movie', 'good']
 categories = ['movies']
 +++
 
-Nicole Kidman is kick-ass and so is her acting +++ check the almost
+Nicole Kidman is kick-ass and so is her acting... check the almost
 unbearable intensity she portrays at some high-brow show (probably
 opera) which she visits with her boyfriend. The script is damn amazing
 too, and so is the camerawork, and this, a drama, is among the most
