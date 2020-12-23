@@ -1,8 +1,9 @@
 +++
+title = "Crazy Heart"
 date = 2010-05-31
-title = "Crazy Heart (2009)"
+
 [taxonomies]
-tags = ['2010-movie', 'good']
+tags = ['2009-movie', 'good']
 categories = ['movies']
 +++
 

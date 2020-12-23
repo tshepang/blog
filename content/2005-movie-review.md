@@ -47,4 +47,4 @@ films so far, and also blessed with a wonderful and fresh script.
 
   [Kung Fu Hustle]: @/kung-fu-hustle-2004.md
   [The Triplets of Belleville]: @/the-triplets-of-belleville-2003.md
-  [The Life of David Gale]: @/the-life-of-david-gale-2003.md
+  [The Life of David Gale]: @/the-life-of-david-gale.md
