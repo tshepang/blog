@@ -185,7 +185,7 @@ direction, but got beaten by *Eurotrip* as worst movie.
   [Shaolin Soccer]: @/shaolin-soccer-2001.md
   [Kung Fu Hustle]: @/kung-fu-hustle-2004.md
   [The Butterfly Effect]: @/the-butterfly-effect-2004.md
-  [Birth]: @/birth-2004.md
+  [Birth]: @/birth.md
   [Lord of War]: @/lord-of-war-2005.md
   [2005]: @/2005-movie-review.md
   [Dead Man]: @/dead-man-1995.md

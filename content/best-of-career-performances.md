@@ -52,7 +52,7 @@ related: [favorite-of-career performances][favorite-of-career]
 [The Warlords]: @/the-warlords-2007.md
 [Changeling]: @/changeling-2008.md
 [The Rainmaker]: @/the-rainmaker-1997.md
-[Birth]: @/birth-2004.md
+[Birth]: @/birth.md
 [favorite-of-career]: @/favorite-of-career-performances.md
 [Rabbit Hole]: @/rabbit-hole-2010.md
 [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md

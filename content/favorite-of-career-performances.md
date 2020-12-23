@@ -32,7 +32,7 @@ related: [best-of-career performances]
 [Lord of War]: @/lord-of-war-2005.md
 [Payback]: @/payback-1999.md
 [Pi]: @/pi-1997.md
-[Birth]: @/birth-2004.md
+[Birth]: @/birth.md
 [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md
 [The Matador]: @/the-matador-2004.md
 [best-of-career performances]: @/best-of-career-performances.md
