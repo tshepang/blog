@@ -30,10 +30,9 @@ favorite, performance of mine is that of Laurence Fishburne in *Mystic
 River*, proving that he shouldn't be in bad money vehicles like the two
 sequels of *The Matrix*.
 
-**spectacle of the year** - *The Island*
+**spectacle of the year** - *King Kong*
 
-Great visuals and an intriguing story-line help make this the year's
-greatest spectacle. The runner-up happens to be *King Kong* for nobody
+Nobody
 has captured them ritualistic humans so perfectly as Peter Jackson did
 here nor did anyone ever commit such superb visual effects to screen.
 That's some explosive shit, and I only wish the plausibility of the
