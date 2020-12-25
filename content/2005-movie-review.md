@@ -24,8 +24,7 @@ violence.
 
 Li'l Zé, the incredibly vicious villain in *City of God*. The runner-up
 is Morgan Freeman's performance (his best so far) of a loser and
-old-time boxer in *Million Dollar Baby* which ties with Kevin Spacey's
-political activist in a superior [The Life of David Gale]. A lesser, but
+old-time boxer in *Million Dollar Baby*. A lesser, but
 favorite, performance of mine is that of Laurence Fishburne in *Mystic
 River*, proving that he shouldn't be in bad money vehicles like the two
 sequels of *The Matrix*.
@@ -46,4 +45,3 @@ films so far, and also blessed with a wonderful and fresh script.
 
   [Kung Fu Hustle]: @/kung-fu-hustle-2004.md
   [The Triplets of Belleville]: @/the-triplets-of-belleville-2003.md
-  [The Life of David Gale]: @/the-life-of-david-gale.md
