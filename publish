@@ -5,7 +5,6 @@ zola build
 rm --recursive $OUTPUTDIR/*
 cp --recursive public/* $OUTPUTDIR
 cd $OUTPUTDIR
-echo "tshepang.net" > CNAME
 git add --all
 git commit --message "build"
 git push origin master
