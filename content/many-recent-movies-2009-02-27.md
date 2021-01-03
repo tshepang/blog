@@ -7,9 +7,7 @@ categories = ['movies']
 
 I don't remember any movie based in India quite as rich and vivid as
 *Slumdog Millionaire*, a painful and seemingly pointless exercise which
-happens to be India's answer to the far superior *City of God*.
-[**update**: a revisit didn't prove very favourable, tempting me to
-replace 'far' with 'once']
+happens to be India's answer to the similar *City of God*.
 
 It was a pleasant surprise to find Darren Aronofsky helming *The
 Wrestler*, a small but solid, yet-another-fallen-sportsman-story with an
