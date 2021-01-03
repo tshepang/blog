@@ -1,6 +1,7 @@
 +++
-date = 2021-01-03
 title = "Shadowboxer (2005)"
+date = 2021-01-03
+
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']
@@ -19,4 +20,4 @@ The movie pretty much weird, with the sort of direction I haven't seen
 before. It didn't see much distribution, and I only watched it because
 I deeply enjoyed the director's later work, *Precious*.
 
-  [Red]: @/red-2010.md
+[Red]: @/red-2010.md
