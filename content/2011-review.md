@@ -14,7 +14,8 @@ boasting **best direction** (so realistic, also fast-paced),
 and **best editing** (so smooth).
 
 My **favorite performance** is that of [Andrew Howard] as the Russian
-gangster in *Limitless*. The movie also has my most **favorite story
+gangster in *Limitless*, followed by Cuba Gooding, jnr. in *The Hit List*.
+*Limitless* also has my most **favorite story
 concept**, that of a drug that vastly improves mental performance.
 
 The most **desirable gal** is [Kelly Reilly] in [Sherlock Holmes: A Game
