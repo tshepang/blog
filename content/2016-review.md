@@ -11,6 +11,8 @@ boasts **best direction**, and **best script**.
 
 The best **visual effects** can be found in [Deadpool], a movie that
 also boasts best **action direction** and **humor**.
+The best **sound** can be found in *Arrival*,
+one used to represent alien verbal communication.
 
 My **favorite character** is Black Panther ([Captain America: Civil
 War]), and runner-up is Leslie Jones in [Ghostbusters]. The **best
