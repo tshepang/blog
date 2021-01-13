@@ -6,6 +6,6 @@ tags = ['year-review', '2010']
 categories = ['movies']
 +++
 
-[Iron Man 2] boasts best **direction** and **dialog**.
+*[Iron Man 2]* boasts best **direction** and **dialog**.
 
   [Iron Man 2]: @/iron-man-2.md
