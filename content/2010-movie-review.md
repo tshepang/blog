@@ -98,8 +98,7 @@ The most **charming character** is the cat in *Secret of Kells*. Also,
 its eyes reminds me too much of a gal I intensely obsessed over some
 years ago.
 
-The most **perfect gentleman** is hubby to Julia (*Julie & Julia*),
-played by Stanley Tucci. Runner-up is the oh-so-perfect groom character
+The most **perfect gentleman** is the oh-so-perfect groom character
 in *Our Family Wedding*.
 
 The **koolest guy** is Mark Wahlberg's in *Date Night*, followed by
