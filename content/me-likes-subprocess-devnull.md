@@ -41,7 +41,7 @@ directory that isn't version-controlled by [Mercurial][]:
     >>> DEVNULL.close()
     ```
 
-    Much better, much uglier. ([example usage])
+    Much better, much uglier.
 
 4.  Something better:
 
@@ -69,6 +69,5 @@ directory that isn't version-controlled by [Mercurial][]:
 This [small and wonderful feature] is [new as of Python 3.3].
 
   [Mercurial]: http://mercurial.selenic.com
-  [example usage]: https://bitbucket.org/tshepang/scripts/src/tip/vcs.py
   [small and wonderful feature]: http://hg.python.org/cpython/rev/eaf93e156dff
   [new as of Python 3.3]: http://docs.python.org/3/whatsnew/3.3.html#subprocess
