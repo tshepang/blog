@@ -22,10 +22,9 @@ blog sources locally:
 
 - The complexity of [the setup] is going to scare many people away.
 - It can take a lot of time to setup; For me, this was made worse by
-  having a lot of posts, as well as [being rather particular] about
+  having a lot of posts, as well as being rather particular about
   the look and functionality of the output.
 
 [VCS]: http://en.wikipedia.org/wiki/Revision_control
-[a remote server]: https://bitbucket.org/tshepang/blog
-[the setup]: @/blogging-with-pelican.md
-[being rather particular]: @/favorite-pelican-themes.md
+[a remote server]: https://github.com/tshepang/blog
+[the setup]: https://www.getzola.org/documentation/getting-started/overview
