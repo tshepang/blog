@@ -29,18 +29,12 @@ rough estimates:
     Debian New Maintainers' Guide, again.
 -   **hour 9-10**: Reading [Debian wiki page on Hardening] let me
     simplify my packaging further... removing the need to specify
-    hardening flags explicitly ([commit]). I also uploaded the package
+    hardening flags explicitly. I also uploaded the package
     to <http://mentors.debian.net>, with the help of [DebianMentorsFaq].
     (**2014.03 update**: it has since been removed due to lack of
     activity)
 
-The resulting package now lives at
-<https://bitbucket.org/tshepang/ksig/src>. The changes I made, the
-actual packaging work, are in [this directory].
-
   [Ubuntu Packaging Guide]: http://developer.ubuntu.com/packaging/html
   [Debian New Maintainers' Guide]: http://www.debian.org/doc/manuals/maint-guide
   [Debian wiki page on Hardening]: https://wiki.debian.org/Hardening
-  [commit]: https://bitbucket.org/tshepang/ksig/commits/f4c7b60157b79847f918e3d8b24a74e6c5bec929
   [DebianMentorsFaq]: https://wiki.debian.org/DebianMentorsFaq
-  [this directory]: https://bitbucket.org/tshepang/ksig/src/f4c7b60157b79847f918e3d8b24a74e6c5bec929/debian
