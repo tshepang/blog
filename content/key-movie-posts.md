@@ -19,6 +19,6 @@ categories = ['movies']
 [top characters]: @/top-movie-characters.md
 [top performances]: @/top-movie-performances.md
 [top visual effects]: @/top-visual-effects.md
-[yearly reviews]: http://tshepang.github.io/tags/year-movie-review.md
+[yearly reviews]: http://tshepang.github.io/tags/year-movie-review
 [best-of-career performances]: @/best-of-career-performances.md
 [favorite-of-career performances]: @/favorite-of-career-performances.md

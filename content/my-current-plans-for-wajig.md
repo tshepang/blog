@@ -42,4 +42,4 @@ And over 800 commits later, I am glad.
   [optcomplete]: http://furius.ca/optcomplete/
   [I removed from wajig]: @/wajig-2-1-released.md
   [Tracker project]: http://projects.gnome.org/tracker/
-  [its tag]: http://tshepang.github.io/tags/wajig.md
+  [its tag]: http://tshepang.github.io/tags/wajig

@@ -16,10 +16,10 @@ Here is what I mean by the rating tags:
 -   2/7 [substandard]
 -   1/7 [bad]
 
-  [masterpiece]: http://tshepang.github.io/tags/masterpiece.md
-  [excellent]: http://tshepang.github.io/tags/excellent.md
-  [good]: http://tshepang.github.io/tags/good.md
-  [decent]: http://tshepang.github.io/tags/decent.md
-  [average]: http://tshepang.github.io/tags/average.md
-  [substandard]: http://tshepang.github.io/tags/substandard.md
-  [bad]: http://tshepang.github.io/tags/bad.md
+  [masterpiece]: http://tshepang.github.io/tags/masterpiece
+  [excellent]: http://tshepang.github.io/tags/excellent
+  [good]: http://tshepang.github.io/tags/good
+  [decent]: http://tshepang.github.io/tags/decent
+  [average]: http://tshepang.github.io/tags/average
+  [substandard]: http://tshepang.github.io/tags/substandard
+  [bad]: http://tshepang.github.io/tags/bad

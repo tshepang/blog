@@ -254,4 +254,4 @@ For a complete list of the movies I reviewed for the year, visit the
   [Mandingo]: @/mandingo-1975.md
   [The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
   [Bill & Ted's Excellent Adventure]: @/bill-ted-s-excellent-adventure-1989.md
-  [2011-movies tag]: http://tshepang.github.io/tags/2011-movie.md
+  [2011-movies tag]: http://tshepang.github.io/tags/2011-movie

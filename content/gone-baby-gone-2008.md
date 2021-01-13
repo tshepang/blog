@@ -25,5 +25,5 @@ this was the remaining movie I labeled [excellent] in the entire year of
 movie from that year went beyong the [very good] (7/10) rating.
 
   [Se7en]: @/se7en-1995.md
-  [excellent]: http://tshepang.github.io/tags/excellent.md
-  [very good]: http://tshepang.github.io/tags/good.md
+  [excellent]: http://tshepang.github.io/tags/excellent
+  [very good]: http://tshepang.github.io/tags/good
