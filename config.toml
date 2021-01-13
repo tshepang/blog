@@ -1,5 +1,5 @@
 title = "Tshepang logs"
-base_url = "http://tshepang.net"
+base_url = "http://tshepang.github.io"
 theme = "even"
 generate_rss = true
 build_search_index = true
