@@ -35,7 +35,8 @@ directory that isn't version-controlled by [Mercurial][]:
     ```
     >>> import os
     >>> from subprocess import call
-    >>> DEVNULL = open(os.devnull) >>> call('hg status'.split(), stderr=DEVNULL)
+    >>> DEVNULL = open(os.devnull)
+    >>> call('hg status'.split(), stderr=DEVNULL)
     255
     >>> DEVNULL.close()
     ```
@@ -59,7 +60,8 @@ directory that isn't version-controlled by [Mercurial][]:
 5.  Best solution:
 
     ```
-    >>> import os >>> from subprocess import call, DEVNULL
+    >>> import os
+    >>> from subprocess import call, DEVNULL
     >>> call('hg status'.split(), stderr=DEVNULL)
     255
     ```
