@@ -3,11 +3,8 @@ title = "about me"
 date = 2019-09-19
 +++
 
-- Tshepang Lekhonkhobe
-- <tshepang@gmail.com>
-- Johannesburg, [South Africa]
-
-I do software development [for a living] and as a hobby.
+I am Tshepang Lekhonkhobe (<tshepang@gmail.com>),
+and I do software development [for a living] and as a hobby.
 My favorite language (and ecosystem) is [Rust], and my OS of choice is
 [Debian].
 
@@ -17,12 +14,10 @@ Among my profiles on the web:
 - [GitHub] (software)
 - [Stack Exchange] (help)
 
----
-
 The sources for this blog can be found [on GitHub].
 
 [South Africa]: https://en.wikipedia.org/wiki/South_Africa
-[for a living]: https://panoptix.co.za
+[for a living]: https://panoptix.io
 [Rust]: https://rust-lang.org
 [Debian]: https://debian.org
 [GitHub]: https://github.com/tshepang
