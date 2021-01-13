@@ -76,7 +76,7 @@ central servers
 - **top**: a powerful and flexible process viewer, part of [procps suite]
 
 
-[I used to maintain it]: http://tshepang.net/tags/wajig.md
+[I used to maintain it]: http://tshepang.github.io/tags/wajig.md
 [Transmission]: http://www.transmissionbt.com
 [dwm]: @/my-current-desktop-setup.md
 [tmux]: https://github.com/tmux/tmux/wiki

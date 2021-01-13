@@ -40,7 +40,7 @@ And no, I still don't know yet what I'll use this for. Maybe I'll
 host my blog there, moving it from the GitHub service. Regardless, it's
 nice to have a machine accesible from anywhere on the web.
 
-  [my blog]: http://tshepang.net/tags/blogging.md
+  [my blog]: http://tshepang.github.io/tags/blogging.md
   [GitHub Pages]: http://pages.github.com
   [DigitalOcean]: https://www.digitalocean.com/?refcode=25b4887810cc
   [offered a $10 credit]: http://thechangelog.com/107

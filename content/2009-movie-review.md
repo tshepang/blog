@@ -123,4 +123,4 @@ Wu; Zack & Miri Make A Porno
   [Ghost Dog]: @/ghost-dog.md
   [Yellow Earth]: @/yellow-earth-1984.md
   [The World]: @/more-of-jia.md
-  [these]: http://tshepang.net/tags/2009-movie/.md
+  [these]: http://tshepang.github.io/tags/2009-movie/.md

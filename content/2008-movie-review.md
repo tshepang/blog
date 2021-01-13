@@ -164,4 +164,4 @@ Marshall; Weather Man; Zoom
 [Confidence]: @/confidence-2002.md
 [Silent Hill]: @/silent-hill-2006.md
 [Iron Man]: @/iron-man.md
-[these]: http://tshepang.net/tags/2008-movie.md
+[these]: http://tshepang.github.io/tags/2008-movie.md

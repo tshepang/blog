@@ -175,7 +175,7 @@ The **fall from glory** award goes to:
   [Battle In Heaven]: @/battle-in-heaven-2005.md
   [Zombieland]: @/zombieland-2009.md
   [A Nightmare on Elm Street]: @/a-nightmare-on-elm-street-1984.md
-  [masterpiece]: http://tshepang.net/tags/masterpiece.md
+  [masterpiece]: http://tshepang.github.io/tags/masterpiece.md
   [Taken]: @/taken-2008.md
   [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md
   [Perfume]: @/perfume-2006.md

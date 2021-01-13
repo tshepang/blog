@@ -186,4 +186,4 @@ Smokin' Aces 2; The Expendables; August Rush; Karate Kid; Skin
   [Iron Man 2]: @/iron-man-2.md
   [Smokin' Aces]: @/smokin-aces.md
   [Se7en]: @/se7en-1995.md
-  [these]: http://tshepang.net/tags/2010-movie/.md
+  [these]: http://tshepang.github.io/tags/2010-movie/.md

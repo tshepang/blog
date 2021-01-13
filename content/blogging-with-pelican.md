@@ -40,7 +40,7 @@ As for my blog, its tree structure looks like this ([repo]):
 -   I host my blog on GitHub, using a service the call GitHub Pages.
     `CNAME` is a file required by that service in the case where I want
     to use a domain other than `tshepang.github.io`. It's content is
-    `tshepang.net`.
+    `tshepang.github.io`.
 -   [fabfile.py] contains the build instructions, all for convenience so
     that I only need to run 2 commands, one for the build, and another
     for GitHub upload. However, I mostly just run one command that does

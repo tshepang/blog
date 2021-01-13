@@ -15,4 +15,4 @@ call this series *developer of the moment*, but at some point felt that
 the new name is more fitting, especially since a few of these developers
 generated some new triggers along the way.
 
-  [this series]: http://tshepang.net/tags/developer-of-note.md
+  [this series]: http://tshepang.github.io/tags/developer-of-note.md

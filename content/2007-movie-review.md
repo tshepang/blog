@@ -158,4 +158,4 @@ Bandits; Troy
   [Beowulf]: @/beowulf-2007.md
   [Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
   [The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
-  [these]: http://tshepang.net/tags/2007-movie.md
+  [these]: http://tshepang.github.io/tags/2007-movie.md
