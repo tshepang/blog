@@ -1,6 +1,7 @@
 +++
 title = "2010 review"
-date = 2016-06-13
+date = 2021-01-13
+
 [taxonomies]
 tags = ['year-review', '2010']
 categories = ['movies']
