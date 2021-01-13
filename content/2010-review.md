@@ -8,4 +8,9 @@ categories = ['movies']
 
 *[Iron Man 2]* boasts best **direction** and **dialog**.
 
-  [Iron Man 2]: @/iron-man-2.md
+*The American* boasts best **sound** (the guns),
+and also has the best **suspense**...
+you will be so glad you are not in the very uncomfortable situation
+the lead finds self in.
+
+[Iron Man 2]: @/iron-man-2.md
