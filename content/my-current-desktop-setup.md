@@ -212,5 +212,5 @@ the file browser. It remains my favorite GUI file manager.
   [this post]: @/floss-i-use-a-lot.md
   [dwm]: http://dwm.suckless.org
   [LightDM]: http://www.freedesktop.org/wiki/Software/LightDM
-  [~/.xsession]: https://bitbucket.org/tshepang/custom/src/tip/xsession
-  [config.def.h]: https://bitbucket.org/tshepang/custom/src/tip/config.def.h
+  [~/.xsession]: https://github.com/tshepang/custom/blob/master/xsession
+  [config.def.h]: https://github.com/tshepang/custom/blob/master/config.def.h
