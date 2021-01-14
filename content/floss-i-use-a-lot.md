@@ -23,18 +23,6 @@ tags = ['list']
 - **cargo**: central tool for Rust development
 - **Git**: this one has won the mindshare
 
-### work
-
-Our infrastructure is made up of remote machines that ferry data to
-central servers
-
-- **Docker** & **Docker Compose**: each component of the server runs in a container
-- **SaltStack**: administers the remote machines
-- **journalctl** & **systemctl**: these remote machines run systemd
-- **Elasticsearch**: the data store
-- **Ubuntu**: the OS running these remotes, and the server
-- **Bash**: default shell on Ubuntu
-
  ### GUI applications
 
 - **Xfce Terminal**
