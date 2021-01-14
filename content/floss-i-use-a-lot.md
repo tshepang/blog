@@ -46,7 +46,6 @@ central servers
 - [vnstat]: nifty network usage viewer
 - **ping**: checks general reachability
 - **mtr**: interactive traceroute tool
-- **netcat**: for checking if tcp ports are reachable
 
 ### entertainment
 
