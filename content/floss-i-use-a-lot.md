@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2020-08-30
+date = 2021-01-14
 
 [taxonomies]
 tags = ['list']
@@ -52,7 +52,6 @@ central servers
 
 - [Quod Libet]: audio player
 - **VLC**: user interface could be a lot better
-- [miniserve]: file server I use at home for video
 
 ### miscellaneous tools
 
