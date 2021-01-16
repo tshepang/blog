@@ -10,13 +10,13 @@ The year started with a whole lot of stellar performers but slowed down
 later on since I did things other than watch movies. Regardless, that
 early period represented some of the best movie years in recent memory.
 
-### best movie
+## best movie
 
 The year's best movie is [Baise-moi], whose unflinching and unsettling
 violence has the raw intensity of [Bamboozled]'s climax and the
 harshness of *Natural Born Killers*, without the humor.
 
-### performances
+## performances
 
 My favorite performances are a tie and all go to one movie, [Watchmen]
 +++ Jeffrey Dean Morgan as The Comedian and Jackie Earle Haley when face
@@ -35,7 +35,7 @@ The year's **best female performance** is a tie between that Rosario
 Dawson's as the love interest in [Seven Pounds], and Tilda Swinton's
 as fleeting lover in [The Curious Case of Benjamin Button].
 
-### characters
+## characters
 
 Compared to last year, this year is lacklustre, except for desirable
 gals where Golshifteh Farahani ([Body of Lies][Seven Pounds]) and husky
@@ -46,7 +46,7 @@ the warrior girl in [Avatar], who/which also happens to be year's
 
 Character design goes to the talking toys of [Small Soldiers].
 
-### visuals
+## visuals
 
 [2012] has some seriously explosive visual effects, among the best ever.
 The runner-ups:
@@ -57,7 +57,7 @@ The runner-ups:
 The best visual effects artefact is the robo-bikes in [Terminator
 Salvation].
 
-### misc elements
+## misc elements
 
 [There Will Be Blood] has the year's **best direction**. [Changeling]
 has **best production design**, and its runner-up is [Shoot 'Em Up],
@@ -85,7 +85,7 @@ The **best opening credits sequence** is in [Rock 'n Rolla][Shoot 'Em
 Up]. The **worst humiliation** is in near the end of [There Will Be
 Blood].
 
-### others
+## others
 
 [these] and these:
 
@@ -100,27 +100,27 @@ Clone Wars; Still Life; Superhero Movie; Taste of Cherry; Tie Me Up, Tie
 Me Down; Traitor; Valkyrie; Wind Will Carry Us, The; Wrestler, The; Xiao
 Wu; Zack & Miri Make A Porno
 
-  [Baise-moi]: @/baise-moi-2000.md
-  [Bamboozled]: @/bamboozled-2000.md
-  [Watchmen]: @/watchmen-2009.md
-  [Raffaëla Anderson]: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
-  [There Will Be Blood]: @/there-will-be-blood-2007.md
-  [Changeling]: @/changeling-2008.md
-  [Seven Pounds]: @/recent-movies-2009-04-14.md
-  [The Curious Case of Benjamin Button]: @/fincher-s-most-pointless-yet.md
-  [Midnight Cowboy]: @/recent-movies-2009-07-13.md
-  [Still Life]: @/recent-movies-2009-09-30.md
-  [Avatar]: @/avatar-2009.md
-  [Small Soldiers]: @/small-soldiers-1998.md
-  [2012]: @/2012-2009.md
-  [Transformers 2]: @/transformers-revenge-of-the-fallen-2009.md
-  [Terminator Salvation]: @/terminator-salvation-2009.md
-  [Shoot 'Em Up]: @/recent-movies-2009-03-06.md
-  [Law-Abiding Citizen]: @/law-abiding-citizen-2009.md
-  [You Don't Mess With the Zohan]: @/many-recent-movies-2009-02-27.md
-  [Sponge Bob]: @/recent-movies-2009-10-23.md
-  [Quantum of Solace]: @/quantum-of-solace-2008.md
-  [Ghost Dog]: @/ghost-dog.md
-  [Yellow Earth]: @/yellow-earth-1984.md
-  [The World]: @/more-of-jia.md
-  [these]: http://tshepang.github.io/tags/2009-movie
+[Baise-moi]: @/baise-moi-2000.md
+[Bamboozled]: @/bamboozled-2000.md
+[Watchmen]: @/watchmen-2009.md
+[Raffaëla Anderson]: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
+[There Will Be Blood]: @/there-will-be-blood-2007.md
+[Changeling]: @/changeling-2008.md
+[Seven Pounds]: @/recent-movies-2009-04-14.md
+[The Curious Case of Benjamin Button]: @/fincher-s-most-pointless-yet.md
+[Midnight Cowboy]: @/recent-movies-2009-07-13.md
+[Still Life]: @/recent-movies-2009-09-30.md
+[Avatar]: @/avatar-2009.md
+[Small Soldiers]: @/small-soldiers-1998.md
+[2012]: @/2012-2009.md
+[Transformers 2]: @/transformers-revenge-of-the-fallen-2009.md
+[Terminator Salvation]: @/terminator-salvation-2009.md
+[Shoot 'Em Up]: @/recent-movies-2009-03-06.md
+[Law-Abiding Citizen]: @/law-abiding-citizen-2009.md
+[You Don't Mess With the Zohan]: @/many-recent-movies-2009-02-27.md
+[Sponge Bob]: @/recent-movies-2009-10-23.md
+[Quantum of Solace]: @/quantum-of-solace-2008.md
+[Ghost Dog]: @/ghost-dog.md
+[Yellow Earth]: @/yellow-earth-1984.md
+[The World]: @/more-of-jia.md
+[these]: http://tshepang.github.io/tags/2009-movie

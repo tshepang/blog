@@ -1,6 +1,7 @@
 +++
-date = 2014-03-23
 title = "2011 movie review"
+date = 2014-03-23
+
 [taxonomies]
 tags = ['year-movie-review']
 categories = ['movies']
@@ -28,8 +29,7 @@ Here's the rest (ranked alphabetically):
 -   [Sex, Lies, and Videotape]
 -   [Tangled]
 
-visuals
-=======
+## visuals
 
 A ranking of the year's **best cinematography**:
 
@@ -73,8 +73,7 @@ sequence** is the [exoskeleton][exoskeletons] chase in [G.I. Joe: The
 Rise of Cobra]. However, there **most innovative sequence** is the
 split-screen bounty hunter scene found in [The Green Hornet].
 
-performances
-============
+## performances
 
 My **favorite performance** is that of [Andie MacDowell] when playing
 the sweet love interest in [Sex, Lies, and Videotape]. First runner-up
@@ -93,8 +92,7 @@ and the **best cast** is from the same movie. Maybe it's a distant
 second, but the runner-up on that category is [Pathology]. The **best
 voice talent** is that of [Rango].
 
-characters
-==========
+## characters
 
 As regards the **best character development**, James Spader's
 free-spirited character in [Sex, Lies, and Videotape] ties with Nicole
@@ -126,8 +124,7 @@ The **best comic character** is the fat guy in [She's Out of My
 League], followed by a tie between Jack Black's partner in [Nacho
 Libre] and the fat oversexed woman in [Nanny McPhee And The Big Bang].
 
-miscellaneous
-=============
+## miscellaneous
 
 The category of **most important movie** exists in order to recognize
 movies that deliver certain ideas/messages I find extremely important;
@@ -171,8 +168,7 @@ convincing.
 The **most overrated** movie is [Sunset Boulevard] followed by [All
 About Eve]. The former is substandard while the second is quite decent.
 
-'old' movies
-==============
+## 'old' movies
 
 This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
@@ -196,62 +192,62 @@ Here's the runner-ups:
 For a complete list of the movies I reviewed for the year, visit the
 [2011-movies tag].
 
-  [Megamind]: @/megamind-2010.md
-  [4 Months, 3 Weeks and 2 Days]: @/4-months-3-weeks-and-2-days-2007.md
-  [Crimson Gold]: @/crimson-gold-2003.md
-  [Downfall]: @/downfall-2004.md
-  [Kung Fu Panda 2]: @/kung-fu-panda-2-2011.md
-  [Rabbit Hole]: @/rabbit-hole-2010.md
-  [Sex, Lies, and Videotape]: @/sex-lies-and-videotape-1989.md
-  [Tangled]: @/tangled-2010.md
-  [The Seventh Seal]: @/the-seventh-seal-1957.md
-  [The Kings's Speech]: @/the-king-s-speech-2010.md
-  [Shelter]: @/shelter-2010.md
-  [Orphan]: @/orphan-2009.md
-  [The Chronicles of Narnia: The Voyage of the Dawn Treader]: @/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010.md
-  [Sucker Punch]: @/sucker-punch-2011.md
-  [Percy Jackson & The Olympians: The Lightning Thief]: @/percy-jackson-the-olympians-the-lightning-thief-2010.md
-  [Tron: Legacy]: @/tron-legacy-2010.md
-  [Transformers: Dark of the Moon]: @/transformers-dark-of-the-moon-2011.md
-  [Super 8]: @/super-8-2011.md
-  [The Chronicles of Narnia: Prince Caspian]: @/the-chronicles-of-narnia-prince-caspian-2008.md
-  [exoskeletons]: http://en.wikipedia.org/wiki/Powered_exoskeleton
-  [G.I. Joe: The Rise of Cobra]: @/g-i-joe-the-rise-of-cobra-2009.md
-  [Gulliver's Travels]: @/gulliver-s-travels-2010.md
-  [Toy Story 3]: @/toy-story-3-2010.md
-  [Rango]: @/rango-2011.md
-  [Legend of the Guardians]: @/legend-of-the-guardians-the-owls-of-ga-hoole-2010.md
-  [9]: @/9-2009.md
-  [The Green Hornet]: @/the-green-hornet-2011.md
-  [Andie MacDowell]: http://en.wikipedia.org/wiki/Andie_MacDowell
-  [Jon de Lancie]: http://en.wikipedia.org/wiki/John_de_Lancie
-  [Pathology]: @/pathology-2008.md
-  [Miles Teller]: http://en.wikipedia.org/wiki/Miles_Teller
-  [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
-  [The Next Three Days]: @/the-next-three-days-2010.md
-  [Get Him to the Greek]: @/get-him-to-the-greek-2010.md
-  [The Warrior's Way]: @/the-warrior-s-way-2010.md
-  [Sandra Oh]: http://en.wikipedia.org/wiki/Sandra_Oh
-  [Teri Hatcher]: http://en.wikipedia.org/wiki/Teri_Hatcher
-  [Tango & Cash]: @/tango-cash-1989.md
-  [Jill Schoelen]: http://en.wikipedia.org/wiki/Jill_Schoelen
-  [The Stepfather]: @/the-stepfather-1987.md
-  [According to Greta]: @/according-to-greta-2009.md
-  [She's Out of My League]: @/she-s-out-of-my-league-2010.md
-  [Nacho Libre]: @/nacho-libre-2006.md
-  [Nanny McPhee And The Big Bang]: @/nanny-mcphee-and-the-big-bang-2010.md
-  [Fair Game]: @/fair-game.md
-  [Shrek Forever After]: @/shrek-forever-after-2010.md
-  [Bill & Ted's Bogus Journey]: @/bill-ted-s-bogus-journey-1991.md
-  [Being There]: @/being-there-1979.md
-  [Brewster's Millions]: @/brewster-s-millions-1985.md
-  [Semi-Pro]: @/semi-pro-2008.md
-  [Dark Matter]: @/dark-matter-2007.md
-  [Groundhog Day]: @/groundhog-day-1993.md
-  [Sunset Boulevard]: @/sunset-boulevard-1950.md
-  [All About Eve]: @/all-about-eve-1950.md
-  [Requiem for A Dream]: @/requiem-for-a-dream-2000.md
-  [Mandingo]: @/mandingo-1975.md
-  [The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
-  [Bill & Ted's Excellent Adventure]: @/bill-ted-s-excellent-adventure-1989.md
-  [2011-movies tag]: http://tshepang.github.io/tags/2011-movie
+[Megamind]: @/megamind-2010.md
+[4 Months, 3 Weeks and 2 Days]: @/4-months-3-weeks-and-2-days-2007.md
+[Crimson Gold]: @/crimson-gold-2003.md
+[Downfall]: @/downfall-2004.md
+[Kung Fu Panda 2]: @/kung-fu-panda-2-2011.md
+[Rabbit Hole]: @/rabbit-hole-2010.md
+[Sex, Lies, and Videotape]: @/sex-lies-and-videotape-1989.md
+[Tangled]: @/tangled-2010.md
+[The Seventh Seal]: @/the-seventh-seal-1957.md
+[The Kings's Speech]: @/the-king-s-speech-2010.md
+[Shelter]: @/shelter-2010.md
+[Orphan]: @/orphan-2009.md
+[The Chronicles of Narnia: The Voyage of the Dawn Treader]: @/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010.md
+[Sucker Punch]: @/sucker-punch-2011.md
+[Percy Jackson & The Olympians: The Lightning Thief]: @/percy-jackson-the-olympians-the-lightning-thief-2010.md
+[Tron: Legacy]: @/tron-legacy-2010.md
+[Transformers: Dark of the Moon]: @/transformers-dark-of-the-moon-2011.md
+[Super 8]: @/super-8-2011.md
+[The Chronicles of Narnia: Prince Caspian]: @/the-chronicles-of-narnia-prince-caspian-2008.md
+[exoskeletons]: http://en.wikipedia.org/wiki/Powered_exoskeleton
+[G.I. Joe: The Rise of Cobra]: @/g-i-joe-the-rise-of-cobra-2009.md
+[Gulliver's Travels]: @/gulliver-s-travels-2010.md
+[Toy Story 3]: @/toy-story-3-2010.md
+[Rango]: @/rango-2011.md
+[Legend of the Guardians]: @/legend-of-the-guardians-the-owls-of-ga-hoole-2010.md
+[9]: @/9-2009.md
+[The Green Hornet]: @/the-green-hornet-2011.md
+[Andie MacDowell]: http://en.wikipedia.org/wiki/Andie_MacDowell
+[Jon de Lancie]: http://en.wikipedia.org/wiki/John_de_Lancie
+[Pathology]: @/pathology-2008.md
+[Miles Teller]: http://en.wikipedia.org/wiki/Miles_Teller
+[Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
+[The Next Three Days]: @/the-next-three-days-2010.md
+[Get Him to the Greek]: @/get-him-to-the-greek-2010.md
+[The Warrior's Way]: @/the-warrior-s-way-2010.md
+[Sandra Oh]: http://en.wikipedia.org/wiki/Sandra_Oh
+[Teri Hatcher]: http://en.wikipedia.org/wiki/Teri_Hatcher
+[Tango & Cash]: @/tango-cash-1989.md
+[Jill Schoelen]: http://en.wikipedia.org/wiki/Jill_Schoelen
+[The Stepfather]: @/the-stepfather-1987.md
+[According to Greta]: @/according-to-greta-2009.md
+[She's Out of My League]: @/she-s-out-of-my-league-2010.md
+[Nacho Libre]: @/nacho-libre-2006.md
+[Nanny McPhee And The Big Bang]: @/nanny-mcphee-and-the-big-bang-2010.md
+[Fair Game]: @/fair-game.md
+[Shrek Forever After]: @/shrek-forever-after-2010.md
+[Bill & Ted's Bogus Journey]: @/bill-ted-s-bogus-journey-1991.md
+[Being There]: @/being-there-1979.md
+[Brewster's Millions]: @/brewster-s-millions-1985.md
+[Semi-Pro]: @/semi-pro-2008.md
+[Dark Matter]: @/dark-matter-2007.md
+[Groundhog Day]: @/groundhog-day-1993.md
+[Sunset Boulevard]: @/sunset-boulevard-1950.md
+[All About Eve]: @/all-about-eve-1950.md
+[Requiem for A Dream]: @/requiem-for-a-dream-2000.md
+[Mandingo]: @/mandingo-1975.md
+[The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
+[Bill & Ted's Excellent Adventure]: @/bill-ted-s-excellent-adventure-1989.md
+[2011-movies tag]: http://tshepang.github.io/tags/2011-movie

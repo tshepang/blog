@@ -13,8 +13,7 @@ The **best movie** I have seen this year is
 a tie between [Brooklyn's Finest][Inception]
 and [Somewhere].
 
-visuals
-=======
+## visuals
 
 The best **cinematography** can be seen in [An Education], followed by
 [The Social Network]. The best **visual effects** can be seen in
@@ -24,8 +23,7 @@ A Funeral*... the interior of that home is wonderful. The best
 **opening credits sequence** is in *Up in the Air*, followed by *An
 Education*.
 
-miscellaneous
-=============
+## miscellaneous
 
 The best **adventure** movie is *Prince of Persia*, the best **horror**,
 *Call Back*, and the most **painful** is *The
@@ -40,8 +38,7 @@ was nothing more **moody** than *Anamorph*.
 
 The best **sound** is a tie between *Up in the Air* and [Somewhere].
 
-acting & characters
-===================
+## acting & characters
 
 There were so many enjoyable performances this year that I couln't
 clearly decide who was better than who, and here's an attempt:
@@ -128,8 +125,7 @@ Each repeat of a movie is a different experience, hence this category of
 **best first-time viewing experience**. This year, it is won by [Iron
 Man 2], which failed on the rewatch value department.
 
-'old' movies
-==============
+## 'old' movies
 
 This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
@@ -145,8 +141,7 @@ The **fall from glory** award goes to:
 2.  [Malcolm X][The Job] - I considered this a masterpiece at some point
 3.  [Human Nature][Inception] - same as above
 
-unpleasantries
-==============
+## unpleasantries
 
 The most **boring** movie this year is *A Brighter Summer Day*, followed
 by *Afterwards* (no pun intended). The most **overrated** movie is
@@ -155,8 +150,7 @@ live anywhere near the high expectations worthy of animated movies of
 its stature. The most **overrated villain** is Jack Nicholson as The
 Joker in [Batman][Inception]. WTF!
 
-[these] and these:
-==================
+## [these] and these:
 
 100 Girls; Accidental Husband, The; Agora; Alien Hunter; Annie Hall;
 Armored; Asterix at the Olympic Games; Blood and Chocolate; Canadian
@@ -173,16 +167,16 @@ Twilight Saga -- Eclipse; Ultimate Gift, The; The Unborn; Up; Wall
 Street; War, Inc; What Doesn't Kill You; World's Greatest Dad;
 Smokin' Aces 2; The Expendables; August Rush; Karate Kid; Skin
 
-  [Somewhere]: @/somewhere-2010.md
-  [Inception]: @/many-many-recent-movies.md
-  [The A-Team]: @/recent-movies-2010-09-15.md
-  [An Education]: @/recent-movies-2010-05-06.md
-  [The Social Network]: @/the-social-network-2010.md
-  [Memento]: @/memento-2000.md
-  [The Job]: @/recent-movies-2010-11-19.md
-  [Clash of the Titans]: @/clash-of-the-titans-2010.md
-  [Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md
-  [Iron Man 2]: @/iron-man-2.md
-  [Smokin' Aces]: @/smokin-aces.md
-  [Se7en]: @/se7en-1995.md
-  [these]: http://tshepang.github.io/tags/2010-movie
+[Somewhere]: @/somewhere-2010.md
+[Inception]: @/many-many-recent-movies.md
+[The A-Team]: @/recent-movies-2010-09-15.md
+[An Education]: @/recent-movies-2010-05-06.md
+[The Social Network]: @/the-social-network-2010.md
+[Memento]: @/memento-2000.md
+[The Job]: @/recent-movies-2010-11-19.md
+[Clash of the Titans]: @/clash-of-the-titans-2010.md
+[Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md
+[Iron Man 2]: @/iron-man-2.md
+[Smokin' Aces]: @/smokin-aces.md
+[Se7en]: @/se7en-1995.md
+[these]: http://tshepang.github.io/tags/2010-movie

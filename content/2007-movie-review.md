@@ -9,14 +9,14 @@ categories = ['movies']
 Not such a good year at the movies if compared to [2005] and [2006], and
 there's isn't even a single masterpiece.
 
-### movie of the year
+## movie of the year
 
 Nothing this year has had as much impact on me as has Mel Gibson's
 [Apocalypto] given its gruelling tale of cruelty, the sort I never
 witnessed before. The runner-up is *300* for its awe-inspiring visual
 magnificence.
 
-### enchanting
+## enchanting
 
 *Polar Express* was made a number of years ago but it still packs a
 punch in many of its moments especially the near-accident of the magic
@@ -26,27 +26,27 @@ history. *Ratatouille*, another fantasy, is a very enjoyable runner-up,
 even given its formulaic touches, typical of so much animation out
 there.
 
-### cinematography
+## cinematography
 
 [Munich] can't be beaten in this category for its flawlessly-polished
 look. It is followed by a much smaller movie, *Three Colours Blue*, for
 its beautiful usage of lighting.
 
-### production design
+## production design
 
 It's rare that an old movie would impress this much due to its visual
 aspects, but the design of the alien environment in *Alien* was
 breath-taking. The runner-up happened to be *District B13* for its
 rotting and crime-ridden urban setting.
 
-### cast
+## cast
 
 What helped make [Apocalypto] feel so real is its cast of unknowns; I
 did not notice any misplacement or annoying performance. The runner-up
 is the cast of *American Ganster* (and that does not include the two
 leads). *Hot Fuzz* wins the title for comic cast.
 
-### performances
+## performances
 
 The best female performance is that of Anne Parillaud,
 who plays the lead in *Sex is Comedy*, portraying a tough yet lovely
@@ -57,7 +57,7 @@ a pity because that was Forest's best ever performance while Anthony's
 was business-as-usual. Mark Ruffalo's subdued but highly-focused
 character in *Zodiac* is runner-up.
 
-### characters
+## characters
 
 The best villain is Josh Brolin's dirty cop found in *American Ganster*
 for its unflinching acts of corruption. My favorite character is Gerard
@@ -72,7 +72,7 @@ kind-hearted ice skating champion in the delightful *Blades of Glory*.
 The **best character design** is the child-killing, pale monster in
 [Pan's Labyrinth].
 
-### visuals
+## visuals
 
 The year's greatest spectacle *Transformers* is also the year's best
 visual effects showcase, and should have tied with the runner-up,
@@ -84,7 +84,7 @@ its gorgeous fantasy-like scenes. The most horrific/shocking imagery
 emanates from [The Last King of Scotland], a scene that showcases the
 aftermath of the cheating wife.
 
-### action
+## action
 
 The best action of any movie this year emanates from the gripping [The
 Bourne Ultimatum], given its excellent execution and the relentless
@@ -94,7 +94,7 @@ Kingdom*. The best chase sequence is to be found in the very first scene
 of *District B13*, where the very athletic hero saves his neck from some
 very unloving fellows.
 
-### miscellaneous
+## miscellaneous
 
 [Munich] ties with *Cars* as regards the best sound. There's a tie
 between *The Number 23* and *Lucky Number Slevin* (presentation of
@@ -116,7 +116,7 @@ not a bit better than those Humphrey Bogart flicks. The runner-up is
 *The Searchers* which lacked anything commendable, bar some nice images
 during the final battle.
 
-### special mention
+## special mention
 
 Something like *Alpha Dog* has not quite been done before and therefore
 maintains amazing levels of freshness given various moments (the angry
@@ -125,14 +125,14 @@ pointless. Another special mention should go to *Devil's Rejects* for
 its crazy storyline of killers-for-fun and gruesome violence,
 reminiscent of *Natural Born Killers*.
 
-### best first-time viewing experiences
+## best first-time viewing experiences
 
 As anyone knows and as seen many times above, movies never offer the
 same experience when revisited. So here's a listing of those which were
 most impressive on first viewing in order of which had the most impact:
 [Apocalypto], *Fearless*, *300*, *Next*.
 
-### others
+## others
 
 [these] and these:
 
@@ -149,13 +149,13 @@ Man, The; Pursuit of Happiness, The; Searchers, The; She's the Man;
 Sleeping Bride; Star Wrek; Sum of All Fears, The; Throne of Blood; Time
 Bandits; Troy
 
-  [2005]: @/2005-movie-review.md
-  [2006]: @/2006-movie-review.md
-  [Apocalypto]: @/apocalypto-2006.md
-  [Munich]: @/munich-2005.md
-  [Fracture]: @/fracture-2007.md
-  [The Last King of Scotland]: @/the-last-king-of-scotland-2006.md
-  [Beowulf]: @/beowulf-2007.md
-  [Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
-  [The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
-  [these]: http://tshepang.github.io/tags/2007-movie
+[2005]: @/2005-movie-review.md
+[2006]: @/2006-movie-review.md
+[Apocalypto]: @/apocalypto-2006.md
+[Munich]: @/munich-2005.md
+[Fracture]: @/fracture-2007.md
+[The Last King of Scotland]: @/the-last-king-of-scotland-2006.md
+[Beowulf]: @/beowulf-2007.md
+[Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
+[The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
+[these]: http://tshepang.github.io/tags/2007-movie

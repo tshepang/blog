@@ -7,22 +7,19 @@ tags = ['year-movie-review']
 categories = ['movies']
 +++
 
-movie of the year
-=================
+## movie of the year
 
 [Cloverfield] is the year's greatest spectacle, with the inventive
 style popularised by *The Blair Witch Project*, and sweetened with the
 year's best visual effects and superb sound. An honorable mention goes
 to [Taken].
 
-direction
-=========
+## direction
 
 Nothing was done better than [No Country
 for Old Men].
 
-misc elements
-=============
+## misc elements
 
 Best comedy is *Knocked Up*, and nothing was quite as enchanting as the
 feel-good socio-political [Hairspray]. The runner-up is the formulaic,
@@ -45,8 +42,7 @@ in [Final Fantasy VII - Advent Children], followed by [Kung Fu Panda].
 The best fight is between the characters played by Jet Li and Jacky Chan
 in the otherwise shitty and silly [The Forbidden Kingdom].
 
-misc small things
-=================
+## misc small things
 
 The year's best escape was the villain's in *Kung Fu Panda*.
 The best confrontation was that of the
@@ -58,8 +54,7 @@ Mummy*, which uses a concept copied from *300*'s end-credits sequence.
 complete with beautiful comic touches) and I don't remember a car crash
 in movie history as great as that in *Death Proof*.
 
-performances
-============
+## performances
 
 The year's performance is easily Heath Ledger's in [The Dark Knight],
 and he happens to be the movie's sole redeemer, almost. Other
@@ -89,8 +84,7 @@ With Money* (very honest and fresh performances) and *The Lookout*. The
 best characterisations was in [The New World] for the colorful portrayal
 of the Native Americans.
 
-characters
-==========
+## characters
 
 The **best villain** is Heath Ledger's The Joker in [The Dark Knight],
 who is also my most favorite ever. He is followed by Sid Haig's
@@ -108,8 +102,7 @@ is the hyper-realistic mountain creatures in *The Mummy 3*. The best
 **character design** however goes to the villainous Maltazard in *Arthur
 & the Invisibles*, followed by the three suits in [Iron Man].
 
-visuals
-=======
+## visuals
 
 The year's most beautiful imagery can be found in *Surf's Up* (the
 waves and the hidden beach), with an honorable mention going to *The

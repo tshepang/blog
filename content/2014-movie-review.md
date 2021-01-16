@@ -13,8 +13,7 @@ at the excellent level (6/7), never mind a masterpiece (7/7). That also
 means nothing stood out enough to be labeled **best movie of the year**.
 Regardless, there was still much to celebrate. Let's see.
 
-visuals
-=======
+## visuals
 
 The best **production design** is in [Doubt].
 
@@ -26,8 +25,7 @@ The best **cinematography** is in [Doubt].
 The best **visual effects** are in [Thor: The Dark World], followed by
 [Transformers: Age of Extinction], then [Edge of Tomorrow].
 
-performances
-============
+## performances
 
 Following is the ranking of the **best male performances**:
 
@@ -40,8 +38,7 @@ Following is the ranking of the **best male performances**:
 The **best female performance** was given by [Susanne Lothar] in [Funny
 Games], followed by Emily Watson in [The Book Thief].
 
-characters
-==========
+## characters
 
 My **favorite character** is the adoptive father in [The Book Thief],
 played by Geoffrey Rush. He's followed by the charming China Doll in
@@ -55,8 +52,7 @@ There was no better **character design** than the giant samurai robot in
 [The Wolverine]. In second place is the Alpha dragon from [How To Train
 Your Dragon 2].
 
-miscellaneous
-=============
+## miscellaneous
 
 There was no **direction** better than [Funny Games],
 and There was no
