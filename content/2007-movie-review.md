@@ -74,7 +74,7 @@ The **best character design** is the child-killing, pale monster in
 
 ## visuals
 
-The year's greatest spectacle *Transformers* is also the year's best
+The year's greatest spectacle, *Transformers*, is also the year's best
 visual effects showcase, and should have tied with the runner-up,
 *Pirates of the Caribbean - At World's End*, had it not been so
 exciting. That runner-up would have won had it come up with something

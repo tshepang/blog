@@ -25,8 +25,8 @@ Education*.
 
 ## miscellaneous
 
-The best **adventure** movie is *Prince of Persia*, the best **horror**,
-*Call Back*, and the most **painful** is *The
+The best **adventure** movie is *Prince of Persia*, the best **horror**
+*Call Back*, while the most **painful** is *The
 Magdalene Sisters*. The **funniest** is *Get Smart*, and most
 **enchanting** is *Alice In Wonderland*. The best **action direction**
 is in [Takers][Inception].
@@ -60,17 +60,17 @@ followed by Carrie-Anne Moss in
 [Memento], her best performance so far.
 
 My most **favorite character** is the admirable Nelson Mandela (played
-by Morgan Freeman) in ([Invictus][The Job]). Runner-up is Rosalind
-Pike's superbly gorgeous but dumb-ass blonde in ([An Education]).
+by Morgan Freeman) in [Invictus][The Job]. Runner-up is Rosalind
+Pike's superbly gorgeous but dumb-ass blonde in [An Education].
 
 The **best child performance** was by the girl palying the daughter in
 ([Somewhere]), followed by title character in *Spud*.
 
-The best **cast** that of [An Education], followed by that of *Calendar
+The best **cast** is that of [An Education], followed by that of *Calendar
 Girls*.
 
 The best **cast of children** can be found in *Spud*, while the year's
-best **villain** is that played of Hades in [Clash of the Titans]
+best **villain** is that played by Hades in [Clash of the Titans]
 (also the year's most fearsome character),
 followed by the tough and smart shooter in [The A-Team].
 
@@ -78,7 +78,7 @@ The most **desirable gal** list follows:
 
 1.  Vera Farmiga (Up in the Air) and Lois character
     ([Superman][Inception])
-2.  lover (Last Tango in Paris); Maggie Gyllenhaal (*Crazy Heart*)
+2.  lover (*Last Tango in Paris*); Maggie Gyllenhaal (*Crazy Heart*)
 3.  bride (*Mamma Mia*); huge eyes (*Outsourced*)
 4.  police lady (*Holy Water*)
 

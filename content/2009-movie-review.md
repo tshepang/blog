@@ -18,8 +18,8 @@ harshness of *Natural Born Killers*, without the humor.
 
 ## performances
 
-My favorite performances are a tie and all go to one movie, [Watchmen]
-+++ Jeffrey Dean Morgan as The Comedian and Jackie Earle Haley when face
+My favorite performances are a tie and all go to one movie, [Watchmen]:
+Jeffrey Dean Morgan as The Comedian and Jackie Earle Haley when face
 is unmasked. Runner-up is [Raffaëla Anderson] as a crazed rape victim in
 [Baise-moi].
 
