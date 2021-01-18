@@ -150,22 +150,9 @@ live anywhere near the high expectations worthy of animated movies of
 its stature. The most **overrated villain** is Jack Nicholson as The
 Joker in [Batman][Inception]. WTF!
 
-## [these] and these:
+---
 
-100 Girls; Accidental Husband, The; Agora; Alien Hunter; Annie Hall;
-Armored; Asterix at the Olympic Games; Blood and Chocolate; Canadian
-Bacon; Centurion; Code, The; Coraline; Crank; Dirty Dancing; Dog Day
-Afternoon; DragonBall Evolution; Elsewhere; Final, The; First Sunday;
-Freedom Writers; From Paris With Love; Ghosts of Girlfriends Past; Green
-Zone, The; Hangover, The; Hot Tub Time Machine; How to Make Love To A
-Woman; Johnny English; Kick-Ass; Knight And Day; Marmaduke; Men Who
-Stare at Goats, The; My Name is Khan; A Nightmare On Elm Street; Ninja
-Assassin; Outsourced; Pistol Opera; Predators; Primer; Princess and the
-Frog; Public Enemies; Redsands; Sex and Death 101; Sherlock Holmes;
-Spirit, The; Stuart Little (1, 2); Taking of Pelham 123; Tourist, The;
-Twilight Saga -- Eclipse; Ultimate Gift, The; The Unborn; Up; Wall
-Street; War, Inc; What Doesn't Kill You; World's Greatest Dad;
-Smokin' Aces 2; The Expendables; August Rush; Karate Kid; Skin
+For a complete list of the movies I reviewed for the year, visit [this tag].
 
 [Somewhere]: @/somewhere-2010.md
 [Inception]: @/many-many-recent-movies.md
@@ -179,4 +166,4 @@ Smokin' Aces 2; The Expendables; August Rush; Karate Kid; Skin
 [Iron Man 2]: @/iron-man-2.md
 [Smokin' Aces]: @/smokin-aces.md
 [Se7en]: @/se7en-1995.md
-[these]: http://tshepang.github.io/tags/2010-movie
+[this tag]: http://tshepang.github.io/tags/2010-movie

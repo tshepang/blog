@@ -109,33 +109,9 @@ waves and the hidden beach), with an honorable mention going to *The
 Bank Job*, especially its opening scene. *Appleseed* has the year's
 best visuals.
 
-others:
+---
 
-[these] and these:
-
-10,000 BC; 2 Fast 2 Furious; 3:10 To Yuma; 50 First Dates; Akeelah and
-the Bee; Animal Farm; Apollo 13; Around the Bend; Assassination of Jesse
-James by the Coward Robert Ford, The; Babe; Babe: Pig in the City; Bad
-Education; Batman vs. Dracula, The; Big Fat Liar; Black Dahlia; Black
-Mask; Blast From the Past; The Brave One; Cleaner, The; Closer; Crimson
-Rivers; Descent, The; Dirty Deeds; Dukes of Hazzard; Dead Presidents;
-Drop Dead Sexy; Edison; Evan Almighty; Event Horizon; Fan, The; Fast &
-the Furious, The: Tokyo Drift; Funny Money; Good German, The; Good
-Sheperd, The; Great Debaters, The; Grosse Pointe Blank; Happy Feet;
-Hellboy 2; Highlander - The Search for Vengeance; Hit Man; Hitch;
-Hitcher, The; Horton Hears A Who; Hostel 2; House of Sand & Fog; Human
-Stain, The; In Good Company; Jerusalema; Jumper; Kaena: The Prophecy;
-Kika; Kingdom of Heaven; Lords of Dogtown; Love & Basketball; Machinist,
-The; Magnificent Seven, The; Mirrors; Morvern Callar; National Treasure;
-Norbit; One Last Thing; One Missed Call; Open Season; Prestige, The;
-Pulse; Possession; Queen, The; Resident Evil: Extinction; Rambo 4;
-Runaway Jury; Running Scared; Rush Hour 3; Save the Last Dance; Saw IV;
-Secretary; Sentinel, The; Simpsons Movie, The; Someone Like You; Speed;
-Street Kings; Swordsman; Talk To Me; Texas Chainsaw Massacre: The
-Beginning; Things We Lost in the Fire; Three Colours Red; Three Colours
-White; Torque; Trapped; Truth About Love, The; Unfaithful; War; We Are
-Marshall; Weather Man; Zoom
-
+For a complete list of the movies I reviewed for the year, visit [this tag].
 
 [Cloverfield]: @/cloverfield-2008.md
 [Taken]: @/taken-2008.md
@@ -157,4 +133,4 @@ Marshall; Weather Man; Zoom
 [Confidence]: @/confidence-2002.md
 [Silent Hill]: @/silent-hill-2006.md
 [Iron Man]: @/iron-man.md
-[these]: http://tshepang.github.io/tags/2008-movie
+[this tag]: http://tshepang.github.io/tags/2008-movie

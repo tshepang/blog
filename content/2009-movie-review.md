@@ -85,20 +85,10 @@ The **best opening credits sequence** is in [Rock 'n Rolla][Shoot 'Em
 Up]. The **worst humiliation** is in near the end of [There Will Be
 Blood].
 
-## others
 
-[these] and these:
+---
 
-Angels & Demons; Awake; Babylon A.D.; Bee Movie; Day the Earth Stood
-Still, The; Duplicity; Eagle Eye; Fan Boys; Frailty; Gran Torino;
-Happening, The; Ice Age; In the Realm of the Senses; International, The;
-Karol - A Man Who Became Pope; Leatherheads; Marie Antoinette; Max &
-Mona; Nashville; Notorious; Obsessed; Once Upon A Time in America; Once
-Upon A Time In The West; Orphanage, The; Pride; Promise, The; Psycho;
-Push; Ran; Saw V; Speed Racer; Sponge Bob; Star Trek; Star Wars: The
-Clone Wars; Still Life; Superhero Movie; Taste of Cherry; Tie Me Up, Tie
-Me Down; Traitor; Valkyrie; Wind Will Carry Us, The; Wrestler, The; Xiao
-Wu; Zack & Miri Make A Porno
+For a complete list of the movies I reviewed for the year, visit [this tag].
 
 [Baise-moi]: @/baise-moi-2000.md
 [Bamboozled]: @/bamboozled-2000.md
@@ -123,4 +113,4 @@ Wu; Zack & Miri Make A Porno
 [Ghost Dog]: @/ghost-dog.md
 [Yellow Earth]: @/yellow-earth-1984.md
 [The World]: @/more-of-jia.md
-[these]: http://tshepang.github.io/tags/2009-movie
+[this tag]: http://tshepang.github.io/tags/2006-movie

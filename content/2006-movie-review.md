@@ -157,6 +157,10 @@ heard throughout.
 *Star Wars III* has the worst editing, worst acting, worst sound, worst
 direction, but got beaten by *Eurotrip* as worst movie.
 
+---
+
+For a complete list of the movies I reviewed for the year, visit [this tag].
+
 [Shaolin Soccer]: @/shaolin-soccer-2001.md
 [Kung Fu Hustle]: @/kung-fu-hustle-2004.md
 [The Butterfly Effect]: @/the-butterfly-effect-2004.md
@@ -166,3 +170,4 @@ direction, but got beaten by *Eurotrip* as worst movie.
 [Dead Man]: @/dead-man-1995.md
 [Dogville]: @/dogville-2003.md
 [Pi]: @/pi-1997.md
+[this tag]: http://tshepang.github.io/tags/2006-movie

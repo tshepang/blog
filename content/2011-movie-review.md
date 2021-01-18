@@ -190,7 +190,7 @@ Here's the runner-ups:
 ---
 
 For a complete list of the movies I reviewed for the year, visit the
-[2011-movies tag].
+[this tag].
 
 [Megamind]: @/megamind-2010.md
 [4 Months, 3 Weeks and 2 Days]: @/4-months-3-weeks-and-2-days-2007.md
@@ -250,4 +250,4 @@ For a complete list of the movies I reviewed for the year, visit the
 [Mandingo]: @/mandingo-1975.md
 [The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
 [Bill & Ted's Excellent Adventure]: @/bill-ted-s-excellent-adventure-1989.md
-[2011-movies tag]: http://tshepang.github.io/tags/2011-movie
+[this tag]: http://tshepang.github.io/tags/2011-movie

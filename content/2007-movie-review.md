@@ -132,22 +132,7 @@ same experience when revisited. So here's a listing of those which were
 most impressive on first viewing in order of which had the most impact:
 [Apocalypto], *Fearless*, *300*, *Next*.
 
-## others
-
-[these] and these:
-
-45; 30000 Leagues Under the Sea; 51st State; 88 Minutes; About A Boy;
-Aviator, The; Back to the Future 1 & 2; Bad Santa; Beat the Drum; Blood
-Diamond; Brotherhood of the Wolf, The; Chariots of Fire; Click;
-Covenant, The; Deuce Bigalow: European Gigolo; Devil's Rejects; Die
-Hard 4.0; Domino; Doom; Dreamers, The; Drop Dead Gorgeous; Employee of
-the Month; Eragon; Fantastic 4: the Rise of the Silver Surfer; Final
-Destination 3; Giant; Graduate, The; Gridiron Gang; Grudge, The; Happily
-Never After; Happy Together; Hills Have Eyes 2; In America; In-Crowd,
-The; Me & Dupree; Meet the Robinsons; Mission, The; Mr. Brooks; Perfect
-Man, The; Pursuit of Happiness, The; Searchers, The; She's the Man;
-Sleeping Bride; Star Wrek; Sum of All Fears, The; Throne of Blood; Time
-Bandits; Troy
+For a complete list of the movies I reviewed for the year, visit [this tag].
 
 [2005]: @/2005-movie-review.md
 [2006]: @/2006-movie-review.md
@@ -158,4 +143,4 @@ Bandits; Troy
 [Beowulf]: @/beowulf-2007.md
 [Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
 [The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
-[these]: http://tshepang.github.io/tags/2007-movie
+[this tag]: http://tshepang.github.io/tags/2007-movie
