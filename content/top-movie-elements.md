@@ -136,7 +136,7 @@ categories = ['movies']
 [Life is Beautiful]: @/many-many-recent-movies.md
 [Yellow Earth]: @/yellow-earth-1984.md
 [Kinsey]: @/kinsey-2004.md
-[The Hurt Locker]: @/recent-movies-2010-05-06.md
+[The Hurt Locker]: @/the-hurt-locker.md
 [Irréversible]: @/irreversible-2002.md
 [Children of the Corn]: @/children-of-the-corn-2009.md
 [The Insider]: @/the-insider-1999.md

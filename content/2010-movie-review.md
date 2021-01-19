@@ -15,13 +15,12 @@ and [Somewhere].
 
 ## visuals
 
-The best **cinematography** can be seen in [An Education], followed by
+The best **cinematography** can be seen in
 [The Social Network]. The best **visual effects** can be seen in
 [Inception], and the best **production design** can be seen in *Death At
 A Funeral*... the interior of that home is wonderful. The best
 **editing** can be seen in [The Kite Runner][Inception]. The best
-**opening credits sequence** is in *Up in the Air*, followed by *An
-Education*.
+**opening credits sequence** is in *Up in the Air*.
 
 ## miscellaneous
 
@@ -60,14 +59,12 @@ followed by Carrie-Anne Moss in
 [Memento], her best performance so far.
 
 My most **favorite character** is the admirable Nelson Mandela (played
-by Morgan Freeman) in [Invictus][The Job]. Runner-up is Rosalind
-Pike's superbly gorgeous but dumb-ass blonde in [An Education].
+by Morgan Freeman) in [Invictus][The Job].
 
 The **best child performance** was by the girl palying the daughter in
 ([Somewhere]), followed by title character in *Spud*.
 
-The best **cast** is that of [An Education], followed by that of *Calendar
-Girls*.
+The best **cast** is that of *Calendar Girls*.
 
 The best **cast of children** can be found in *Spud*, while the year's
 best **villain** is that played by Hades in [Clash of the Titans]
@@ -102,13 +99,12 @@ The **koolest guy** is Mark Wahlberg's in *Date Night*, followed by
 Justin Timberlake's in [The Social Network].
 
 The best character development ever for a **nerd** can be found in
-*Shopgirl*, in a form of an inept lover. As for this year, this is
-followed by the schoolboy in [An Education]. As is so common, both
-character's shortcomings involve girls.
+*Shopgirl*, in a form of an inept lover. As is so common, the
+character's shortcomings involve lovers.
 
 Here's a list of most **painful/touching scene**:
 
-1.  strapped with bombs ([The Hurt Locker][An Education])
+1.  strapped with bombs ([The Hurt Locker]
 2.  death by insulin ([Memento])
 3.  hate for a dead wife (*Last Tango in Paris*) -- leads one
     sympathising with the otherwise unpleasant character
@@ -157,7 +153,7 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Somewhere]: @/somewhere-2010.md
 [Inception]: @/many-many-recent-movies.md
 [The A-Team]: @/recent-movies-2010-09-15.md
-[An Education]: @/recent-movies-2010-05-06.md
+[The Hurt Locker]: @/the-hurt-locker.md
 [The Social Network]: @/the-social-network-2010.md
 [Memento]: @/memento-2000.md
 [The Job]: @/recent-movies-2010-11-19.md
