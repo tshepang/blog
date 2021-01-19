@@ -3,7 +3,7 @@ title = "Shadowboxer"
 date = 2021-01-13
 
 [taxonomies]
-tags = ['2011-movie', 'decent']
+tags = ['2011', 'decent']
 categories = ['movies']
 +++
 
