@@ -30,8 +30,8 @@ Magdalene Sisters*. The **funniest** is *Get Smart*, and most
 **enchanting** is *Alice In Wonderland*. The best **action direction**
 is in [Takers][Inception].
 
-The best **script/dialogue** is [Memento],
-followed by [The Social Network]. The best **narration** can be found in
+The best **script/dialogue** is found in [The Social Network],
+and the best **narration** can be found in
 the most **bizarre** movie of the year, *Sita Sings the Blues*. There
 was nothing more **moody** than *Anamorph*.
 
@@ -50,13 +50,11 @@ The year's most **favorite performance** is that of Jesse Eisenberg in
 3.  homo guy (*Woman On Top*); John Cleese (*Spud*); friend (*Lottery
     Ticket*)
 
-In the category of **best male performance**, Guy Pearce ([Memento])
-ties with Woody Harrelson (*The Messenger*).
+In the category of **best male performance**,
+Woody Harrelson (*The Messenger*) comes on top.
 
 As for **best female performance**,
-we have Meryl Streep in [Sophie's Choice][The Job],
-followed by Carrie-Anne Moss in
-[Memento], her best performance so far.
+we have Meryl Streep in [Sophie's Choice][The Job].
 
 My most **favorite character** is the admirable Nelson Mandela (played
 by Morgan Freeman) in [Invictus][The Job].
@@ -105,7 +103,6 @@ character's shortcomings involve lovers.
 Here's a list of most **painful/touching scene**:
 
 1.  strapped with bombs ([The Hurt Locker]
-2.  death by insulin ([Memento])
 3.  hate for a dead wife (*Last Tango in Paris*) -- leads one
     sympathising with the otherwise unpleasant character
 4.  expression of love between cop and prostitute ([Brooklyn's
@@ -114,7 +111,7 @@ Here's a list of most **painful/touching scene**:
 The best **dance scene** is the dark, yet enchanting puppet mastery
 sequence in *Chicago*. The best **sci-fi set** is the white ship
 interior in *Resident Evil Afterlife*, the best **warfare** is in
-*Centurion*, the best **story concept** is in [Memento], followed by
+*Centurion*, the best **story concept** is
 [Inception].
 
 Each repeat of a movie is a different experience, hence this category of
@@ -155,7 +152,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [The A-Team]: @/recent-movies-2010-09-15.md
 [The Hurt Locker]: @/the-hurt-locker.md
 [The Social Network]: @/the-social-network-2010.md
-[Memento]: @/memento-2000.md
 [The Job]: @/recent-movies-2010-11-19.md
 [Clash of the Titans]: @/clash-of-the-titans-2010.md
 [Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md

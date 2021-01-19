@@ -62,8 +62,6 @@ categories = ['movies']
 
 ## story concept
 
-1. *Memento* - a guy without short-term memory investigates a murder, in
-   a story that is told backwards
 2. *Inception* - a technology that allows one to tap into unused brain
    power, resulting in an altered experience of time, where a second
    could feel like a year (as an example)

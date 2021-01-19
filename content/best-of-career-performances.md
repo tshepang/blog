@@ -7,14 +7,12 @@ categories = ['movies']
 +++
 
 - Brat Pitt ([Fight Club]); honorable mention ([The Counselor])
-- Carrie-Anne Moss ([Memento])
 - Clive Owen (*Closer*)
 - Colin Firth ([The King's Speech])
 - David Straithairn ([Good Night, and Good Luck])
 - Emma Thompson ([Wit])
 - Forest Whitaker ([The Last King of Scotland])
 - Geoffrey Rush ([The King's Speech])
-- Guy Pearce ([Memento])
 - Hugh Jackman ([Prisoners])
 - Jake Gyllenhaal ([Nightcrawler])
 - Jet Li ([The Warlords])
@@ -42,7 +40,6 @@ related: [favorite-of-career performances][favorite-of-career]
 
 [Fight Club]: @/fight-club-1999.md
 [The Counselor]: @/the-counselor-2013.md
-[Memento]: @/memento-2000.md
 [The King's Speech]: @/the-king-s-speech-2010.md
 [Good Night, and Good Luck]: @/good-night-and-good-luck-2005.md
 [Wit]: @/wit-2001.md

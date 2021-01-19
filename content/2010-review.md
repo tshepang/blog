@@ -14,4 +14,8 @@ and also has the best **suspense**...
 you will be so glad you are not in the very uncomfortable situation
 the lead finds self in.
 
+My favorite performance is that of Guy Pearce,
+who plays someone who can't create new memories and has to rely on notes,
+in *Memento*.
+
 [Iron Man 2]: @/iron-man-2.md
