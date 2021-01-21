@@ -25,12 +25,6 @@ real pointless, and the ending exposes a hole (or two).
 *Pulse* got David Fincher's atmospherics but lacks his near-perfect
 execution. I liked the counterfeiter's portrayal.
 
-Cuba Gooding, jnr gives a very good performance in *Dirty* when playing
-a careless and near-corrupt police officer, and a performance similar to
-his other excellent turn as an intoxicated club owner in *American
-Gangster*. Nearly everyone else turns quite impressive, and that does
-not include the movie's lead character.
-
 *The Mummy 3* is easily the worst of the series despite me having vague
 memories of those other forgettable movies. Anything that's ancient
 China truly excites me and we here see wasted opportunities, and the

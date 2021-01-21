@@ -5,7 +5,7 @@ title = "recent revisits 2010-08-30"
 categories = ['movies']
 +++
 
-[I Think I Love My Wife], [Dirty][I Think I Love My Wife], & *Seven
+[I Think I Love My Wife] & *Seven
 Pounds* are among those movies that have a not-so-common property of
 being about as good on a revisit as the first viewing.
 
