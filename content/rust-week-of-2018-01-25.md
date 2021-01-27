@@ -23,7 +23,7 @@ I tried a few others as replacement:
   - uptime
 
   So, that's one less dependency, though I do wish this functionality
-  was available from a more pleasant API... [systemstat] is ugly.
+  was available from a more pleasant API.
 
 As a general note, I wish more people took the effort to state in the
 README if their software is abandoned, perhaps with mentions of
