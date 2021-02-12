@@ -14,6 +14,7 @@ compositing problems in places, as well as horrible makeup for the
 hunchback. The movie also has the my **favorite performance** in its
 lead, played by Gerard Butler. He also looks amazing... perfect actually.
 
-The **best dialog** is in [The Man from Earth].
+The best **story concept** is in [The Man from Earth],
+whose lead character is a human that is thousands of years old.
 
 [The Man from Earth]: @/the-man-from-earth.md
