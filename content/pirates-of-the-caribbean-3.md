@@ -6,14 +6,14 @@ categories = ['movies']
 +++
 
 A friend asked me of my experience of this spectacle and I could only
-say that, albeit having many good elements, it was underwhelming +++ a
+say that, albeit having many good elements, it was underwhelming... a
 nice summary actually.
 
 The best thing in the entire trilogy was Davy Jones (as I have pointed
 out [before]), and he was so perfect in his first appearance that he
 couldn't be improved, and there is no new character introduced here
 that is so appealing, nor any wow-factor element at all, denying the
-movie any entry in the [visual effects spectacle][pointed] and movie
+movie any entry in the [visual effects spectacle] and movie
 of the year lists. Sure the centerpiece of the movie raises bars, but
 I'm no particular fan of sea-based action, so this ain't no visual
 effects spectacle, but it's a satisfactory spectacle nonetheless, for
@@ -29,13 +29,13 @@ costume work (nothing new in the trilogy though), proliferation of
 colorful characters (too many, even for a movie so lengthy)...
 
 Pretty decent entertainment after all, but then I already saw
-[Apocalypto], *Fearless*, and [300] so far this year, which still stand
+[Apocalypto], *Fearless*, and *300* so far this year, which still stand
 to be beaten, though none have visual effects matching this pirates
 movie, and I doubt there will be this year [[update]], which will
 result in this being a reluctant winner in that department.
 
-  [before]: @/davey-jones-vs-kong.md
-  [update: 03 Mar 2008]: @/revisiting-pirates-of-the-caribbean-3.md
-  [Apocalypto]: @/apocalypto-2006.md
-  [300]: @/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece.md
-  [update]: @/transformers-2007.md
+[before]: @/davey-jones-vs-kong.md
+[update: 03 Mar 2008]: @/revisiting-pirates-of-the-caribbean-3.md
+[Apocalypto]: @/apocalypto-2006.md
+[update]: @/transformers-2007.md
+[visual effects spectacle]: @/top-visual-effects.md

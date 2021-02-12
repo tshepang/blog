@@ -6,8 +6,7 @@ tags = ['2007-movie', 'substandard']
 categories = ['movies']
 +++
 
-first review (2007)
-===================
+## first review (2007)
 
 After watching this spectacle, the greatest so far this year, I kept
 wondering which has superior visual effects if compared to [Pirates of
@@ -26,8 +25,7 @@ about its seriousness, feeling like a mere crowd-pleaser, and what a
 crowd-pleaser it is! This fact allows one to enjoy it pretty well,
 disregarding plot-holes and other deficiencies.
 
-second review (2008)
-====================
+## second review (2008)
 
 This revisit turned into a frustrating exercise since I noted too many
 compositing errors, unimpressive production design (especially for such

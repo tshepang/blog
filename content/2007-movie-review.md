@@ -13,8 +13,7 @@ there's isn't even a single masterpiece.
 
 Nothing this year has had as much impact on me as has Mel Gibson's
 [Apocalypto] given its gruelling tale of cruelty, the sort I never
-witnessed before. The runner-up is *300* for its awe-inspiring visual
-magnificence.
+witnessed before.
 
 ## enchanting
 
@@ -59,17 +58,16 @@ character in *Zodiac* is runner-up.
 
 ## characters
 
-The best villain is Josh Brolin's dirty cop found in *American Ganster*
-for its unflinching acts of corruption. My favorite character is Gerard
-Butler's Spartan king in *300* while the most exotic is the Angelina
-Jolie's demon in [Beowulf]. The most desirable gal is Rosamund Pike in
+The best **villain** is Josh Brolin's dirty cop found in *American Ganster*
+for its unflinching acts of corruption, while the most **exotic** character is Angelina
+Jolie's demon in [Beowulf]. The most **desirable** gal is Rosamund Pike in
 *Fracture* while Vera Farmica of *The Departed*, Ana Claudia Talancon'
 in *El Crimen del Padro Amaro*, and Kerry Washington in [The Last King
 of Scotland] are tied as runner-ups. Julianne Moore in *Next* is the
-year's best detective given her unrelenting focus in getting the job
+year's best **detective** given her unrelenting focus in getting the job
 done. A special mention should go to John Heder's goofy and
 kind-hearted ice skating champion in the delightful *Blades of Glory*.
-The **best character design** is the child-killing, pale monster in
+The best **character design** is the child-killing monster in
 [Pan's Labyrinth].
 
 ## visuals
@@ -78,8 +76,8 @@ The year's greatest spectacle, *Transformers*, is also the year's best
 visual effects showcase, and should have tied with the runner-up,
 *Pirates of the Caribbean - At World's End*, had it not been so
 exciting. That runner-up would have won had it come up with something
-more interesting than the stormy battle. *300* easily wins the year's
-best imagery/visual design, and *The Number 23* takes second spot due to
+more interesting than the stormy battle. *The Number 23* wins the year's
+best imagery/visual design, due to
 its gorgeous fantasy-like scenes. The most horrific/shocking imagery
 emanates from [The Last King of Scotland], a scene that showcases the
 aftermath of the cheating wife.
@@ -99,8 +97,7 @@ very unloving fellows.
 [Munich] ties with *Cars* as regards the best sound. There's a tie
 between *The Number 23* and *Lucky Number Slevin* (presentation of
 textual info and the slick murders) as the best opening credits
-sequence. The runner-up is *The Kingdom*, while the best closing credits
-is by *300*, with its nice mix of 2D and 3D imagery. *Next* wins both
+sequence. The runner-up is *The Kingdom*. *Next* wins both
 most romantic scene (the definition of beauty) and most painful scene
 (wheelchair explosion) even though both their impact was painfully
 reduced on a revisit. The movie also offers best concept (seeing the
@@ -130,7 +127,7 @@ reminiscent of *Natural Born Killers*.
 As anyone knows and as seen many times above, movies never offer the
 same experience when revisited. So here's a listing of those which were
 most impressive on first viewing in order of which had the most impact:
-[Apocalypto], *Fearless*, *300*, *Next*.
+[Apocalypto], *Fearless*, and *Next*.
 
 For a complete list of the movies I reviewed for the year, visit [this tag].
 
