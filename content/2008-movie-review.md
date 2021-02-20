@@ -21,8 +21,7 @@ for Old Men].
 
 ## misc elements
 
-Best comedy is *Knocked Up*, and nothing was quite as enchanting as the
-feel-good socio-political [Hairspray]. The runner-up is the formulaic,
+Best comedy is *Knocked Up*, and the most **enchanting** is the formulaic,
 yet effective, *Robots*.
 
 Nothing made me cry in my history of movie-watching as did the drama,
@@ -116,7 +115,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Cloverfield]: @/cloverfield-2008.md
 [Taken]: @/taken-2008.md
 [No Country for Old Men]: @/no-country-for-old-men-2007.md
-[Hairspray]: @/recent-movies-2008-05-19.md
 [Kinsey]: @/kinsey-2004.md
 [Persona]: @/persona-1966.md
 [The Squid & the Whale]: @/recent-movies-2008-11-06.md
