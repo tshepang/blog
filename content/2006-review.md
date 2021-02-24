@@ -22,9 +22,7 @@ and **cast**.
 
 My **favorite performances** is by Taraji Henson who plays an exciting,
 yet heartbreaking, role of a feminist sniper in [Smokin' Aces].
-Runner-up is that of Frances McDormand in [Friends with
-Money].
+Runner-up is that of Frances McDormand in *Friends with Money*.
 
-[Friends with Money]: @/friends-with-money.md
 [Smokin' Aces]: @/smokin-aces.md
 [Children of Men]: @/children-of-men.md

@@ -78,8 +78,7 @@ scene.
 
 The best cast is a tie between *interMission* (a bunch of memorable and
 eccentric characters) and [No Country for Old Men] (a small solid set of
-rural American characters). The runner-ups is a tie between *Friends
-With Money* (very honest and fresh performances) and *The Lookout*. The
+rural American characters). The runner-up is that of *The Lookout*. The
 best characterisations was in [The New World] for the colorful portrayal
 of the Native Americans.
 
