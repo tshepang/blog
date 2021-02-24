@@ -20,7 +20,7 @@ In addition to all that,
 [Children of Men] also boasts best **production design**, **cinematography**,
 and **cast**.
 
-My **favorite performances** is by Taraji Henson who plays an exciting,
+My **favorite performance** is by Taraji Henson who plays an exciting,
 yet heartbreaking, role of a feminist sniper in [Smokin' Aces].
 Runner-up is that of Frances McDormand in *Friends with Money*.
 
