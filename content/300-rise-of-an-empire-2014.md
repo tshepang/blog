@@ -13,8 +13,8 @@ front-line in battle... embarrassing.
 
 Anyways, I like the parallel story-line approach, where much of the
 events in the movies take place at the same time as those from the
-earlier, and far superior, movie. Sadly we do not have an appealing
-lead, and in fact not a single character impresses. The battles still
+earlier, and far superior, movie. Sadly, we do not have an appealing
+lead, and, in fact, not a single character impresses. The battles still
 look good, but nowhere near those from the original, nor are the visuals
 as amazing. The sex scene was even more stupid than the one in the
 original.
