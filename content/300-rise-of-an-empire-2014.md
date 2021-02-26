@@ -6,7 +6,7 @@ tags = ['decent', '2014-movie']
 categories = ['movies']
 +++
 
-The acting style of Eva Green worked far better in [Dark Shadows], and
+The acting style of Eva Green worked far better in *Dark Shadows*, and
 is in fact is embarrassing here. She is as unconvincing as the other
 tough gal character, the wife of Leonidas, who had to go as being on the
 front-line in battle. It's as if someone was desperate to do the girl
@@ -19,5 +19,3 @@ lead, and in fact not a single character impresses. The battles still
 look good, but nowhere near those from the original, nor are the visuals
 as amazing. The sex scene was even more stupid than the one in the
 original.
-
-  [Dark Shadows]: @/dark-shadows-2012.md

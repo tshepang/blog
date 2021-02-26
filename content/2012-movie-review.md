@@ -65,10 +65,8 @@ Rises]), even though it's hard to hear at times.
 The best **character development** is the father of the title character
 (Jack Lemmon) in [Missing], followed by the wife (Sissy Spacek) in the
 same movie. My **favorite character** is however the son ([Dakota Goyo])
-in [Real Steel].
-
-My **favorite villain** is the witch (Eva Green) in [Dark Shadows],
-runner-up being Bane (Tom Hardy) in [The Dark Knight Rises].
+in [Real Steel],
+while my **favorite villain** is Bane (Tom Hardy) in [The Dark Knight Rises].
 
 The most **desirable gal** is Charlotte Gainsbourg as main love interest
 [The Science of Sleep] (I really loved this girl!). Here are the
@@ -157,7 +155,6 @@ The **fall from glory** award goes to:
 [The Dark Knight Rises]: @/the-dark-knight-rises-2012.md
 [Missing]: @/missing-1982.md
 [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
-[Dark Shadows]: @/dark-shadows-2012.md
 [Change of Plans]: @/change-of-plans-2011.md
 [The Hangover Part II]: @/the-hangover-part-ii-2011.md
 [Bad Teacher]: @/bad-teacher-2011.md
