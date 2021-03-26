@@ -1,8 +1,9 @@
 +++
+title = "Waking Life"
 date = 2014-05-04
-title = "Waking Life (2001)"
+
 [taxonomies]
-tags = ['good']
+tags = ['2001', 'good']
 categories = ['movies']
 +++
 
