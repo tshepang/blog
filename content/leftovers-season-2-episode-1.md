@@ -20,7 +20,7 @@ There is a strange choice of events which don't serve the story in any
 obvious way, but they add to the enjoyment, and are given excellent
 direction:
 
--   The incident with the scientist taking water samples
--   The brief and quiet moment showing the girls in the car
--   The girls running naked
--   The prison confession
+- The incident with the scientist taking water samples
+- The brief and quiet moment showing the girls in the car
+- The girls running naked
+- The prison confession
