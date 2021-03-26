@@ -3,7 +3,7 @@ title = "Waking Life"
 date = 2021-03-26
 
 [taxonomies]
-tags = ['2001', 'good']
+tags = ['2001', 'decent']
 categories = ['movies']
 +++
 
