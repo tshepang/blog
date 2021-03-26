@@ -13,7 +13,7 @@ The performances are without flaw. My one favorite is that of they guy
 playing the fireman. He delivers one of the most impressive performances
 I've seen yet. He's such a pleasure to watch. Equally irresistible is
 the gal playing his daughter. The character development given these two
-is amazing. Playing the mother is Regina King and what is the only one
+is amazing. Playing the mother is Regina King in what is the only one of
 her performances I've really enjoyed.
 
 There is a strange choice of events which don't serve the story in any
