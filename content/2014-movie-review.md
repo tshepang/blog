@@ -35,8 +35,7 @@ Following is the ranking of the **best male performances**:
 5.  [Michael Shannon] in [Premium Rush]
 6.  Brad Pitt in [The Counselor]
 
-The **best female performance** was given by [Susanne Lothar] in [Funny
-Games], followed by Emily Watson in [The Book Thief].
+The **best female performance** was given by Emily Watson in [The Book Thief].
 
 ## characters
 
@@ -54,8 +53,7 @@ Your Dragon 2].
 
 ## miscellaneous
 
-There was no **direction** better than [Funny Games],
-and There was no
+There was no
 greater **spectacle** than [Edge of Tomorrow].
 
 The following have the best **story concept**:
@@ -83,7 +81,6 @@ The following have the best **story concept**:
 [Premium Rush]: @/premium-rush-2012.md
 [The Counselor]: @/the-counselor-2013.md
 [Susanne Lothar]: http://en.wikipedia.org/wiki/Susanne_Lothar
-[Funny Games]: @/funny-games-1997.md
 [How To Train Your Dragon 2]: @/how-to-train-your-dragon-2-2014.md
 [Dania Ramirez]: http://en.wikipedia.org/wiki/Dania_Ramirez
 [The Wolverine]: @/the-wolverine-2013.md
