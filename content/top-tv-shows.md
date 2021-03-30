@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2020-07-19
+date = 2021-03-30
 
 [taxonomies]
 tags = ['tv']
@@ -18,6 +18,7 @@ watched them.
 - House of Cards (seasons 1 and 2)
 - The Knick
 - Barry (season 1)
+- Atlanta (season 1)
 
 **honorable mentions**
 
