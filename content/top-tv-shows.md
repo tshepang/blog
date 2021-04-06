@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2021-03-30
+date = 2021-04-07
 
 [taxonomies]
 tags = ['tv']
@@ -27,3 +27,4 @@ watched them.
 - The Americans
 - Bodyguard (season 1)
 - Mr. Robot
+- The Boys (season 1)
