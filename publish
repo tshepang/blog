@@ -7,6 +7,6 @@ cp --recursive public/* $OUTPUTDIR
 cd $OUTPUTDIR
 git add --all
 git commit --message "build"
-git push origin master
+git push origin main
 cd -
 git push
