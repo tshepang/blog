@@ -85,7 +85,6 @@ The **best male performance** is by Geoffrey Rush when playing a
 therapist in [The Kings's Speech]. Here's the runner-ups:
 
 1.  [Miles Teller] ([Rabbit Hole])
-3.  [Lennie James] ([The Next Three Days])
 
 The **best female performance** is by Nicole Kidman in [Rabbit Hole],
 and the **best cast** is from the same movie. Maybe it's a distant
@@ -116,9 +115,6 @@ view of her... I want her, now! Here's the runner-ups:
 [According to Greta] boasts both the **most perfect gentleman** (the
 lead's boyfriend) and the **most perfect father** (the lead's
 grandpa).
-
-I was impressed by Lennie James in [The Next Three Days], making him the
-year's **favorite detective**.
 
 The **best comic character** is the fat guy in [She's Out of My
 League], followed by a tie between Jack Black's partner in [Nacho
@@ -224,7 +220,6 @@ For a complete list of the movies I reviewed for the year, visit the
 [Pathology]: @/pathology-2008.md
 [Miles Teller]: http://en.wikipedia.org/wiki/Miles_Teller
 [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
-[The Next Three Days]: @/the-next-three-days-2010.md
 [Get Him to the Greek]: @/get-him-to-the-greek-2010.md
 [The Warrior's Way]: @/the-warrior-s-way-2010.md
 [Sandra Oh]: http://en.wikipedia.org/wiki/Sandra_Oh

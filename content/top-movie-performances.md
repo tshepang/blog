@@ -37,7 +37,7 @@ Kiefer Sutherland as the doctor ([Dark City])
 ## detectives
 
 - two dirty cops ([Payback])
-- [Lennie James] ([The Next Three Days])
+- [Lennie James] (*The Next Three Days*)
 - Julianne Moore (*Next*)
 
 ## romantic couple
@@ -47,10 +47,6 @@ Holly Hunter and Ray Romano in *The Big Sick*
 ## witch
 
 Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
-
-## airport checkpoint officer
-
-The humorless guy at airport checkpoint ([The Next Three Days])
 
 
 [The Dark Knight]: @/the-dark-knight-2008.md
@@ -63,5 +59,4 @@ The humorless guy at airport checkpoint ([The Next Three Days])
 [Dark City]: @/dark-city-1998.md
 [Payback]: @/payback-1999.md
 [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
-[The Next Three Days]: @/the-next-three-days-2010.md
 [Andrew Howard]: https://en.wikipedia.org/wiki/Andrew_Howard
