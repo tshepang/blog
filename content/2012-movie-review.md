@@ -23,12 +23,9 @@ In terms of specifics, there was nothing better than the battle between
 Voldermort and Dumbledore in that last listing, and the climactic battle
 in [The Avengers] is runner-up.
 
-The best **action** is offered by [The Bourne Legacy], and [The
-Avengers] is its runner-up.
-
-The best **hand-to-hand combat sequence** is the fight that takes place
-in a diner in [Haywire], followed by the protagonist fighting 2 assasins
-in [The Bourne Legacy].
+The best **action** is offered by [The Avengers], while
+the best **hand-to-hand combat sequence** is the fight that takes place
+in a diner in [Haywire].
 
 The best **animation** is, interestingly, an insert in ([Harry Potter
 and the Deathly Hallows, Part 1]), which tells the story of the Deathly
@@ -140,7 +137,6 @@ The **fall from glory** award goes to:
 [The Avengers]: @/the-avengers-2012.md
 [Battleship]: @/battleship-2012.md
 [Harry Potter and the Order of the Phoenix]: @/harry-potter-and-the-order-of-the-phoenix-2007.md
-[The Bourne Legacy]: @/the-bourne-legacy-2012.md
 [Haywire]: @/haywire.md
 [Harry Potter and the Deathly Hallows, Part 1]: @/harry-potter-and-the-deathly-hallows-part-1.md
 [True Legend]: @/true-legend-2010.md

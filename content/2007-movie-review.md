@@ -84,10 +84,8 @@ aftermath of the cheating wife.
 
 ## action
 
-The best action of any movie this year emanates from the gripping [The
-Bourne Ultimatum], given its excellent execution and the relentless
-dedication of the Bourne character, and his lead adversary. The best
-action sequence is however to be found in the final battle in *The
+The best
+action sequence is to be found in the final battle in *The
 Kingdom*. The best chase sequence is to be found in the very first scene
 of *District B13*, where the very athletic hero saves his neck from some
 very unloving fellows.
@@ -139,5 +137,4 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [The Last King of Scotland]: @/the-last-king-of-scotland-2006.md
 [Beowulf]: @/beowulf-2007.md
 [Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
-[The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
 [this tag]: http://tshepang.github.io/tags/2007-movie

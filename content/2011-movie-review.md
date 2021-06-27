@@ -177,8 +177,6 @@ quality.
 Here's the runner-ups:
 
 1.  [Mandingo] -- the best movie on US slavery I've seen yet
-2.  [The Bourne Supremacy] -- among the best action thrillers I've seen
-    yet
 3.  [Bill & Ted's Excellent Adventure], whose continued excellence and
     humor surprised me, it being a childhood favorite, and also being
     made in the 80's, a bad movie decade.

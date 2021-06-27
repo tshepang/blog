@@ -53,8 +53,6 @@ categories = ['movies']
 
 ## hand-to-hand combat
 - [Haywire]
-- [The Bourne Legacy]
-- [The Bourne Supremacy] (tie) [The Bourne Ultimatum]
 - [Non-Stop]
 
 ## eccentric
@@ -126,9 +124,6 @@ categories = ['movies']
 [Apocalypto]: @/apocalypto-2006.md
 [Sucker Punch]: @/sucker-punch-2011.md
 [Haywire]: @/haywire.md
-[The Bourne Legacy]: @/the-bourne-legacy-2012.md
-[The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
-[The Bourne Ultimatum]: @/the-bourne-ultimatum-2007.md
 [Non-Stop]: @/non-stop.md
 [Groundhog Day]: @/groundhog-day-1993.md
 [Life is Beautiful]: @/many-many-recent-movies.md
