@@ -1,6 +1,7 @@
 +++
-date = 2012-01-07
 title = "Colombiana (2011)"
+date = 2012-01-07
+
 [taxonomies]
 tags = ['2012-movie', 'decent']
 categories = ['movies']
@@ -15,4 +16,4 @@ there's a good performance by the guy playing the lead FBI agent
 The subplot involving the love interest was a waste of time, although it
 was well-made, as is the movie in general.
 
-  [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
+[Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
