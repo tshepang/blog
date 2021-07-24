@@ -22,5 +22,5 @@ These posts got me excited for this or that Rust creation:
   with the [Pyramid], back in my Python days.
 
 [warp]: https://seanmonstar.com/post/176530511587
-[smol]: https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime
+[smol]: https://web.archive.org/web/20200821065901/https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html
 [Pyramid]: https://trypyramid.com
