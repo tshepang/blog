@@ -1,6 +1,7 @@
 +++
-date = 2011-01-28
 title = "basic ConfigParser usage"
+date = 2011-01-28
+
 [taxonomies]
 tags = ['Python']
 +++
@@ -8,13 +9,15 @@ tags = ['Python']
 Reading `.INI` files is very easy with Python. Say you had a file,
 "*config.cfg*", with this content:
 
-    [numbers]
-    one: 1
-    two: 2
+```ini
+[numbers]
+one: 1
+two: 2
+```
 
 The code to read that content is:
 
-``` {.sourceCode .python}
+```python
 import configparser
 conf = configparser.ConfigParser()
 conf.read("config.cfg")
@@ -31,7 +34,7 @@ That's a list of tuples, each tuple a key-value pair.
 Even better, since these are key-value pairs, why not use a more
 suitable data type? Here goes:
 
-``` {.sourceCode .python}
+```python
 import configparser
 conf = configparser.ConfigParser()
 conf.read("config.cfg")
@@ -49,7 +52,7 @@ ordering is now a bit off. That's because the dict type doesn't care
 about ordering. Remember that in order to access dictionary content, you
 use a key and not an index:
 
-``` {.sourceCode .python}
+```python
 >>> d = {1: 'one'}
 >>> d[0]
 Traceback (most recent call last):
@@ -59,11 +62,10 @@ KeyError: 0
 'one'
 ```
 
-further reading
-===============
+### further reading
 
 -   [configparser module]
 -   [dict mapping type]
 
-  [configparser module]: http://docs.python.org/library/configparser
-  [dict mapping type]: http://docs.python.org/library/stdtypes#mapping-types-dict
+[configparser module]: http://docs.python.org/library/configparser
+[dict mapping type]: http://docs.python.org/library/stdtypes#mapping-types-dict

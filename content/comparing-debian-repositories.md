@@ -1,6 +1,7 @@
 +++
-date = 2011-02-09
 title = "comparing Debian repositories"
+date = 2011-02-09
+
 [taxonomies]
 tags = ['Debian', 'Python']
 +++
@@ -8,7 +9,7 @@ tags = ['Debian', 'Python']
 If you got two Debian repositories, it's quite easy to check the
 differences in package versions between them:
 
-``` {.sourceCode .python}
+```python
 import os
 import gzip
 import apt_pkg
@@ -46,12 +47,11 @@ Here, we get a display of package versions where the repo1 (custom repo
 in this case) is greater than repo2 version. To do it the other way
 around, use the `<` character in the comparison line, `if vc > 0`.
 
-further reading
-===============
+### further reading
 
--   modules: [gzip], [os]
--   3rd party library: [apt_pkg]
+- modules: [gzip], [os]
+- 3rd party library: [apt_pkg]
 
-  [gzip]: http://docs.python.org/library/gzip
-  [os]: http://docs.python.org/library/os
-  [apt_pkg]: http://apt.alioth.debian.org/python-apt-doc/library/apt_pkg.html
+[gzip]: http://docs.python.org/library/gzip
+[os]: http://docs.python.org/library/os
+[apt_pkg]: http://apt.alioth.debian.org/python-apt-doc/library/apt_pkg.html

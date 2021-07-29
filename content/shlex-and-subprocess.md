@@ -1,6 +1,7 @@
 +++
-date = 2011-01-25
 title = "shlex and subprocess"
+date = 2011-01-25
+
 [taxonomies]
 tags = ['Python']
 +++
@@ -15,13 +16,13 @@ within `python`. A normal `split` won't work, because it uses white
 space as a delimiter (by default). To test, I will create a file named
 "**file with spaces**" and add text (`content of 'file with spaces'`).
 
-``` {.sourceCode .sh}
+```sh
 $ echo 'content of file with spaces' > 'file with spaces'
 ```
 
 And here's the code, using the normal split method:
 
-``` {.sourceCode .python}
+```python
 import subprocess
 cmd = "/bin/cat 'file with spaces'"
 formatted_cmd = cmd.split()
@@ -30,7 +31,7 @@ subprocess.Popen(formatted_cmd)
 
 Output:
 
-``` {.sourceCode .sh}
+```sh
 /bin/cat: 'file: No such file or directory
 /bin/cat: with: No such file or directory
 /bin/cat: spaces': No such file or directory
@@ -38,7 +39,7 @@ Output:
 
 That's when `shlex` module gets to be useful.
 
-``` {.sourceCode .python}
+```python
 import shlex, subprocess
 cmd = "/bin/cat 'file with spaces'"
 formatted_cmd = shlex.split(cmd)
@@ -49,5 +50,5 @@ Output:
 
     content of 'file with spaces'
 
-  [shlex]: http://docs.python.org/library/shlex.html
-  [subprocess]: http://docs.python.org/library/subprocess.html
+[shlex]: http://docs.python.org/library/shlex.html
+[subprocess]: http://docs.python.org/library/subprocess.html

@@ -1,6 +1,7 @@
 +++
-date = 2011-02-01
 title = "splitting strings"
+date = 2011-02-01
+
 [taxonomies]
 tags = ['Python', 'non-Python']
 +++
@@ -8,7 +9,7 @@ tags = ['Python', 'non-Python']
 If I have a string with spaces, and wanted to split it into a
 list/array, I would use this:
 
-``` {.sourceCode .python}
+```python
 split_string = "a b c".split()
 print(split_string)
 ```
@@ -20,7 +21,7 @@ Output:
 I can go ahead and specify a delimiter (which character the string must
 split on):
 
-``` {.sourceCode .python}
+```python
 split_string = "string with spaces".split(" ")
 print(split_string)
 ```
@@ -31,7 +32,7 @@ I get the same result:
 
 But what if my string wasn't so forgiving?
 
-``` {.sourceCode .python}
+```python
 split_string = "a b  c".split(" ")
 print(split_string)
 ```
@@ -52,7 +53,7 @@ examples. PHP examples aren't that much different though.
 
 Here goes:
 
-``` {.sourceCode .java}
+```java
 import java.util.Arrays;
 String[] splitString = "a b  c".split(" ");
 System.out.println(Arrays.asList(splitString));
@@ -65,7 +66,7 @@ Output:
 That's not what we want, so in order to cover for my unforgiving
 string, I get to use regular expressions (regexp)?
 
-``` {.sourceCode .java}
+```java
 import java.util.Arrays;
 String[] splitString = "string with spaces".split(" +");
 System.out.println(Arrays.asList(splitString));
@@ -81,7 +82,7 @@ one or more consecutive spaces.
 That's not what we want, so in order to cover for my unforgiving
 string, I get to use regular expressions (regexp)?
 
-``` {.sourceCode .java}
+```java
 String[] splitString = "string with spaces".split(" +");
 System.out.println(Arrays.asList(splitString));
 ```
@@ -93,7 +94,7 @@ Output:
 But what if the string was even less forgiving. In this case, having
 tabs as well? We need some more regexp help:
 
-``` {.sourceCode .java}
+```java
 import java.util.Arrays;
 String[] splitString = "a    bnc".split("s+");
 System.out.println(Arrays.asList(splitString));
@@ -108,7 +109,7 @@ The `s` matches any white space.
 With Python, I expected the default way to work but it didn't, but came
 back disappointed:
 
-``` {.sourceCode .python}
+```python
 split_string = "a    bnc".split(" ")
 print(split_string)
 ```
@@ -121,7 +122,7 @@ Perhaps it's a philosophical difference, but it's harder to do this
 with Python. This is the only thing so that I found easier to achieve in
 Java than in Python:
 
-``` {.sourceCode .python}
+```python
 import re
 split_string = re.split("s+", "a    bnc")
 print(split_string)
@@ -131,5 +132,5 @@ print(split_string)
 
     ['a', 'b', 'c']
 
-  [magic]: http://docs.python.org/library/stdtypes.html#str.split
-  [justification]: http://bugs.python.org/issue1367936
+[magic]: http://docs.python.org/library/stdtypes.html#str.split
+[justification]: http://bugs.python.org/issue1367936

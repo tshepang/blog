@@ -1,6 +1,7 @@
 +++
-date = 2011-03-19
 title = "my JHBuild setup"
+date = 2011-03-19
+
 [taxonomies]
 tags = ['GNOME']
 +++
@@ -12,7 +13,7 @@ machine.
 
 If you use Debian (or Ubuntu), you can use run this command:
 
-``` {.sourceCode .sh}
+```sh
 wajig --norecommends install build-essential docbook-xsl flex
 bison cvs gperf cmake  {uuid,ppp}-dev
 libx{composite,randr,damage,ft2,i,t}-dev
@@ -29,7 +30,7 @@ by the packager to be useful for me.
 
 My "~/.jhbuilrc" contains the following:
 
-``` {.sourceCode .python}
+```python
 # build directory
 checkoutroot = os.path.expanduser("~/src/gnome")
 
@@ -75,12 +76,12 @@ modules failed, and on what build stages. Gorgeous!
 
 **sidenotes**:
 
--   This process is rather simplified, for the sake of clarity.
--   I run Debian 6, codenamed Squeeze.
--   There is [a more thorough tutorial] elsewhere.
+- This process is rather simplified, for the sake of clarity.
+- I run Debian 6, codenamed Squeeze.
+- There is [a more thorough tutorial] elsewhere.
 
-  [powerful]: http://library.gnome.org/devel/jhbuild/unstable/command-reference.html.en
-  [flexible]: http://library.gnome.org/devel/jhbuild/unstable/config-reference.html.en
-  [wiki page]: http://live.gnome.org/Jhbuild
-  [the xml file]: http://git.gnome.org/browse/jhbuild/tree/modulesets/bootstrap.modules
-  [a more thorough tutorial]: http://www.vuntz.net/journal/post/2010/09/23/My-love-for-jhbuild
+[powerful]: http://library.gnome.org/devel/jhbuild/unstable/command-reference.html.en
+[flexible]: http://library.gnome.org/devel/jhbuild/unstable/config-reference.html.en
+[wiki page]: http://live.gnome.org/Jhbuild
+[the xml file]: http://git.gnome.org/browse/jhbuild/tree/modulesets/bootstrap.modules
+[a more thorough tutorial]: http://www.vuntz.net/journal/post/2010/09/23/My-love-for-jhbuild

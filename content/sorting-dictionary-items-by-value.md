@@ -1,13 +1,14 @@
 +++
-date = 2012-06-26
 title = "sorting dictionary items by value"
+date = 2012-06-26
+
 [taxonomies]
 tags = ['Python']
 +++
 
 Following should be self-explanatory:
 
-``` {.sourceCode .python}
+```python
 $ python
 >>> numbers = dict(zero=0, one=1, two=2, three=3)
 >>> numbers

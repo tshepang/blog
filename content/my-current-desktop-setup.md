@@ -104,7 +104,7 @@ become selectable on LightDM UI:
 On selecting the entry labeled **Custom** that appears on LightDM, and
 logging in, the following will get executed ([~/.xsession]):
 
-``` {.sourceCode .sh}
+```sh
 # apps
 xfce4-terminal --hide-menubar --tab --tab --tab &
 firefox &

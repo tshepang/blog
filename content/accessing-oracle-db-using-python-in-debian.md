@@ -1,6 +1,7 @@
 +++
-date = 2011-01-15
 title = "accessing Oracle DB using Python, in Debian"
+date = 2011-01-15
+
 [taxonomies]
 tags = ['Debian', 'Python', 'non-FLOSS']
 +++
@@ -18,7 +19,7 @@ so look [elsewhere] for something more generic.
 
 **installation and setup**:
 
-``` {.sourceCode .bash}
+```sh
 sudo apt-get install libpython3.1 libaio1 alien
 sudo alien --install oracle-instantclient11.2-basic*rpm cx_Oracle*rpm
 sudo ln -s /usr/lib/python3.1/site-packages/cx_Oracle.so /usr/lib/python3.1/lib-dynload
@@ -34,7 +35,7 @@ install is most likely successful.
 
 For basic usage, see [this tiny tutorial].
 
-  [Debian Squeeze]: http://www.debian.org/releases/squeeze/
-  [elsewhere]: http://agiletesting.blogspot.com/2005/05/installing-and-using-cxoracle-on-unix.html
-  [cx-Oracle]: http://cx-oracle.sourceforge.net/
-  [this tiny tutorial]: @/basic-usage-of-python-with-oracle-db-in-debian.md
+[Debian Squeeze]: http://www.debian.org/releases/squeeze/
+[elsewhere]: http://agiletesting.blogspot.com/2005/05/installing-and-using-cxoracle-on-unix.html
+[cx-Oracle]: http://cx-oracle.sourceforge.net/
+[this tiny tutorial]: @/basic-usage-of-python-with-oracle-db-in-debian.md

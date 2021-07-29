@@ -1,6 +1,7 @@
 +++
-date = 2011-03-15
 title = "cat, Python, and Perl"
+date = 2011-03-15
+
 [taxonomies]
 tags = ['non-Python', 'Python']
 +++
@@ -8,7 +9,7 @@ tags = ['non-Python', 'Python']
 I came across [a tutorial] that showes how to implement a simple cat in
 Perl. I've modified their example for the sake of simplicity:
 
-``` {.sourceCode .perl}
+```perl
 sub cat {
     foreach my $filename (@_) {
         open FILE, $filename;
@@ -25,7 +26,7 @@ as if you ran `cat file`.
 
 I decided to see how the Python example would look like:
 
-``` {.sourceCode .python}
+```python
 import sys
 def cat(files):
     for filename in files:
@@ -38,8 +39,7 @@ cat(sys.argv[1:])
 Running this script (e.g. `python3 cat.py file1 file2`) will give
 exactly the same result as above.
 
-notes
-=====
+## notes
 
 -   The Perl keyword, `my`, indicates that the variabe it refers to is
     local. Without that, it's taken to be global. As for Python, this
@@ -79,15 +79,14 @@ notes
     after the script name. One would say that Perl does this more
     elegantly.
 
-further reading
-===============
+## further reading
 
--   [Python scope]
--   [Python print function]
--   [Python with statement]
+- [Python scope]
+- [Python print function]
+- [Python with statement]
 
-  [a tutorial]: http://greenteapress.com/perl/perl.pdf
-  [sys module]: http://docs.python.org/3/library/sys
-  [Python scope]: http://docs.python.org/reference/executionmodel
-  [Python print function]: http://docs.python.org/3/library/functions#print
-  [Python with statement]: http://docs.python.org/3/reference/compound_stmts#the-with-statement
+[a tutorial]: http://greenteapress.com/perl/perl.pdf
+[sys module]: http://docs.python.org/3/library/sys
+[Python scope]: http://docs.python.org/reference/executionmodel
+[Python print function]: http://docs.python.org/3/library/functions#print
+[Python with statement]: http://docs.python.org/3/reference/compound_stmts#the-with-statement

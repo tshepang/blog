@@ -1,6 +1,7 @@
 +++
-date = 2011-03-26
 title = "cleansing multiple build directories"
+date = 2011-03-26
+
 [taxonomies]
 tags = ['Python', 'GNOME']
 +++
@@ -20,7 +21,7 @@ just wipe out the entire installation.
 Note that there's dozens of modules to build, so I wrote this little
 script to take care of it:
 
-``` {.sourceCode .python}
+```python
 import os
 import subprocess
 top_level = os.path.expanduser("~/src/gnome")
@@ -35,13 +36,12 @@ for filename in os.listdir(top_level):
                 subprocess.call(cmd, shell=True)
 ```
 
-update
-======
+### update
 
 Someone very kind guy made [a bunch of suggestions], making my code much
 better:
 
-``` {.sourceCode .python}
+```python
 import os
 import subprocess
 top_level = os.path.expanduser("~/src/gnome")
@@ -54,13 +54,12 @@ for filename in os.listdir(top_level):
                 subprocess.call("make clean".split())
 ```
 
-further reading
-===============
+### further reading
 
 modules: [os], [os.path], [subprocess]
 
-  [building GNOME with JHBuild]: @/my-jhbuild-setup.md
-  [a bunch of suggestions]: http://codereview.stackexchange.com/questions/1476/cleansing-multiple-build-directories/1477#1477
-  [os]: http://docs.python.org//library/os
-  [os.path]: http://docs.python.org//library/os.path
-  [subprocess]: http://docs.python.org//library/subprocess
+[building GNOME with JHBuild]: @/my-jhbuild-setup.md
+[a bunch of suggestions]: http://codereview.stackexchange.com/questions/1476/cleansing-multiple-build-directories/1477#1477
+[os]: http://docs.python.org//library/os
+[os.path]: http://docs.python.org//library/os.path
+[subprocess]: http://docs.python.org//library/subprocess

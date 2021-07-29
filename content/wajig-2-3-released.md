@@ -1,6 +1,7 @@
 +++
-date = 2012-03-25
 title = "wajig 2.3 released"
+date = 2012-03-25
+
 [taxonomies]
 tags = ['Debian', 'Python', 'wajig']
 +++
@@ -15,7 +16,7 @@ release so far:
     package named nautilus, but avoid installing its Recommends
     depencencies:
 
-    ``` {.sourceCode .sh}
+    ```sh
     # ole
     wajig —norecommends INSTALL nautilus
     # new
@@ -65,4 +66,4 @@ release so far:
     the user-visible stuff, a few COMMANDS were removed, a few options
     added/removed. [Here's 'all' the gory details].
 
-  [Here's 'all' the gory details]: http://packages.qa.debian.org/w/wajig/news/20120322T223441Z.html
+[Here's 'all' the gory details]: http://packages.qa.debian.org/w/wajig/news/20120322T223441Z.html

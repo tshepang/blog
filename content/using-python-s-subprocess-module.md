@@ -1,6 +1,7 @@
 +++
-date = 2011-01-26
 title = "using Python's subprocess module"
+date = 2011-01-26
+
 [taxonomies]
 tags = ['Python']
 +++
@@ -10,7 +11,7 @@ Python: via the shell, or directly (via the kernel).
 
 This is via the shell:
 
-``` {.sourceCode .python}
+```python
 import subprocess
 subprocess.Popen("echo test", shell=True)
 ```
@@ -21,7 +22,7 @@ Output:
 
 This is via the kernel:
 
-``` {.sourceCode .python}
+```python
 import subprocess
 p = subprocess.Popen(["echo", "test"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 output = p.communicate()
@@ -39,7 +40,7 @@ not stated here.
 To get the equivalent of what we get from the first example, we have to
 do a bit more work:
 
-``` {.sourceCode .python}
+```python
 import subprocess
 p = subprocess.Popen(["echo", "test"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 output = p.communicate()
@@ -61,8 +62,7 @@ control when to display the output). Another benefit is that it is more
 secure to do it this way (I don't know the details, so see [shell
 injection] for the argument).
 
-further reading
-===============
+### further reading
 
 -   There is a whole wealth of info on this from [a gentle tutorial]
     where I learned this stuff. It also explains what pipes are
@@ -72,9 +72,9 @@ further reading
 -   [a great explanation] of what strings really are, and how they
     relate to Python 3
 
-  [decode method]: http://docs.python.org/library/stdtypes.html?highlight=encode#str.decode
-  [print function]: http://docs.python.org/library/functions.html#print
-  [shell injection]: http://en.wikipedia.org/wiki/Shell_injection#Shell_injection
-  [a gentle tutorial]: http://jimmyg.org/blog/2009/working-with-python-subprocess.html
-  [the official doc for the Popen.communicate() method]: http://docs.python.org/library/subprocess.html#subprocess.Popen.communicate
-  [a great explanation]: http://diveintopython3.net/strings.html
+[decode method]: http://docs.python.org/library/stdtypes.html?highlight=encode#str.decode
+[print function]: http://docs.python.org/library/functions.html#print
+[shell injection]: http://en.wikipedia.org/wiki/Shell_injection#Shell_injection
+[a gentle tutorial]: http://jimmyg.org/blog/2009/working-with-python-subprocess.html
+[the official doc for the Popen.communicate() method]: http://docs.python.org/library/subprocess.html#subprocess.Popen.communicate
+[a great explanation]: http://diveintopython3.net/strings.html

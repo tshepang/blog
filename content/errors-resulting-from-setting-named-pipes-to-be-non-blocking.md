@@ -1,6 +1,7 @@
 +++
-date = 2012-11-18
 title = "errors resulting from setting named pipes to be non-blocking"
+date = 2012-11-18
+
 [taxonomies]
 tags = ['non-Python']
 +++
@@ -13,7 +14,7 @@ value as EWOULDBLOCK, which is a far more meaningful name in this case.
 
 This is what will display those errors:
 
-``` {.sourceCode .c}
+```c
 if (write(fd, buffer, strlen(buffer)) == -1)
     fprintf (stderr, "error writing to file '%s': %s (errno %d)",
              path, strerror(errno), fd);
@@ -22,7 +23,7 @@ if (write(fd, buffer, strlen(buffer)) == -1)
 
 And here is how to avoid them:
 
-``` {.sourceCode .c}
+```c
 if ((write(fd, buffer, strlen(buffer)) == -1) && (errno != EWOULDBLOCK)) {
     fprintf( stderr, "error writing to file '%s': %s (errno %d)",
              path, strerror(errno), fd);
@@ -32,4 +33,4 @@ if ((write(fd, buffer, strlen(buffer)) == -1) && (errno != EWOULDBLOCK)) {
 To avoid this kind of confusion, I just wish these two variables did not
 refer to the same errno value.
 
-  [this excellent answer]: http://developerweb.net/viewtopic.php?pid=25967#p25967
+[this excellent answer]: http://developerweb.net/viewtopic.php?pid=25967#p25967

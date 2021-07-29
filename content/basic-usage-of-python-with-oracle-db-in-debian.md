@@ -11,7 +11,7 @@ read Oracle DBs.
 
 Let's start by simply reading the DB:
 
-``` {.sourceCode .python}
+```python
 import cx_Oracle
 conn = cx_Oracle.connect("usr", "pwd", "tns")
 cursor = conn.cursor()
@@ -26,7 +26,7 @@ The [cx_Oracle] explain exactly what each of these means.
 If we wanted instead to modify stuff in there, we only add one extra
 line, which is `cursor.commit`, like this:
 
-``` {.sourceCode .python}
+```python
 import cx_Oracle
 conn = cx_Oracle.connect("usr", "pwd", "tns")
 cursor = conn.cursor()
@@ -38,7 +38,7 @@ conn.close()
 For real-world code, you are of course going to add exception handling
 for all this, something like this:
 
-``` {.sourceCode .python}
+```python
 import cx_Oracle
 try:
     conn = cx_Oracle.connect("usr", "pwd", "tns")

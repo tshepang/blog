@@ -1,6 +1,7 @@
 +++
-date = 2010-09-28
 title = "my Debian package management setup"
+date = 2010-09-28
+
 [taxonomies]
 tags = ['Debian']
 +++
@@ -56,7 +57,7 @@ care to learn how).
 Moving on, here's the relevant entries from my /etc/apt/sources.list
 file:
 
-``` {.sourceCode .sh}
+```sh
 # local repos (debmirror)
 deb file:/home/wena/.repo_bin sid main
 deb-src file:/home/wena/.repo_src sid main
@@ -70,17 +71,17 @@ deb ftp://ftp.sun.ac.za/ftp/debian/ sid main non-free contrib
 
 So, what I do on a semi-regular basis is run:
 
-    $ wajig update && wajig upgrade
+    wajig update && wajig upgrade
 
 The newly-updated packages are stored in a cache so that a reinstall
 doesn't have to fetch from network again. After this I run:
 
-    $ reprepro -vv --basedir ~/.repo_local includedeb cache /var/cache/apt/archives/*deb
+    reprepro -vv --basedir ~/.repo_local includedeb cache /var/cache/apt/archives/*deb
 
 This updates the local reprepro repo and after which I can then remove
 the cached packages:
 
-    $ wajig clean
+    wajig clean
 
 I do that because they are now available in my reprepro-managed repo.
 That now means that I got a massive mirror managed by debmirror and a
@@ -91,6 +92,6 @@ well as an odd packages from [Debian Experimental].
 
 Not so simple I guess... but works so well for my needs.
 
-  [Squeeze]: http://www.debian.org/releases/squeeze/
-  [total Debian archive size]: http://www.debian.org/mirror/size
-  [Debian Experimental]: http://wiki.debian.org/DebianExperimental
+[Squeeze]: http://www.debian.org/releases/squeeze/
+[total Debian archive size]: http://www.debian.org/mirror/size
+[Debian Experimental]: http://wiki.debian.org/DebianExperimental

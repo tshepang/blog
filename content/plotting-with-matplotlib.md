@@ -7,7 +7,7 @@ tags = ['Python']
 
 Here's drawing a simple graph:
 
-``` {.sourceCode .python}
+```python
 from matplotlib import pyplot
 x = range(10)  # a list of 10 integers, 0-9
 y = range(10)
@@ -17,7 +17,7 @@ pyplot.show()
 
 And now for something a little more interesting:
 
-``` {.sourceCode .python}
+```python
 import random
 from matplotlib import pyplot
 x = range(10)
@@ -28,7 +28,7 @@ pyplot.show()
 
 We can have more than one graph on a single figure:
 
-``` {.sourceCode .python}
+```python
 import random
 from matplotlib import pyplot
 x = range(10)
@@ -40,7 +40,7 @@ pyplot.show()
 
 What if the two graphs have much differing ranges:
 
-``` {.sourceCode .python}
+```python
 import random
 from matplotlib import pyplot
 x = range(10)
@@ -53,7 +53,7 @@ pyplot.show()
 Depending on need, that might not be ideal. So let's create two
 separate y-axes:
 
-``` {.sourceCode .python}
+```python
 import random
 from matplotlib import pyplot
 x = range(10)
@@ -68,7 +68,7 @@ pyplot.show()
 Yeah, not exactly ideal. We lost the automatic coloring, and we don't
 even know which graph is which. Let's do better:
 
-``` {.sourceCode .python}
+```python
 import random
 from matplotlib import pyplot
 x = range(10)

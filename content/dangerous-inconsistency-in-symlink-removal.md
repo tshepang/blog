@@ -1,13 +1,14 @@
 +++
-date = 2011-01-28
 title = "dangerous inconsistency in symlink removal"
+date = 2011-01-28
+
 [taxonomies]
 tags = ['untagged']
 +++
 
 Here's how to make a symlink and to delete it:
 
-``` {.sourceCode .sh}
+```sh
 mkdir dir
 ln -s dir dirlink
 rm -r dirlink
@@ -15,19 +16,19 @@ rm -r dirlink
 
 Here's another way to delete it:
 
-``` {.sourceCode .sh}
+```sh
 rm -r dirlink/
 ```
 
 Although it will do the job, it will actually complain with:
 
-``` {.sourceCode .sh}
+```sh
 rm: cannot remove `dirlink': Not a directory
 ```
 
 Note that we could have achieved the deletion with just:
 
-``` {.sourceCode .sh}
+```sh
 rm dirlink
 ```
 
@@ -42,4 +43,4 @@ the hard way :(
 
 [**sidenote**] Here's [some explanation].
 
-  [some explanation]: http://unix.stackexchange.com/q/6618/688
+[some explanation]: http://unix.stackexchange.com/q/6618/688
