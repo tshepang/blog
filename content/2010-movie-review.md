@@ -102,7 +102,6 @@ character's shortcomings involve lovers.
 
 Here's a list of most **painful/touching scene**:
 
-1.  strapped with bombs ([The Hurt Locker]
 3.  hate for a dead wife (*Last Tango in Paris*) -- leads one
     sympathising with the otherwise unpleasant character
 4.  expression of love between cop and prostitute ([Brooklyn's
@@ -150,7 +149,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Somewhere]: @/somewhere-2010.md
 [Inception]: @/many-many-recent-movies.md
 [The A-Team]: @/recent-movies-2010-09-15.md
-[The Hurt Locker]: @/the-hurt-locker.md
 [The Social Network]: @/the-social-network-2010.md
 [The Job]: @/recent-movies-2010-11-19.md
 [Clash of the Titans]: @/clash-of-the-titans-2010.md
