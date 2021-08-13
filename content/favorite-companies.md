@@ -24,7 +24,7 @@ leading me to trust them.
 
 - [Oxide], which builds servers (early stage, nothing shipping yet),
   also makes heavy use of Rust as well as open source firmware.
-  Best of all, [all workers get the same salary]!.
+  Best of all, [all workers get the same salary]!
 
 - [Cloudflare], which offers various internet services,
   offers many of them without a fee.
