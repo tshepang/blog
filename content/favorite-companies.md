@@ -22,9 +22,9 @@ leading me to trust them.
   Reading through their site leaves me impressed about how
   serious they are about security and privacy.
 
-- [Oxide], which builds servers (early stage, nothing shipping yet,
+- [Oxide], which builds servers (early stage, nothing shipping yet),
   also makes heavy use of Rust as well as open source firmware.
-  Best of all, [all workers get the same salary!],
+  Best of all, [all workers get the same salary]!.
 
 - [Cloudflare], which offers various internet services,
   offers many of them without a fee.
@@ -39,7 +39,7 @@ leading me to trust them.
 [Sealed Rust]: https://ferrous-systems.com/blog/sealed-rust-the-pitch
 [Mullvad]: https://mullvad.net
 [Oxide]: https://oxide.computer
-[all workers get the same salary!]: https://oxide.computer/blog/compensation-as-a-reflection-of-values
+[all workers get the same salary]: https://oxide.computer/blog/compensation-as-a-reflection-of-values
 [in public]: https://github.com/mullvad
 [Cloudflare]: https://cloudflare.com
 [have to do with Rust]: https://blog.cloudflare.com/tag/rust
