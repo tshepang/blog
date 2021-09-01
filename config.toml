@@ -13,7 +13,7 @@ highlight_code = true
 
 [extra]
 after_dark_menu = [
-    {url = "$BASE_URL/tags", name = "tags"},
     {url = "$BASE_URL/about-me", name = "about"},
+    {url = "$BASE_URL/tags", name = "tags"},
     {url = "$BASE_URL/categories/movies", name = "movies"},
 ]
