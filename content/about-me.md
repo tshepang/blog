@@ -1,6 +1,6 @@
 +++
 title = "about me"
-date = 2019-09-19
+date = 2021-09-02
 +++
 
 I am Tshepang Lekhonkhobe (<tshepang@gmail.com>),
@@ -17,7 +17,7 @@ Among my profiles on the web:
 The sources for this blog can be found [on GitHub].
 
 [South Africa]: https://en.wikipedia.org/wiki/South_Africa
-[for a living]: https://panoptix.io
+[for a living]: https://snode.com
 [Rust]: https://rust-lang.org
 [Debian]: https://debian.org
 [GitHub]: https://github.com/tshepang
