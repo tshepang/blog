@@ -10,7 +10,7 @@ flow pre-requisite:
 
       cd ~/blog
       mkdir themes && cd themes
-      git clone --recursive https://github.com/tshepang/even --branch custom
+      git clone --recursive https://github.com/tshepang/after-dark --branch custom
 
 flow:
 

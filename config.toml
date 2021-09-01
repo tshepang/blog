@@ -1,7 +1,7 @@
 title = "Tshepang logs"
 base_url = "http://tshepang.github.io"
-theme = "even"
-generate_rss = true
+theme = "after-dark"
+generate_feed = true
 build_search_index = true
 taxonomies = [
   { name = "tags", rss = true },
@@ -17,10 +17,8 @@ hyde_links = [
   { name = 'twitter', url = 'https://twitter.com/tshepang_dev' },
   { name = 'github', url = 'https://github.com/tshepang' },
 ]
-even_menu = [
+after_dark_menu = [
     {url = "$BASE_URL/tags", name = "tags"},
     {url = "$BASE_URL/about-me", name = "about"},
     {url = "$BASE_URL/categories/movies", name = "movies"},
 ]
-even_title = "Tshepang logs"
-even_search = true
