@@ -41,11 +41,6 @@ date = 2018-09-12
 tags = ["non-Rust"]
 ```
 
-wishlist:
-
-- tags should be displayed on the page
-- there should be /tags and /movies/tags
-
 ---
 
 The content of this repository is licensed under [CC BY-SA 4.0].
