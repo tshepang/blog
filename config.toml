@@ -13,10 +13,6 @@ highlight_code = true
 
 [extra]
 author = "Tshepang Lekhonkhobe"
-hyde_links = [
-  { name = 'twitter', url = 'https://twitter.com/tshepang_dev' },
-  { name = 'github', url = 'https://github.com/tshepang' },
-]
 after_dark_menu = [
     {url = "$BASE_URL/tags", name = "tags"},
     {url = "$BASE_URL/about-me", name = "about"},
