@@ -12,7 +12,6 @@ taxonomies = [
 highlight_code = true
 
 [extra]
-author = "Tshepang Lekhonkhobe"
 after_dark_menu = [
     {url = "$BASE_URL/tags", name = "tags"},
     {url = "$BASE_URL/about-me", name = "about"},
