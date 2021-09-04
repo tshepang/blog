@@ -20,7 +20,7 @@ tags = ['list']
 
 ### software development
 
-- **cargo**: central tool for Rust development
+- **Cargo**: central tool for Rust development
 - **Git**: this one has won the mindshare
 
  ### GUI applications
