@@ -45,7 +45,7 @@ tags = ['list']
 - **wajig**: acts as pleasant front-end to `apt` and other
   package management tools;
   [I used to maintain it], and it happens to be the one Debian
-  package that makes me a Debian Maintainer (I got upload access
+  package that once made me a Debian Maintainer (I used to have upload access
   for it)
 - **apt**: Debian package management
 - **apt-cacher-ng**: avoids the need to re-fetch Debian packages when needed for
