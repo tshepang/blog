@@ -6,7 +6,7 @@ tags = ['good']
 categories = ['movies']
 +++
 
-The movie is well-made, and has an exciting twist. The eveil acts done
+The movie is well-made, and has an exciting twist. The evil acts done
 by two of the characters needed better explanation, most especially the
 first one (it was too sudden). I enjoyed watching the detective... nice
 performance there.
