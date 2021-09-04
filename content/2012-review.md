@@ -7,15 +7,15 @@ tags = ["year-review", "2012"]
 categories = ['movies']
 +++
 
-**best direction** is from *Zero Dark Thirty*,
+The **best direction** is from *Zero Dark Thirty*,
 an unflinching portrayal of a fictionalised hunt for a famous terrorist,
 and interestingly doesn't take an obvious moral stance on murder,
-though it does not ignore the toll violence has on the victims,
+though it does not ignore the toll violence has on victims,
 and some of the perpetrators.
 Attention to detail is impressive too.
 The movie is followed by *Freelancers*, due to its edginess.
 
-**best performance** is by Michael Shannon playing a fearsome hitman
+The **best performance** is by Michael Shannon playing a fearsome hitman
 in *The Iceman*.
 He is followed by...
 - Ray Liotta, who plays his boss in the same movie
