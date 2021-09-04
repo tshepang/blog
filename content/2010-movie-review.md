@@ -39,7 +39,7 @@ The best **sound** is a tie between *Up in the Air* and [Somewhere].
 
 ## acting & characters
 
-There were so many enjoyable performances this year that I couln't
+There were so many enjoyable performances this year that I could not
 clearly decide who was better than who, and here's an attempt:
 
 The year's most **favorite performance** is that of Jesse Eisenberg in
@@ -59,26 +59,26 @@ we have Meryl Streep in [Sophie's Choice][The Job].
 My most **favorite character** is the admirable Nelson Mandela (played
 by Morgan Freeman) in [Invictus][The Job].
 
-The **best child performance** was by the girl palying the daughter in
+The **best child performance** was by the girl playing the daughter in
 ([Somewhere]), followed by title character in *Spud*.
 
 The best **cast** is that of *Calendar Girls*.
 
 The best **cast of children** can be found in *Spud*, while the year's
 best **villain** is that played by Hades in [Clash of the Titans]
-(also the year's most fearsome character),
+(also the year's most **fearsome character**),
 followed by the tough and smart shooter in [The A-Team].
 
 The most **desirable gal** list follows:
 
-1.  Vera Farmiga (Up in the Air) and Lois character
+1.  Vera Farmiga (*Up in the Air*) and Lois character
     ([Superman][Inception])
 2.  lover (*Last Tango in Paris*); Maggie Gyllenhaal (*Crazy Heart*)
 3.  bride (*Mamma Mia*); huge eyes (*Outsourced*)
 4.  police lady (*Holy Water*)
 
 The most **miserable character** was that of Philip Seymour Hoffman in
-*Synecdoche, New York*, which isn't very surpsring since such
+*Synecdoche, New York*, which isn't very surprising since such
 characters are his trademark. He's followed very closely by Marlon
 Brando's in the disturbing *Last Tango in Paris*.
 
