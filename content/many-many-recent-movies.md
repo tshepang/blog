@@ -9,12 +9,6 @@ categories = ['movies']
 glued to my laptop screen, enjoying the wonderful art world of movies.
 Another inspiration is preparation for the upcoming 2010 movie review.*
 
-Jack Nicholson's The Joker (*Batman*) has been given much praise, and
-on revisiting, I'm left wondering what the fuck they were
-drinking/smoking. Sure, this version of the character was meant to be
-humorous, but it's hard to ignore how far he pales in comparison to
-Heath Ledger's more recent portrayal.
-
 I was gladly surprised by how enjoyable *Superman* is. It's generally a
 piece of shit (bad and childish dialogue, campy direction, shitty
 character development, bad script) but I fell in love with Lois, the
