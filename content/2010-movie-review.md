@@ -139,8 +139,7 @@ The most **boring** movie this year is *A Brighter Summer Day*, followed
 by *Afterwards* (no pun intended). The most **overrated** movie is
 [Shane][Inception] (dull and lame), followed by *Up*, which doesn't
 live anywhere near the high expectations worthy of animated movies of
-its stature. The most **overrated villain** is Jack Nicholson as The
-Joker in [Batman][Inception]. WTF!
+its stature.
 
 ---
 
