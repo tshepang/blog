@@ -28,14 +28,14 @@ Nothing made me cry in my history of movie-watching as did the drama,
 [Kinsey], and there wasn't a movie as bizarre as [Persona], while the
 year's best dialogue can be found in [The Squid & the Whale].
 
-As for production design, nothing beat [No Country for Old Men], while
+As for production design, nothing beats [No Country for Old Men], while
 *TMNT* is a runner-up, animated as it is. *No Country for Old Men* also
 got the year's best sound, followed by a tie between [30 Days of Night]
 and [Cloverfield]. [The New World]'s editing is the year's most
 accomplished.
 
 The best dancing can be found in [Step Up 2: The Streets], there's no
-better action-thriller than [Taken] (followed by [Shooter]), while no
+better action-thriller than [Taken], while no
 horror is better than the chilling [Vacancy]. The best action is found
 in [Final Fantasy VII - Advent Children], followed by [Kung Fu Panda].
 The best fight is between the characters played by Jet Li and Jacky Chan
@@ -120,7 +120,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [30 Days of Night]: @/recent-movies-2008-02-01.md
 [The New World]: @/the-new-world-2005.md
 [Step Up 2: The Streets]: @/recent-movies-2008-12-15.md
-[Shooter]: @/shooter-2007.md
 [Vacancy]: @/recent-movies-2008-06-26.md
 [Final Fantasy VII - Advent Children]: @/final-fantasy-vii-advent-children-2005.md
 [Kung Fu Panda]: @/kung-fu-panda-2008.md
