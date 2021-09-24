@@ -7,7 +7,7 @@ tags = ['decent', '1971']
 categories = ['movies']
 +++
 
-By the far the most interesting performance is the lead. He pretty much
+By far the most interesting performance is the lead. He pretty much
 is the only thing that carries the movie, for the story is rather juvenile
 and so is the choreography. There are good moments though, but they all
 seem to involve him in the scene, my favorite being when he confronts
