@@ -14,14 +14,20 @@ boasting **best direction** (so realistic, also fast-paced),
 and **best editing** (so smooth).
 
 My **favorite performance** is that of [Andrew Howard] as the Russian
-gangster in *Limitless*, followed by Cuba Gooding, jnr. in *The Hit List*.
+gangster in *Limitless*, followed by...
+
+- Cuba Gooding, jnr. in *The Hit List*
+- Stephen Fry in *Sherlock Holmes: A Game of Shadows*
+- Jared Harris, also in *Sherlock Holmes: A Game of Shadows*
+
 *Limitless* also has my most **favorite story
 concept**, that of a drug that vastly improves mental performance.
 
-The most **desirable gal** is [Kelly Reilly] in [Sherlock Holmes: A Game
-of Shadows]. She is followed by [Marion Cotillard] in *Contagion*.
+*Sherlock Holmes: A Game of Shadows* itself also has
+the most **desirable gal** in [Kelly Reilly].
+She is followed by [Marion Cotillard] in *Contagion*.
 
 [Marion Cotillard]: https://en.wikipedia.org/wiki/Marion_Cotillard
 [Kelly Reilly]: http://en.wikipedia.org/wiki/Kelly_Reilly
-[Sherlock Holmes: A Game of Shadows]: @/sherlock-holmes-a-game-of-shadows.md
 [Andrew Howard]: https://en.wikipedia.org/wiki/Andrew_Howard
+[Jared Harris]: http://en.wikipedia.org/wiki/Jared_Harris
