@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2021-01-14
+date = 2021-09-26
 
 [taxonomies]
 tags = ['list']
@@ -25,7 +25,7 @@ tags = ['list']
 
  ### GUI applications
 
-- **Xfce Terminal**
+- [Alacritty]
 - **Firefox**
 - [Transmission][]: the only torrent client I have ever used
 - **Nautilus**: decent GUI file manager
@@ -76,3 +76,4 @@ tags = ['list']
 [procps suite]: https://gitlab.com/procps-ng/procps
 [Quod Libet]: https://quodlibet.readthedocs.io
 [miniserve]: https://github.com/svenstaro/miniserve
+[Alacritty]: https://github.com/alacritty/alacritty
