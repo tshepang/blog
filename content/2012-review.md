@@ -22,7 +22,8 @@ He is followed by...
 - [Jessica Chastain], who leads the cast of *Zero Dark Thirty*
 - [Reda Kateb], also in *Zero Dark Thirty*
 
-Most **desitable gal** is [Dana Delany] from *Freelancers*.
+Most **desitable gal** is [Dana Delany] in *Freelancers*,
+followed by April Hernandez Castillo in *The History of Future Folk*.
 
 
 [Dana Delany]: https://en.wikipedia.org/wiki/Dana_Delany
