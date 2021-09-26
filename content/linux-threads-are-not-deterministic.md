@@ -8,30 +8,25 @@ tags = ['Rust']
 By deterministic, I am referring to their scheduling. Here's an example
 in Rust:
 
-::: {.sourcecode}
-rust
-
-use std::thread; use std::sync::mpsc::channel;
+```rust
+use std::thread;
+use std::sync::mpsc::channel;
 
 fn main() {
-
-:   let thread_count = 4; let (tx, rx) = channel();
-
+    let thread_count = 4;
+    let (tx, rx) = channel();
     for x in 0..thread_count {
-
-    :   let tx = tx.clone(); thread::spawn(move || { println!("t{}
-        tx", x); tx.send(x).unwrap(); });
-
+        let tx = tx.clone();
+        thread::spawn(move || {
+            println!("t{} tx", x);
+            tx.send(x).unwrap();
+        });
     }
-
     for _ in 0..thread_count {
-
-    :   println!("rx from t{}", rx.recv().unwrap());
-
+        println!("rx from t{}", rx.recv().unwrap());
     }
-
 }
-:::
+```
 
 What I'm doing there is create 4 child threads, from which I send
 messages that are to be captured by the main thread.
