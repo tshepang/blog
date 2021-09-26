@@ -6,7 +6,7 @@ tags = ['2014-movie', 'good']
 categories = ['movies']
 +++
 
-An unusual and somewhat dull movie which has the lead tell a the story
+An unusual and somewhat dull movie which has the lead tell a story
 of his alien origins, a story so ridiculous it has people think is just
 made-up as part of his entertainment set as a musician. This character
 is played by a guy with an interesting face, a Jet Li lookalike, making
