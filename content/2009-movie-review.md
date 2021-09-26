@@ -71,8 +71,7 @@ followed up by [Sponge Bob].
 
 The year's **best action** movie is [Quantum of Solace], followed by
 [Avatar]; the most bizarre is [Ghost Dog], followed by [Watchmen]; the
-**funniest** is *You Don't Mess With the Zohan*, followed by *Yes Man*,
-then [Monsters vs. Aliens][Still Life].
+**funniest** is *You Don't Mess With the Zohan*, followed by *Yes Man*.
 
 The **most touching** movie (overall) is [Yellow Earth], a sad
 exploration of a hopeless yearning for freedom, which presents itself in
@@ -99,7 +98,7 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Seven Pounds]: @/recent-movies-2009-04-14.md
 [The Curious Case of Benjamin Button]: @/fincher-s-most-pointless-yet.md
 [Midnight Cowboy]: @/recent-movies-2009-07-13.md
-[Still Life]: @/recent-movies-2009-09-30.md
+[Still Life]: @/still-life.md
 [Avatar]: @/avatar-2009.md
 [Small Soldiers]: @/small-soldiers-1998.md
 [2012]: @/2012-2009.md
