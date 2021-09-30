@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2021-09-25
+date = 2021-09-30
 
 [taxonomies]
 tags = ["Rust"]
@@ -18,6 +18,8 @@ The following are in progress:
 - Having Rust be certified for use in safety-critical systems ([Ferrocene])
 - [hyper] being used as default HTTP backend of cURL ([progress]),
   because the latter has billions of installations
+- [Planned inclusion in Google Chrome],
+  a browser found in billions of devices
 
 [mustang]: https://github.com/sunfishcode/mustang
 [rsix]: https://github.com/bytecodealliance/rsix
@@ -27,3 +29,4 @@ The following are in progress:
 [hyper]: https://github.com/hyperium/hyper
 [progress]: https://github.com/curl/curl/wiki/Hyper
 [Ferrocene]: https://ferrous-systems.com/ferrocene
+[Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
