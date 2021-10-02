@@ -1,6 +1,6 @@
 +++
 title = "2010 review"
-date = 2021-01-13
+date = 2021-10-02
 
 [taxonomies]
 tags = ['year-review', '2010']
@@ -21,6 +21,9 @@ which is by the guy portraying the humorless security officer at airport checkpo
 My **favorite performance**, however, is that of Guy Pearce,
 who plays someone who can't create new memories and has to rely on notes,
 in *Memento*.
+The best **cast** is in *[Monsters]*,
+a movie which also boasts the best **damage aftermath** scenes.
 
 [Iron Man 2]: @/iron-man-2.md
+[Monsters]: @/monsters.md
 [Lennie James]: https://en.wikipedia.org/wiki/Lennie_James
