@@ -11,8 +11,8 @@ The best **action** can be found in the fight scenes of *[Non-Stop]*, but
 the best **visual effects** are in *[Dracula Untold]*. The best
 **animation** is in *[Big Hero 6]*, a movie that also has my **favorite
 character**, the inflatable robot.
-My **favorite performance** is by Michael Rooker as the leader of the
-bandits in *Guardians of the Galaxy*.
+My **favorite performance** is by Michael Rooker,
+playing the leader of the bandits in *Guardians of the Galaxy*.
 The **best performance**, however, is by Johnny Harris,
 playing the leader of a team of soldiers in *Monsters: Dark Continent*.
 
