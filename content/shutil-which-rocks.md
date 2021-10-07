@@ -19,5 +19,5 @@ new function resulted in code that is both more robust and [cleaner].
 As a sidenote, this functionality [was first proposed in 2001]!
 
   [shutil.which()]: http://docs.python.org/3/library/shutil#shutil.which
-  [cleaner]: https://code.google.com/p/wajig/source/detail?r=e419e439e47f880ab17f6394e3faaa8ce3b15fe1
+  [cleaner]: https://github.com/gjwgit/wajig/commit/1b5b68fef401e097a97939e78555bb48e830dd1a
   [was first proposed in 2001]: http://bugs.python.org/issue444582
