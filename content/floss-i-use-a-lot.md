@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2021-09-26
+date = 2021-10-07
 
 [taxonomies]
 tags = ['list']
@@ -42,11 +42,6 @@ tags = ['list']
 
 ### miscellaneous tools
 
-- **wajig**: acts as pleasant front-end to `apt` and other
-  package management tools;
-  [I used to maintain it], and it happens to be the one Debian
-  package that once made me a Debian Maintainer (I used to have upload access
-  for it)
 - **apt**: Debian package management
 - **apt-cacher-ng**: avoids the need to re-fetch Debian packages when needed for
   additional installs, which helps speed things up, especially for poor connections
