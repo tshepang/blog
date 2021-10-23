@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2021-09-30
+date = 2021-10-23
 
 [taxonomies]
 tags = ["Rust"]
@@ -20,6 +20,7 @@ The following are in progress:
   because the latter has billions of installations
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
+- [Pijul], a superior alternative to Git, [reaching stability]
 
 [mustang]: https://github.com/sunfishcode/mustang
 [rsix]: https://github.com/bytecodealliance/rsix
@@ -30,3 +31,5 @@ The following are in progress:
 [progress]: https://github.com/curl/curl/wiki/Hyper
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
+[Pijul]: https://pijul.org
+[reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
