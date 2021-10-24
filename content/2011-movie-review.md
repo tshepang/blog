@@ -49,7 +49,7 @@ The year's **best visual effects (overall)**:
     and [Tron: Legacy]
 4.  it would be sinful not to include [Transformers: Dark of the Moon],
     even though it's pretty much the same offering as the 2 previous
-    offerings in the franchise.
+    ones in the franchise.
 
 The year's **best visual effects (specific moments)**:
 
