@@ -82,9 +82,8 @@ Lancie] as lead of pathology ([Pathology]). 2nd runner-up is Sandra Oh
 ([Rabbit Hole]).
 
 The **best male performance** is by Geoffrey Rush when playing a
-therapist in [The Kings's Speech]. Here's the runner-ups:
-
-1.  [Miles Teller] ([Rabbit Hole])
+therapist in [The Kings's Speech].
+The runner-up is [Miles Teller] in [Rabbit Hole].
 
 The **best female performance** is by Nicole Kidman in [Rabbit Hole],
 and the **best cast** is from the same movie. Maybe it's a distant
