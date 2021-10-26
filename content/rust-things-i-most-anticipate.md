@@ -9,7 +9,7 @@ tags = ["Rust"]
 The following are in progress:
 
 - Removing non-Rust deps from toolchain
-  - Removing libc dep for Linux ([mustang] and [rsix])
+  - Removing libc dep for Linux-based systems ([mustang] and [rsix])
   - Removing llvm dep ([cranelift])
 - Adding alternative codegen backends
    - [cranelift], immediate benefit being fast debug compiles
