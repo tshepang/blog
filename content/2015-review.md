@@ -9,8 +9,7 @@ categories = ['movies']
 
 The best **visual effects** can be found in the Hulk vs. Hulkbuster
 battle of [Avengers: Age of Ultron]. Runner-up is the title character of
-[Chappie]. The greatest **spectacle** is [Jurassic World], whose visual
-effects aren't shabby either.
+[Chappie].
 
 The best **direction** can be found in [The Survivalist], followed by
 [Spotlight], which itself boasts best **editing** and **dialog**.
@@ -24,7 +23,6 @@ to have the **best dialog**.
 
 [Avengers: Age of Ultron]: @/avengers-age-of-ultron.md
 [Chappie]: @/chappie.md
-[Jurassic World]: @/jurassic-world.md
 [The Survivalist]: @/the-survivalist.md
 [Spotlight]: @/spotlight.md
 [The Martian]: @/the-martian.md
