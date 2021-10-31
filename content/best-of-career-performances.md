@@ -30,7 +30,7 @@ categories = ['movies']
 - Rosario Dawson (*Seven Pounds*)
 - Samuel L. Jackson (*Pulp Fiction*)
 - Sandra Oh ([Rabbit Hole])
-- Tom Wilkinson ([Good People])
+- Tom Wilkinson (*Good People*)
 - Will Smith (*Ali*); also [favorite-of-career]
 - Woody Harrelson (*Seven Pounds*)
 
@@ -54,4 +54,3 @@ related: [favorite-of-career performances][favorite-of-career]
 [Rabbit Hole]: @/rabbit-hole-2010.md
 [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md
 [Doubt]: @/doubt-2008.md
-[Good People]: @/good-people-2014.md

@@ -30,7 +30,6 @@ The best **visual effects** are in [Thor: The Dark World], followed by
 Following is the ranking of the **best male performances**:
 
 2.  Anthony Hopkins in [Red 2]
-3.  [Tom Wilkinson] in [Good People]
 4.  Geoffrey Rush in [The Book Thief]
 5.  [Michael Shannon] in [Premium Rush]
 6.  Brad Pitt in [The Counselor]
@@ -76,7 +75,6 @@ The following have the best **story concept**:
 [Michael Shannon]: http://en.wikipedia.org/wiki/Michael_Shannon
 [Red 2]: @/red-2-2013.md
 [Tom Wilkinson]: http://en.wikipedia.org/wiki/Tom_Wilkinson
-[Good People]: @/good-people-2014.md
 [The Book Thief]: @/the-book-thief-2013.md
 [Premium Rush]: @/premium-rush-2012.md
 [The Counselor]: @/the-counselor-2013.md
