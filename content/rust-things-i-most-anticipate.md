@@ -9,7 +9,7 @@ tags = ["Rust"]
 The following are in progress:
 
 - Removing non-Rust deps from toolchain
-  - Removing libc dep for Linux-based systems ([mustang] and [rsix])
+  - Removing libc dep for Linux-based systems ([mustang] and [rustix])
   - Removing llvm dep ([cranelift])
 - Adding alternative codegen backends
    - [cranelift], immediate benefit being fast debug compiles
@@ -25,7 +25,7 @@ The following are in progress:
   which much improves the already excellent CLI parsing library
 
 [mustang]: https://github.com/sunfishcode/mustang
-[rsix]: https://github.com/bytecodealliance/rsix
+[rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/antoyo/rustc_codegen_gcc
 [sled]: https://github.com/spacejam/sled
