@@ -22,7 +22,7 @@ One of the changes is getting rid of gjig, the GUI interface.
     managers out there.
 -   It didn't keep up with the pace of development wajig. It was a
     2nd-class citizen.
--   Oh, and I'm so afraid of GUI developement, or should I say GTK+. It
+-   Oh, and I'm so afraid of GUI development, or should I say GTK+. It
     was never an easy domain for me, and I still don't really get it.
     And yes, I've tried. Maybe other toolkits are easier, and I'm too
     lazy to check them out.

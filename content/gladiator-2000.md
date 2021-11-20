@@ -28,7 +28,7 @@ opponent.
 
 ---
 
-The Oscars are embarassing to have honored the movie with Best Picture
+The Oscars are embarrassing to have honored the movie with Best Picture
 Oscar. They deserve to be ignored, for there surely must have been
 numerous superior movies that year.
 

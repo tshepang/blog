@@ -6,7 +6,7 @@ tags = ['2011-movie', 'average']
 categories = ['movies']
 +++
 
-Someone might feel a need to slap me on my wrist, but I'm seriuosly not
+Someone might feel a need to slap me on my wrist, but I'm seriously not
 a fan of romantic comedies/chick flicks (I'm not the target market,
 duh!). I've never been much interested in the tv show in which this is
 based for similar reasons. But I relented, and in turn got punished by

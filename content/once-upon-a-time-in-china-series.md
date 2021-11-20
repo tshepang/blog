@@ -9,7 +9,7 @@ categories = ['movies']
 stunts ever committed to screen and is overall far superior to its
 unbearably-bad predecessor. I also wish the whole series was based on
 something other than the Chinese's conflict with Western influence,
-especially because Caucasians in are extrememly underdevloped and given
+especially because Caucasians in are extremely underdevloped and given
 shitty performances worse than Keanu Reeve's worst.
 
 Interesting that things actually get better with the 3rd in the *Once

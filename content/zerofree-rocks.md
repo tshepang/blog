@@ -29,6 +29,6 @@ data inaccessible by conventional means. To the data compressor (`xz` in
 this case), that is all valid data. What needs to happen is for the data
 that is not allocated to be over-written with zeroes... enter
 [zerofree] which does just that. After it was done, my compressed image
-shrinked from ~400MB to ~80MB. The original was about 2GB.
+shrunk from ~400MB to ~80MB. The original was about 2GB.
 
   [zerofree]: https://packages.debian.org/sid/zerofree

@@ -38,7 +38,7 @@ It's not a big issue anyways, since this will be a rarely-used feature.
 
 And no, I still don't know yet what I'll use this for. Maybe I'll
 host my blog there, moving it from the GitHub service. Regardless, it's
-nice to have a machine accesible from anywhere on the web.
+nice to have a machine accessible from anywhere on the web.
 
   [my blog]: http://tshepang.github.io/tags/blogging
   [GitHub Pages]: http://pages.github.com

@@ -20,7 +20,7 @@ villain, on the other hand, is not so convincing.
 ---
 
 I should be grateful that I didn't get to see lead actor's untalented
-face, though I was exposed to the embarassing mimicry of the Sylvester
+face, though I was exposed to the embarrassing mimicry of the Sylvester
 angry mouth.
 
   [the 1995 movie]: @/judge-dredd-1995.md

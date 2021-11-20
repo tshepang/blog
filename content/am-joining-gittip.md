@@ -5,7 +5,7 @@ title = "am joining Gittip"
 tags = ['Python', 'Gittip']
 +++
 
-In [Why I'm signing up for Gittip], a core CPython commiter, Brett
+In [Why I'm signing up for Gittip], a core CPython committer, Brett
 Cannon, mentions a great reason to reward FLOSS contributors
 financially:
 

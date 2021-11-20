@@ -15,6 +15,6 @@ after all the non-sense is put on his face, digital or not.
 I am hoping this overrated non-sense will be the last time travel movie
 ever made, since the concept is utter crap (nonsensical). The story
 starts exciting enough but loses steam very soon after. None of the
-perfomers are solid, especially Jeff Daniels as villain.
+performers are solid, especially Jeff Daniels as villain.
 
   [Joseph Gordon-Levitt]: http://en.wikipedia.org/wiki/Joseph_Gordon-Levitt

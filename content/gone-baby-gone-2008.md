@@ -22,7 +22,7 @@ One thing I got right though was the twist:
 As always, I was afraid a revisit would disappoint, especially because
 this was the remaining movie I labeled [excellent] in the entire year of
 2012... it was going to be the best movie of the year. Sadly, not one
-movie from that year went beyong the [very good] (7/10) rating.
+movie from that year went beyond the [very good] (7/10) rating.
 
   [Se7en]: @/se7en-1995.md
   [excellent]: http://tshepang.github.io/tags/excellent

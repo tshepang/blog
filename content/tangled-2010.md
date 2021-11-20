@@ -13,7 +13,7 @@ in anything I've seen yet.
 
 The ending ('climax') feels forced, and does not do justice to the
 rest of the movie; the movie is a musical, and none of it is
-embarassing, but the love song (on the boat) is the low point...
+embarrassing, but the love song (on the boat) is the low point...
 boring.
 
 [**sidenote**] I didn't expect much from this one, simply because I

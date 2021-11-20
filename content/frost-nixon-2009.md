@@ -6,7 +6,7 @@ tags = ['good', '2009-movie']
 categories = ['movies']
 +++
 
-Frank Langella, a decent actor, is a little embarassing when portraying
+Frank Langella, a decent actor, is a little embarrassing when portraying
 the infamous Richard Nixon. He does a caricature, and is given way too
 much screen time, almost to a point where he is hard to bear. He must
 have been having fun doing the performance, which must have been easy as

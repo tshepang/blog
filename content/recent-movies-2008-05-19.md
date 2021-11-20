@@ -12,6 +12,6 @@ and overly passive Are We There Yet, if for no reason but those charming
 kids.
 
 There's much to celebrate in 2 Weeks' Notice, perhaps the first movie
-in which I enjoyed Sandra Bullock's peformance. It actually a pretty
+in which I enjoyed Sandra Bullock's performance. It actually a pretty
 smart movie, among the few romantic comedies I enjoyed, but, as could be
 expected from such fare, a really fucked-up and overly-common ending.

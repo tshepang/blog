@@ -9,7 +9,7 @@ categories = ['movies']
 Nicole Kidman has played troubled women quite a few times before, but
 the performance she gives here is quite fresh, and really unlike
 anything I've seen before, either from her or anyone else. The
-character she plays is also quite throughly developed, and my shitty
+character she plays is also quite thoroughly developed, and my shitty
 memory says she is the greatest female asshole I've seen yet in any
 movie. This character is grieving of son's accidental death.
 
@@ -22,7 +22,7 @@ in my eyes done anything better than this.
 
 I'm still not sure about Aaron Eckhart. Not a bad performance at all,
 but he's too uninteresting. I'm also not sure about the lady playing
-the mother. Not bad either, but not too beliavable.
+the mother. Not bad either, but not too believable.
 
 The dialog is quite good and so is the camerawork. The great direction
 easily hides the fact the movie itself is pretty much plotless.

@@ -5,7 +5,7 @@ title = "wajig 2.5 released"
 tags = ['wajig']
 +++
 
-The release of [wajig 2.3], though important to me, caused varius
+The release of [wajig 2.3], though important to me, caused various
 complaints because it changed much of the UI. 2.5 goes a long way
 towards fixing those. What particularly helped guide this release is my
 creating a [mailing list], just so that I can ask users for opinions on

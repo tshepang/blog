@@ -12,12 +12,12 @@ But even then, it's still not fully satisfactory for me, and I really
 hope that someone else with fresh eyes is going to go through all of it
 and offer improvements. Even better, I hope people will find it useful.
 I know I would have when I started doing argument parsing. I found [the
-main module documention] overwhelming, and [the very first example] is
+main module documentation] overwhelming, and [the very first example] is
 in fact why I even started writing this tutorial at all, as is evident
 on [the relevant issue].
 
   [a tutorial]: http://docs.python.org/howto/argparse
   [the howto section]: http://docs.python.org/howto
-  [the main module documention]: http://docs.python.org/library/argparse
+  [the main module documentation]: http://docs.python.org/library/argparse
   [the very first example]: http://docs.python.org/library/argparse#example
   [the relevant issue]: http://bugs.python.org/issue14034

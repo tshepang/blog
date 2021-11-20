@@ -9,7 +9,7 @@ categories = ['movies']
 and good camerawork, spoilt by a story that exposes its rot
 halfway-through and worsens near the end. On a political note, it's sad
 that the movie perpetuates the idea that homosexuality as disgusting and
-embarassing :-(
+embarrassing :-(
 
 I was pleasantly surprised of the excellence that is *The A-Team*. It's
 filled with superb and never-before-seen action, interesting characters

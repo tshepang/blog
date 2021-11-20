@@ -28,7 +28,7 @@ Some warts I've seen so far:
     installation sucks because it really prolongs installation, and made
     worse by a lack of a visible alternative option.
 -   The feature I once praised in debian-installer, which informs one of
-    the limits whithin which one may resize existing hard drive
+    the limits within which one may resize existing hard drive
     partitions, is absent in Ubuntu's installer. The graphical
     partitioner does however looks real slick.
 -   Does not remember running apps when session is restarted.

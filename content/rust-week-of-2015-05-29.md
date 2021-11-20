@@ -23,7 +23,7 @@ tags = ['Rust']
     in the `Err(_)` arm of the match, which is an i32. This is some
     far-reaching shit!
 
--   I submitted [changes] to improve some of `str` documentaton. I also
+-   I submitted [changes] to improve some of `str` documentation. I also
     [submitted][] [a][] [whole][] [bunch][] [of][] [smaller][]
     [changes][1],
 

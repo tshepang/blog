@@ -13,7 +13,7 @@ and IO (overall). This is through a nifty interface:
 -   You just press `a` on the keyboard, and it will sort the hungriest
     processes on top.
 -   Reversing the order, you just press `r`.
--   If you want to sort by other colums, you just press the left/right
+-   If you want to sort by other columns, you just press the left/right
     key.
 
 [The presentation] is rather busy, and it doesn't have the myriad

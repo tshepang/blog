@@ -41,7 +41,7 @@ exactly the same result as above.
 
 ## notes
 
--   The Perl keyword, `my`, indicates that the variabe it refers to is
+-   The Perl keyword, `my`, indicates that the variable it refers to is
     local. Without that, it's taken to be global. As for Python, this
     is implicit, and depends on where the variable is placed (scope).
 -   Perl has special ways of identifying data types. In our example, `$`

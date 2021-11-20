@@ -14,7 +14,7 @@ release so far:
     standard/natural, where each of the wajig COMMANDS are 1st-class
     citizens. Let me give an example of user wanting to install a
     package named nautilus, but avoid installing its Recommends
-    depencencies:
+    dependencies:
 
     ```sh
     # ole
@@ -54,7 +54,7 @@ release so far:
     instead of simply being read from a separate file. Advantage is that
     it should now remain more up-to-date.
 -   The usage info for each COMMAND was store on its own file, and the
-    aliases were symblic links to them. Now that's ugly, but I did it
+    aliases were symbolic links to them. Now that's ugly, but I did it
     that was some time ago because I could not think of a better, quick
     way. The ugly solution is simple, but it added over a 100 files in
     user machines, which is just bad design. Well, modern Linux-based

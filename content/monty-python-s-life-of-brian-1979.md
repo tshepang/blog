@@ -6,7 +6,7 @@ tags = ['2011-movie', 'good']
 categories = ['movies']
 +++
 
-Poking a lotta fun at some the blind adherance and factionalism that is
+Poking a lotta fun at some the blind adherence and factionalism that is
 all too common in society, and doing it in a very humorous way. This is
 brilliant humor by the way. The effort of making the costumes and the
 environment feel authentic is impressive. The only real annoyance is the

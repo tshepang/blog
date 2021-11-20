@@ -21,7 +21,7 @@ have been.
 
 The minor complaints I have is the unimpressive cowboy villain, and the
 not-lethal-enough look of the lead (where's Jet Li when you need him?).
-I would also have preffered a less polished feel of the camerawork (it
+I would also have preferred a less polished feel of the camerawork (it
 feels too sanitised, too fantasy-like).
 
 ---
@@ -47,7 +47,7 @@ characterisation (they look as menacing as fuck). The part of the story
 where the lead character gets to meet a gal and exercise a more relaxed
 life is boring and not too well done. It reminds me of a similar kinda
 thing in *Fearless*, where Jet Li's character goes to chill in a farm.
-As if that's not enough, both the lead character and the Amercian
+As if that's not enough, both the lead character and the American
 villain are unconvincing, while the movie's best performance is that of
 the guy playing head of the ninjas.
 

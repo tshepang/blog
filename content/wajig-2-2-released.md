@@ -21,4 +21,4 @@ wajig to Debian.
     available tools (`dpkg --list` for locally-installed packages and
     `apt-file search` for both local and remote packages) that do the
     job better, and I made use of them. These tools were probably not
-    avaialable the time this feature was added to wajig.
+    available the time this feature was added to wajig.

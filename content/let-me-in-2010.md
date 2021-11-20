@@ -6,12 +6,12 @@ tags = ['2011-movie', 'substandard']
 categories = ['movies']
 +++
 
-An exercise in embarassment. [The first novel-to-movie adaptation] was
+An exercise in embarrassment. [The first novel-to-movie adaptation] was
 released only 2-3 years before. I thought they wanted to offer something
 else, maybe a budget, with some visual flair. But there's nothing. In
 fact there is an uninteresting [Elias Koteas] as the investigator (there
 was basically none in the earlier movie), and the companion of the
-vampire (played by an extrememly uninteresting [Richard Jenkins], who
+vampire (played by an extremely uninteresting [Richard Jenkins], who
 bored me horrendously in [*Eat Pray Love*]). But these greedy
 motherfuckas just wanted to exploit a good story, and give nothing in
 return. In fact, the even got lazy, walking briskly over material that

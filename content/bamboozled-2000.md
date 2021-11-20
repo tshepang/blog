@@ -14,7 +14,7 @@ direction is amazing (rough and unpolished, just like [Baise-moi]). This
 is the best acting role I've seen by the not-too-talented Damon Wayans
 as the lead character, Jada Pinkett is sweet to the eye as his *help*,
 Mos Def is real fun as a shit-for-brains gangster, but the movie's only
-really good peformance is that of Michael Rapaport, who plays the TV
+really good performance is that of Michael Rapaport, who plays the TV
 executive. Shit, this niggah is (nearly) worth the entire movie itself,
 and is so **real**.
 

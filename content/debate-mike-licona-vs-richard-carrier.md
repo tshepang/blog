@@ -20,7 +20,7 @@ Mike's:
 -   He was more clear with his arguments.
 -   He was seemingly more prepared (his opponent probably thought he was
     going to be a walkover).
--   Mike was a bit embarassing at times when mentioning The Passion of
+-   Mike was a bit embarrassing at times when mentioning The Passion of
     Christ, especially the time when he was praising Jesus (I cringed a
     bit there), and Richard, by the way, ignored references to that
     movie.

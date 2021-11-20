@@ -15,6 +15,6 @@ to watch. Another good one was by [Doug Hutchison] as the hateful, and
 easy-to-hate, prison guard. Michael Clark Duncan has an admirable body,
 but am curious how it happened they decided to cast him for the role. It
 is just so pointless, but I really love his body. Its size is however
-inconsistently exagerrated.
+inconsistently exaggerated.
 
   [Doug Hutchison]: http://en.wikipedia.org/wiki/Doug_Hutchison

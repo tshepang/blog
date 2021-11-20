@@ -18,7 +18,7 @@ stagnating, and it really looked like this new company did some fun
 stuff, and I got the vibe that I'd really get challenged.
 
 It's been 3 months now, and my guess was right. I keep getting
-surprised by the levels of smart I encounter regurlarly. These are the
+surprised by the levels of smart I encounter regularly. These are the
 sorts of people I simply can't match with my lesser brain, but am glad
 to work with, since they teach me so much.
 

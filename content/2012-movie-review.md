@@ -113,7 +113,7 @@ sorta fresh when it starts, but screwing up with lack of content later
 on.
 
 The most **overrated** movie is [A Nightmare on Elm Street], followed by
-[A Streetcar Named Desire]. That second is hailed a masterpice by weird
+[A Streetcar Named Desire]. That second is hailed a masterpiece by weird
 people.
 
 ## 'old' movies

@@ -42,7 +42,7 @@ rotting and crime-ridden urban setting.
 
 What helped make [Apocalypto] feel so real is its cast of unknowns; I
 did not notice any misplacement or annoying performance. The runner-up
-is the cast of *American Ganster* (and that does not include the two
+is the cast of *American Gangster* (and that does not include the two
 leads). *Hot Fuzz* wins the title for comic cast.
 
 ## performances
@@ -58,7 +58,7 @@ character in *Zodiac* is runner-up.
 
 ## characters
 
-The best **villain** is Josh Brolin's dirty cop found in *American Ganster*
+The best **villain** is Josh Brolin's dirty cop found in *American Gangster*
 for its unflinching acts of corruption, while the most **exotic** character is Angelina
 Jolie's demon in [Beowulf]. The most **desirable** gal is Rosamund Pike in
 *Fracture* while Vera Farmica of *The Departed*, Ana Claudia Talancon'

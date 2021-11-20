@@ -26,7 +26,7 @@ villain in *Spawn*, being the real center of the movie and is about its
 only saviour. The guy really is talented and helps the movie get
 bearable. It was perhaps 10 years back when I first watched it, and even
 was unsatisfied especially by Satan, and then by Martin Sheen as a very
-miscast villain. It's a very bad movie wih disgusting visuals, even for
+miscast villain. It's a very bad movie with disgusting visuals, even for
 its time.
 
 One thing that attracted me to *Closer* is Mike Nichol's attachment as

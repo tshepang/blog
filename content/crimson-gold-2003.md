@@ -32,7 +32,7 @@ There's a few wonderful moments in the movie:
 
 Even though almost nothing happens (at least as compared to normal
 Hollywood fare), the movie also covers the issue of sexual oppression,
-but very skillfully and subtly, and in more than one occassion. It made
+but very skillfully and subtly, and in more than one occasion. It made
 me appreciate some of the pleasures we have here in South Africa.
 
 The style of this movie is very similar to that of [Abbas Kiarostami]
@@ -48,7 +48,7 @@ pieces.
 -   Jonathan Rosenbaum, the best movie critic I've read, has a [superb
     and highly-detailed review]. He's also the one that inspired me to
     watch the movie for he is a huge fan of it, to the point of labeling
-    it a masterpice.
+    it a masterpiece.
 -   I've compared this to [4 Months, 3 Weeks and 2 Days], which is made
     in a similar style.
 

@@ -13,6 +13,6 @@ which the lead character narrates a summary of his writings (he is
 newspaper columnist). I thought it was quite innovative, complete with
 fun content.
 
-Beyond embracing pets, I thought the whole excercise was pointless. I
+Beyond embracing pets, I thought the whole exercise was pointless. I
 kept wondering, "Is this it? You sure this is all this movie is
 about?"

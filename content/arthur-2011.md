@@ -14,7 +14,7 @@ the Greek* (2010), so it was great watching him offering similar acting style.
 The rest happens to be [the formula that too many Hollywood romantic
 comedies tend to adopt], and it's so fucking annoying. Nick Nolte's
 character was neither interesting nor portrayed well. In fact, he's
-embarassing. The lead girl is fucking desirable, but her character was
+embarrassing. The lead girl is fucking desirable, but her character was
 made annoyingly uptight, since it had to fit in with that formula I
 mentioned.
 

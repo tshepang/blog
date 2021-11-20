@@ -5,7 +5,7 @@ title = "Ubuntu 8.10 looks good"
 tags = ['non-Debian', 'GNOME']
 +++
 
-Ubuntu 8.10 Beta has been released and, if [the annoucement] is to be
+Ubuntu 8.10 Beta has been released and, if [the announcement] is to be
 relied upon, things look good.
 
 What stands out above all else for me is 'guest sessions' which allows
@@ -23,4 +23,4 @@ especially given that I'm rather happy here (okay, sometimes; I mean
 how long am I going to wait for GNOME 2.24 to reach Sid) in Debian-land
 of course, and can only wait for those features.
 
-  [the annoucement]: https://lists.ubuntu.com/archives/ubuntu-announce/2008-October/000114.html
+  [the announcement]: https://lists.ubuntu.com/archives/ubuntu-announce/2008-October/000114.html

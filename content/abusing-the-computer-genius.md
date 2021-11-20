@@ -24,4 +24,4 @@ Here's a part-fictional account of events that are largely my fault:
     overwriting the boot partition such that an already-installed OS is
     no longer bootable, so I gotta come over, to make it bootable again
     (and this is made worse by the fact that reinstalls are pretty
-    commom when Windows gives trouble).
+    common when Windows gives trouble).

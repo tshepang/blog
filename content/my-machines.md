@@ -19,7 +19,7 @@ another.
 
 The Dell Inspiron is my most recent machine. It got 3-year warranty on
 it (which was quite a surprise) so I'm not touching its insides. This
-system currenly dual-boots with Windows XP which a relative of mine uses
+system currently dual-boots with Windows XP which a relative of mine uses
 for music production, a task he claims FLOSS can't satisfactorily
 fulfill.
 

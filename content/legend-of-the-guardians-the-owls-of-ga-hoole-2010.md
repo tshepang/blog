@@ -6,7 +6,7 @@ tags = ['2011-movie', 'decent']
 categories = ['movies']
 +++
 
-intial review
+initial review
 =============
 
 Owls aren't interesting animals at all, so I watched this in
