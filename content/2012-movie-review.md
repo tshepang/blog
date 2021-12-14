@@ -90,15 +90,11 @@ Named Desire].
 
 The most **funny** movies:
 
-1.  [The Dictator]
 2.  [Horrible Bosses]
 3.  [The Hangover Part II]
 4.  [Zoolander]
 
 The best **script/dialogue** is in [Missing].
-
-The best **costume design** comes, surprisingly, from [The Great
-Dictator].
 
 Each repeat of a movie is a different experience, hence the category,
 **best first-time viewing experience**. This year, it's won by the
@@ -157,7 +153,6 @@ The **fall from glory** award goes to:
 [Bob the Butler]: @/bob-the-butler-2005.md
 [Zoolander]: @/zoolander-2001.md
 [A Streetcar Named Desire]: @/a-streetcar-named-desire-1951.md
-[The Dictator]: @/the-dictator-2012.md
 [Horrible Bosses]: @/horrible-bosses-2011.md
 [The Great Dictator]: @/the-great-dictator-1940.md
 [Gone Baby Gone]: @/gone-baby-gone-2008.md
