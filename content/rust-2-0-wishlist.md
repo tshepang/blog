@@ -1,6 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2019-12-10
+date = 2021-12-16
 
 [taxonomies]
 tags = ['Rust']
@@ -39,6 +39,8 @@ tags = ['Rust']
   |           | String   | StrOwned      |
   | os string | OsStr    | OsStr (same)  |
   |           | OsString | OsStrOwned    |
+  | C string  | CStr     | CStr (same)   |
+  |           | CString  | CStrOwned     |
   | fs path   | Path     | Path (same)   |
   |           | PathBuf  | PathOwned     |
 
@@ -55,9 +57,9 @@ tags = ['Rust']
 
 - Do not allow crate names with underscores, because taste...
 
-  `lazy_static` (bad)
+  `serde_json` (bad)
 
-  `regex-syntax` (good)
+  `serde-json` (good)
 
 
 [more issues]: https://github.com/rust-lang/rust/pull/42397#issuecomment-315867774
