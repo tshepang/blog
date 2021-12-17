@@ -1,6 +1,6 @@
 title = "Tshepang logs"
 base_url = "https://tshepang.github.io"
-theme = "after-dark"
+theme = "zerm"
 generate_feed = true
 build_search_index = true
 taxonomies = [
@@ -12,8 +12,15 @@ taxonomies = [
 highlight_code = true
 
 [extra]
-after_dark_menu = [
-    {url = "$BASE_URL/about-me", name = "about"},
-    {url = "$BASE_URL/tags", name = "tags"},
-    {url = "$BASE_URL/categories/movies", name = "movies"},
+main_menu = [
+    {url = "about-me", name = "about"},
+    {url = "tags", name = "tags"},
+    {url = "categories/movies", name = "movies"},
 ]
+author = "Tshepang"
+theme_color = "blue"
+show_author = false
+show_tags = true
+show_categories = true
+center = true
+logo_text = "Tshepang logs"
