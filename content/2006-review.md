@@ -22,7 +22,7 @@ and **cast**.
 
 My **favorite performance** is by Taraji Henson who plays an exciting,
 yet heartbreaking, role of a feminist sniper in [Smokin' Aces].
-Runner-up is that of Frances McDormand in *Friends with Money*,
+In second place is Frances McDormand in *Friends with Money*,
 while the most **desirable gal** is Zhao Tao in *Still Life*.
 
 [Smokin' Aces]: @/smokin-aces.md
