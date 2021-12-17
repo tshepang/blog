@@ -1,6 +1,6 @@
 +++
 title = "top movie performances"
-date = 2020-05-12
+date = 2021-12-18
 
 [taxonomies]
 tags = ['list']
@@ -39,10 +39,6 @@ Kiefer Sutherland as the doctor ([Dark City])
 - two dirty cops ([Payback])
 - [Lennie James] (*The Next Three Days*)
 - Julianne Moore (*Next*)
-
-## romantic couple
-
-Holly Hunter and Ray Romano in *The Big Sick*
 
 ## witch
 
