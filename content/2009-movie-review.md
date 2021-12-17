@@ -39,8 +39,8 @@ as fleeting lover in [The Curious Case of Benjamin Button].
 
 Compared to last year, this year is lacklustre, except for desirable
 gals where Golshifteh Farahani ([Body of Lies][Seven Pounds]) and husky
-voice (likely Brenda Vaccaro) in [Midnight Cowboy] take the crown. 1st
-runner-up is leading lady, Zhao Tao, in [Still Life] followed by (cheat)
+voice (likely Brenda Vaccaro) in [Midnight Cowboy] take the crown.
+In second place is
 the warrior girl in [Avatar], who/which also happens to be year's
 **best creature**.
 
@@ -98,7 +98,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Seven Pounds]: @/recent-movies-2009-04-14.md
 [The Curious Case of Benjamin Button]: @/fincher-s-most-pointless-yet.md
 [Midnight Cowboy]: @/recent-movies-2009-07-13.md
-[Still Life]: @/still-life.md
 [Avatar]: @/avatar-2009.md
 [Small Soldiers]: @/small-soldiers-1998.md
 [2012]: @/2012-2009.md
