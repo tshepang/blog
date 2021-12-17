@@ -1,6 +1,6 @@
 +++
 title = "2006 review"
-date = 2020-07-20
+date = 2021-12-17
 
 [taxonomies]
 tags = ['year-review', '2006']
@@ -22,7 +22,8 @@ and **cast**.
 
 My **favorite performance** is by Taraji Henson who plays an exciting,
 yet heartbreaking, role of a feminist sniper in [Smokin' Aces].
-Runner-up is that of Frances McDormand in *Friends with Money*.
+Runner-up is that of Frances McDormand in *Friends with Money*,
+while the most **desirable gal** is Zhao Tao in *Still Life*.
 
 [Smokin' Aces]: @/smokin-aces.md
 [Children of Men]: @/children-of-men.md
