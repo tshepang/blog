@@ -1,6 +1,6 @@
 title = "Tshepang logs"
 base_url = "https://tshepang.github.io"
-theme = "after-dark"
+theme = "zola.386"
 generate_feed = true
 build_search_index = true
 taxonomies = [
@@ -12,8 +12,22 @@ taxonomies = [
 highlight_code = true
 
 [extra]
-after_dark_menu = [
-    {url = "$BASE_URL/about-me", name = "about"},
-    {url = "$BASE_URL/tags", name = "tags"},
-    {url = "$BASE_URL/categories/movies", name = "movies"},
+zola386_menu = [
+    { path = "", name = "home" },
+    { path = "about-me", name = "about" },
+    { path = "tags", name = "tags" },
+    { path = "categories/movies", name = "movies" },
 ]
+keywords = "computing, arts"
+author = "Tshepang"
+year = "2021"
+theme_color = "#000084"
+label_category = "category"
+label_categories = "categories"
+label_date = "date"
+label_author = "author"
+label_taxonomy = "taxonomy"
+label_reading = "reading time"
+label_read_more = "read more"
+label_tag = "tag"
+label_tags = "tags"
