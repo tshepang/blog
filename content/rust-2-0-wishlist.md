@@ -1,10 +1,22 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2021-12-16
+date = 2021-12-18
 
 [taxonomies]
 tags = ['Rust']
 +++
+
+There is a strong commitment for Rust not to break backwards compatibility,
+meaning that all code that compiled with Rust v1.0 should compile with all
+future Rust versions, all but for exceptional circumstances.
+The effort is commendable, and results in kool things like [Editions],
+but mistakes/cruft/poor choices are bound to happen that cannot be fixed with such.
+That is, I with we will have a breaking release at some point,
+and the pain of such a breaking change could be relieved/eliminated with
+planning and migration tooling.
+
+That said,
+following are my favorite breaking things I want in Rust.
 
 ### lang
 
@@ -63,3 +75,4 @@ tags = ['Rust']
 
 
 [more issues]: https://github.com/rust-lang/rust/pull/42397#issuecomment-315867774
+[Editions]: https://doc.rust-lang.org/edition-guide/editions
