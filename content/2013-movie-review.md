@@ -38,8 +38,6 @@ Hill: Revelation].
 
 ## miscellaneous
 
-The most **important** movie is [The Thaw] due to its well-delivered
-story, which is related to the consequences of global warming.
 The most **bizarre** movie is [Cloud Atlas].
 
 The most **innovative** movie is the satirical [Goodbye Uncle Tom][]:
@@ -63,7 +61,6 @@ should go to the [Director's Cut version], which I saw first time in
 [Django Unchained]: @/django-unchained-2012.md
 [Chiwetel Ejiofor]: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
 [Silent Hill: Revelation]: @/silent-hill-revelation-2012.md
-[The Thaw]: @/the-thaw-2009.md
 [Cloud Atlas]: @/cloud-atlas-2012.md
 [Goodbye Uncle Tom]: @/goodbye-uncle-tom-1971.md
 [Payback]: @/payback-1999.md
