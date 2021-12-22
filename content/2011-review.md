@@ -19,6 +19,7 @@ gangster in *Limitless*, followed by...
 - Cuba Gooding, jnr. in *The Hit List*
 - Stephen Fry in *Sherlock Holmes: A Game of Shadows*
 - Jared Harris, also in *Sherlock Holmes: A Game of Shadows*
+- Jeff Chase, in *The Mechanic*
 
 *Limitless* also has my most **favorite story
 concept**, that of a drug that vastly improves mental performance.
