@@ -29,8 +29,7 @@ size, not to mention breath-taking effects.
 ## performance of the year
 
 Crispin Glover shines in a bizarre performance in the surreal [Dead
-Man]. Another favorite of mine is the almost comic one of James Caan in
-[Dogville], however the year's favorite is easily Eamonn Walker's
+Man], however the year's favorite is easily Eamonn Walker's
 dictator in [Lord of War], a great highlight of an already brilliant
 movie. I found the character portrayal of Tia Dalma, the witch in *Dead
 Man's Chest*, the closest competitor to Eamonn Walker's character.
@@ -168,6 +167,5 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Lord of War]: @/lord-of-war-2005.md
 [2005]: @/2005-movie-review.md
 [Dead Man]: @/dead-man-1995.md
-[Dogville]: @/dogville-2003.md
 [Pi]: @/pi-1997.md
 [this tag]: http://tshepang.github.io/tags/2006-movie
