@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2021-11-05
+date = 2022-01-01
 
 [taxonomies]
 tags = ["Rust"]
@@ -21,8 +21,6 @@ The following are in progress:
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
 - [Pijul], a superior alternative to Git, [reaching stability]
-- Release of [version 3 of clap],
-  which much improves the already excellent CLI parsing library
 - [Allowing Rust usage in official Linux kernel][linux],
   though this would initially be limited to device drivers
 
@@ -37,5 +35,4 @@ The following are in progress:
 [Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
-[version 3 of clap]: https://github.com/clap-rs/clap/issues/2869
 [linux]: https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org
