@@ -35,4 +35,4 @@ The following are in progress:
 [Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
-[linux]: https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org
+[linux]: https://lore.kernel.org/20211206140313.5653-1-ojeda@kernel.org
