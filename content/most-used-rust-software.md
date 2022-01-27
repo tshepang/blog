@@ -14,6 +14,7 @@ tags = ["Rust"]
   Here are some numbers for some of those adopters:
    - [over 200m users] (late 2020)
    - [over 220m users] (mid 2019)
+   - [over 300m users] (mid 2019)
    - [over 500m users] (late 2018)
 
   This is, for me, the most impressive Rust success story.
@@ -34,3 +35,4 @@ tags = ["Rust"]
 [over 500m users]: https://en.pingcap.com/case-study/scale-out-database-powers-china-letgo-with-reduced-maintenance-costs
 [over 200m users]: https://en.pingcap.com/case-study/how-chinas-insurance-giant-improved-agile-application-performance-with-a-newsql-database
 [over 220m users]: https://en.pingcap.com/case-study/lesson-learned-from-queries-over-1-3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu
+[over 300m users]: https://en.pingcap.com/case-study/how-we-use-a-scale-out-htap-database-for-real-time-analytics-and-complex-queries
