@@ -41,7 +41,6 @@ tags = ['list']
 - **OpenSSH**: duh!
 - [Sudo]: another duh!
 - [youtube-dl][]: I prefer watching videos locally, with VLC
-- [Iotop]: nifty I/O usage viewer
 - [ripgrep]: a more pleasant `grep`
 - [exa]: a more pleasant, more pretty `ls`
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
@@ -55,7 +54,6 @@ tags = ['list']
 [youtube-dl]: http://rg3.github.io/youtube-dl
 [ripgrep]: http://blog.burntsushi.net/ripgrep
 [Sudo]: @/project-of-note-sudo.md
-[Iotop]: @/project-of-note-sudo.md
 [vnstat]: http://humdi.net/vnstat
 [exa]: https://the.exa.website
 [bat]: https://crates.io/crates/bat
