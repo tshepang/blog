@@ -10,7 +10,6 @@ tags = ['list']
 ### environment
 
 - **Debian**: my primary OS, and also my favorite
-- [dwm]: simple and clean window management
 - [tmux]: amazingly powerful terminal multiplexer
 - **Emacs**: pleasant text editing and file management
 - **fish**: compared to mighty Bash, it is far more pretty,
@@ -59,7 +58,6 @@ tags = ['list']
 
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
 [Transmission]: http://www.transmissionbt.com
-[dwm]: @/my-current-desktop-setup.md
 [tmux]: https://github.com/tmux/tmux/wiki
 [youtube-dl]: http://rg3.github.io/youtube-dl
 [ripgrep]: http://blog.burntsushi.net/ripgrep
