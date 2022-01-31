@@ -27,16 +27,12 @@ tags = ['list']
 - [Alacritty]
 - **Firefox**
 - [Transmission][]: the only torrent client I have ever used
+- **VLC**: user interface could be a lot better
 
 ### network diagnosis
 - [vnstat]: nifty network usage viewer
 - **ping**: checks general reachability
 - **mtr**: interactive traceroute tool
-
-### entertainment
-
-- [Quod Libet]: audio player
-- **VLC**: user interface could be a lot better
 
 ### miscellaneous tools
 
@@ -66,6 +62,5 @@ tags = ['list']
 [exa]: https://the.exa.website
 [bat]: https://crates.io/crates/bat
 [procps suite]: https://gitlab.com/procps-ng/procps
-[Quod Libet]: https://quodlibet.readthedocs.io
 [miniserve]: https://github.com/svenstaro/miniserve
 [Alacritty]: https://github.com/alacritty/alacritty
