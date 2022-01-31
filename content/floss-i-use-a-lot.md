@@ -37,8 +37,6 @@ tags = ['list']
 ### miscellaneous tools
 
 - **apt**: Debian package management
-- **apt-cacher-ng**: avoids the need to re-fetch Debian packages when needed for
-  additional installs, which helps speed things up, especially for poor connections
 - **head** and **tail**: included in GNU coreutils suite of tools
 - **OpenSSH**: duh!
 - [Sudo]: another duh!
