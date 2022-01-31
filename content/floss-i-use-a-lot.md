@@ -27,7 +27,6 @@ tags = ['list']
 - [Alacritty]
 - **Firefox**
 - [Transmission][]: the only torrent client I have ever used
-- **Nautilus**: decent GUI file manager
 
 ### network diagnosis
 - [vnstat]: nifty network usage viewer
