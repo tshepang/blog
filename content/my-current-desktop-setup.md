@@ -148,7 +148,7 @@ Finally, this is what my dwm config changes look like ([config.def.h]):
 
     diff --git a/config.def.h b/config.def.h
     index 77ff358..78af5d6 100644
-    +++ a/config.def.h
+    --- a/config.def.h
     +++ b/config.def.h
     @@ -14,12 +14,15 @@ static const Bool showbar           = True;     /*
     False means no bar */

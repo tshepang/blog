@@ -17,7 +17,7 @@ GNOME, Python), a world that proclaim it to be a disgusting pile of
 shit. Anyways let's see how the ride will pan out.
 
 As for Perl, I found its string-handling capabilities exceedingly
-powerful but its syntax ugly and over-varied +++ too much of a free-form
+powerful but its syntax ugly and over-varied --- too much of a free-form
 language. That's bad for someone used to the gracious elegance of
 mighty Python. If I could stay away from it, I would!
 
