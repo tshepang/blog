@@ -1,6 +1,6 @@
 +++
 title = "idle Rust questions"
-date = 2022-01-03
+date = 2022-02-04
 
 [taxonomies]
 tags = ["Rust"]
@@ -19,7 +19,7 @@ My own answers:
 
 - dotenv
 - `rustdoc-scrape-examples`
-- unified toolchain executable
+- unified toolchain[^1] executable (instead of 6)
 - the web UI that is <https://crates.io>... slow and ugly
 
-[^1]: rustup, rustc, cargo, rustdoc, and clippy
+[^1]: rustup, rustc, cargo, rustdoc, rustfmt, and clippy
