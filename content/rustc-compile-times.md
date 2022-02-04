@@ -11,7 +11,7 @@ built results in the following as the last line:
 
 > Build completed successfully in 0:47:06
 
-The tools themselves, which get built last, take about 10m to built,
+The tools themselves, which get built last, take about 10m to build,
 and are part of the above total:
 
 - cargo
