@@ -10,15 +10,8 @@ categories = ['movies']
 I was very surprised when I went through a list of movies I tagged as
 excellent, which I watched first time in 2011, and found several. One
 problem though is that I can't rank them because I don't fully
-remember the experiences of all. Luckily, I know which of the movies are
-at the top:
-
-1.  [Megamind].
-2.  [4 Months, 3 Weeks and 2 Days] (tie) [Crimson Gold]
-
-The ranking of those taking second spot may very well be careless
-because I only watched them once, but the impact they had on me is still
-vivid, so they stay, at least for now.
+remember the experiences of all. Luckily, I know which of the movies is
+at the top, [Megamind].
 
 Here's the rest (ranked alphabetically):
 
@@ -122,13 +115,10 @@ Libre] and the fat oversexed woman in [Nanny McPhee And The Big Bang].
 ## miscellaneous
 
 The category of **most important movie** exists in order to recognize
-movies that deliver certain ideas/messages I find extremely important;
-The harmful effects of making abortion illegal are portrayed in a very
-powerful way in [4 Months, 3 Weeks and 2 Days], and that easily makes
-the movie the winner. There's a tie between the 2 runner-ups:
-
--   [Fair Game] (harmful suppression of truth by powerful government
-    officials)
+movies that deliver certain ideas/messages I find extremely important.
+[Fair Game],
+which is about harmful suppression of truth by powerful government officials,
+wins this one.
 
 Each repeat of a movie is a different experience, hence this category of
 **best first-time viewing experience**. It's won by [Megamind] (it blew
@@ -186,7 +176,6 @@ For a complete list of the movies I reviewed for the year, visit the
 [this tag].
 
 [Megamind]: @/megamind-2010.md
-[4 Months, 3 Weeks and 2 Days]: @/4-months-3-weeks-and-2-days-2007.md
 [Crimson Gold]: @/crimson-gold-2003.md
 [Downfall]: @/downfall-2004.md
 [Kung Fu Panda 2]: @/kung-fu-panda-2-2011.md

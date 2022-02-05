@@ -43,15 +43,10 @@ pieces.
 
 ---
 
-**sidenotes**:
-
--   Jonathan Rosenbaum, the best movie critic I've read, has a [superb
-    and highly-detailed review]. He's also the one that inspired me to
-    watch the movie for he is a huge fan of it, to the point of labeling
-    it a masterpiece.
--   I've compared this to [4 Months, 3 Weeks and 2 Days], which is made
-    in a similar style.
+**sidenote**: Jonathan Rosenbaum, the best movie critic I've read, has a [superb
+and highly-detailed review]. He's also the one that inspired me to
+watch the movie for he is a huge fan of it, to the point of labeling
+it a masterpiece.
 
   [Abbas Kiarostami]: http://en.wikipedia.org/wiki/Abbas_Kiarostami
   [superb and highly-detailed review]: http://www.jonathanrosenbaum.com/?p=6061
-  [4 Months, 3 Weeks and 2 Days]: @/4-months-3-weeks-and-2-days-2007.md
