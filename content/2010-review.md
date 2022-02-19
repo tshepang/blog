@@ -1,6 +1,6 @@
 +++
 title = "2010 review"
-date = 2021-10-02
+date = 2022-02-19
 
 [taxonomies]
 tags = ['year-review', '2010']
@@ -18,7 +18,9 @@ The **best performance** is by [Lennie James],
 playing an asshole detective in *The Next Three Days*.
 Runner-up is in the same movie,
 which is by the guy portraying the humorless security officer at airport checkpoint.
-My **favorite performance**, however, is that of Guy Pearce,
+My **favorite performance**, however, is that of Patrick Shai,
+who plays a member of tribalist killers in *Bang Bang Club*.
+He is followed by that of Guy Pearce,
 who plays someone who can't create new memories and has to rely on notes,
 in *Memento*.
 The best **cast** is in *[Monsters]*,

@@ -41,10 +41,8 @@ design** is found in [J. Edgar].
 
 ## performances
 
-My **favorite performance** is that of Patrick Shai in [The Bang Bang
-Club]. This is extra special since the guy comes from my country. The
-runner-ups are Charlotte Gainsbourg ([The Science of Sleep]), followed
-by the crippled guy in [Battleship].
+My **favorite performance** is that of Charlotte Gainsbourg ([The Science of Sleep]),
+followed by the crippled guy in [Battleship].
 
 The **best female performance** is a tie between Annette Bening &
 Julianne Moore in [The Kids Are All Right]. Runner-up is Charlotte
@@ -139,7 +137,6 @@ The **fall from glory** award goes to:
 [The Girl With the Dragon Tattoo]: @/the-girl-with-the-dragon-tattoo-2011.md
 [Harry Potter and the Half-Blood Prince]: @/harry-potter-and-the-half-blood-prince-2009.md
 [J. Edgar]: @/j-edgar-2011.md
-[The Bang Bang Club]: @/the-bang-bang-club-2010.md
 [The Science of Sleep]: @/the-science-of-sleep-2006.md
 [The Kids Are All Right]: @/the-kids-are-all-right-2010.md
 [Real Steel]: @/real-steel-2011.md
