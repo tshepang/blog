@@ -22,10 +22,19 @@ He is followed by...
 - [Jessica Chastain], who leads the cast of *Zero Dark Thirty*
 - [Reda Kateb], also in *Zero Dark Thirty*
 
+My **favorite performance** is by [Gregory D. Gadson] in *Battleship*,
+by far the most interesting in the movie.
+
 Most **desitable gal** is [Dana Delany] in *Freelancers*,
 followed by April Hernandez Castillo in *The History of Future Folk*.
 
+The best **visual effects** are in *Battleship*...
+the aliens, their suits, and the battles.
+Besides the look inside the alien helmets,
+nothing feels new,
+but it's all done very well.
 
 [Dana Delany]: https://en.wikipedia.org/wiki/Dana_Delany
 [Jessica Chastain]: https://en.wikipedia.org/wiki/Jessica_Chastain
 [Reda Kateb]: https://en.wikipedia.org/wiki/Reda_Kateb
+[Gregory D. Gadson]: https://en.wikipedia.org/wiki/Gregory_D._Gadson

@@ -13,7 +13,7 @@ Being fresh, eye-popping, and immersive helps:
 4. *The Lord of the Rings: The Return of the King* (tie) *The Matrix*
 5. *Pirates of the Caribbean: Dead Man's Chest*
 6. [Avatar]
-7. [Battleship]
+7. *Battleship*
 8. [Thor: The Dark World]
 9. A tie between the first 4 movies in the *Transformers* series
    - [Transformers]
@@ -25,7 +25,6 @@ Being fresh, eye-popping, and immersive helps:
 [2012]: @/2012-2009.md
 [The Avengers]: @/the-avengers-2012.md
 [Avatar]: @/avatar-2009.md
-[Battleship]: @/battleship-2012.md
 [Thor: The Dark World]: @/thor-the-dark-world-2013.md
 [Transformers]: @/transformers-2007.md
 [Transformers: Revenge of the Fallen]: @/transformers-revenge-of-the-fallen-2009.md

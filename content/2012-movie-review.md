@@ -16,7 +16,6 @@ This does not mean there was nothing to celebrate of course.
 The best **visual effects (overall)**:
 
 1.  [The Avengers]
-2.  [Battleship]
 3.  [Harry Potter and the Order of the Phoenix]
 
 In terms of specifics, there was nothing better than the battle between
@@ -41,8 +40,7 @@ design** is found in [J. Edgar].
 
 ## performances
 
-My **favorite performance** is that of Charlotte Gainsbourg ([The Science of Sleep]),
-followed by the crippled guy in [Battleship].
+My **favorite performance** is that of Charlotte Gainsbourg ([The Science of Sleep]).
 
 The **best female performance** is a tie between Annette Bening &
 Julianne Moore in [The Kids Are All Right]. Runner-up is Charlotte
@@ -129,7 +127,6 @@ The **fall from glory** award goes to:
 
 [last year]: @/2011-movie-review.md
 [The Avengers]: @/the-avengers-2012.md
-[Battleship]: @/battleship-2012.md
 [Harry Potter and the Order of the Phoenix]: @/harry-potter-and-the-order-of-the-phoenix-2007.md
 [Haywire]: @/haywire.md
 [Harry Potter and the Deathly Hallows, Part 1]: @/harry-potter-and-the-deathly-hallows-part-1.md
