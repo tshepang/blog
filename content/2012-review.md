@@ -1,6 +1,6 @@
 +++
 title = "2012 review"
-date = 2021-08-14
+date = 2022-04-04
 
 [taxonomies]
 tags = ["year-review", "2012"]
