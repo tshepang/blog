@@ -14,8 +14,7 @@ tags = ['list']
 - **Emacs**: pleasant text editing and file management
 - **fish**: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
-- **NetworkManager**: handles all networking on my workstation,
-  and accessed via **nmcli** and **nm-applet**
+- **nm-applet**: part of NetworkManager
 
 ### software development
 
