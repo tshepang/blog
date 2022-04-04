@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2022-01-31
+date = 2022-04-04
 
 [taxonomies]
 tags = ['list']
@@ -45,6 +45,7 @@ tags = ['list']
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
   (though it actually makes use of the latter for paging through long text)
 - **top**: a powerful and flexible process viewer, part of [procps suite]
+- [openfortivpn]: to connect to work VPN
 
 
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
@@ -59,3 +60,4 @@ tags = ['list']
 [procps suite]: https://gitlab.com/procps-ng/procps
 [miniserve]: https://github.com/svenstaro/miniserve
 [Alacritty]: https://github.com/alacritty/alacritty
+[openfortivpn]: https://github.com/adrienverge/openfortivpn
