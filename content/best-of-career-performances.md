@@ -10,7 +10,6 @@ categories = ['movies']
 - Clive Owen (*Closer*)
 - Colin Firth ([The King's Speech])
 - David Straithairn ([Good Night, and Good Luck])
-- Emma Thompson ([Wit])
 - Forest Whitaker ([The Last King of Scotland])
 - Geoffrey Rush ([The King's Speech])
 - Hugh Jackman ([Prisoners])
@@ -42,7 +41,6 @@ related: [favorite-of-career performances][favorite-of-career]
 [The Counselor]: @/the-counselor-2013.md
 [The King's Speech]: @/the-king-s-speech-2010.md
 [Good Night, and Good Luck]: @/good-night-and-good-luck-2005.md
-[Wit]: @/wit-2001.md
 [The Last King of Scotland]: @/the-last-king-of-scotland-2006.md
 [Prisoners]: @/prisoners-2013.md
 [Nightcrawler]: @/nightcrawler.md
