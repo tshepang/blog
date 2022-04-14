@@ -19,7 +19,6 @@ categories = ['movies']
 - Rosario Dawson (*Seven Pounds*)
 - Samuel L. Jackson (*Pulp Fiction*)
 - Penélope Cruz ([Vicky Cristina Barcelona])
-- Pierce Brosnan ([The Matador])
 - Will Smith (*Ali*)
 
 ---
@@ -34,5 +33,4 @@ related: [best-of-career performances]
 [Pi]: @/pi-1997.md
 [Birth]: @/birth.md
 [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md
-[The Matador]: @/the-matador-2004.md
 [best-of-career performances]: @/best-of-career-performances.md
