@@ -7,12 +7,6 @@ tags = ['list']
 categories = ['movies']
 +++
 
-### **political oppression**
-
-One of the worst things than can happen to anyone is being politically
-oppressed. Here's a movie that covers that topic best,
-[The Lives of Others].
-
 ### **food**
 
 You would love to have some:
@@ -34,5 +28,4 @@ to a level where I once deemed it a masterpiece. It remains high impact.
 - [The Butterfly Effect]
 
 [Cleanskin]: @/cleanskin-2012.md
-[The Lives of Others]: @/the-lives-of-others-2006.md
 [The Butterfly Effect]: @/the-butterfly-effect-2004.md
