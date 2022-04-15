@@ -13,7 +13,7 @@ categories = ['movies']
 - Eamonn Walker ([Lord of War])
 - Gwyneth Paltrow (*Contagion*)
 - Kerry Washington (I Think I Love My Wife)
-- Kris Kristofferson ([Payback])
+- Kris Kristofferson (*Payback*)
 - Mark Margolis ([Pi])
 - Nicole Kidman ([Birth])
 - Rosario Dawson (*Seven Pounds*)
@@ -29,7 +29,6 @@ related: [best-of-career performances]
 [Zoolander]: @/zoolander-2001.md
 [Apocalypse Now]: @/apocalypse-now-1979.md
 [Lord of War]: @/lord-of-war-2005.md
-[Payback]: @/payback-1999.md
 [Pi]: @/pi-1997.md
 [Birth]: @/birth.md
 [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md

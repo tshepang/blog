@@ -45,11 +45,6 @@ it's shot like a documentary in which the makers travel to a
 particularly horrid moment in United States history, yet treating it
 with humor... very daring.
 
-The title for **best 'old' movie experience** goes to [Payback]. This
-a title for a movie I've seen before this year. A special mention
-should go to the [Director's Cut version], which I saw first time in
-2013.
-
 [last year]: @/2012-movie-review.md
 [In Bruges]: @/in-bruges-2008.md
 [Redbelt]: @/redbelt-2007.md
@@ -63,5 +58,3 @@ should go to the [Director's Cut version], which I saw first time in
 [Silent Hill: Revelation]: @/silent-hill-revelation-2012.md
 [Cloud Atlas]: @/cloud-atlas-2012.md
 [Goodbye Uncle Tom]: @/goodbye-uncle-tom-1971.md
-[Payback]: @/payback-1999.md
-[Director's Cut version]: @/payback-straight-up-2006.md

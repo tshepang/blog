@@ -15,11 +15,3 @@ he didn't even look the idiot he was.
 
 The attention-to-detail, regarding the procedures the guys in the bomber
 plane follow, is impressive; the dialog is incredible.
-
----
-
-Have a look at [a comparison] between this classic and a much younger
-[Payback].
-
-  [a comparison]: @/dr-strangelove-vs-payback.md
-  [Payback]: @/payback-1999.md

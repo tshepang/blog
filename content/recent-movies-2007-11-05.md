@@ -40,8 +40,6 @@ the lead is real fun to watch and skillfully portrayed too.
 ---
 
 In *Scarface* is what must have been an inspiration of the two dirty
-cops in [Payback]; the dirty cop here wants a piece of action in return
+cops in *Payback*; the dirty cop here wants a piece of action in return
 for not arresting Al Pacino's character same as those in *Payback*.
 Hilarious stuff actually.
-
-  [Payback]: @/payback-1999.md

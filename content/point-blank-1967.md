@@ -15,6 +15,4 @@ The flashbacks are badly made, complete with horrible editing. The scene
 where his gal unleashes violence against him is memorable.
 
 I was led to this after finding out it's based on the same material as
-the later [Payback], a far superior take.
-
-  [Payback]: @/payback-1999.md
+the later *Payback*, a far superior take.

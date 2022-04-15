@@ -36,7 +36,7 @@ Kiefer Sutherland as the doctor ([Dark City])
 
 ## detectives
 
-- two dirty cops ([Payback])
+- two dirty cops (*Payback*)
 - [Lennie James] (*The Next Three Days*)
 - Julianne Moore (*Next*)
 
@@ -53,6 +53,5 @@ Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
 [Dr. Strangelove]: @/dr-strangelove-1964.md
 [Smokin' Aces]: @/smokin-aces.md
 [Dark City]: @/dark-city-1998.md
-[Payback]: @/payback-1999.md
 [Lennie James]: http://en.wikipedia.org/wiki/Lennie_James
 [Andrew Howard]: https://en.wikipedia.org/wiki/Andrew_Howard

@@ -13,15 +13,14 @@ fit the description:
 
 1. [Fight Club]
 2. [Requiem for A Dream]
-3. Bamboozled
-4. Being John Malkovich
+3. *Bamboozled*
+4. *Being John Malkovich*
 5. [Dr. Strangelove]
-6. [Payback]
+6. *Payback*
 7. [Lord of War]
 
 [good]: @/my-movie-rating-system.md
 [Fight Club]: @/fight-club-1999.md
 [Requiem for A Dream]: @/requiem-for-a-dream-2000.md
 [Dr. Strangelove]: @/dr-strangelove-1964.md
-[Payback]: @/payback-1999.md
 [Lord of War]: @/lord-of-war-2005.md
