@@ -36,10 +36,3 @@ watching it.
 The most enjoyable movie of this post is *Ray*, due to its wonderful
 music, interesting storyline and its lively editing. The character of
 the lead is real fun to watch and skillfully portrayed too.
-
----
-
-In *Scarface* is what must have been an inspiration of the two dirty
-cops in *Payback*; the dirty cop here wants a piece of action in return
-for not arresting Al Pacino's character same as those in *Payback*.
-Hilarious stuff actually.
