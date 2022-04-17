@@ -29,7 +29,7 @@ however has a more powerful storyline (exciting rise-and-fall story of a
 crime lord) while *Underground*, a dark comedy full of implausible
 events, is totally eccentric, made interesting by its varied characters,
 especially the romantic interest and the evil liar who later becomes an
-esteemed politician. It's interesting that the I found *Underground*
+esteemed politician. It's interesting that I found *Underground*
 too eccentric, and therefore irritating, but only after the first time
 watching it.
 
