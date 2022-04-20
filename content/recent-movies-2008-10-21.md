@@ -13,8 +13,6 @@ beautiful women too.
 A good candidate for the ultimate 'girl power' movie is *The Descent*,
 even though I don't see the point of its subplot of a woman losing her
 family; And the creatures look like those from [I Am Legend].
-Incidentally Rodriguez also got a kick-ass, gun-'carrying' gal in a
-beautifully crafted but nonsensical [Planet Terror].
 
 *Wild Hogs* is a fine movie with a fresh storyline (though *City
 Slickers* had a similar concept), but it appears its creators didn't
@@ -34,4 +32,3 @@ director and he here crafts a movie of gorgeous sets and camerawork
 armed with a fresh and original storyline, albeit depressing.
 
   [I Am Legend]: @/i-am-legend.md
-  [Planet Terror]: @/planet-terror-2007.md

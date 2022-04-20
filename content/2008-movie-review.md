@@ -57,7 +57,7 @@ in movie history as great as that in *Death Proof*.
 
 The year's performance is easily Heath Ledger's in [The Dark Knight],
 and he happens to be the movie's sole redeemer, almost. Other
-outstanding male performers are Josh Brolin in [Planet Terror], Cuba
+outstanding male performers are Cuba
 Gooding, Jr.'s as dirty cop in *Dirty*, John Carrol Lynch's bit
 appearance in [Confidence], and then Stanley Tucci's fashion lover in
 *The Devil Wears Prada*. My favorite comic performance is William H.
@@ -125,7 +125,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Kung Fu Panda]: @/kung-fu-panda-2008.md
 [The Forbidden Kingdom]: @/recent-movies-2008-10-12.md
 [The Dark Knight]: @/the-dark-knight-2008.md
-[Planet Terror]: @/planet-terror-2007.md
 [Confidence]: @/confidence-2002.md
 [Silent Hill]: @/silent-hill-2006.md
 [Iron Man]: @/iron-man.md
