@@ -132,9 +132,9 @@ The runner-up is [The Warrior's Way].
 
 As for the year's **best script/dialog**, we have [Sex, Lies, and Videotape].
 
-The year's **funniest movie** is [Bill & Ted's Bogus Journey]. The
-first runner-up is [Being There], while its two 2nd runner-ups are a
-tie: [Brewster's Millions] (surprising entrant) and [Semi-Pro].
+The year's **funniest movie** is
+[Being There], followed by a tie between
+[Brewster's Millions] (surprising entrant) and [Semi-Pro].
 
 The year's **most enchanting** movie is [Megamind], followed by
 [Tangled].
@@ -162,13 +162,7 @@ Of those, the **best experience** was offered by the masterpiece,
 [Requiem for A Dream]. It was almost a surprise that the intensity of
 the experience was as great as was on first viewing, a very rare
 quality.
-
-Here's the runner-ups:
-
-1.  [Mandingo] -- the best movie on US slavery I've seen yet
-3.  [Bill & Ted's Excellent Adventure], whose continued excellence and
-    humor surprised me, it being a childhood favorite, and also being
-    made in the 80's, a bad movie decade.
+The runner-up is [Mandingo], the best movie on US slavery I've seen yet.
 
 ---
 
@@ -219,7 +213,6 @@ For a complete list of the movies I reviewed for the year, visit the
 [Nanny McPhee And The Big Bang]: @/nanny-mcphee-and-the-big-bang-2010.md
 [Fair Game]: @/fair-game.md
 [Shrek Forever After]: @/shrek-forever-after-2010.md
-[Bill & Ted's Bogus Journey]: @/bill-ted-s-bogus-journey-1991.md
 [Being There]: @/being-there-1979.md
 [Brewster's Millions]: @/brewster-s-millions-1985.md
 [Semi-Pro]: @/semi-pro-2008.md
@@ -230,5 +223,4 @@ For a complete list of the movies I reviewed for the year, visit the
 [Requiem for A Dream]: @/requiem-for-a-dream-2000.md
 [Mandingo]: @/mandingo-1975.md
 [The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
-[Bill & Ted's Excellent Adventure]: @/bill-ted-s-excellent-adventure-1989.md
 [this tag]: http://tshepang.github.io/tags/2011-movie
