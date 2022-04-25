@@ -22,5 +22,6 @@ regarded as the best hip-hop track ever, deserves it's position at the
 top of the group's work, and therefore removing it from the list of
 [hip-hop landmarks].
 
-  [The Roots]: http://en.wikipedia.org/wiki/The_Roots
-  [hip-hop landmarks]: @/top-tracks-hip-hop.md
+[The Roots]: http://en.wikipedia.org/wiki/The_Roots
+[hip-hop landmarks]: @/top-tracks-hip-hop.md
+[Things Fall Apart album]: https://en.wikipedia.org/wiki/Things_Fall_Apart_(album)
