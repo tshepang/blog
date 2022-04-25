@@ -55,18 +55,13 @@ Rises]), even though it's hard to hear at times.
 
 ## characters
 
-The best **character development** is the father of the title character
-(Jack Lemmon) in [Missing], followed by the wife (Sissy Spacek) in the
-same movie. My **favorite character** is however the son ([Dakota Goyo])
+My **favorite character** is however the son ([Dakota Goyo])
 in [Real Steel],
 while my **favorite villain** is Bane (Tom Hardy) in [The Dark Knight Rises].
 
 The most **desirable gal** is Charlotte Gainsbourg as main love interest
-[The Science of Sleep] (I really loved this girl!). Here are the
-runner-ups:
-
-1.  Brooke White as wife and new mother ([Change of Plans])
-2.  Sissy Spacek as wife ([Missing])
+[The Science of Sleep] (I really loved this girl!). She is followed by
+Brooke White as wife and new mother ([Change of Plans]).
 
 The **best character design** is the Chitauri, the alien race in [The
 Avengers].
@@ -89,8 +84,6 @@ The most **funny** movies:
 2.  [Horrible Bosses]
 3.  [The Hangover Part II]
 4.  [Zoolander]
-
-The best **script/dialogue** is in [Missing].
 
 Each repeat of a movie is a different experience, hence the category,
 **best first-time viewing experience**. This year, it's won by the
@@ -139,7 +132,6 @@ The **fall from glory** award goes to:
 [Real Steel]: @/real-steel-2011.md
 [The Iron Lady]: @/the-iron-lady-2011.md
 [The Dark Knight Rises]: @/the-dark-knight-rises-2012.md
-[Missing]: @/missing-1982.md
 [Dakota Goyo]: http://en.wikipedia.org/wiki/Dakota_Goyo
 [Change of Plans]: @/change-of-plans-2011.md
 [The Hangover Part II]: @/the-hangover-part-ii-2011.md
