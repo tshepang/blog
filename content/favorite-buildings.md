@@ -5,10 +5,10 @@ title = "favorite buildings"
 tags = ['list']
 +++
 
--   [Burj Khalifa][]:
+-   [Burj Khalifa]:
     -   tallest building on earth
     -   beautiful, iconic design
--   [Petronas Towers][]:
+-   [Petronas Towers]:
     -   third tallest buildings on earth
     -   stunning design
 -   [Willis Tower] (was Sears Tower)

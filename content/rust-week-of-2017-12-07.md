@@ -6,7 +6,7 @@ date = 2017-12-14
 tags = ['Rust']
 +++
 
-Some more work on [mrh][]:
+Some more work on [mrh]:
 
 - Use ordermap for repeatable output
 - Turn into a library (backed by the command-line tool), which is a

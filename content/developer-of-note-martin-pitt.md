@@ -12,7 +12,7 @@ to my attention, for he is it's Debian (and now also Ubuntu)
 maintainer. One other notable thing about him is his quiet persona (I
 follow Debian development fairly closely, and I don't remember seeing
 him take part in any of the arguments in its mailing lists). I only ever
-notice him when he'd give [some random][] [status update].
+notice him when he'd give [some random] [status update].
 
   [PostgreSQL]: http://www.postgresql.org/
   [Martin Pitt]: http://www.piware.de/

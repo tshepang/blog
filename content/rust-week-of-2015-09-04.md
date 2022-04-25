@@ -6,7 +6,7 @@ tags = ['Rust']
 +++
 
 As was the case with the past several weeks, I didn't put much effort
-this week... [just][] [three][] [submissions].
+this week... [just] [three] [submissions].
 
   [just]: https://github.com/rust-lang/rust/pull/28323
   [three]: https://github.com/rust-lang/rust/pull/28328

@@ -6,7 +6,7 @@ tags = ['Rust']
 +++
 
 As was the case with so many of the previous entries in this series, I
-didn't do much this week, submitting a [mere][] [three][] [changes].
+didn't do much this week, submitting a [mere] [three] [changes].
 
   [mere]: https://github.com/rust-lang/rust/pull/31582
   [three]: https://github.com/rust-lang/rust/pull/31584

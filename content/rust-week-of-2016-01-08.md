@@ -5,7 +5,7 @@ title = "Rust week of 2016-01-08"
 tags = ['Rust']
 +++
 
-As usual, I [submitted] a [number] of [small][] [doc][] [changes]. I am
+As usual, I [submitted] a [number] of [small] [doc] [changes]. I am
 particularly proud of the code [submission] I made to rustdoc to strip
 away the annoying whitespace appended before the final closing brace.
 

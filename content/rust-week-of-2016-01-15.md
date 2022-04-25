@@ -8,7 +8,7 @@ tags = ['Rust']
 I discovered that [a change] I made last week didn't work, so
 [submitted something that works] this time around.
 
-I also [submitted][] [four][] [doc][] [changes].
+I also [submitted] [four] [doc] [changes].
 
   [a change]: https://github.com/rust-lang/rust/pull/30920
   [submitted something that works]: https://github.com/rust-lang/rust/pull/30940

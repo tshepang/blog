@@ -3,7 +3,7 @@ date = 2012-12-26
 title = "misconceptions I had"
 +++
 
-From [one of the most important articles on Wikipedia][]:
+From [one of the most important articles on Wikipedia]:
 
 -   the most surprising one is that microwaves do not work by emitting
     waves at resonance frequency of water; they work using [some other

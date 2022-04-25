@@ -9,7 +9,7 @@ I have been [given the honor] of Friend of the Tree by a member of the
 Rust Library [team]. I never expected to be considered, given the far
 greater work that previous recipients have done. Is kool stuff.
 
-Regarding my weekly contributions, I [submitted][] [just][] [four][]
+Regarding my weekly contributions, I [submitted] [just] [four]
 [changes].
 
   [given the honor]: https://internals.rust-lang.org/t/subteam-reports-2015-07-24/2397

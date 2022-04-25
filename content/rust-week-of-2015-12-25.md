@@ -5,7 +5,7 @@ title = "Rust week of 2015-12-25"
 tags = ['Rust']
 +++
 
-I made [three][] [documentation][] [submissions] this time around.
+I made [three] [documentation] [submissions] this time around.
 
   [three]: https://github.com/rust-lang/rust/pull/30644
   [documentation]: https://github.com/rust-lang/rust/pull/30645

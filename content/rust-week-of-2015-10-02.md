@@ -5,7 +5,7 @@ title = "Rust week of 2015-10-02"
 tags = ['Rust']
 +++
 
-I submitted just [two][] [changes] this time around. I also [complained]
+I submitted just [two] [changes] this time around. I also [complained]
 about the language term, *item*.
 
   [two]: https://github.com/rust-lang/rust/pull/28905

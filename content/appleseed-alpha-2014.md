@@ -7,7 +7,7 @@ categories = ['movies']
 +++
 
 More a showcase of animation technology than a satisfying story for a
-feature-length movie, it's a prequel to the [two][] [movies]. It's got
+feature-length movie, it's a prequel to the [two] [movies]. It's got
 some good things going for it:
 
 -   The lips of the little girl are amazing

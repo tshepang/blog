@@ -5,7 +5,7 @@ title = "Rust week of 2015-08-14"
 tags = ['Rust']
 +++
 
-As usual, I [submitted][] [some][] [rather][] [small][] [doc][]
+As usual, I [submitted] [some] [rather] [small] [doc]
 [improvements]. In addition, I also skimmed through some of [The Dark
 Arts of Advanced and Unsafe Rust Programming], a pleasant read that's
 infused with good humor.

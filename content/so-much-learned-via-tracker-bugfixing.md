@@ -6,7 +6,7 @@ tags = ['GNOME', 'Tracker']
 +++
 
 It's been maybe over a year since I've submitted a patch to any FLOSS
-project and have done so [three][] [times][] [today], all for [Tracker],
+project and have done so [three] [times] [today], all for [Tracker],
 perhaps my most favorite of all pieces of code.
 
 This started with me nagging [Martyn Russell], Release Manager for

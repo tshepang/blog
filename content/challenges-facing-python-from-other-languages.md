@@ -5,7 +5,7 @@ title = "challenges facing Python from other languages"
 tags = ['Python', 'non-Python']
 +++
 
-The following four points were made in [this article][]:
+The following four points were made in [this article]:
 
 -   JavaScript has become a fairly big competitor in the desktop and
     server spaces, and particularly in mobile.

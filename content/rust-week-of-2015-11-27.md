@@ -5,7 +5,7 @@ title = "Rust week of 2015-11-27"
 tags = ['Rust']
 +++
 
-I added [missing][] [examples] to stdlib documentation. I also learned a
+I added [missing] [examples] to stdlib documentation. I also learned a
 bit about [Chrono], seemingly the most comprehensive date and time
 library for Rust. I used to determine what the next release date for
 Rust is, using the following code:

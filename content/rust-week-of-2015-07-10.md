@@ -7,7 +7,7 @@ tags = ['Rust']
 
 I submitted these:
 
--   [Two][] [improvements] to documentation that explains errors
+-   [Two] [improvements] to documentation that explains errors
 -   I [removed] some redundant info from I/O docs
 -   I did [this one] last week, and forgot to submit it
 

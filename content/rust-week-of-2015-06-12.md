@@ -7,8 +7,8 @@ tags = ['Rust']
 
 I'm the documentation guy, so:
 
--   I [submitted][] [three][] [changes] to the API documentation
--   [Two][] [changes][1] to the README (first time)
+-   I [submitted] [three] [changes] to the API documentation
+-   [Two] [changes][1] to the README (first time)
 -   One [change] to the Style Guide (also first time)
 
   [submitted]: https://github.com/rust-lang/rust/pull/26259

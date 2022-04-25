@@ -7,7 +7,7 @@ tags = ['Debian']
 
 The closest I ever came to needing own server is for hosting [my blog],
 but I've had plenty of gratis services available to me, latest being
-[GitHub Pages]. When [DigitalOcean][] [offered a $10 credit] (enough to
+[GitHub Pages]. When [DigitalOcean] [offered a $10 credit] (enough to
 buy two months of the most basic offering... 1 CPU core, 0.5GB RAM,
 20GB storage), I thought why not.
 

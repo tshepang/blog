@@ -6,7 +6,7 @@ date = 2017-12-21
 tags = ['Rust']
 +++
 
-Some more work on [mrh][]:
+Some more work on [mrh]:
 
 - A friend did me a nice favor of [creating an Iterator for Crawler],
   a task I failed at after 2 attempts... I don't yet truly get Rust

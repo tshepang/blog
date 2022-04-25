@@ -7,7 +7,7 @@ tags = ['Rust']
 
 Work done on [the Documentation chapter] of the official Rust book:
 
--   I submitted a [number][] [of][] [changes]
+-   I submitted a [number] [of] [changes]
 -   I also found [misuse of the word, *thing*]
 
 Elsewhere:

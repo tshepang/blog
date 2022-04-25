@@ -24,7 +24,7 @@ tags = ['Rust']
     far-reaching shit!
 
 -   I submitted [changes] to improve some of `str` documentation. I also
-    [submitted][] [a][] [whole][] [bunch][] [of][] [smaller][]
+    [submitted] [a] [whole] [bunch] [of] [smaller]
     [changes][1],
 
   [changes]: https://github.com/rust-lang/rust/pull/25912

@@ -8,7 +8,7 @@ tags = ['Python', 'non-Python']
 [This post] led me to an interesting paper titled *An Empirical
 Investigation into Programming Language Syntax*. Now, since I'm a
 Python sucker, here is what I would change in Python in order to follow
-advice from [that paper][]:
+advice from [that paper]:
 
 ```
     before       after

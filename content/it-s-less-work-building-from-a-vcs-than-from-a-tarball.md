@@ -15,7 +15,7 @@ tarball:
 6.  navigate to the extracted directory (using the shell)
 7.  and finally... `$  ./configure && make && sudo make install`
 
-[VCS][]:
+[VCS]:
 
 1.  find the website
 2.  find clone link

@@ -25,7 +25,7 @@ tags = ['list']
 
 - [Alacritty]
 - **Firefox**
-- [Transmission][]: the only torrent client I have ever used
+- [Transmission]: the only torrent client I have ever used
 - **VLC**: user interface could be a lot better
 
 ### network diagnosis
@@ -39,7 +39,7 @@ tags = ['list']
 - **head** and **tail**: included in GNU coreutils suite of tools
 - **OpenSSH**: duh!
 - [Sudo]: another duh!
-- [youtube-dl][]: I prefer watching videos locally, with VLC
+- [youtube-dl]: I prefer watching videos locally, with VLC
 - [ripgrep]: a more pleasant `grep`
 - [exa]: a more pleasant, more pretty `ls`
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`

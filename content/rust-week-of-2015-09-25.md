@@ -8,7 +8,7 @@ tags = ['Rust']
 -   I reviewed a [doc submission]
 -   [My submission] from over 2 months ago has finally been accepted.
     Interesting how small changes can be so controversial.
--   I submitted five [documentation][] [improvements], [three][] [of][]
+-   I submitted five [documentation] [improvements], [three] [of]
     [which] I created a week or two ago
 
   [doc submission]: https://github.com/rust-lang/rust/pull/28743

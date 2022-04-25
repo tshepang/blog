@@ -40,7 +40,7 @@ Hill: Revelation].
 
 The most **bizarre** movie is [Cloud Atlas].
 
-The most **innovative** movie is the satirical [Goodbye Uncle Tom][]:
+The most **innovative** movie is the satirical [Goodbye Uncle Tom]:
 it's shot like a documentary in which the makers travel to a
 particularly horrid moment in United States history, yet treating it
 with humor... very daring.

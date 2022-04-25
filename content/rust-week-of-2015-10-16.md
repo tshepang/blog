@@ -5,7 +5,7 @@ title = "Rust week of 2015-10-16"
 tags = ['Rust']
 +++
 
-I made [three][] [documentation][] [changes] and [one] rustfmt-assisted
+I made [three] [documentation] [changes] and [one] rustfmt-assisted
 formatting.
 
   [three]: https://github.com/rust-lang/rust/pull/29197

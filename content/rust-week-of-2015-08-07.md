@@ -5,9 +5,9 @@ title = "Rust week of 2015-08-07"
 tags = ['Rust']
 +++
 
-This time around, I only submitted [these][] [three][] [improvements].
+This time around, I only submitted [these] [three] [improvements].
 
-Elsewhere, I was surprised by the success of [this Tweet of mine][]:
+Elsewhere, I was surprised by the success of [this Tweet of mine]:
 
 It got nearly 5000 Impressions. It's likely to exceed [the other
 surprise success], which now got over 6000 Impressions.

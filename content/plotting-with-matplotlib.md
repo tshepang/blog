@@ -83,7 +83,7 @@ pyplot.show()
 ```
 
 This was done with the help of [this example]. There's a heck of a
-[lot][] [more].
+[lot] [more].
 
 further reading
 ===============

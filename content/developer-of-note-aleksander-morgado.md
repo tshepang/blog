@@ -5,8 +5,8 @@ title = "developer of note: Aleksander Morgado"
 tags = ['developer-of-note', 'GNOME', 'Tracker']
 +++
 
-The [Tracker] team got this new guy, [Aleksander Morgado], [doing][]
-[fabulous][] [work][] [on] Tracker's extraction code. He does so while
+The [Tracker] team got this new guy, [Aleksander Morgado], [doing]
+[fabulous] [work] [on] Tracker's extraction code. He does so while
 also providing thorough info on his activities.
 
 One thing that prompted me to honor him is his work on adding options to

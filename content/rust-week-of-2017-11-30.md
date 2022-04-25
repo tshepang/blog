@@ -6,7 +6,7 @@ date = 2017-12-09
 tags = ['Rust']
 +++
 
-Like last week, I did some more work on [mrh][]:
+Like last week, I did some more work on [mrh]:
 
 - Replace [colored] with [ansi_term] (I prefer the API, and the latter
   was already a dependency of something else)

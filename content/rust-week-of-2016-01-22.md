@@ -5,7 +5,7 @@ title = "Rust week of 2016-01-22"
 tags = ['Rust']
 +++
 
--   I [submitted][] [a few][] [documentation][] [changes]
+-   I [submitted] [a few] [documentation] [changes]
 -   I [requested clarification] on one documentation issue
 -   I submitted [results of running rustfmt] on a bit of code
 

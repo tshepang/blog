@@ -5,7 +5,7 @@ title = "Barry White's top tracks"
 tags = ['music']
 +++
 
-6 [points][]:
+6 [points]:
 =============
 
 -   1 landmark (*Bring Back My Yesterday*)

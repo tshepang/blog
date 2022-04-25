@@ -5,14 +5,14 @@ title = "Rust week of 2015-07-03"
 tags = ['Rust']
 +++
 
--   I [made][] [a][] [bunch][] [of][] [some][] [rather][] [small][]
-    [changes][] [to][] [the][] [Rust Reference], including [this bold
+-   I [made] [a] [bunch] [of] [some] [rather] [small]
+    [changes] [to] [the] [Rust Reference], including [this bold
     one].
 -   I made [another change], whose preparation forced me to learn more
     closure stuff than I cared for: **FnOnce**, **FnMut**, and **Fn**.
 -   I added some [examples] of array usage to API docs
 -   I also made [some improvements] to the RFC on coercions
--   Back to the Reference, I made two [additional][] [improvements].
+-   Back to the Reference, I made two [additional] [improvements].
 
   [made]: https://github.com/rust-lang/rust/pull/26785
   [a]: https://github.com/rust-lang/rust/pull/26786
