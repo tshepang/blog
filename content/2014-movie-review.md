@@ -59,7 +59,6 @@ The following have the best **story concept**:
 
 1.  [Upside Down]
 2.  [In Time]
-3.  [The Adjustment Bureau]
 4.  [Her]
 5.  [The Purge: Anarchy]
 6.  [13 Sins]
@@ -83,7 +82,6 @@ The following have the best **story concept**:
 [Dania Ramirez]: http://en.wikipedia.org/wiki/Dania_Ramirez
 [The Wolverine]: @/the-wolverine-2013.md
 [In Time]: @/in-time-2011.md
-[The Adjustment Bureau]: @/the-adjustment-bureau-2011.md
 [Her]: @/her.md
 [The Purge: Anarchy]: @/the-purge-anarchy-2014.md
 [13 Sins]: @/13-sins-2014.md
