@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-01-01
+date = 2022-05-12
 
 [taxonomies]
 tags = ["Rust"]
@@ -14,7 +14,8 @@ The following are in progress:
 - Adding codegen backends as alternatives to [LLVM]
    - [rustc_codegen_cranelift] (for using [cranelift] as codegen backend),
      immediate benefit being fast debug compiles ([progress][cranelift PR])
-   - [rustc_codegen_gcc], allowing Rust to run in more hardware platforms
+   - [rustc_codegen_gcc], allowing Rust to run in more hardware
+     platforms ([latest update])
 - [sled] being a production grade database... being used in tikv would be great
 - Having Rust be certified for use in safety-critical systems ([Ferrocene])
 - [hyper] being used as default HTTP backend of cURL ([progress]),
@@ -29,6 +30,7 @@ The following are in progress:
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/antoyo/rustc_codegen_gcc
+[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-11
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift PR]: https://github.com/rust-lang/rust/pull/81746
 [sled]: https://github.com/spacejam/sled
