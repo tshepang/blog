@@ -29,7 +29,7 @@ The following are in progress:
 [mustang]: https://github.com/sunfishcode/mustang
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
-[rustc_codegen_gcc]: https://github.com/antoyo/rustc_codegen_gcc
+[rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
 [latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-11
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift PR]: https://github.com/rust-lang/rust/pull/81746
