@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-05-14
+date = 2022-05-26
 
 [taxonomies]
 tags = ["Rust"]
@@ -40,5 +40,5 @@ The following are in progress:
 [Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
-[linux]: https://lore.kernel.org/lkml/20220507052451.12890-1-ojeda@kernel.org
+[linux]: https://lore.kernel.org/lkml/20220523020209.11810-1-ojeda@kernel.org
 [LLVM]: https://github.com/llvm/llvm-project
