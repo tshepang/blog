@@ -47,21 +47,19 @@ leads). *Hot Fuzz* wins the title for comic cast.
 
 ## performances
 
-The best female performance is that of Anne Parillaud,
+The __best female performance__ is that of Anne Parillaud,
 who plays the lead in *Sex is Comedy*, portraying a tough yet lovely
-movie director. The performance is enhanced very well by her limp. As
-for male performances, there's a tie between Anthony Hopkins in
-[Fracture] and Forest Whitaker in [The Last King of Scotland], which is
-a pity because that was Forest's best ever performance while Anthony's
-was business-as-usual. Mark Ruffalo's subdued but highly-focused
+movie director. The performance is enhanced very well by her limp.
+The __best male performances__ is Forest Whitaker in [The Last King of Scotland].
+Mark Ruffalo's subdued but highly-focused
 character in *Zodiac* is runner-up.
 
 ## characters
 
 The best **villain** is Josh Brolin's dirty cop found in *American Gangster*
 for its unflinching acts of corruption, while the most **exotic** character is Angelina
-Jolie's demon in [Beowulf]. The most **desirable** gal is Rosamund Pike in
-*Fracture* while Vera Farmica of *The Departed*, Ana Claudia Talancon'
+Jolie's demon in [Beowulf]. The most __desirable gal__ is tie between
+Vera Farmica of *The Departed*, Ana Claudia Talancon'
 in *El Crimen del Padro Amaro*, and Kerry Washington in [The Last King
 of Scotland] are tied as runner-ups. Julianne Moore in *Next* is the
 year's best **detective** given her unrelenting focus in getting the job
@@ -133,7 +131,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [2006]: @/2006-movie-review.md
 [Apocalypto]: @/apocalypto-2006.md
 [Munich]: @/munich-2005.md
-[Fracture]: @/fracture-2007.md
 [The Last King of Scotland]: @/the-last-king-of-scotland-2006.md
 [Beowulf]: @/beowulf-2007.md
 [Pan's Labyrinth]: @/pan-s-labyrinth-2006.md
