@@ -1,6 +1,6 @@
 +++
 title = "Rust search tools to watch"
-date = 2022-04-09
+date = 2022-05-29
 
 [taxonomies]
 tags = ["Rust"]
@@ -18,8 +18,8 @@ These are well-maintained and see some heavy use:
 
 - [BonsaiDb]
 
-  - "document sotre"
-  - used [Nebari] as backing store
+  - "document store"
+  - used [Nebari] as backing store ([update])
 
 - [Sonic]:
 
@@ -32,5 +32,6 @@ These are well-maintained and see some heavy use:
 [Meilisearch]: https://github.com/meilisearch/meilisearch
 [BonsaiDb]: https://github.com/khonsulabs/bonsaidb
 [Nebari]: https://github.com/khonsulabs/nebari
+[update]: https://bonsaidb.io/blog/durable-writes
 [Sonic]: https://github.com/valeriansaliou/sonic
 [RocksDB]: https://github.com/facebook/rocksdb
