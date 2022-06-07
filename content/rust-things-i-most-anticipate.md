@@ -8,6 +8,9 @@ tags = ["Rust"]
 
 The following are in progress:
 
+- [hyper] being used as default HTTP backend of cURL ([Hyper progress
+  tracker] and [cURL progress tracker]),
+  because the latter has billions of installations
 - Removing non-Rust deps from toolchain
   - Removing libc dep for Linux-based systems ([mustang] and [rustix])
   - Removing llvm dep ([cranelift])
@@ -18,9 +21,6 @@ The following are in progress:
      platforms ([latest update])
 - [sled] being a production grade database... being used in tikv would be great
 - Having Rust be certified for use in safety-critical systems ([Ferrocene])
-- [hyper] being used as default HTTP backend of cURL ([Hyper progress
-  tracker] and [cURL progress tracker]),
-  because the latter has billions of installations
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
 - [Pijul], a superior alternative to Git, [reaching stability]
