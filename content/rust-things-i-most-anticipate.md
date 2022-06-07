@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-05-26
+date = 2022-06-07
 
 [taxonomies]
 tags = ["Rust"]
@@ -18,7 +18,8 @@ The following are in progress:
      platforms ([latest update])
 - [sled] being a production grade database... being used in tikv would be great
 - Having Rust be certified for use in safety-critical systems ([Ferrocene])
-- [hyper] being used as default HTTP backend of cURL ([progress]),
+- [hyper] being used as default HTTP backend of cURL ([Hyper progress
+  tracker] and [cURL progress tracker]),
   because the latter has billions of installations
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
@@ -35,7 +36,8 @@ The following are in progress:
 [cranelift PR]: https://github.com/rust-lang/rust/pull/81746
 [sled]: https://github.com/spacejam/sled
 [hyper]: https://github.com/hyperium/hyper
-[progress]: https://github.com/curl/curl/wiki/Hyper
+[Hyper progress tracker]: https://github.com/orgs/hyperium/projects/2/views/1
+[cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
 [Pijul]: https://pijul.org
