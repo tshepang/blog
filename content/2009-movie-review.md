@@ -54,9 +54,6 @@ The runner-ups:
 1.  [Transformers 2]
 2.  [Avatar]
 
-The best visual effects artefact is the robo-bikes in [Terminator
-Salvation].
-
 ## misc elements
 
 [There Will Be Blood] has the year's **best direction**. [Changeling]
@@ -102,7 +99,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Small Soldiers]: @/small-soldiers-1998.md
 [2012]: @/2012-2009.md
 [Transformers 2]: @/transformers-revenge-of-the-fallen-2009.md
-[Terminator Salvation]: @/terminator-salvation-2009.md
 [Shoot 'Em Up]: @/recent-movies-2009-03-06.md
 [Law-Abiding Citizen]: @/law-abiding-citizen-2009.md
 [You Don't Mess With the Zohan]: @/many-recent-movies-2009-02-27.md

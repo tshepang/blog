@@ -15,6 +15,9 @@ as its battle suit is the **best visual effects artefact**.
 In addition, it's also the **most original** movie, which helps it feel super-fresh.
 The movie is named [District 9].
 
+Second to the above-mentioned **visual effects artefact** is the
+robo-bikes of *Terminator Salvation*.
+
 The **best male performance** is that of Christoph Waltz as Nazi officer
 in [Inglourious Basterds].
 He plays a very fearsome Nazi officer that is so damn easy to hate.
