@@ -10,13 +10,12 @@ categories = ['movies']
 
 The **best movie** of the year is also the best movie ever to be based
 in my city of residence, Johannesburg.
-The movie also has **best visuals**,
-as its battle suit is the **best visual effects artefact**.
+The movie also has **best visuals**.
 In addition, it's also the **most original** movie, which helps it feel super-fresh.
 The movie is named [District 9].
 
-Second to the above-mentioned **visual effects artefact** is the
-robo-bikes of *Terminator Salvation*.
+The best __visual effects artefact__ is the battle suit of [District 9],
+followed by the killer bikes of *Terminator Salvation*.
 
 The **best male performance** is that of Christoph Waltz as Nazi officer
 in [Inglourious Basterds].
