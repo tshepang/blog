@@ -8,8 +8,8 @@ tags = ["Rust"]
 
 The following are in progress:
 
-- [Allowing Rust usage in official Linux kernel][linux] ([latest proposal]),
-  though this would initially be limited to device drivers
+- [Allowing Rust usage in official Linux kernel][linux],
+  though this would initially be limited to device drivers ([latest proposal])
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
   tracker] and [cURL progress tracker]),
   because the latter has billions of installations
