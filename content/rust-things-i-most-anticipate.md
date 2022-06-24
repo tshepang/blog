@@ -16,7 +16,8 @@ The following are in progress:
 - Removing non-Rust deps from toolchain
   - Removing libc dep for Linux-based systems ([mustang] and [rustix])
   - Removing llvm dep ([cranelift])
-- Adding codegen backends as alternatives to [LLVM]
+- Make alternatives (to [LLVM]) codegen backends easily available in
+  Rust toolchain (as in via `rustup`)
    - [rustc_codegen_cranelift] (for using [cranelift] as codegen backend),
      immediate benefit being fast debug compiles ([progress][cranelift PR])
    - [rustc_codegen_gcc], allowing Rust to run in more hardware
