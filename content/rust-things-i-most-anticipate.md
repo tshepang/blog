@@ -25,7 +25,8 @@ The following are in progress:
 - Having Rust be certified for use in safety-critical systems ([Ferrocene])
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
-- [Pijul], a superior alternative to Git, [reaching stability]
+- Wide use of [Pijul], a superior alternative to Git
+  ([latest update](https://pijul.org/posts/2022-01-08-beta))
 
 [mustang]: https://github.com/sunfishcode/mustang
 [rustix]: https://github.com/bytecodealliance/rsix
