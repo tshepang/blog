@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-06-07
+date = 2022-06-24
 
 [taxonomies]
 tags = ["Rust"]
@@ -8,6 +8,8 @@ tags = ["Rust"]
 
 The following are in progress:
 
+- [Allowing Rust usage in official Linux kernel][linux] ([latest proposal]),
+  though this would initially be limited to device drivers
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
   tracker] and [cURL progress tracker]),
   because the latter has billions of installations
@@ -24,8 +26,6 @@ The following are in progress:
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
 - [Pijul], a superior alternative to Git, [reaching stability]
-- [Allowing Rust usage in official Linux kernel][linux],
-  though this would initially be limited to device drivers
 
 [mustang]: https://github.com/sunfishcode/mustang
 [rustix]: https://github.com/bytecodealliance/rsix
@@ -42,5 +42,6 @@ The following are in progress:
 [Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
-[linux]: https://lore.kernel.org/lkml/20220523020209.11810-1-ojeda@kernel.org
+[linux]: https://www.memorysafety.org/blog/memory-safety-in-linux-kernel
+[latest proposal]: https://lore.kernel.org/lkml/20220523020209.11810-1-ojeda@kernel.org
 [LLVM]: https://github.com/llvm/llvm-project
