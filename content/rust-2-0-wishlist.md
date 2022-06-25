@@ -62,9 +62,6 @@ following are my favorite breaking things I want in Rust.
 - Remove `std::sync::mpsc` from stdlib, making it available
   externally... it does not feel general enough. ([more issues])
 
-- Remove the `try!` macro... it has a better replacement in the form
-  of the question_mark (`?`) operator.
-
 - Remove per-type methods where trait impls offer same functionality,
   for generality
 
@@ -79,6 +76,8 @@ following are my favorite breaking things I want in Rust.
   // ... in favor of
   Path::to_owned
   ```
+
+- Remove all deprecated APIs, most notable being the `try!` macro
 
 ### cargo
 
