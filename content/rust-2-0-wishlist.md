@@ -1,6 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2021-12-18
+date = 2022-06-25
 
 [taxonomies]
 tags = ['Rust']
@@ -64,6 +64,21 @@ following are my favorite breaking things I want in Rust.
 
 - Remove the `try!` macro... it has a better replacement in the form
   of the question_mark (`?`) operator.
+
+- Remove per-type methods where trait impls offer same functionality,
+  for generality
+
+  ```rust
+  // remove
+  PathBuf::as_path
+  // ... in favor of
+  PathBuf::as_ref
+
+  // remove
+  Path::to_path_buf
+  // ... in favor of
+  Path::to_owned
+  ```
 
 ### cargo
 
