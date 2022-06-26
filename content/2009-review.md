@@ -26,7 +26,7 @@ Among them is the most **desirable gal**, Amina Robinson,
 who plays the more quiet of the classmates, one with scar on face.
 Oh man, why do people have to look and be like her. Damn!
 
-My favorite performance is that of Rosalind Pike,
+My __favorite performance__ is that of Rosalind Pike,
 who plays a mentally challenged lover in *An Education*.
 
 [District 9]: @/district-9.md
