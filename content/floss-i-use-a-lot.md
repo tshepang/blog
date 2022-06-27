@@ -21,7 +21,7 @@ tags = ['list']
 - **Cargo**: central tool for Rust development
 - **Git**: this one has won the mindshare
 
- ### GUI applications
+### GUI applications
 
 - [Alacritty]
 - **Firefox** (on Debian and on Android)
