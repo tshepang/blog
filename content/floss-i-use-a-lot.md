@@ -40,7 +40,6 @@ tags = ['list']
 - **head** and **tail**: included in GNU coreutils suite of tools
 - **OpenSSH**: duh!
 - [Sudo]: another duh!
-- [youtube-dl]: I prefer watching videos locally, with VLC
 - [ripgrep]: a more pleasant `grep`
 - [exa]: a more pleasant, more pretty `ls`
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
@@ -52,7 +51,6 @@ tags = ['list']
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
 [Transmission]: http://www.transmissionbt.com
 [tmux]: https://github.com/tmux/tmux/wiki
-[youtube-dl]: http://rg3.github.io/youtube-dl
 [ripgrep]: http://blog.burntsushi.net/ripgrep
 [Sudo]: @/project-of-note-sudo.md
 [vnstat]: http://humdi.net/vnstat
