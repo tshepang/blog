@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2022-04-04
+date = 2022-06-27
 
 [taxonomies]
 tags = ['list']
@@ -24,9 +24,10 @@ tags = ['list']
  ### GUI applications
 
 - [Alacritty]
-- **Firefox**
+- **Firefox** (on Debian and on Android)
 - [Transmission]: the only torrent client I have ever used
 - **VLC**: user interface could be a lot better
+- [AntennaPod]: for listening to podcasts, on Android
 
 ### network diagnosis
 - [vnstat]: nifty network usage viewer
@@ -61,3 +62,4 @@ tags = ['list']
 [miniserve]: https://github.com/svenstaro/miniserve
 [Alacritty]: https://github.com/alacritty/alacritty
 [openfortivpn]: https://github.com/adrienverge/openfortivpn
+[AntennaPod]: https://antennapod.org
