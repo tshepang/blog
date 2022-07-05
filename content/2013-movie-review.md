@@ -8,10 +8,8 @@ categories = ['movies']
 +++
 
 Not such a great year at the movies, even worse than [last year], though
-I think I also watched a lot less movies. Luckily there's two excellent
-ones, the best being [In Bruges]. It also boasts the year's best
-**direction**, **cinematography**, and **script/dialog**. The other
-excellent movie is [Redbelt].
+I think I also watched a lot less movies. Luckily there's an
+excellent movie, [Redbelt].
 
 ## visuals
 
@@ -30,8 +28,7 @@ in [Redbelt].
 ## characters
 
 My **favorite character** is the honorable martial arts instructor in
-[Redbelt], played by Chiwetel Ejiofor. The most **desirable gal** is the
-love interest in [In Bruges].
+[Redbelt], played by Chiwetel Ejiofor.
 
 The best **character design** is the fearsome The Missionary in [Silent
 Hill: Revelation].
@@ -46,7 +43,6 @@ particularly horrid moment in United States history, yet treating it
 with humor... very daring.
 
 [last year]: @/2012-movie-review.md
-[In Bruges]: @/in-bruges-2008.md
 [Redbelt]: @/redbelt-2007.md
 [Man of Steel]: @/man-of-steel-2013.md
 [Elysium]: @/elysium-2013.md
