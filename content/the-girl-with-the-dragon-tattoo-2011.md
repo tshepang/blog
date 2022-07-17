@@ -1,6 +1,7 @@
 +++
-date = 2012-04-09
 title = "The Girl with the Dragon Tattoo (2011)"
+date = 2012-04-09
+
 [taxonomies]
 tags = ['decent', '2011-movie']
 categories = ['movies']
@@ -16,4 +17,4 @@ interesting, perhaps with the exclusion of his first, *Alien 3*.
 Okay, I nearly forgot that the opening credits sequence was quite good.
 That and the fact that I could not actually figure what was going on.
 
-  [Se7en]: @/se7en-1995.md
+[Se7en]: @/se7en-1995.md

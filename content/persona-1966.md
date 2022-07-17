@@ -1,6 +1,7 @@
 +++
-date = 2012-04-29
 title = "Persona (1966)"
+date = 2012-04-29
+
 [taxonomies]
 tags = ['average', '2008-movie']
 categories = ['movies']
@@ -21,4 +22,4 @@ Watching it again, it's so strange that it feels like a different movie
 altogether. I struggled to stay awake... it's boring as fuck. It's
 also pointless. I must go find out what the fuss is all about.
 
-  [The Case of 'The Matrix Reloaded']: @/the-case-of-the-matrix-reloaded.md
+[The Case of 'The Matrix Reloaded']: @/the-case-of-the-matrix-reloaded.md
