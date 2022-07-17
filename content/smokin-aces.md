@@ -18,6 +18,4 @@ Some highlights:
 - story concept (multiple pro-killers targeting one guy)
 - the murderous neo-nazi trio
 
-Like [Fight Club] before it, the movie is packed too much of goodness.
-
-[Fight Club]: @/fight-club-1999.md
+The movie is packed too much of goodness.

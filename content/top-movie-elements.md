@@ -8,24 +8,20 @@ categories = ['movies']
 +++
 
 ## direction
-1. [Fight Club]
 2. [Se7en]
 3. [Requiem for a Dream]
 4. [Children of Men]
 
 ## cinematography
-1. [Fight Club]
 2. [Doubt]
 3. *Munich*
 4. [Se7en]
 5. [Children of Men]
 
 ## editing
-1. [Requiem for a Dream]
-2. [Fight Club]
+- [Requiem for a Dream]
 
 ## production design
-1. [Fight Club]
 2. [Se7en]; [J. Edgar]
 3. [Doubt]
 4. [Children of Men]
@@ -40,8 +36,7 @@ categories = ['movies']
 - [Requiem for A Dream]
 
 ## sound
-1. [Fight Club]
-2. *The Ring*
+- *The Ring*
 
 ## visual design
 1. *300*
@@ -114,7 +109,6 @@ categories = ['movies']
 4. [The Informant]
 
 
-[Fight Club]: @/fight-club-1999.md
 [Se7en]: @/se7en-1995.md
 [Requiem for a Dream]: @/requiem-for-a-dream-2000.md
 [Children of Men]: @/children-of-men.md
