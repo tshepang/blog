@@ -5,8 +5,8 @@ date = 2022-07-23
 
 I am Tshepang Mbambo (<tshepang@gmail.com>),
 and I do software development [for a living] and as a hobby.
-My favorite language (and ecosystem) is [Rust], and my OS of choice is
-[Debian].
+My favorite language (and ecosystem) is [Rust],
+and my OS of choice is [Debian].
 
 Among my profiles on the web:
 
