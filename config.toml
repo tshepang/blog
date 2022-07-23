@@ -1,19 +1,27 @@
 title = "Tshepang logs"
 base_url = "https://tshepang.github.io"
-theme = "after-dark"
-generate_feed = true
+theme = "adidoks"
 build_search_index = true
+timeformat = "%Y-%m-%d"
+edit_page = true
+docs_repo = "https://github.com/tshepang/blog"
+repo_branch = "main"
 taxonomies = [
-  { name = "tags", rss = true },
-  { name = "categories", rss = true },
+  { name = "tags" },
+  { name = "categories" },
 ]
 
 [markdown]
 highlight_code = true
 
-[extra]
-after_dark_menu = [
-    {url = "$BASE_URL/about-me", name = "about"},
-    {url = "$BASE_URL/tags", name = "tags"},
-    {url = "$BASE_URL/categories/movies", name = "movies"},
-]
+[[extra.menu.main]]
+name = "about"
+url = "$BASE_URL/about-me"
+
+[[extra.menu.main]]
+name = "tags"
+url = "$BASE_URL/tags"
+
+[[extra.menu.main]]
+name = "movies"
+url = "$BASE_URL/categories/movies"
