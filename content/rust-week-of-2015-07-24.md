@@ -11,4 +11,4 @@ Rust Library [team]. I never expected to be considered, given the far
 greater work that previous recipients have done. Is kool stuff.
 
 [given the honor]: https://internals.rust-lang.org/t/subteam-reports-2015-07-24/2397
-[team]: http://www.rust-lang.org/team
+[team]: https://rust-lang.org/governance/teams/library
