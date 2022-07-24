@@ -37,7 +37,7 @@ project at work. My favorite parts:
   }
   ```
 
-  There is a convenient syntax to deal with such case, where you
+  There is a convenient syntax to deal with such a case, where you
   don't care about one of values... `if let`:
 
   ```rust
