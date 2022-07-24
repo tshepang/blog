@@ -13,17 +13,19 @@ In terms of learning, I've always been wondering why one does not need
 `mut` when reading values from an iterator via a `for loop` , but does
 not when reading them using `next`:
 
-::: {.sourcecode}
-rust
-
-let it = std::env::args() // iterator over CLI arguments for value in it
-{ do_something(value); }
+```rust
+let it = std::env::args() // iterator over CLI arguments
+for value in it {
+    do_something(value);
+}
 
 // versus
 
 let mut it = std::env::args() // iterator over CLI arguments
-do_something(it.next()); do_something(it.next()); ...
-:::
+do_something(it.next());
+do_something(it.next());
+...
+```
 
 I think with the `for loop`, `it` cannot be used anymore, and that's
 why it can get away with being immutable. I'm not 100% yet... this
