@@ -30,7 +30,8 @@ tags = ['Rust']
     }
 
     fn main() {
-        let foo = 10_i32; assert_eq!(foo.invert(), 0.1);
+        let foo = 10_i32;
+        assert_eq!(foo.invert(), 0.1);
     }
     ```
 
