@@ -14,7 +14,7 @@ upstream. On the way there, I encountered these git2 APIS:
 
 -   [Branch::wrap] (submitted [improvement to make doc less misleading])
 -   [Branch::upstream]
--   [Repositoty::head]
+-   [Repository::head]
 
 I ended up [publishing the tool] too, which is the second time [I've
 done so].
@@ -23,6 +23,6 @@ done so].
 [Branch::wrap]: https://docs.rs/git2/0.6.8/git2/struct.Branch.html#method.wrap
 [improvement to make doc less misleading]: https://github.com/rust-lang/git2-rs/pull/246
 [Branch::upstream]: https://docs.rs/git2/0.6.8/git2/struct.Branch.html#method.upstream
-[Repositoty::head]: https://docs.rs/git2/0.6.8/git2/struct.Repository.html#method.head
+[Repository::head]: https://docs.rs/git2/0.6.8/git2/struct.Repository.html#method.head
 [publishing the tool]: https://crates.io/crates/mrh
 [I've done so]: https://crates.io/crates/weeks-from-now
