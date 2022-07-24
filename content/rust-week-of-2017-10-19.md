@@ -10,7 +10,7 @@ I released [mrh] v0.2.0, which takes into account that when latest
 upstream git reference does not match one that's checked out, it could
 be that upstream is ahead. The assumption previously was that local is
 ahead of upstream, implying that a push is needed. The API that helped
-with this change is [Repository.grapth_ahead_behind], a lovely and
+with this change is [Repository.graph_ahead_behind], a lovely and
 unexpected gift ([commit]).
 
 I used [cargo-outdated] for the first time... I like.
