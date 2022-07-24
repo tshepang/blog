@@ -38,7 +38,7 @@ project at work. My favorite parts:
   ```
 
   There is a convenient syntax to deal with such a case, where you
-  don't care about one of values... `if let`:
+  don't care about one of the values... `if let`:
 
   ```rust
   if let Err(error) = foo() {
