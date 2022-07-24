@@ -7,16 +7,16 @@ tags = ['Rust']
 
 -   I was surprised by the somewhat magical Rust type inference:
 
-    ::: {.sourcecode}
-    rust
-
+    ```rust
     fn main() {
-
-    :   let string = "10"; let num = match string.parse() { Ok(num)
-        => num, Err(_) => 0, }; assert_eq!(num, 10);
-
+        let string = "10";
+        let num = match string.parse() {
+            Ok(num) => num,
+            Err(_) => 0,
+        };
+        assert_eq!(num, 10);
     }
-    :::
+    ```
 
     A more explicit `parse` call would be `string.parse::<i32>()`, but
     the type to be parsed into is inferred by the `0` that is returned
