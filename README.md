@@ -25,7 +25,7 @@ demo:
 ```
 ❯ post 'Rust ecosystem weaknesses' --tags Rust
 
-❯ cat "~/blog/content/movies/Fight Club (1999).md"
+❯ cat "~/blog/content/rust-ecosystem-weaknesses.md"
 +++
 title = "Rust ecosystem weaknesses"
 date = 2022-06-24
