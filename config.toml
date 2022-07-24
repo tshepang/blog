@@ -3,17 +3,26 @@ base_url = "https://tshepang.github.io"
 theme = "after-dark"
 generate_feed = true
 build_search_index = true
-taxonomies = [
-  { name = "tags", rss = true },
-  { name = "categories", rss = true },
-]
+
+[[taxonomies]]
+  name = "tags"
+  rss = true
+
+[[taxonomies]]
+  name = "categories"
+  rss = true
 
 [markdown]
-highlight_code = true
+ highlight_code = true
 
-[extra]
-after_dark_menu = [
-    {url = "$BASE_URL/about-me", name = "about"},
-    {url = "$BASE_URL/tags", name = "tags"},
-    {url = "$BASE_URL/categories/movies", name = "movies"},
-]
+[[extra.after_dark_menu]]
+  name = "about"
+  url = "$BASE_URL/about-me"
+
+[[extra.after_dark_menu]]
+  name = "tags"
+  url = "$BASE_URL/tags"
+
+[[extra.after_dark_menu]]
+  name = "movies"
+  url = "$BASE_URL/categories/movies"
