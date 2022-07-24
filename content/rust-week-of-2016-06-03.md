@@ -15,7 +15,7 @@ project at work. My favorite parts:
   (e.g. a new file was created in a watched directory). This allows
   one to do away with using threads, reducing code complexity.
 - Rust error handling is so nice, and forces one to think better about
-  code. As an example, when you doing any I/O, you mostly want to do
+  code. As an example, when doing any I/O, you mostly want to do
   that in a separate function so that you can return a `Result` type,
   something like `Result<(), std::io::Error>`. This forces you to
   isolate just the I/O handling part from the other parts of the
