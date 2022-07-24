@@ -12,7 +12,7 @@ no 7 days passed without a single contribution to the ecosystem, no
 matter how tiny, and this has been going on for over a 100 weeks (i.e.
 [since 2015-05-15], the Rust 1.0 release date).
 
-The problem is I felt silly recording the tiny parts, stuff like a typo
+The problem is I felt silly recording the tiny parts, stuff like typo
 fixes, just to keep this going. Well, it's time to stop that. I intend
 to avoid recording such, even if it means no blog post for that week.
 
