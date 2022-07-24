@@ -1,6 +1,7 @@
 +++
-date = 2013-11-26
 title = "pleasantly surprised by replace-string (Emacs)"
+date = 2013-11-26
+
 [taxonomies]
 tags = ['Emacs']
 +++
@@ -14,4 +15,4 @@ it's so convenient.
 
 ([official description])
 
-  [official description]: http://www.gnu.org/software/emacs/manual/html_node/emacs/Replacement-and-Case.html#Replacement-and-Case
+[official description]: http://www.gnu.org/software/emacs/manual/html_node/emacs/Replacement-and-Case.html#Replacement-and-Case
