@@ -5,7 +5,7 @@ title = "Rust week of 2016-02-12"
 tags = ['Rust']
 +++
 
-I [submitted] [four] [documentation] [changes] this time. I also
+I
 enjoyed reading [Two Weeks of Rust], a blog post resulting from building
 something non-trivial using the language.
 
@@ -29,8 +29,4 @@ I think with the `for loop`, `it` cannot be used anymore, and that's
 why it can get away with being immutable. I'm not 100% yet... this
 feels like a lousy explanation.
 
-  [submitted]: https://github.com/rust-lang/rust/pull/31762
-  [four]: https://github.com/rust-lang/rust/pull/31763
-  [documentation]: https://github.com/rust-lang/rust/pull/31764
-  [changes]: https://github.com/rust-lang/rust/pull/31765
   [Two Weeks of Rust]: http://www.matusiak.eu/numerodix/blog/2016/1/10/two-weeks-rust/
