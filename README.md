@@ -21,24 +21,18 @@ flow:
 - `./publish`
 
 demo:
+
 ```
-$ post 'Fight Club (1999)' --movies --tags 1999-movie masterpiece
-$ cat "~/blog/content/movies/Fight Club (1999).md"
+❯ post 'Rust ecosystem weaknesses' --tags Rust
+
+❯ cat "~/blog/content/movies/Fight Club (1999).md"
 +++
-title = "Fight Club (1999)"
-date = 2018-09-12
+title = "Rust ecosystem weaknesses"
+date = 2022-06-24
 
 [taxonomies]
-tags = ["1999-movie", "masterpiece"]
+tags = ["Rust"]
 +++
-$ post 'I loved Python' --tags non-Rust
-$ cat "~/blog/content/I loved Python.md"
-+++
-title = "I loved Python"
-date = 2018-09-12
-
-[taxonomies]
-tags = ["non-Rust"]
 ```
 
 ---
