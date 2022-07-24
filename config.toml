@@ -3,6 +3,7 @@ base_url = "https://tshepang.github.io"
 theme = "after-dark"
 generate_feed = true
 build_search_index = true
+markdown.highlight_code = true
 
 [[taxonomies]]
   name = "tags"
@@ -11,9 +12,6 @@ build_search_index = true
 [[taxonomies]]
   name = "categories"
   rss = true
-
-[markdown]
- highlight_code = true
 
 [[extra.after_dark_menu]]
   name = "about"
