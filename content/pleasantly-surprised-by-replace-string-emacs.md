@@ -15,4 +15,4 @@ it's so convenient.
 
 ([official description])
 
-[official description]: http://www.gnu.org/software/emacs/manual/html_node/emacs/Replacement-and-Case.html#Replacement-and-Case
+[official description]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Unconditional-Replace.html
