@@ -1,8 +1,6 @@
-title = "Tshepang logs"
 base_url = "https://tshepang.github.io"
-theme = "after-dark"
+theme = "blow"
 generate_feed = true
-build_search_index = true
 taxonomies = [
   { name = "tags", rss = true },
   { name = "categories", rss = true },
@@ -12,8 +10,28 @@ taxonomies = [
 highlight_code = true
 
 [extra]
-after_dark_menu = [
-    {url = "$BASE_URL/about-me", name = "about"},
-    {url = "$BASE_URL/tags", name = "tags"},
-    {url = "$BASE_URL/categories/movies", name = "movies"},
-]
+enable_search = true
+
+[extra.navbar]
+title = "Tshepang logs"
+
+[[extra.navbar.items]]
+lang = "en"
+
+[[extra.navbar.items.links]]
+url = "about-me"
+name = "about"
+
+[[extra.navbar.items.links]]
+url = "tags"
+name = "tags"
+
+[[extra.navbar.items.links]]
+url = "categories/movies"
+name = "movies"
+
+
+[extra.social]
+github = "https://github.com/tshepang"
+twitter = "https://twitter.com/tshepang_dev"
+email = "tshepang@gmail.com"
