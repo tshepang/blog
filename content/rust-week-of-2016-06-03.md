@@ -32,7 +32,8 @@ project at work. My favorite parts:
 
   ```rust
   match foo() {
-      Ok(_) => (), Err(error) => do_something_with(error)
+      Ok(_) => (),
+      Err(error) => do_something_with(error),
   }
   ```
 
