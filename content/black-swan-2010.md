@@ -1,6 +1,7 @@
 +++
-date = 2011-03-06
 title = "Black Swan (2010)"
+date = 2011-03-06
+
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']
@@ -16,5 +17,5 @@ surprising, given the director's other movies, *Pi* and *Requiem for A
 Dream*, which could hardly be called easy viewing. It's very well-made,
 but I seriously didn't enjoy it.
 
-  [Showgirls]: @/showgirls-1995.md
-  [All About Eve]: @/all-about-eve-1950.md
+[Showgirls]: @/showgirls-1995.md
+[All About Eve]: @/all-about-eve-1950.md
