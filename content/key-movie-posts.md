@@ -5,7 +5,6 @@ date = 2018-09-12
 categories = ['movies']
 +++
 
-- [top movies]
 - [top elements]
 - [top characters]
 - [top performances]
@@ -14,7 +13,6 @@ categories = ['movies']
 - [best-of-career performances]
 - [favorite-of-career performances]
 
-[top movies]: @/top-movies.md
 [top elements]: @/top-movie-elements.md
 [top characters]: @/top-movie-characters.md
 [top performances]: @/top-movie-performances.md

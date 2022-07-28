@@ -21,4 +21,6 @@ Some highlights:
   - battle scenes
 - Story concept is fantastic, and so is the plot
 
+This is the best movie I've yet seen!
+
 [as good as it gets]: @/top-movie-elements.md
