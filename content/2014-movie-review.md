@@ -85,4 +85,3 @@ The following have the best **story concept**:
 [Her]: @/her.md
 [The Purge: Anarchy]: @/the-purge-anarchy-2014.md
 [13 Sins]: @/13-sins-2014.md
-[one of the best movies in history]: @/top-movies.md
