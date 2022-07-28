@@ -14,7 +14,7 @@ Wrestler*, a small but solid, yet-another-fallen-sportsman-story with an
 amazing cast and a very strong Mickey Rourke, whose character is in such
 pain that death ought to be better. And this movie appears the most
 conventional of Aronofsky's (think of the mesmerising *Pi* or the
-heart-wrenching [Requiem for A Dream]).
+heart-wrenching *Requiem for A Dream*).
 
 On a lighter note, we got the most enchanting *Wall-E*, a touching story
 of undefeatable love which got a strange quality of very quick
@@ -31,5 +31,3 @@ tough guy, but none with the flair of *You Don't Mess With the Zohan*,
 a weird and exciting fantasy/satire regarding middle-Eastern peoples.
 The only comparably-excellent movie Adam has been in is *Punch-Drunk
 Love*.
-
-  [Requiem for A Dream]: @/requiem-for-a-dream-2000.md

@@ -9,7 +9,6 @@ categories = ['movies']
 
 ## direction
 2. [Se7en]
-3. [Requiem for a Dream]
 4. [Children of Men]
 
 ## cinematography
@@ -17,9 +16,6 @@ categories = ['movies']
 3. *Munich*
 4. [Se7en]
 5. [Children of Men]
-
-## editing
-- [Requiem for a Dream]
 
 ## production design
 2. [Se7en]; [J. Edgar]
@@ -32,9 +28,6 @@ categories = ['movies']
 ## costumes
 - [Apocalypto]; The New World
 
-## score
-- [Requiem for A Dream]
-
 ## sound
 - *The Ring*
 
@@ -43,8 +36,8 @@ categories = ['movies']
 2. [Sucker Punch]
 
 ## painful
-- [Requiem for A Dream] (what the four characters at the end endure)
-- 21 Grams (the subject matter)
+
+21 Grams (the subject matter)
 
 ## hand-to-hand combat
 - [Haywire]
@@ -110,7 +103,6 @@ categories = ['movies']
 
 
 [Se7en]: @/se7en-1995.md
-[Requiem for a Dream]: @/requiem-for-a-dream-2000.md
 [Children of Men]: @/children-of-men.md
 [Doubt]: @/doubt-2008.md
 [J. Edgar]: @/j-edgar-2011.md

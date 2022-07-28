@@ -158,11 +158,7 @@ About Eve]. The former is substandard while the second is quite decent.
 This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
 
-Of those, the **best experience** was offered by the masterpiece,
-[Requiem for A Dream]. It was almost a surprise that the intensity of
-the experience was as great as was on first viewing, a very rare
-quality.
-The runner-up is [Mandingo], the best movie on US slavery I've seen yet.
+The one is won by [Mandingo], the best movie on US slavery I've seen yet.
 
 ---
 
@@ -220,7 +216,6 @@ For a complete list of the movies I reviewed for the year, visit the
 [Groundhog Day]: @/groundhog-day-1993.md
 [Sunset Boulevard]: @/sunset-boulevard-1950.md
 [All About Eve]: @/all-about-eve-1950.md
-[Requiem for A Dream]: @/requiem-for-a-dream-2000.md
 [Mandingo]: @/mandingo-1975.md
 [The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
 [this tag]: http://tshepang.github.io/tags/2011-movie
