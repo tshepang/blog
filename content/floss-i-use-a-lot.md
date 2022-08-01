@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2022-06-27
+date = 2022-08-01
 
 [taxonomies]
 tags = ['list']
@@ -10,7 +10,7 @@ tags = ['list']
 ### environment
 
 - **Debian**: my primary OS, and also my favorite
-- [tmux]: amazingly powerful terminal multiplexer
+- [tmux] and [zellij]: the latter is replacing the former these days
 - **Emacs**: pleasant text editing and file management
 - **fish**: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
@@ -46,7 +46,11 @@ tags = ['list']
   (though it actually makes use of the latter for paging through long text)
 - **top**: a powerful and flexible process viewer, part of [procps suite]
 - [openfortivpn]: to connect to work VPN
-
+- [mdBook]: lightweight documentation system,
+  using it for work  documentation,
+  and for Cargo and [rustc-dev-guide] documentation
+  (which is always served with `mdbook serve`).
+- [zola]: for this blog, also always served (with `zola serve`)
 
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
 [Transmission]: http://www.transmissionbt.com
@@ -61,3 +65,5 @@ tags = ['list']
 [Alacritty]: https://github.com/alacritty/alacritty
 [openfortivpn]: https://github.com/adrienverge/openfortivpn
 [AntennaPod]: https://antennapod.org
+[zola]: https://github.com/getzola/zola
+[rustc-dev-guide]: https://github.com/rust-lang/rustc-dev-guide
