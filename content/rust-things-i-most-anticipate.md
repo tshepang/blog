@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-06-24
+date = 2022-08-04
 
 [taxonomies]
 tags = ["Rust"]
@@ -45,5 +45,5 @@ The following are in progress:
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
 [linux]: https://www.memorysafety.org/blog/memory-safety-in-linux-kernel
-[latest proposal]: https://lore.kernel.org/lkml/20220523020209.11810-1-ojeda@kernel.org
+[latest proposal]: https://lore.kernel.org/lkml/20220802015052.10452-1-ojeda@kernel.org
 [LLVM]: https://github.com/llvm/llvm-project
