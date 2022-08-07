@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-08-06
+date = 2022-08-07
 
 [taxonomies]
 tags = ["Rust"]
@@ -10,6 +10,8 @@ The following are in progress:
 
 - [Allowing Rust usage in official Linux kernel][linux],
   though this would initially be limited to device drivers ([latest proposal])
+- Having Rust be certified for use in safety-critical systems,
+  most visible example being [Ferrocene] ([latest update][ferrocense status])
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
   tracker] and [cURL progress tracker]),
   because the latter has billions of installations
@@ -23,7 +25,6 @@ The following are in progress:
    - [rustc_codegen_gcc], allowing Rust to run in more hardware
      platforms ([latest update])
 - [sled] being a production grade database... being used in tikv would be great
-- Having Rust be certified for use in safety-critical systems ([Ferrocene])
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
 - Wide use of [Pijul], a superior alternative to Git
@@ -41,6 +42,7 @@ The following are in progress:
 [Hyper progress tracker]: https://github.com/orgs/hyperium/projects/2/views/1
 [cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
 [Ferrocene]: https://ferrous-systems.com/ferrocene
+[ferrocense status]: https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here
 [Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
