@@ -1,6 +1,6 @@
 +++
 title = "Rust search tools to watch"
-date = 2022-05-29
+date = 2022-08-11
 
 [taxonomies]
 tags = ["Rust"]
@@ -21,6 +21,8 @@ These are well-maintained and see some heavy use:
   - "document store"
   - used [Nebari] as backing store ([update])
 
+- [Spyglass]: crawls the web for local storage and search
+
 - [Sonic]:
 
   - "a schema-less search backend"
@@ -35,3 +37,4 @@ These are well-maintained and see some heavy use:
 [update]: https://bonsaidb.io/blog/durable-writes
 [Sonic]: https://github.com/valeriansaliou/sonic
 [RocksDB]: https://github.com/facebook/rocksdb
+[Spyglass]: https://github.com/a5huynh/spyglass
