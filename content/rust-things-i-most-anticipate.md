@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-08-07
+date = 2022-08-11
 
 [taxonomies]
 tags = ["Rust"]
@@ -24,7 +24,6 @@ The following are in progress:
      immediate benefit being fast debug compiles ([progress][cranelift PR])
    - [rustc_codegen_gcc], allowing Rust to run in more hardware
      platforms ([latest update])
-- [sled] being a production grade database... being used in tikv would be great
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
 - Wide use of [Pijul], a superior alternative to Git
@@ -37,7 +36,6 @@ The following are in progress:
 [latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-11
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift PR]: https://github.com/rust-lang/rust/pull/81746
-[sled]: https://github.com/spacejam/sled
 [hyper]: https://github.com/hyperium/hyper
 [Hyper progress tracker]: https://github.com/orgs/hyperium/projects/2/views/1
 [cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
