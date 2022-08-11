@@ -21,9 +21,9 @@ These are well-maintained and see some heavy use:
   - "document store"
   - used [Nebari] as backing store ([update])
 
-- [Spyglass]: crawls the web for local storage and search
+- [Spyglass]: search engine that crawls websites and stores them locally
 
-- [Sonic]:
+- [Sonic]
 
   - "a schema-less search backend"
   - uses [RocksDB] as backing store
