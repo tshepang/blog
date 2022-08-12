@@ -9,8 +9,8 @@ tags = ["Rust"]
 My fantasy is having $1m for each of these,
 in order of importance:
 
-- [Mustang], for I want C off my dependencies
 - [Pijul], for I want a better VCS than Git
+- [Mustang], for I want C off my dependencies
 - [Theseus], for I want C off my kernel
   (and because it's the most exciting project written in Rust at the moment)
 - [Zellij], for I want a more pleasant terminal multiplexer than tmux
