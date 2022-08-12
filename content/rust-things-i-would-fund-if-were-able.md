@@ -20,4 +20,4 @@ in order of importance:
 [Pijul]: https://pijul.org
 [Theseus]: https://github.com/theseus-os/Theseus
 [Zellij]: https://github.com/zellij-org/zellij
-[rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
+[rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
