@@ -1,6 +1,6 @@
 +++
 title = "most used Rust software"
-date = 2022-01-27
+date = 2022-08-18
 
 [taxonomies]
 tags = ["Rust"]
@@ -30,9 +30,13 @@ tags = ["Rust"]
   (early 2020), which has Read States service written in Rust,
   whose "sole purpose is to keep track of which channels and messages you have read".
 
+- [100s of millions use Android 11+],
+  whose DNS-over-HTTP/3 service is written in Rust.
+
 [dropbox]: https://investors.dropbox.com/news-releases/news-release-details/dropbox-announces-fourth-quarter-and-fiscal-2019-results
 [rust@dropbox]: https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
 [over 500m users]: https://en.pingcap.com/case-study/scale-out-database-powers-china-letgo-with-reduced-maintenance-costs
 [over 200m users]: https://en.pingcap.com/case-study/how-chinas-insurance-giant-improved-agile-application-performance-with-a-newsql-database
 [over 220m users]: https://en.pingcap.com/case-study/lesson-learned-from-queries-over-1-3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu
 [over 300m users]: https://en.pingcap.com/case-study/how-we-use-a-scale-out-htap-database-for-real-time-analytics-and-complex-queries
+[100s of millions use Android 11+]: https://twitter.com/larsberg_/status/1549722736196521987
