@@ -1,6 +1,6 @@
 +++
 title = "favorite companies"
-date = 2021-08-13
+date = 2022-08-21
 
 [taxonomies]
 tags = ["Rust"]
@@ -34,6 +34,10 @@ leading me to trust them.
   A number of them [have to do with Rust],
   for they use the language to develop some of their tools.
 
+- [Fastly], which also offers various internet services,
+  is a key player in the Wasm ecosystem,
+  as evidenced by employing giants such as [Alex Crichton] and [Dan Gohman].
+
 [Ferrous Systems]: https://ferrous-systems.com
 [Oxidise]: https://oxidizeconf.com
 [Sealed Rust]: https://ferrous-systems.com/blog/sealed-rust-the-pitch
@@ -43,3 +47,6 @@ leading me to trust them.
 [in public]: https://github.com/mullvad
 [Cloudflare]: https://cloudflare.com
 [have to do with Rust]: https://blog.cloudflare.com/tag/rust
+[Fastly]: https://www.fastly.com
+[Alex Crichton]: https://github.com/alexcrichton
+[Dan Gohman]: https://github.com/sunfishcode
