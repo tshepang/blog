@@ -11,7 +11,7 @@ These are well-maintained and see some heavy use:
 - [Quickwit]
 
   - "search engine for log managment"
-  - build on [Tantivy], an equivalent of [Lucene]
+  - built on [Tantivy], an equivalent of [Lucene]
   - search API compatible with that of Elasticsearch
 
 - [Meilisearch]
