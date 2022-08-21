@@ -6,7 +6,7 @@ date = 2022-08-11
 tags = ["Rust"]
 +++
 
-These are well-maintained and see some heavy use:
+These are all maintained well:
 
 - [Quickwit]
 
