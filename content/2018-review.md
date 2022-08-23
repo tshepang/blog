@@ -1,23 +1,25 @@
 +++
 title = "2018 review"
-date = 2019-02-27
+date = 2022-08-24
 
 [taxonomies]
 tags = ["2018", "year-review"]
 categories = ['movies']
 +++
 
-The greatest **spectacle** is *Ready Player One* (great supply of
-iconic fictional characters, fantastic environment, and story concept).
-The movie also has the best **animation**.
+The greatest __spectacle__ is *Ready Player One*:
+- it has the best __animation__
+- it has the best __character design__
+- great supply of iconic fictional characters
+- fantastic in-game environment
 
-The best **humor** is found in *Deadpool 2*,
+The best __humor__ is found in *Deadpool 2*,
 a sequel that also happens to be better than the (delightful) original.
 
-The best **thriller** is the intense *Mile 22*,
-and its [Iko Uwais] gives the year's **favorite performance**.
-The movie also has the best **action direction**.
-Runner-up for **favorite performance** is by [Jesse Plemons] in *Game
+The best __thriller__ is the intense *Mile 22*,
+and its [Iko Uwais] gives the year's __favorite performance__.
+The movie also has the best __action direction__.
+Runner-up for __favorite performance__ is by [Jesse Plemons] in *Game
 Night*.
 
 
