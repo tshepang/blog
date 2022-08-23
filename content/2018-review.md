@@ -19,8 +19,7 @@ a sequel that also happens to be better than the (delightful) original.
 The best __thriller__ is the intense *Mile 22*,
 and its [Iko Uwais] gives the year's __favorite performance__.
 The movie also has the best __action direction__.
-Runner-up for __favorite performance__ is by [Jesse Plemons] in *Game
-Night*.
+Runner-up for __favorite performance__ is by [Jesse Plemons] in *Game Night*.
 
 
 [Iko Uwais]: https://en.wikipedia.org/wiki/Iko_Uwais
