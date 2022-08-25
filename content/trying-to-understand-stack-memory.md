@@ -10,18 +10,17 @@ heap memory are hidden from its users. Not so with lower-level languages
 like C. Following examples are implemented in Rust, which is easier to
 use than C:
 
-::: {.sourcecode}
-rust
-
+```rust
 fn main() {
+    let a = 0i8;
+    let b = 0i8;
+    let c = 0i8;
 
-:   let a = 0i8; let b = 0i8; let c = 0i8;
-
-    println!("{:p}", &a); println!("{:p}", &b); println!("{:p}",
-    &c);
-
+    println!("{:p}", &a);
+    println!("{:p}", &b);
+    println!("{:p}", &c);
 }
-:::
+```
 
 We build and run it like this:
 
@@ -39,18 +38,17 @@ for performance reasons and/or simpler memory management code.
 If we use larger types, we'll see each value taking more than just one
 address:
 
-::: {.sourcecode}
-rust
-
+```rust
 fn main() {
+    let a = 0i16;
+    let b = 0i16;
+    let c = 0i16;
 
-:   let a = 0i16; let b = 0i16; let c = 0i16;
-
-    println!("{:p}", &a); println!("{:p}", &b); println!("{:p}",
-    &c);
-
+    println!("{:p}", &a);
+    println!("{:p}", &b);
+    println!("{:p}", &c);
 }
-:::
+```
 
 Output:
 
