@@ -14,8 +14,9 @@ leading me to trust them.
   That, combined with having Jonathan Pallant in their employ
   (and previously Jorge Aparicio and James Munns),
   makes them the most visible name in that domain for Rust.
-  I am also excited for [their effort][Sealed Rust] in helping Rust get to be
-  certified for use in Safety Critical systems.
+  I am also excited for [Ferrocene],
+  which is their effort in getting Rust to be used in
+  "Safety-critical sectors, such as automotive, railway, and aerospace".
 
 - [Mullvad], which offers a VPN service,
   develop their tools [in public] (open source),
@@ -33,7 +34,7 @@ leading me to trust them.
 
 [Ferrous Systems]: https://ferrous-systems.com
 [Oxidise]: https://oxidizeconf.com
-[Sealed Rust]: https://ferrous-systems.com/blog/sealed-rust-the-pitch
+[Ferrocene]: https://ferrous-systems.com/ferrocene
 [Mullvad]: https://mullvad.net
 [Oxide]: https://oxide.computer
 [all workers get the same salary]: https://oxide.computer/blog/compensation-as-a-reflection-of-values
