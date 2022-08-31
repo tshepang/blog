@@ -1,6 +1,6 @@
 +++
 title = "favorite companies"
-date = 2022-08-21
+date = 2022-08-31
 
 [taxonomies]
 tags = ["Rust"]
@@ -26,15 +26,7 @@ leading me to trust them.
   also makes heavy use of Rust as well as open source firmware.
   Best of all, [all workers get the same salary]!
 
-- [Cloudflare], which offers various internet services,
-  offers many of them without a fee.
-  The one I use is their DNS service, with a promise of speed and privacy.
-  Also impressive is their blog posts,
-  which are both detailed and numerous.
-  A number of them [have to do with Rust],
-  for they use the language to develop some of their tools.
-
-- [Fastly], which also offers various internet services,
+- [Fastly], which offers various internet services,
   is a key player in the Wasm ecosystem,
   as evidenced by employing giants such as [Alex Crichton] and [Dan Gohman].
 
@@ -45,8 +37,6 @@ leading me to trust them.
 [Oxide]: https://oxide.computer
 [all workers get the same salary]: https://oxide.computer/blog/compensation-as-a-reflection-of-values
 [in public]: https://github.com/mullvad
-[Cloudflare]: https://cloudflare.com
-[have to do with Rust]: https://blog.cloudflare.com/tag/rust
 [Fastly]: https://www.fastly.com
 [Alex Crichton]: https://github.com/alexcrichton
 [Dan Gohman]: https://github.com/sunfishcode
