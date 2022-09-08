@@ -12,7 +12,7 @@ was all the more surprised because I think I didn't do well at the
 interview. Great news is I didn't expect a coding job so soon,
 especially given I don't have previous professional exposure.
 
-I am an electronic technician (lesser than an engineer) by trade and am
+I am an electronic technician by trade and am
 pretty unhappy in my current job (testing, calibration, and
 fault-finding of gyro-stabilised airborne surveillance/observation
 systems). That's partly because I don't really get challenged since
