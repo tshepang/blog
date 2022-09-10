@@ -14,7 +14,7 @@ but rather more requiring work on libraries, tooling, and advocacy:
   (installations number the 100s of millions),
   which would help it be an alternative to Swift (and Objective-C)
 - Android: Rust is not tier 1 on this major platform
-  (installations number the billions),
+  (installations number in the billions),
   which would help it be an alternative to Kotlin and Java
   ([discussion])
 - regulated industries, like safety critical systems:
