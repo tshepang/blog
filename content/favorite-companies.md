@@ -21,7 +21,7 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
   and helping to funding many open source contributors and projects.
   What makes them the most kool is the games they develop...
   they got some mouth-watering teasers and concept art
-  (for the upcoming 2 games, The Finals and Arc Raiders).
+  (for the upcoming 2 games, [The Finals] and [Arc Raiders]).
 
 - [Ferrous Systems], which offers Rust consulting and training,
   also does a lot for the language in the embedded domain by running [Oxidise].
@@ -57,3 +57,5 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 [Alex Crichton]: https://github.com/alexcrichton
 [Dan Gohman]: https://github.com/sunfishcode
 [Embark Studios]: https://www.embark-studios.com
+[The Finals]: https://www.reachthefinals.com
+[Arc Raiders]: https://arcraiders.com
