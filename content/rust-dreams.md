@@ -10,7 +10,7 @@ My ideal computing environment, for all device types (from servers to embedded):
 
 - processors are [RISC-V]
 - OS is [Theseus]
-  (excluding some embedded systems where there is only a single process)
+  (excluding some embedded systems where there is only a single application)
 - [rustix] (and [mustang]) are used to help run POSIX apps
 - [Cranelift] is used to generate machine code
 
