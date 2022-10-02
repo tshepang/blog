@@ -10,6 +10,12 @@ The following are in progress:
 
 - [Allowing Rust usage in official Linux kernel][linux],
   though this would initially be limited to device drivers ([latest proposal])
+- Make alternatives (to [LLVM]) codegen backends easily available in
+  Rust toolchain (as in via `rustup`)
+   - [rustc_codegen_cranelift] (for using [cranelift] as codegen backend),
+     immediate benefit being fast debug compiles ([progress][cranelift PR])
+   - [rustc_codegen_gcc], allowing Rust to run in more hardware
+     platforms ([latest update])
 - Having Rust be certified for use in safety-critical systems,
   most visible example being [Ferrocene] ([latest update][ferrocense status])
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
@@ -18,12 +24,6 @@ The following are in progress:
 - Removing non-Rust deps from toolchain
   - Removing libc dep for Linux-based systems ([mustang] and [rustix])
   - Removing llvm dep ([cranelift])
-- Make alternatives (to [LLVM]) codegen backends easily available in
-  Rust toolchain (as in via `rustup`)
-   - [rustc_codegen_cranelift] (for using [cranelift] as codegen backend),
-     immediate benefit being fast debug compiles ([progress][cranelift PR])
-   - [rustc_codegen_gcc], allowing Rust to run in more hardware
-     platforms ([latest update])
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
 - Wide use of [Pijul], a superior alternative to Git
@@ -33,7 +33,7 @@ The following are in progress:
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
-[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-11
+[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-15
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift PR]: https://github.com/rust-lang/rust/pull/81746
 [hyper]: https://github.com/hyperium/hyper
