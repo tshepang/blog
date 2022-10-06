@@ -1,6 +1,6 @@
 +++
 title = "most used Rust software"
-date = 2022-08-18
+date = 2022-10-06
 
 [taxonomies]
 tags = ["Rust"]
@@ -18,7 +18,7 @@ tags = ["Rust"]
 
   This is, for me, the most impressive Rust success story.
 
-- [600m people use Dropbox][dropbox] (late 2019),
+- [over 700m people use Dropbox][dropbox] (mid  2022),
   [whose file storage system is written in Rust][rust@dropbox].
 
 - [over 190m people use Firefox](https://data.firefox.com/dashboard/user-activity)
@@ -32,7 +32,7 @@ tags = ["Rust"]
 - [100s of millions use Android 11+],
   whose DNS-over-HTTP/3 service is written in Rust.
 
-[dropbox]: https://investors.dropbox.com/news-releases/news-release-details/dropbox-announces-fourth-quarter-and-fiscal-2019-results
+[dropbox]: https://dropbox.gcs-web.com/news-releases/news-release-details/dropbox-announces-second-quarter-fiscal-2022-results
 [rust@dropbox]: https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
 [over 200m users]: https://en.pingcap.com/case-study/how-chinas-insurance-giant-improved-agile-application-performance-with-a-newsql-database
 [over 220m users]: https://en.pingcap.com/case-study/lesson-learned-from-queries-over-1-3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu
