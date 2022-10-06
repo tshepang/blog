@@ -21,8 +21,8 @@ tags = ["Rust"]
 - [over 700m people use Dropbox][dropbox] (mid  2022),
   [whose file storage system is written in Rust][rust@dropbox].
 
-- [over 190m people use Firefox](https://data.firefox.com/dashboard/user-activity)
-  (mid 2022), which has various components written in Rust,
+- [over 200m people use Firefox](https://data.firefox.com/dashboard/user-activity)
+  (late 2022), which has various components written in Rust,
   most notably Stylo, which does CSS style calculation.
 
 - [250m people use Discord](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
