@@ -17,8 +17,7 @@ Regardless, there was still much to celebrate. Let's see.
 
 The best **production design** is in [Doubt].
 
-The best **visual design** is in [Upside Down], followed by [The Hunger
-Games: Catching Fire].
+The best **visual design** is in [The Hunger Games: Catching Fire].
 
 The best **cinematography** is in [Doubt].
 
@@ -57,7 +56,6 @@ greater **spectacle** than [Edge of Tomorrow].
 
 The following have the best **story concept**:
 
-1.  [Upside Down]
 2.  [In Time]
 4.  [Her]
 5.  [The Purge: Anarchy]
@@ -65,7 +63,6 @@ The following have the best **story concept**:
 
 
 [Doubt]: @/doubt-2008.md
-[Upside Down]: @/upside-down-2012.md
 [The Hunger Games: Catching Fire]: @/the-hunger-games-catching-fire-2013.md
 [Thor: The Dark World]: @/thor-the-dark-world-2013.md
 [Transformers: Age of Extinction]: @/transformers-age-of-extinction-2014.md
