@@ -46,10 +46,6 @@ I always celebrate:
 1. new-born baby alien (*Men In Black*)
 2. the young penguins (*Surf's Up*)
 
-## nerd
-
-- Jason Schwartzman (*Shopgirl*)
-
 ## creature
 
 1. Davey Jones (*Pirates of the Caribbean: Dead Man's Chest*)

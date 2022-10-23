@@ -96,10 +96,6 @@ in *Our Family Wedding*.
 The **koolest guy** is Mark Wahlberg's in *Date Night*, followed by
 Justin Timberlake's in [The Social Network].
 
-The best character development ever for a **nerd** can be found in
-*Shopgirl*, in a form of an inept lover. As is so common, the
-character's shortcomings involve lovers.
-
 Here's a list of most **painful/touching scene**:
 
 3.  hate for a dead wife (*Last Tango in Paris*) -- leads one
