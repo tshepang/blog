@@ -15,11 +15,7 @@ Regardless, there was still much to celebrate. Let's see.
 
 ## visuals
 
-The best **production design** is in [Doubt].
-
 The best **visual design** is in [The Hunger Games: Catching Fire].
-
-The best **cinematography** is in [Doubt].
 
 The best **visual effects** are in [Thor: The Dark World], followed by
 [Transformers: Age of Extinction], then [Edge of Tomorrow].
@@ -61,8 +57,6 @@ The following have the best **story concept**:
 5.  [The Purge: Anarchy]
 6.  [13 Sins]
 
-
-[Doubt]: @/doubt-2008.md
 [The Hunger Games: Catching Fire]: @/the-hunger-games-catching-fire-2013.md
 [Thor: The Dark World]: @/thor-the-dark-world-2013.md
 [Transformers: Age of Extinction]: @/transformers-age-of-extinction-2014.md

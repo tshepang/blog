@@ -26,7 +26,6 @@ categories = ['movies']
 - Morgan Freeman (*Million Dollar Baby*)
 - Nicole Kidman ([Birth]); also [favorite-of-career]; honorable mention ([Rabbit Hole])
 - Penélope Cruz ([Vicky Cristina Barcelona])
-- Philip Seymour Hoffman ([Doubt])
 - Rosario Dawson (*Seven Pounds*)
 - Samuel L. Jackson (*Pulp Fiction*)
 - Sandra Oh ([Rabbit Hole])
@@ -51,4 +50,3 @@ related: [favorite-of-career performances][favorite-of-career]
 [favorite-of-career]: @/favorite-of-career-performances.md
 [Rabbit Hole]: @/rabbit-hole-2010.md
 [Vicky Cristina Barcelona]: @/vicky-cristina-barcelona-2008.md
-[Doubt]: @/doubt-2008.md

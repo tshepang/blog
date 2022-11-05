@@ -12,14 +12,12 @@ categories = ['movies']
 4. [Children of Men]
 
 ## cinematography
-2. [Doubt]
 3. *Munich*
 4. [Se7en]
 5. [Children of Men]
 
 ## production design
 2. [Se7en]; [J. Edgar]
-3. [Doubt]
 4. [Children of Men]
 
 ## make-up
@@ -104,7 +102,6 @@ categories = ['movies']
 
 [Se7en]: @/se7en-1995.md
 [Children of Men]: @/children-of-men.md
-[Doubt]: @/doubt-2008.md
 [J. Edgar]: @/j-edgar-2011.md
 [Apocalypto]: @/apocalypto-2006.md
 [Sucker Punch]: @/sucker-punch-2011.md
