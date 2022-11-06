@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2022-08-01
+date = 2022-11-06
 
 [taxonomies]
 tags = ['list']
@@ -10,7 +10,7 @@ tags = ['list']
 ### environment
 
 - **Debian**: my primary OS, and also my favorite
-- [tmux] and [zellij]: the latter is replacing the former these days
+- [zellij]: pleasant terminal multiplexer
 - **Emacs**: pleasant text editing and file management
 - **fish**: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
@@ -54,7 +54,6 @@ tags = ['list']
 
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
 [Transmission]: http://www.transmissionbt.com
-[tmux]: https://github.com/tmux/tmux/wiki
 [ripgrep]: http://blog.burntsushi.net/ripgrep
 [Sudo]: @/project-of-note-sudo.md
 [vnstat]: http://humdi.net/vnstat
