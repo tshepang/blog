@@ -1,15 +1,17 @@
 +++
 title = "2014 review"
-date = 2021-10-31
+date = 2022-11-06
 
 [taxonomies]
 tags = ['year-review', '2014']
 categories = ['movies']
 +++
 
+The greatest __spectable__ is *Edge of Tomorrow*.
+It also has the best **visual effects**,
+as well as the best __visual effects artefact__ in the form of the battle suites.
 The best **action** can be found in the fight scenes of *[Non-Stop]*,
-but the best **visual effects** are in *[Dracula Untold]*.
-The best **animation** is in *[Big Hero 6]*,
+and the best **animation** is in *[Big Hero 6]*,
 a movie that also has my **favorite character**,
 the inflatable robot.
 

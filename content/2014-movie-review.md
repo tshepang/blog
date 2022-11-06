@@ -18,7 +18,7 @@ Regardless, there was still much to celebrate. Let's see.
 The best **visual design** is in [The Hunger Games: Catching Fire].
 
 The best **visual effects** are in [Thor: The Dark World], followed by
-[Transformers: Age of Extinction], then [Edge of Tomorrow].
+[Transformers: Age of Extinction].
 
 ## performances
 
@@ -47,9 +47,6 @@ Your Dragon 2].
 
 ## miscellaneous
 
-There was no
-greater **spectacle** than [Edge of Tomorrow].
-
 The following have the best **story concept**:
 
 2.  [In Time]
@@ -60,7 +57,6 @@ The following have the best **story concept**:
 [The Hunger Games: Catching Fire]: @/the-hunger-games-catching-fire-2013.md
 [Thor: The Dark World]: @/thor-the-dark-world-2013.md
 [Transformers: Age of Extinction]: @/transformers-age-of-extinction-2014.md
-[Edge of Tomorrow]: @/edge-of-tomorrow-2014.md
 [Laurence R. Harvey]: http://www.imdb.com/name/nm4030776
 [Michael Shannon]: http://en.wikipedia.org/wiki/Michael_Shannon
 [Red 2]: @/red-2-2013.md
