@@ -11,9 +11,9 @@ tags = ['list']
 
 - __Debian__: my primary OS, and also my favorite
 - __Android__: for all my mobile needs
-- [zellij]: pleasant terminal multiplexer
 - __Emacs__: pleasant text editing and file management
 - __fish__: compared to mighty Bash, it is far more pretty,
+- [zellij]: pleasant terminal multiplexer
    and has a far better command completion system
 - __nm-applet__: part of NetworkManager
 
