@@ -9,43 +9,43 @@ tags = ['list']
 
 ### environment
 
-- **Debian**: my primary OS, and also my favorite
-- **Android**: for all my mobile needs
+- __Debian__: my primary OS, and also my favorite
+- __Android__: for all my mobile needs
 - [zellij]: pleasant terminal multiplexer
-- **Emacs**: pleasant text editing and file management
-- **fish**: compared to mighty Bash, it is far more pretty,
+- __Emacs__: pleasant text editing and file management
+- __fish__: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
-- **nm-applet**: part of NetworkManager
+- __nm-applet__: part of NetworkManager
 
 ### software development
 
-- **Cargo**: central tool for Rust development
-- **Git**: this one has won the mindshare
+- __Cargo__: central tool for Rust development
+- __Git__: this one has won the mindshare
 
 ### GUI applications
 
 - [Alacritty]
-- **Firefox** (on Debian and on Android)
+- __Firefox__ (on Debian and on Android)
 - [Transmission]: the only torrent client I have ever used
-- **VLC**: user interface could be a lot better
+- __VLC__: user interface could be a lot better
 - [AntennaPod]: for listening to podcasts, on Android
 
 ### network diagnosis
 - [vnstat]: nifty network usage viewer
-- **ping**: checks general reachability
-- **mtr**: interactive traceroute tool
+- __ping__: checks general reachability
+- __mtr__: interactive traceroute tool
 
 ### miscellaneous tools
 
-- **apt**: Debian package management
-- **head** and **tail**: included in GNU coreutils suite of tools
-- **OpenSSH**: duh!
+- __apt__: Debian package management
+- __head__ and __tail__: included in GNU coreutils suite of tools
+- __OpenSSH__: duh!
 - [Sudo]: another duh!
 - [ripgrep]: a more pleasant `grep`
 - [exa]: a more pleasant, more pretty `ls`
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
   (though it actually makes use of the latter for paging through long text)
-- **top**: a powerful and flexible process viewer, part of [procps suite]
+- __top__: a powerful and flexible process viewer, part of [procps suite]
 - [openfortivpn]: to connect to work VPN
 - [mdBook]: lightweight documentation system,
   using it for work  documentation,
