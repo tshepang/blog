@@ -27,9 +27,9 @@ tags = ['list']
 ### GUI applications
 
 - __Firefox__ (on Debian and on Android)
+- [AntennaPod]: for listening to podcasts (on Android)
 - [Transmission]: the only torrent client I have ever used
 - __VLC__: user interface could be a lot better
-- [AntennaPod]: for listening to podcasts (on Android)
 
 ### network diagnosis
 - [vnstat]: nifty network usage viewer
