@@ -15,6 +15,7 @@ tags = ['list']
 - __fish__: compared to mighty Bash, it is far more pretty,
 - [zellij]: pleasant terminal multiplexer
    and has a far better command completion system
+- [Alacritty]
 - __nm-applet__: part of NetworkManager
 
 ### software development
@@ -24,7 +25,6 @@ tags = ['list']
 
 ### GUI applications
 
-- [Alacritty]
 - __Firefox__ (on Debian and on Android)
 - [Transmission]: the only torrent client I have ever used
 - __VLC__: user interface could be a lot better
