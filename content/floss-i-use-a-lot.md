@@ -20,9 +20,9 @@ tags = ['list']
 
 ### software development
 
-- __Cargo__: central tool for Rust development
-- __Git__: this one has won the mindshare
 - __Emacs__: acts as a decent IDE
+- __Git__: this one has won the mindshare
+- __Cargo__: central tool for Rust development
 
 ### GUI applications
 
