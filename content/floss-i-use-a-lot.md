@@ -22,6 +22,7 @@ tags = ['list']
 
 - __Cargo__: central tool for Rust development
 - __Git__: this one has won the mindshare
+- __Emacs__: acts as a decent IDE
 
 ### GUI applications
 
