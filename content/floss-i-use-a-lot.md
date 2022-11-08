@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2022-11-06
+date = 2022-11-08
 
 [taxonomies]
 tags = ['list']
@@ -10,6 +10,7 @@ tags = ['list']
 ### environment
 
 - **Debian**: my primary OS, and also my favorite
+- **Android**: for all my mobile needs
 - [zellij]: pleasant terminal multiplexer
 - **Emacs**: pleasant text editing and file management
 - **fish**: compared to mighty Bash, it is far more pretty,
