@@ -50,8 +50,8 @@ tags = ['list']
 - [openfortivpn]: to connect to work VPN
 - [mdBook]: lightweight documentation system,
   using it for work  documentation,
-  and for Cargo and [rustc-dev-guide] documentation
-  (which is always served with `mdbook serve`).
+  as well as for Cargo and [rustc-dev-guide] documentation
+  (which are always served with `mdbook serve`).
 - [zola]: for this blog, also always served (with `zola serve`)
 
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
