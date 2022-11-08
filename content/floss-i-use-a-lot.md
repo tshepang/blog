@@ -51,7 +51,7 @@ tags = ['list']
 - [mdBook]: lightweight documentation system,
   using it for work  documentation,
   as well as for Cargo and [rustc-dev-guide] documentation
-  (which are always served with `mdbook serve`).
+  (and always served with `mdbook serve`).
 - [zola]: for this blog, also always served (with `zola serve`)
 
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
