@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-10-29
+date = 2022-11-19
 
 [taxonomies]
 tags = ["Rust"]
@@ -9,7 +9,8 @@ tags = ["Rust"]
 The following are in progress:
 
 - [Allowing Rust usage in official Linux kernel][linux],
-  though this would initially be limited to device drivers ([latest update][linux update])
+  though this would initially be limited to device drivers
+  ([initial merge], [latest proposal])
 - Make alternatives (to [LLVM]) codegen backends easily available in
   Rust toolchain (as in via `rustup`)
    - [rustc_codegen_cranelift] (for using [cranelift] as codegen backend),
@@ -45,5 +46,6 @@ The following are in progress:
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
 [linux]: https://www.memorysafety.org/blog/memory-safety-in-linux-kernel
-[linux update]: https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning
+[initial merge]: https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning
 [LLVM]: https://github.com/llvm/llvm-project
+[latest proposal]: https://lore.kernel.org/lkml/20221110164152.26136-1-ojeda@kernel.org
