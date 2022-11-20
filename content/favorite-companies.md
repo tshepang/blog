@@ -24,7 +24,7 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
   (for the upcoming 2 games, [The Finals] and [Arc Raiders]).
 
 - [Ferrous Systems], which offers Rust consulting and training,
-  also does a lot for the language in the embedded domain by running [Oxidise].
+  also does a lot for the language in the embedded domain by running [Oxidize].
   That, combined with having Jonathan Pallant in their employ
   (and previously Jorge Aparicio and James Munns),
   makes them the most visible name in that domain for Rust.
@@ -47,7 +47,7 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
   as evidenced by employing giants such as [Alex Crichton] and [Dan Gohman].
 
 [Ferrous Systems]: https://ferrous-systems.com
-[Oxidise]: https://oxidizeconf.com
+[Oxidize]: https://oxidizeconf.com
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [Mullvad]: https://mullvad.net
 [Oxide]: https://oxide.computer
