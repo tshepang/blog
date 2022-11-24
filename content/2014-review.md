@@ -7,7 +7,7 @@ tags = ['year-review', '2014']
 categories = ['movies']
 +++
 
-The greatest __spectable__ is *Edge of Tomorrow*.
+The greatest __spectacle__ is *Edge of Tomorrow*.
 It also has the best **visual effects**,
 as well as the best __visual effects artefact__ in the form of the battle suites.
 The best **action** can be found in the fight scenes of *[Non-Stop]*,
