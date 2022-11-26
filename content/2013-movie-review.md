@@ -15,7 +15,7 @@ excellent movie, [Redbelt].
 
 [Man of Steel] has the best
 **action sequence**, the first battle with second-in-command of Zod. The
-movie also has the best **visual effects**, followed by [Elysium].
+movie also has the best **visual effects**.
 
 ## performances
 
@@ -45,7 +45,6 @@ with humor... very daring.
 [last year]: @/2012-movie-review.md
 [Redbelt]: @/redbelt-2007.md
 [Man of Steel]: @/man-of-steel-2013.md
-[Elysium]: @/elysium-2013.md
 [Henry: Portrait of a Serial Killer]: @/henry-portrait-of-a-serial-killer.md
 [Now You See Me]: @/now-you-see-me-2013.md
 [Michael Parks]: http://en.wikipedia.org/wiki/Michael_Parks
