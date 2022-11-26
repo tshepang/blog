@@ -38,8 +38,7 @@ categories = ['movies']
 21 Grams (the subject matter)
 
 ## hand-to-hand combat
-- [Haywire]
-- [Non-Stop]
+[Haywire]
 
 ## eccentric
 - *Underground*
@@ -106,7 +105,6 @@ categories = ['movies']
 [Apocalypto]: @/apocalypto-2006.md
 [Sucker Punch]: @/sucker-punch-2011.md
 [Haywire]: @/haywire.md
-[Non-Stop]: @/non-stop.md
 [Groundhog Day]: @/groundhog-day-1993.md
 [Life is Beautiful]: @/many-many-recent-movies.md
 [Yellow Earth]: @/yellow-earth-1984.md
