@@ -11,7 +11,7 @@ of ten. It was heavily entrenched in my mind due to its powerful imagery
 (full-frontal nudity; sex; beatings). That was porn for me, at the age
 when I wasn't exposed to much. Revisiting it after all these years is
 quite an experience. The imagery is still arresting, and the story
-powerful. Oh, and there's some hot and happening gals within.
+powerful. Oh, and there's some hot and happening women within.
 
 **pros**
 

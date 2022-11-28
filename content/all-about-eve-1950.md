@@ -16,7 +16,7 @@ movie is waaay [overrated]. WTF!
 
 **pros**
 
--   gorgeous gals: Marilyn Monroe playing a small part of a young gal
+-   gorgeous women: Marilyn Monroe playing a small part of a young gal
     trying to make it as an actor and Bette Davis playing the
     established actor
 -   nice dialogue here and there

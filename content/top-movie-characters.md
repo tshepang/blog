@@ -36,7 +36,7 @@ I always celebrate:
 3. Julianne Moore as FBI agent (*Next*)
 4. Michael Hyatt as detective ([Nightcrawler])
 
-## animated gals
+## animated women
 
 1. gal in [Avatar] (toughness, attitude, and sex appeal)
 2. gal in [Rango] (accent and character)

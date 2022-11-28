@@ -24,7 +24,7 @@ there's many nice performances:
     needed for the story. That however shouldn't make us ignore the
     fact that it was performed well.
 
-There's a bunch of desirable gals too, not least of which was the great
+There's a bunch of desirable women too, not least of which was the great
 Holly Hunter herself. Another is the wife, and another (the most
 desirable) is the lady who seduced our hero on the beach in what is
 easily the silliest moment in the movie.

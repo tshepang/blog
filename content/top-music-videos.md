@@ -87,7 +87,7 @@ all the corresponding tracks:
 
     Gorgeous, mellow, and digitally-manipulated environment which offers
     rare warmth. It boasts perhaps the largest collection of gorgeous
-    gals of any music video I've seen. Jackson doesn't look
+    women of any music video I've seen. Jackson doesn't look
     comfortable though, with unnatural poses.
 
   [Next Movement]: http://www.youtube.com/watch?v=qm7Xt2Qsjcg

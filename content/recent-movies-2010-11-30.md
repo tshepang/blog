@@ -25,7 +25,7 @@ ago, and still love them now, so much that I wish their characters
 (extremely well done) could be exploited a little more, and in a better
 movie. Slater's daughter is beloved.
 
-I'm sucker for tough gals in movies (as opposed to those who act tough)
+I'm sucker for tough women in movies (as opposed to those who act tough)
 and one recent such character is Carrie-Anne Moss' FBI agent in
 *Unthinkable*, a well-made movie spoilt by underdeveloped characters,
 most notably Samuel L. Jackson's. And I love the ending. I actually

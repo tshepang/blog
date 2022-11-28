@@ -14,7 +14,7 @@ Here's my favorites:
 1.  track 5: "Getting Late" -- not nearly as seductive as "Say Yes",
     but what it's a masterwork
 2.  track 8: "Say Yes" -- it's most notable thing is the sensual play
-    by one them gals; makes me wanna say... yes
+    by one them women; makes me wanna say... yes
 3.  track 2: "Floetic" -- energetic and nearly-formulaic; beautiful
     arrangements
 
