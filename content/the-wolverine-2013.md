@@ -15,7 +15,7 @@ left me wishing there were more mutants, for what we have here isn't
 very interesting (the poison lady is curious, but she isn't very
 interesting, and neither is her powers).
 
-A few of the performances are interesting, most especially the gal with
+A few of the performances are interesting, most especially the woman with
 the deformed face, though she's too much of a curiosity than an
 essential character. The son of the dying man gets a commanding
 performance, though the characterization is rather stale... done so

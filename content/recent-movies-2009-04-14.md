@@ -12,7 +12,7 @@ best appearances. And that suspense simply wasn't acceptable too, and I
 also wonder what the story advocates... be good? And it's a very good
 movie too.
 
-I was not going to post a comment, but the gal in *Body of Lies* is
+I was not going to post a comment, but the woman in *Body of Lies* is
 tremendously gorgeous and desirable, a central attraction in a real good
 movie spoilt by an untalented lead.
 

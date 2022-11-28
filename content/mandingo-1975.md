@@ -22,7 +22,7 @@ powerful. Oh, and there's some hot and happening women within.
 -   The lady playing the jealous wife is amazing, both her performance
     and her desirability levels
 -   It feels realistic (as if I know!)
--   Did u see the first gal the young slave-master screwed!
+-   Did u see the first woman the young slave-master screwed!
 -   Young slave-master's regular black fuck (I thought it was Angela
     Bassett) was pretty too, though rather skinny
 

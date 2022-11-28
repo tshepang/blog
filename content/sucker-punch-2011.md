@@ -25,7 +25,7 @@ them. The director tries to make up for it with frantic visual tricks
 [**sidenote**] It's interesting that what got me to watch this is
 [Time magazine's Worst movies of 2011], of which this was number 2. It
 just happens that I was attracted by the plot of alternate realities and
-a pretty gal wearing a sword. I later on discovered that the movie was
+a pretty woman wearing a sword. I later on discovered that the movie was
 generally poorly received, both commercially and critically. Weird.
 
   [Samurai Warriors]: http://suckerpunch.wikia.com/wiki/Samurai_Warriors

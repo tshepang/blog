@@ -8,7 +8,7 @@ categories = ['movies']
 In *Midnight Cowboy*, Dustin Hoffman plays a character so broken that he
 depresses all the time, and better off dead. John Voigt plays the only
 friend he could ever have, and is even dumber. Luckily we find a ray of
-light in the husky-voiced gal who does rock proper... and I wonder what
+light in the husky-voiced woman who does rock proper... and I wonder what
 the main point of the movie is.
 
 One could easily get fooled into thinking Sergio Leone's *Once Upon A

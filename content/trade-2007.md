@@ -6,7 +6,7 @@ tags = ['2012-movie', 'substandard']
 categories = ['movies']
 +++
 
-The pretty brother of the gal who gets kidnapped for sex should have
+The pretty brother of the woman who gets kidnapped for sex should have
 been given less screen time. Either that or more acting classes. Same
 applies to his sister, the victim, though to a greater extent. I wonder
 if Kevin Kline took the role because his career isn't doing so good, or

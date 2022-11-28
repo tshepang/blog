@@ -11,7 +11,7 @@ heroic (and even annoying), I was left unsatisfied. For its remake, the
 injustices begin very early during the movie (perhaps within 30
 minutes), while for this one, they begins only in the last 30 minutes.
 They however go way too far to be believable (e.g. attempted rape). The
-romance is beautiful (did you see that gal!), but they just had to push
-it as far as the gal having a part in the violence.
+romance is beautiful (did you see that woman!), but they just had to push
+it as far as the woman having a part in the violence.
 
   [remake]: @/the-experiment-2010.md

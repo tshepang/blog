@@ -15,7 +15,7 @@ and characterisation (the immeasurably-rich native behavioral customs
 which probably exceeds that of the [Apocalypto]; the struggling white
 inhabitants and especially the kids).
 
-The gal playing *Pocahontas* must have been quite a search, given that
+The woman playing *Pocahontas* must have been quite a search, given that
 she's so perfect and gorgeous and all that shit. Collin Farrell, who
 helped me undermine the movie on first appearance, does manage to pull
 quite a decent performance too.

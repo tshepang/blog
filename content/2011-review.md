@@ -25,7 +25,7 @@ gangster in *Limitless*, followed by...
 concept**, that of a drug that vastly improves mental performance.
 
 *Sherlock Holmes: A Game of Shadows* itself also has
-the most **desirable gal** in [Kelly Reilly].
+the most **desirable woman** in [Kelly Reilly].
 She is followed by [Marion Cotillard] in *Contagion*.
 
 [Marion Cotillard]: https://en.wikipedia.org/wiki/Marion_Cotillard

@@ -20,7 +20,7 @@ artistically.
 -   the lead character is not interesting, nor is she a convincing
     warrior; maybe a juicier ass would have helped, since I suspect the
     movie-makers chose a female character for sex appeal; how else am I
-    supposed to swallow a story where a 16-year old gal holds her own
+    supposed to swallow a story where a 16-year old woman holds her own
     while battling a few unfriendly characters (including a fully-grown
     dragon!)
 -   the whole thing feels empty; when the credits roll you murmur

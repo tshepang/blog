@@ -13,5 +13,5 @@ directing, as well as an eccentric/insane lead character.
 The desirable women, especially the main love interest (played by
 Charlotte Gainsbourg), makes it survivable. The romantic drama involving
 her almost makes the movie worthwhile, and her performance is
-amazing/flawless. The gal playing the friend is a lot prettier though,
+amazing/flawless. The woman playing the friend is a lot prettier though,
 while the one playing the colleague isn't bad either.

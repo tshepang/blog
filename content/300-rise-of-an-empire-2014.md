@@ -8,7 +8,7 @@ categories = ['movies']
 
 The acting style of Eva Green worked far better in *Dark Shadows*, and
 is in fact is embarrassing here. She is as unconvincing as the other
-tough gal character, the wife of Leonidas, who had to go as far as being on the
+tough woman character, the wife of Leonidas, who had to go as far as being on the
 front-line in battle... embarrassing.
 
 Anyways, I like the parallel story-line approach, where much of the

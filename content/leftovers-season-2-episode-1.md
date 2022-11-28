@@ -13,7 +13,7 @@ ever re-visit tv shows.
 The performances are without flaw. My one favorite is that of the guy
 playing the fireman. He delivers one of the most impressive performances
 I've seen yet. He's such a pleasure to watch. Equally irresistible is
-the gal playing his daughter. The character development given these two
+the woman playing his daughter. The character development given these two
 is amazing. Playing the mother is Regina King in what is the only one of
 her performances I've really enjoyed.
 

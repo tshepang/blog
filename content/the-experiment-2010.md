@@ -7,7 +7,7 @@ categories = ['movies']
 +++
 
 Captivating but stupid and unexplained concept/story; decent
-performances; lovely romance (complete with a desirable gal); the sound
+performances; lovely romance (complete with a desirable woman); the sound
 effects are overdone.
 
 [The original movie] makes this remake look better than it actually is;

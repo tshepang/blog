@@ -7,7 +7,7 @@ categories = ['movies']
 +++
 
 I didn't see any improvement in visual effects over [the previous
-movie]. The story is shit too, but the gal excessively gorgeous, much
+movie]. The story is shit too, but the woman excessively gorgeous, much
 more so than the previous overrated Megan Fox. Beyond money-making,
 there can't have been a reason this movie was made, especially since it
 doesn't add anything. The action is as frantic and hard-to-follow as in

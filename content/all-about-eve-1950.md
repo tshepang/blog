@@ -16,16 +16,16 @@ movie is waaay [overrated]. WTF!
 
 **pros**
 
--   gorgeous women: Marilyn Monroe playing a small part of a young gal
+-   gorgeous women: Marilyn Monroe playing a small part of a young woman
     trying to make it as an actor and Bette Davis playing the
     established actor
 -   nice dialogue here and there
 
 **cons**
 
--   shitty (unconvincing) performance by the gal playing the title
+-   shitty (unconvincing) performance by the woman playing the title
     character, Eve
--   another shitty performance by the gal who introduces Eve to the
+-   another shitty performance by the woman who introduces Eve to the
     established
 -   stagey direction, as is common with movies this old; and we are
     supposed to take these characters seriously?

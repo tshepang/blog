@@ -88,7 +88,7 @@ The **best villain** is Heath Ledger's The Joker in [The Dark Knight],
 who is also my most favorite ever. He is followed by Sid Haig's
 homorous clown in *House of A Thousand Corpses*.
 
-The most desirable gal is Emelia Burns, the black girl in *The
+The most desirable woman is Emelia Burns, the black girl in *The
 Condemned*. She's followed by Cate Blanchett in *Veronica Guerin* and
 then Shirley Henderson as the emotionally-hurt girl in *interMission*.
 

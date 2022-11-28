@@ -16,7 +16,7 @@ describe it. Did you check the ninjas? The sound?
 
 The movie's best performance was the head of the ninjas, while Geoffrey
 Rush's was just business as usual (nothing challenging for him here,
-nor was it required). The gal is okay, and not as annoying as she could
+nor was it required). The woman is okay, and not as annoying as she could
 have been.
 
 The minor complaints I have is the unimpressive cowboy villain, and the
@@ -44,7 +44,7 @@ This is indeed another [Case of The Matrix Reloaded]. It is far less
 impressive than on first viewing, but I still love the fantasy-like
 fight sequences of the ninjas, but most especially, their
 characterisation (they look as menacing as fuck). The part of the story
-where the lead character gets to meet a gal and exercise a more relaxed
+where the lead character gets to meet a woman and exercise a more relaxed
 life is boring and not too well done. It reminds me of a similar kinda
 thing in *Fearless*, where Jet Li's character goes to chill in a farm.
 As if that's not enough, both the lead character and the American

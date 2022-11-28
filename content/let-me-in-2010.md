@@ -22,7 +22,7 @@ audience that's too lazy to read subtiles.
 
 While watching this, I kept wondering if would I give it more praise had
 I not seen (or known) about the original movie. I'm not sure, because
-it comes across as yet-another-horror movie, even though there's a gal
+it comes across as yet-another-horror movie, even though there's a woman
 vampire. But that's not exactly a new concept (remember *Interview With
 A Vampire*). It's not even remotely interesting. What's most puzzling,
 beyond that the shit (it's not that smelly, I just hate it) got made is

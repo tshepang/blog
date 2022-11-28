@@ -20,9 +20,9 @@ following to say later that year:
 All the above are still accurate, except I didn't enjoy the plot as
 much this (third) time around. The setup was okay, all but the romance
 part of it, which just felt tired. I also found it far-fetched to have
-the guy brave the monsters to go rescue gal, and managing to drag around
+the guy brave the monsters to go rescue woman, and managing to drag around
 two more people on his quest onto a heavily-compromised building, up
-dozens of stairs, all to find a gal heavily injured, yet managing to run
+dozens of stairs, all to find a woman heavily injured, yet managing to run
 around for several minutes on end... makes me sad :(
 
   [I once compared this movie with I Am Legend]: @/cloverfield-vs-i-am-legend.md

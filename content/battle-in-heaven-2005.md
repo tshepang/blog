@@ -18,7 +18,7 @@ The movie is also a more extreme form of a [Romance], in that it was
 probably inspired by it, both in terms of explicit sexual shots and very
 slow and pro-longed takes.
 
-The only characters that seem alive are the young gal (fucking gorgeous)
+The only characters that seem alive are the young woman (fucking gorgeous)
 and her friends.
 
   [Crimson Gold]: @/crimson-gold-2003.md

@@ -69,7 +69,7 @@ best **villain** is that played by Hades in [Clash of the Titans]
 (also the year's most **fearsome character**),
 followed by the tough and smart shooter in [The A-Team].
 
-The most **desirable gal** list follows:
+The most **desirable woman** list follows:
 
 1.  Vera Farmiga (*Up in the Air*) and Lois character
     ([Superman][Inception])
@@ -87,7 +87,7 @@ Samurai: Resurrection], followed by Hades, the villain in [Clash of the
 Titans].
 
 The most **charming character** is the cat in *Secret of Kells*. Also,
-its eyes reminds me too much of a gal I intensely obsessed over some
+its eyes reminds me too much of a woman I intensely obsessed over some
 years ago.
 
 The most **perfect gentleman** is the oh-so-perfect groom character

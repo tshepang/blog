@@ -6,7 +6,7 @@ categories = ['movies']
 +++
 
 In *Date Night*, Mark Wahlberg plays the koolest guy in movies so far
-this year; he's hot, he got the sexiest gal imaginable who 'speaks
+this year; he's hot, he got the sexiest woman imaginable who 'speaks
 little English', he's got the koolest IT toys, and a number of
 not-cheap sports cars. Okay, he's not quite as rich as Tony Stark
 ([Iron Man 2]), but he wins regardless.
@@ -24,7 +24,7 @@ performance. Oh, did anyone note the great resemblance between the lead
 FBI guy and George Bush, jnr.?
 
 One bright spark in the (extremely) awful *The Expendables* is the
-desirable gal's artwork (and her too of course).
+desirable woman's artwork (and her too of course).
 
 Not only is it's blatant religiosity disgusting, not to mention an
 unsatisfactory lead performance, but *The Book of Eli* is also like a

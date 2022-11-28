@@ -5,7 +5,7 @@ title = "recent revisits 2010-08-15"
 categories = ['movies']
 +++
 
-The gal in *Hitman* is damn desirable, the movie so average (but I like
+The woman in *Hitman* is damn desirable, the movie so average (but I like
 the early scene set in Africa). Here's an old review from early 2008,
 and is still relevant:
 

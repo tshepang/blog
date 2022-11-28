@@ -11,7 +11,7 @@ design, this is a largely unnteresting adventure story of an
 annoyingly-deceptive reptile in thirsty Wild West town. Lucily there's
 some colorful characters:
 
--   the freedom-fighter gal with her heavy America South accent
+-   the freedom-fighter woman with her heavy America South accent
 -   the old and wise guy who got run over by a car, with his heavy
     Mexican accent
 -   the snake, whose creation must have been the single most complex

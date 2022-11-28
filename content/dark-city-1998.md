@@ -7,7 +7,7 @@ categories = ['movies']
 +++
 
 Innovative story concept, excellent elements (direction, cinematography,
-production design), ultra-desirable gal (Jennifer Connelly), impressive
+production design), ultra-desirable woman (Jennifer Connelly), impressive
 make-up (The Strangers), and an interesting eccentric character played
 by Kiefer Sutherland. The Strangers are given good performances, most
 especially the one leading the search.

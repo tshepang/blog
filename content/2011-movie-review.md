@@ -96,7 +96,7 @@ in terms of character development of villains.
 The **best character design** is that of the main villain in [9],
 followed by the ninjas in [The Warrior's Way].
 
-The year's **most desirable gal** is [Sandra Oh] in [Rabbit Hole],
+The year's **most desirable woman** is [Sandra Oh] in [Rabbit Hole],
 playing a small role as the love interest. Watching this has changed my
 view of her... I want her, now! Here's the runner-ups:
 

@@ -39,7 +39,7 @@ played by Geoffrey Rush. He's followed by the charming China Doll in
 characters get. In third place is Valka, the mother of the lead
 character in [How To Train Your Dragon 2].
 
-The most **desirable gal** is [Dania Ramirez] in [Premium Rush]
+The most **desirable woman** is [Dania Ramirez] in [Premium Rush]
 
 There was no better **character design** than the giant samurai robot in
 [The Wolverine]. In second place is the Alpha dragon from [How To Train

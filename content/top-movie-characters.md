@@ -38,8 +38,8 @@ I always celebrate:
 
 ## animated women
 
-1. gal in [Avatar] (toughness, attitude, and sex appeal)
-2. gal in [Rango] (accent and character)
+1. woman in [Avatar] (toughness, attitude, and sex appeal)
+2. woman in [Rango] (accent and character)
 
 ## cute
 

@@ -13,7 +13,7 @@ Answer involves 2 challenges:
     retardation.
 
 This makes the movie important, even though it's not especially good.
-The romance, or rather the gal (the sort of character that is Juliette
+The romance, or rather the woman (the sort of character that is Juliette
 Lewis' now-dated trademark), is not interesting, and most everything
 else that happens (e.g. the cheating wife episode) just feels random and
 needless.
