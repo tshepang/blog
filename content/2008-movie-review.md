@@ -49,8 +49,7 @@ characters of Craig Bierko and Russel Crowe in a party scene in *The
 Cinderella Man*. The best end-credits sequence can be seen in *The
 Mummy*, which uses a concept copied from *300*'s end-credits sequence.
 
-*The Condemned* had my favorite sexual interaction (very brief but
-complete with beautiful comic touches) and I don't remember a car crash
+I don't remember a car crash
 in movie history as great as that in *Death Proof*.
 
 ## performances
@@ -88,9 +87,8 @@ The **best villain** is Heath Ledger's The Joker in [The Dark Knight],
 who is also my most favorite ever. He is followed by Sid Haig's
 homorous clown in *House of A Thousand Corpses*.
 
-The most desirable woman is Emelia Burns, the black girl in *The
-Condemned*. She's followed by Cate Blanchett in *Veronica Guerin* and
-then Shirley Henderson as the emotionally-hurt girl in *interMission*.
+The most desirable woman is Cate Blanchett in *Veronica Guerin*,
+followed by Shirley Henderson as the emotionally-hurt girl in *interMission*.
 
 There were no characters as cute the young penguins in *Surf's Up*.
 
