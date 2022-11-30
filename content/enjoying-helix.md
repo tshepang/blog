@@ -16,9 +16,12 @@ I may have found one in [Helix],
 though it does lack certain rather important features:
 
 - It cannot work through SSH :(
-- It cannot manage files (though there is [a proposal to fix this])
-- It cannot open files relative to that in an open buffer (though there is [a proposal to fix this as well])
-- It cannot remove trailing whitespace on save (though there is [a proposal to fix this too])
+- It cannot manage files
+  (though there is [a proposal to fix this])
+- It cannot open files relative to that in an open buffer
+  (though there is [a proposal to fix this as well])
+- It cannot remove trailing whitespace on save
+  (though there is [a proposal to fix this too])
 
 Beyond that,
 I love that it integrates IDE functionality without any need for configuration.
