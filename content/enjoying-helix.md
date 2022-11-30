@@ -18,6 +18,7 @@ though it does lack certain rather important features:
 - It cannot work through SSH :(
 - It cannot manage files (though there is [a proposal to fix this])
 - It cannot open files relative to that in an open buffer (though there is [a proposal to fix this as well])
+- It cannot remove trailing whitespace on save (though there is [a proposal to fix this too])
 
 Beyond that,
 I love that it integrates IDE functionality without any need for configuration.
@@ -31,3 +32,4 @@ to a point where I feel it takes modal editors to more mainstream audiences.
 [Helix]: https://github.com/helix-editor/helix
 [a proposal to fix this]: https://github.com/helix-editor/helix/pull/2377
 [a proposal to fix this as well]: https://github.com/helix-editor/helix/pull/2412
+[a proposal to fix this too]: https://github.com/helix-editor/helix/pull/3674
