@@ -1,6 +1,6 @@
 +++
 title = "favorite Rust libs (crates)"
-date = 2022-09-10
+date = 2022-12-01
 
 [taxonomies]
 tags = ["Rust"]
@@ -18,5 +18,15 @@ tags = ["Rust"]
   and is perhaps as good as anything in other language ecosystems in its domain,
   especially with its derive API (as is the case with clap).
 
+- [anyhow]:
+  The default Rust error crate in the ecosystem,
+  it offers very easy error handling,
+  and also comes with some nice conveniences,
+  like [`bail!`], [`ensure!`], and [`Context`].
+
 [clap]: https://github.com/clap-rs/clap
 [serde]: https://github.com/serde-rs/serde
+[anyhow]: https://github.com/dtolnay/anyhow
+[`Context`]: https://docs.rs/anyhow/latest/anyhow/trait.Context.html
+[`ensure!`]: https://docs.rs/anyhow/latest/anyhow/macro.ensure.html
+[`bail!`]: https://docs.rs/anyhow/latest/anyhow/macro.bail.html
