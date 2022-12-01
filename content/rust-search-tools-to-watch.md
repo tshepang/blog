@@ -15,6 +15,7 @@ These are all maintained well:
   - search API compatible with that of Elasticsearch
 
 - [Meilisearch]
+  - uses LMDB as backing store
 
 - [BonsaiDb]
 
