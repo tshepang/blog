@@ -1,6 +1,6 @@
 +++
 title = "most used Rust software"
-date = 2022-10-06
+date = 2022-12-04
 
 [taxonomies]
 tags = ["Rust"]
@@ -31,6 +31,8 @@ tags = ["Rust"]
 
 - [100s of millions use Android 11+],
   whose DNS-over-HTTP/3 service is written in Rust.
+  A number of [other components are written using the language],
+  especially starting with Android 13.
 
 [dropbox]: https://dropbox.gcs-web.com/news-releases/news-release-details/dropbox-announces-second-quarter-fiscal-2022-results
 [rust@dropbox]: https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire
@@ -38,3 +40,4 @@ tags = ["Rust"]
 [over 220m users]: https://en.pingcap.com/case-study/lesson-learned-from-queries-over-1-3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu
 [over 300m users]: https://en.pingcap.com/case-study/how-we-use-a-scale-out-htap-database-for-real-time-analytics-and-complex-queries
 [100s of millions use Android 11+]: https://twitter.com/larsberg_/status/1549722736196521987
+[other components are written using the language]: https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html
