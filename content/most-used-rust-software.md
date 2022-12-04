@@ -18,7 +18,7 @@ tags = ["Rust"]
 
   This is, for me, the most impressive Rust success story.
 
-- [over 700m people use Dropbox][dropbox] (mid  2022),
+- [over 700m people use Dropbox][dropbox] (late 2022),
   [whose file storage system is written in Rust][rust@dropbox].
 
 - [over 200m people use Firefox](https://data.firefox.com/dashboard/user-activity)
