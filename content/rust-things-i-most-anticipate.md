@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-11-19
+date = 2022-12-17
 
 [taxonomies]
 tags = ["Rust"]
@@ -42,7 +42,7 @@ The following are in progress:
 [cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [ferrocense status]: https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here
-[Planned inclusion in Google Chrome]: https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html?m=1
+[Planned inclusion in Google Chrome]: https://groups.google.com/a/chromium.org/g/chromium-dev/c/0z-6VJ9ZpVU
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
 [linux]: https://www.memorysafety.org/blog/memory-safety-in-linux-kernel
