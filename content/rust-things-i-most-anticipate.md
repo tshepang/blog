@@ -12,8 +12,8 @@ The following are in progress:
   Rust toolchain (as in via `rustup`)
    - [rustc_codegen_cranelift] (for using [cranelift]),
      immediate benefit being fast debug compiles ([progress][cranelift PR])
-   - [rustc_codegen_gcc], allowing Rust to run in more hardware
-     platforms ([latest update])
+   - [rustc_codegen_gcc],
+     allowing Rust to run in more hardware platforms ([latest update])
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
 - [Allowing Rust usage in official Linux kernel][linux],
