@@ -14,6 +14,8 @@ The following are in progress:
      immediate benefit being fast debug compiles ([progress][cranelift PR])
    - [rustc_codegen_gcc], allowing Rust to run in more hardware
      platforms ([latest update])
+- [Planned inclusion in Google Chrome],
+  a browser found in billions of devices
 - [Allowing Rust usage in official Linux kernel][linux],
   though this would initially be limited to device drivers
   ([initial merge], [latest proposal])
@@ -25,8 +27,6 @@ The following are in progress:
 - Removing non-Rust deps from toolchain
   - Removing libc dep for Linux-based systems ([mustang] and [rustix])
   - Removing llvm dep ([cranelift])
-- [Planned inclusion in Google Chrome],
-  a browser found in billions of devices
 - Wide use of [Pijul], a superior alternative to Git
   ([latest update](https://pijul.org/posts/2022-01-08-beta))
 
