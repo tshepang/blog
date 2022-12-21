@@ -8,7 +8,7 @@ tags = ["Rust"]
 
 The following are in progress:
 
-- Make alternatives (to [LLVM]) codegen backends easily available in
+- Make alternative (to [LLVM]) codegen backends easily available in
   Rust toolchain (as in via `rustup`)
    - [rustc_codegen_cranelift] (for using [cranelift] as codegen backend),
      immediate benefit being fast debug compiles ([progress][cranelift PR])
