@@ -76,7 +76,6 @@ I always celebrate:
 4. The Missionary ([Silent Hill: Revelation])
 5. lead villain ([9])
 6. Half-headed demons (*Constantine*)
-7. cyborg trio ([Afro Samurai: Resurrection])
 8. living humans beings (*A Corpse Bride*)
 9. Bug on the street (*Constantine*)
 10. chess pieces ([Harry Potter and the Sorcerer's Stone])
@@ -96,7 +95,6 @@ I always celebrate:
 [Clash of the Titans]: @/clash-of-the-titans-2010.md
 [Sucker Punch]: @/sucker-punch-2011.md
 [9]: @/9-2009.md
-[Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md
 [Harry Potter and the Sorcerer's Stone]: @/harry-potter-and-the-sorcerer-s-stone-2001.md
 [Law Abiding Citizen]: @/law-abiding-citizen-2009.md
 [Man of Steel]: @/man-of-steel-2013.md

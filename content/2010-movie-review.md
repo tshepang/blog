@@ -82,11 +82,8 @@ The most **miserable character** was that of Philip Seymour Hoffman in
 characters are his trademark. He's followed very closely by Marlon
 Brando's in the disturbing *Last Tango in Paris*.
 
-The best **character design** is the bizarre cyborg trio in [Afro
-Samurai: Resurrection], followed by Hades, the villain in [Clash of the
-Titans].
-
-The most **charming character** is the cat in *Secret of Kells*. Also,
+The best **character design** is the villain in [Clash of the Titans],
+and the most **charming character** is the cat in *Secret of Kells*. Also,
 its eyes reminds me too much of a woman I intensely obsessed over some
 years ago.
 
@@ -147,7 +144,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [The Social Network]: @/the-social-network-2010.md
 [The Job]: @/recent-movies-2010-11-19.md
 [Clash of the Titans]: @/clash-of-the-titans-2010.md
-[Afro Samurai: Resurrection]: @/afro-samurai-resurrection-2009.md
 [Iron Man 2]: @/iron-man-2.md
 [Smokin' Aces]: @/smokin-aces.md
 [Se7en]: @/se7en-1995.md
