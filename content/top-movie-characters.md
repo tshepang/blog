@@ -9,15 +9,11 @@ categories = ['movies']
 
 ## favorite
 
-- Hans by Geoffrey Rush ([The Book Thief])
+Hans by Geoffrey Rush ([The Book Thief])
 
 ## perfect gentleman
 
-- Idris Elba (*Obsessed*)
-
-## arrogant
-
-- Al Pacino (*Scarface*)
+Idris Elba (*Obsessed*)
 
 ## asshole
 
@@ -54,7 +50,7 @@ I always celebrate:
 
 ## dragon
 
-- [The Hobbit: The Battle of the Five Armies]
+[The Hobbit: The Battle of the Five Armies]
 
 ## monster
 
