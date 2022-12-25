@@ -18,10 +18,9 @@ situation, and I like her face :)
 
 This may end up the most overrated movie of the year. There's not much
 value in here. Find something else. If in a mood for some Black American
-slavery stuff, check out the far superior [Mandingo] and [Goodbye Uncle
+slavery stuff, check out the far superior [Goodbye Uncle
 Tom], or even [Django Unchained].
 
   [Redbelt]: @/redbelt-2007.md
-  [Mandingo]: @/mandingo-1975.md
   [Goodbye Uncle Tom]: @/goodbye-uncle-tom-1971.md
   [Django Unchained]: @/django-unchained-2012.md

@@ -158,8 +158,6 @@ About Eve]. The former is substandard while the second is quite decent.
 This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
 
-The one is won by [Mandingo], the best movie on US slavery I've seen yet.
-
 ---
 
 For a complete list of the movies I reviewed for the year, visit the
@@ -216,6 +214,5 @@ For a complete list of the movies I reviewed for the year, visit the
 [Groundhog Day]: @/groundhog-day-1993.md
 [Sunset Boulevard]: @/sunset-boulevard-1950.md
 [All About Eve]: @/all-about-eve-1950.md
-[Mandingo]: @/mandingo-1975.md
 [The Bourne Supremacy]: @/the-bourne-supremacy-2004.md
 [this tag]: http://tshepang.github.io/tags/2011-movie
