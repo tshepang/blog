@@ -8,10 +8,10 @@ tags = ["Rust"]
 
 These are problems Rust face that have nothing to do with its
 capabilities as a tool,
-but rather more requiring work on libraries, tooling, and advocacy:
+but rather requiring work on libraries, tooling, and advocacy:
 
 - iOS: Rust is not tier 1 on this major platform
-  (installations number the 100s of millions),
+  (installations number in the 100s of millions),
   which would help it be an alternative to Swift (and Objective-C)
 - Android: Rust is not tier 1 on this major platform
   (installations number in the billions),
