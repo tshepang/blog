@@ -13,7 +13,7 @@ The effort is commendable, and results in kool things like [Editions],
 but mistakes/cruft/poor choices are bound to happen that cannot be fixed with such.
 That is, I wish we will have a breaking release at some point,
 and the pain of such a breaking change could be relieved/eliminated with
-planning and migration tooling.
+careful planning and migration tooling.
 
 That said,
 following are my favorite breaking things I want in Rust.
@@ -57,13 +57,13 @@ following are my favorite breaking things I want in Rust.
   |           | PathBuf  | PathOwned     |
 
 
-  Not exactly happy with above, but much better than the current 'mess'
+  Not exactly happy with above, but much better than the current 'mess'.
 
 - Remove `std::sync::mpsc` from stdlib, making it available
   externally... it does not feel general enough. ([more issues])
 
 - Remove per-type methods where trait impls offer same functionality,
-  for generality
+  for generality:
 
   ```rust
   // remove
