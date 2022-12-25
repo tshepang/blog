@@ -1,6 +1,7 @@
 +++
-date = 2014-01-21
 title = "12 Years a Slave (2013)"
+date = 2014-01-21
+
 [taxonomies]
 tags = ['2014-movie', 'average']
 categories = ['movies']
@@ -21,6 +22,6 @@ value in here. Find something else. If in a mood for some Black American
 slavery stuff, check out the far superior [Goodbye Uncle
 Tom], or even [Django Unchained].
 
-  [Redbelt]: @/redbelt-2007.md
-  [Goodbye Uncle Tom]: @/goodbye-uncle-tom-1971.md
-  [Django Unchained]: @/django-unchained-2012.md
+[Redbelt]: @/redbelt-2007.md
+[Goodbye Uncle Tom]: @/goodbye-uncle-tom-1971.md
+[Django Unchained]: @/django-unchained-2012.md
