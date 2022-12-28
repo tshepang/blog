@@ -8,7 +8,7 @@ categories = ['movies']
 +++
 
 My **favorite performance** is that of [Alex Winter] in
-*Bill & Ted's Excellent Adventure*.
+*Bill & Ted's Excellent Adventure* (1989).
 He offers a whole lot of delicious fun,
 not to mention so pretty.
 
