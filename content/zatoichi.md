@@ -11,7 +11,7 @@ good:
 -   The concept of a supreme fighter who also happens to be blind was a
     big draw for me. That, and the quality direction, makes for
     compelling viewing.
--   The lead performance is good, but I enjoyed it less that of Shintaro
+-   The lead performance is good, but I enjoyed it less than that of Shintaro
     Katsu when he took the same role in [Zatoichi and the One-Armed
     Swordsman] (1971).
 
