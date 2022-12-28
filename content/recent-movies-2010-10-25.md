@@ -24,7 +24,7 @@ performance. Oh, did anyone note the great resemblance between the lead
 FBI guy and George Bush, jnr.?
 
 One bright spark in the (extremely) awful *The Expendables* is the
-desirable woman's artwork (and her too of course).
+desirable woman, and her artwork.
 
 Not only is it's blatant religiosity disgusting, not to mention an
 unsatisfactory lead performance, but *The Book of Eli* is also like a

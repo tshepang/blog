@@ -59,10 +59,10 @@ character in *Zodiac* is runner-up.
 
 The best **villain** is Josh Brolin's dirty cop found in *American Gangster*
 for its unflinching acts of corruption, while the most **exotic** character is Angelina
-Jolie's demon in [Beowulf]. The most __desirable woman__ is tie between
-Vera Farmica of *The Departed*, Ana Claudia Talancon'
+Jolie's demon in [Beowulf]. The most __desirable character__ is a tie between those of
+Vera Farmica in *The Departed*, Ana Claudia Talancón
 in *El Crimen del Padro Amaro*, and Kerry Washington in [The Last King
-of Scotland] are tied as runner-ups. Julianne Moore in *Next* is the
+of Scotland]. Julianne Moore in *Next* is the
 year's best **detective** given her unrelenting focus in getting the job
 done. A special mention should go to John Heder's goofy and
 kind-hearted ice skating champion in the delightful *Blades of Glory*.

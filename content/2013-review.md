@@ -12,7 +12,7 @@ __exciting story concept__.
 *Elysium* has the best __visual design__:
 see the vehicles (especially the gorgeous one carrying the billionaire),
 the robot police, and the ring world.
-The most __desirable woman__ is [Rachelle Lefevre] in *White House Down*.
+The most __desirable character__ is that of [Rachelle Lefevre] in *White House Down*.
 
 [Her]: @/her.md
 [Rachelle Lefevre]: https://en.wikipedia.org/wiki/Rachelle_Lefevre

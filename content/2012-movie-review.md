@@ -59,9 +59,9 @@ My **favorite character** is however the son ([Dakota Goyo])
 in [Real Steel],
 while my **favorite villain** is Bane (Tom Hardy) in [The Dark Knight Rises].
 
-The most **desirable woman** is Charlotte Gainsbourg as main love interest
-[The Science of Sleep] (I really loved this girl!). She is followed by
-Brooke White as wife and new mother ([Change of Plans]).
+The most **desirable character** is Charlotte Gainsbourg as main love interest
+in [The Science of Sleep]... so hard to resist!. She is followed by
+Brooke White as wife and new mother in [Change of Plans].
 
 The **best character design** is the Chitauri, the alien race in [The
 Avengers].

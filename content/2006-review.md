@@ -23,7 +23,7 @@ and **cast**.
 My **favorite performance** is by Taraji Henson who plays an exciting,
 yet heartbreaking, role of a feminist sniper in [Smokin' Aces].
 In second place is Frances McDormand in *Friends with Money*,
-while the most **desirable woman** is Zhao Tao in *Still Life*.
+while the most **desirable character** is by Zhao Tao in *Still Life*.
 
 [Smokin' Aces]: @/smokin-aces.md
 [Children of Men]: @/children-of-men.md

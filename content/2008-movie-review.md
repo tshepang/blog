@@ -87,7 +87,7 @@ The **best villain** is Heath Ledger's The Joker in [The Dark Knight],
 who is also my most favorite ever. He is followed by Sid Haig's
 homorous clown in *House of A Thousand Corpses*.
 
-The most desirable woman is Cate Blanchett in *Veronica Guerin*,
+The most desirable character is by Cate Blanchett in *Veronica Guerin*,
 followed by Shirley Henderson as the emotionally-hurt girl in *interMission*.
 
 There were no characters as cute the young penguins in *Surf's Up*.

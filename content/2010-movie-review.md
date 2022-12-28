@@ -69,13 +69,13 @@ best **villain** is that played by Hades in [Clash of the Titans]
 (also the year's most **fearsome character**),
 followed by the tough and smart shooter in [The A-Team].
 
-The most **desirable woman** list follows:
+The most **desirable character** list follows:
 
-1.  Vera Farmiga (*Up in the Air*) and Lois character
-    ([Superman][Inception])
-2.  lover (*Last Tango in Paris*); Maggie Gyllenhaal (*Crazy Heart*)
-3.  bride (*Mamma Mia*); huge eyes (*Outsourced*)
-4.  police lady (*Holy Water*)
+1. Vera Farmiga (*Up in the Air*) and Lois character
+   ([Superman][Inception])
+2. lover (*Last Tango in Paris*); Maggie Gyllenhaal (*Crazy Heart*)
+3. bride (*Mamma Mia*); huge eyes (*Outsourced*)
+4. police lady (*Holy Water*)
 
 The most **miserable character** was that of Philip Seymour Hoffman in
 *Synecdoche, New York*, which isn't very surprising since such
