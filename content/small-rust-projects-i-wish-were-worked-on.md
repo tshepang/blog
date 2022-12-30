@@ -1,6 +1,6 @@
 +++
 title = "small Rust projects I wish were worked on"
-date = 2022-12-28
+date = 2022-12-30
 
 [taxonomies]
 tags = ["Rust"]
@@ -18,6 +18,9 @@ Here are some small project ideas:
 
   Even better would be replacement of __git2-rs__ with [gitoxide],
   a pure Rust implementation.
+  Looking further in the future,
+  Git should be discarded in favor of a [Pijul].
 
 [git2-rs use rustls]: https://github.com/rust-lang/git2-rs/issues/623
 [gitoxide]: https://github.com/Byron/gitoxide
+[Pijul]: https://pijul.org
