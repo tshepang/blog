@@ -28,11 +28,10 @@ A ranking of the year's **best cinematography**:
 
 1.  [The Seventh Seal]
 2.  [The Kings's Speech]
-3.  [Shelter]
 4.  [Orphan]
 
-As for the year's **best production design**, there is a tie between
-[The Kings's Speech] and [Shelter].
+As for the year's **best production design**,
+nothing is better than [The Kings's Speech].
 
 The year's **best visual effects (overall)**:
 
@@ -172,7 +171,6 @@ For a complete list of the movies I reviewed for the year, visit the
 [Tangled]: @/tangled-2010.md
 [The Seventh Seal]: @/the-seventh-seal-1957.md
 [The Kings's Speech]: @/the-king-s-speech-2010.md
-[Shelter]: @/shelter-2010.md
 [Orphan]: @/orphan-2009.md
 [The Chronicles of Narnia: The Voyage of the Dawn Treader]: @/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010.md
 [Sucker Punch]: @/sucker-punch-2011.md
