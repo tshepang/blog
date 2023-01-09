@@ -1,6 +1,6 @@
 +++
 title = "small Rust projects I wish were worked on"
-date = 2022-12-30
+date = 2023-01-09
 
 [taxonomies]
 tags = ["Rust"]
@@ -21,6 +21,11 @@ Here are some small project ideas:
   Looking further in the future,
   Git should be discarded in favor of a [Pijul].
 
+- Maintnenance of [sd],
+  a kool sed replacement.
+  It not had a release in over 2 years.
+
 [git2-rs use rustls]: https://github.com/rust-lang/git2-rs/issues/623
 [gitoxide]: https://github.com/Byron/gitoxide
 [Pijul]: https://pijul.org
+[sd]: https://github.com/chmln/sd
