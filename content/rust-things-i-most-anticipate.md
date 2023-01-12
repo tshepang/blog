@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2022-12-21
+date = 2023-01-12
 
 [taxonomies]
 tags = ["Rust"]
@@ -34,7 +34,7 @@ The following are in progress:
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
-[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-18
+[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-19
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift PR]: https://github.com/rust-lang/rust/pull/81746
 [hyper]: https://github.com/hyperium/hyper
