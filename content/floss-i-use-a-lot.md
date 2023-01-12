@@ -13,8 +13,8 @@ tags = ['list']
 - __Android__: for all my mobile needs
 - [Helix]: a nicer vi than Vim
 - __fish__: compared to mighty Bash, it is far more pretty,
-- [zellij]: pleasant terminal multiplexer
    and has a far better command completion system
+- [zellij]: pleasant terminal multiplexer
 - [Alacritty]
 - __nm-applet__: part of NetworkManager
 
