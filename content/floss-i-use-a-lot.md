@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2022-11-08
+date = 2023-01-12
 
 [taxonomies]
 tags = ['list']
@@ -11,7 +11,7 @@ tags = ['list']
 
 - __Debian__: my primary OS, and also my favorite
 - __Android__: for all my mobile needs
-- __Emacs__: pleasant text editing and file management
+- [Helix]: a nicer vi than Vim
 - __fish__: compared to mighty Bash, it is far more pretty,
 - [zellij]: pleasant terminal multiplexer
    and has a far better command completion system
@@ -58,6 +58,7 @@ tags = ['list']
 [Transmission]: http://www.transmissionbt.com
 [ripgrep]: http://blog.burntsushi.net/ripgrep
 [Sudo]: @/project-of-note-sudo.md
+[Helix]: @/enjoying-helix.md
 [vnstat]: http://humdi.net/vnstat
 [exa]: https://the.exa.website
 [bat]: https://crates.io/crates/bat
