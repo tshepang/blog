@@ -47,10 +47,8 @@ tags = ['list']
 - [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
   (though it actually makes use of the latter for paging through long text)
 - __top__: a powerful and flexible process viewer, part of [procps suite]
-- [openfortivpn]: to connect to work VPN
 - [mdBook]: lightweight documentation system,
-  using it for work  documentation,
-  as well as for Cargo and [rustc-dev-guide] documentation
+  using it for Cargo and [rustc-dev-guide] documentation
   (and always served with `mdbook serve`).
 - [zola]: for this blog, also always served (with `zola serve`)
 
