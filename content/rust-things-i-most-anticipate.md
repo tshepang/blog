@@ -8,14 +8,14 @@ tags = ["Rust"]
 
 The following are in progress:
 
+- Usage in production versions of Chromium,
+  though this would only be [for external dependencies]
 - Make alternative (to [LLVM]) codegen backends easily available in
   Rust toolchain (as in via `rustup`)
    - [rustc_codegen_cranelift] (for using [cranelift]),
      immediate benefit being fast debug compiles ([progress][cranelift PR])
    - [rustc_codegen_gcc],
      allowing Rust to run in more hardware platforms ([latest update])
-- [Planned inclusion in Google Chrome],
-  a browser found in billions of devices
 - Having Rust be certified for use in safety-critical systems,
   most visible example being [Ferrocene] ([latest update][ferrocense status])
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
@@ -39,7 +39,7 @@ The following are in progress:
 [cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [ferrocense status]: https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here
-[Planned inclusion in Google Chrome]: https://groups.google.com/a/chromium.org/g/chromium-dev/c/0z-6VJ9ZpVU
+[for external dependencies]: https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
 [LLVM]: https://github.com/llvm/llvm-project
