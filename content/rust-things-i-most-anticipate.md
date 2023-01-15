@@ -21,9 +21,7 @@ The following are in progress:
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
   tracker] and [cURL progress tracker]),
   because the latter has billions of installations
-- Removing non-Rust deps from toolchain
-  - Removing libc dep for Linux-based systems ([mustang] and [rustix])
-  - Removing llvm dep ([cranelift])
+- Removing libc depepndecy for Linux-based systems ([mustang] and [rustix])
 - Wide use of [Pijul], a superior alternative to Git
   ([latest update](https://pijul.org/posts/2022-01-08-beta))
 
