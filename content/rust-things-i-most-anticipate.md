@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2023-01-12
+date = 2023-01-15
 
 [taxonomies]
 tags = ["Rust"]
@@ -16,9 +16,6 @@ The following are in progress:
      allowing Rust to run in more hardware platforms ([latest update])
 - [Planned inclusion in Google Chrome],
   a browser found in billions of devices
-- [Allowing Rust usage in official Linux kernel][linux],
-  though this would initially be limited to device drivers
-  ([initial merge], [latest proposal])
 - Having Rust be certified for use in safety-critical systems,
   most visible example being [Ferrocene] ([latest update][ferrocense status])
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
@@ -45,7 +42,4 @@ The following are in progress:
 [Planned inclusion in Google Chrome]: https://groups.google.com/a/chromium.org/g/chromium-dev/c/0z-6VJ9ZpVU
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
-[linux]: https://www.memorysafety.org/blog/memory-safety-in-linux-kernel
-[initial merge]: https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning
 [LLVM]: https://github.com/llvm/llvm-project
-[latest proposal]: https://lore.kernel.org/lkml/20221110164152.26136-1-ojeda@kernel.org
