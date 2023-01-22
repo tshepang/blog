@@ -1,6 +1,6 @@
 +++
 title = "small Rust projects I wish were worked on"
-date = 2023-01-09
+date = 2023-01-22
 
 [taxonomies]
 tags = ["Rust"]
@@ -25,7 +25,12 @@ Here are some small project ideas:
   a kool sed replacement.
   It not had a release in over 2 years.
 
+- Maintnenance of [tokei],
+  a kool code stats tool that cares for accuracy.
+  Like [sd], it also not had a release in over 2 years.
+
 [git2-rs use rustls]: https://github.com/rust-lang/git2-rs/issues/623
 [gitoxide]: https://github.com/Byron/gitoxide
 [Pijul]: https://pijul.org
 [sd]: https://github.com/chmln/sd
+[tokei]: https://github.com/xampprocky/tokei
