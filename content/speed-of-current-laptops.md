@@ -57,7 +57,7 @@ data/citm_catalog.json   650 MB/s   470 MB/s   920 MB/s
 data/twitter.json        520 MB/s   530 MB/s   620 MB/s
 ```
 
-Results for the UX305:
+Results for the UX410:
 
 ```
                                 DOM                  STRUCT
