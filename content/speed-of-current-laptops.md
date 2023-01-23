@@ -6,6 +6,17 @@ date = 2019-10-27
 tags = ["hardware", "Rust"]
 +++
 
+> 2023 update:
+> 
+> I lost my wonderful Lenovo X1 Carbon due to a fried motherboard,
+> likely due to too much fiddling with a flaky charger,
+> instead of just caving and buying a replacement.
+> The cost of this motherboard was greater than the laptop itself,
+> a sad state of affairs which makes me wish for a [Framework Laptop].
+>
+> I also lost access to the UX410,
+> due to change of jobs.
+
 I decided to get me my dream laptop, a Lenovo X1 Carbon (code 20KGS3X910).
 It has amazing keyboard (as promised) as well as amazing touchpad.
 The performance is sad though, less than my work laptop,
@@ -73,3 +84,4 @@ data/twitter.json        870 MB/s   900 MB/s  1030 MB/s
 
 [Rust JSON Benchmark]: https://github.com/serde-rs/json-benchmark
 [the UX305]: @/asus-zenbook-ux305fa.md
+[Framework Laptop]: https://frame.work
