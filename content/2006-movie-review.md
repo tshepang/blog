@@ -15,8 +15,8 @@ Fu Hustle].
 
 ## best movie
 
-[The Butterfly Effect] is the year's best movie, followed by [Birth].
-There is stiff competition coming from the exciting and superb
+The year's best movie is [Birth],
+and there is stiff competition coming from the exciting and superb
 *Confessions of A Dangerous Mind* as well as [Lord of War]. Such a
 listing convinces me that, although the year wasn't as exciting, it
 probably had more supreme movies compared to [2005].
@@ -37,9 +37,7 @@ Man's Chest*, the closest competitor to Eamonn Walker's character.
 ## best female performance
 
 Nicole Kidman's perplexed widow in [Birth] is her most intense and best
-ever. The most touching of female performances however goes to Amy
-Smart's in [The Butterfly Effect] for the part in which she's a wasted
-waiter.
+ever.
 
 ## best male performance
 
@@ -86,15 +84,8 @@ its performances, owed to Nicole and the boy.
 
 ## script
 
-Only a genius could be held responsible for [The Butterfly Effect]'s
-superb, complex, and rich storyline. [Lord of War] deserves honorable
-mention for its very fresh take on gun-running, which happened to be a
-foreign idea to me.
-
-## prison depiction
-
-This ain't no standard category, but nothing in my history of film
-viewing beats what's shown in [The Butterfly Effect].
+[Lord of War] deserves this one for its very fresh take on gun-running,
+which happened to be a foreign idea to me.
 
 ## character design
 
@@ -162,7 +153,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 
 [Shaolin Soccer]: @/shaolin-soccer-2001.md
 [Kung Fu Hustle]: @/kung-fu-hustle-2004.md
-[The Butterfly Effect]: @/the-butterfly-effect-2004.md
 [Birth]: @/birth.md
 [Lord of War]: @/lord-of-war-2005.md
 [2005]: @/2005-movie-review.md
