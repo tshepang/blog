@@ -88,7 +88,7 @@ That now means that I got a massive mirror managed by debmirror and a
 smaller one managed by reprepro, and I have these on an external drive
 for in case I want to install Debian anywhere. What else my reprepro
 repo has is some other packages like **skype** and **oracle-xe**, as
-well as an odd packages from [Debian Experimental].
+well as some odd packages from [Debian Experimental].
 
 Not so simple I guess... but works so well for my needs.
 
