@@ -1,6 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2022-06-25
+date = 2023-01-28
 
 [taxonomies]
 tags = ['Rust']
@@ -31,6 +31,63 @@ following are my favorite breaking things I want in Rust.
   ```
 
   This would be consistent with the rest of the language.
+
+- Minor one, but saw something like this [suggested somewhere]...
+  would be nice to make the language a little smaller by unifying syntax for
+  functions and closures.
+
+  A closure syntax looks like this:
+
+  ```rust
+  fn main() {
+      let square = |number: i32| {
+          num * num
+      };
+      println!("{}", square(4));
+  }
+  ```
+
+  A function for same looks like this:
+
+  ```rust
+  fn square(number: i32) -> i32 {
+      num * num
+  }
+
+  fn main() {
+      println!("{}", square(4));
+  }
+  ````
+
+  Imagine if you could have this instead:
+
+  ```rust
+  let square: |number: i32| -> i32 = {
+      num * num
+  }
+
+  fn main() {
+      println!("{}", square(4));
+  }
+  ```
+
+  It a bit more heavy on tokens
+  (there is an extra `:` and there is a `=`),
+  but it also means one less keyword (`fn`),
+  and less syntax to learn for new users.
+
+  As a final note on this one,
+  this is what a function would look like if it returned nothing:
+
+  ```rust
+  let show_square: |number: i32| = {
+      println!("{}", num * num);
+  }
+
+  fn main() {
+      show_square(4);
+  }
+  ```
 
 ### std
 
@@ -90,3 +147,4 @@ following are my favorite breaking things I want in Rust.
 
 [more issues]: https://github.com/rust-lang/rust/pull/42397#issuecomment-315867774
 [Editions]: https://doc.rust-lang.org/edition-guide/editions
+[suggested somewhere]: https://twitter.com/brundolfsmith/status/1610431400209158144
