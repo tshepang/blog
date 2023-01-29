@@ -6,7 +6,7 @@ date = 2022-09-22
 tags = ["Rust"]
 +++
 
-These are some reasons why I like some companies a lot:
+Here are some reasons why I like some companies a lot:
 - how they appear to be managed
 - what they build
 - their Rust embrace
