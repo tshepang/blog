@@ -28,7 +28,7 @@ tags = ['list']
 
 - __Firefox__ (on Debian and on Android)
 - [AntennaPod]: for listening to podcasts (on Android)
-- [Transmission]: the only torrent client I have ever used
+- [Transmission]: the only torrent client I ever used
 - __VLC__: user interface could be a lot better
 - [Nemo]: a fork of Nautilus
 
