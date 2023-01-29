@@ -21,7 +21,7 @@ tags = ['list']
 ### software development
 
 - [Helix]: acts as a decent IDE
-- __Git__: this one has won the mindshare
+- __Git__: hard to avoid
 - __Cargo__: central tool for Rust development
 
 ### GUI applications
