@@ -9,7 +9,7 @@ tags = ['list']
 
 ### environment
 
-- __Debian__: my primary OS, and also my favorite
+- __Debian__: my primary OS, also my favorite
 - __Android__: for all my mobile needs
 - [Helix]: a nicer vi than Vim
 - __fish__: compared to mighty Bash, it is far more pretty,
