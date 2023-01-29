@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2023-01-12
+date = 2023-01-29
 
 [taxonomies]
 tags = ['list']
@@ -30,6 +30,7 @@ tags = ['list']
 - [AntennaPod]: for listening to podcasts (on Android)
 - [Transmission]: the only torrent client I have ever used
 - __VLC__: user interface could be a lot better
+- [Nemo]: a fork of Nautilus
 
 ### network diagnosis
 - [vnstat]: nifty network usage viewer
@@ -69,3 +70,4 @@ tags = ['list']
 [rustc-dev-guide]: https://github.com/rust-lang/rustc-dev-guide
 [zellij]: https://github.com/zellij-org/zellij
 [mdBook]: https://github.com/rust-lang/mdBook
+[Nemo]: https://github.com/linuxmint/nemo
