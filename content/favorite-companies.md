@@ -1,6 +1,6 @@
 +++
 title = "favorite companies"
-date = 2022-09-22
+date = 2023-01-29
 
 [taxonomies]
 tags = ["Rust"]
@@ -32,6 +32,17 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
   which is their effort in getting Rust to be used in
   "Safety-critical sectors, such as automotive, railway, and aerospace".
 
+- [Igalia],
+  an open source consultancy company most visible in open source web browser work
+  (they make large contributions to all 3 major browser engines),
+  also happens to be a worker cooperative.
+  As is the case with such organisation kinds,
+  all workers are involved in business decisions,
+  and they also get the same pay.
+  They recently began re-igniting the development of Servo,
+  a project that pioneered a number of browser components written in Rust,
+  some of which are now included in Firefox.
+
 - [Mullvad], which offers a VPN service,
   develop their tools [in public] (open source),
   and Rust features a lot in those.
@@ -40,7 +51,7 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 
 - [Oxide], which builds servers (early stage, nothing shipping yet),
   also makes heavy use of Rust as well as open source firmware.
-  Best of all, [all workers get the same salary]!
+  Best of all, [all workers get the same pay]!
 
 - [Fastly], which offers various internet services,
   is a key player in the Wasm ecosystem,
@@ -51,7 +62,7 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [Mullvad]: https://mullvad.net
 [Oxide]: https://oxide.computer
-[all workers get the same salary]: https://oxide.computer/blog/compensation-as-a-reflection-of-values
+[all workers get the same pay]: https://oxide.computer/blog/compensation-as-a-reflection-of-values
 [in public]: https://github.com/mullvad
 [Fastly]: https://www.fastly.com
 [Alex Crichton]: https://github.com/alexcrichton
