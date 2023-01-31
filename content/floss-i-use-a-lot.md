@@ -11,7 +11,6 @@ tags = ['list']
 
 - __Debian__: my primary OS, also my favorite
 - __Android__: for all my mobile needs
-- [Helix]: a nicer vi than Vim
 - __fish__: compared to mighty Bash, it is far more pretty,
    and has a far better command completion system
 - [zellij]: pleasant terminal multiplexer
@@ -20,7 +19,7 @@ tags = ['list']
 
 ### software development
 
-- [Helix]: acts as a decent IDE
+- [Helix]: acts as a decent IDE, and is a fantastic text editor
 - __Git__: hard to avoid
 - __Cargo__: central tool for Rust development
 
