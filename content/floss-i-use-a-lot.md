@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2023-01-29
+date = 2023-01-31
 
 [taxonomies]
 tags = ['list']
@@ -11,8 +11,9 @@ tags = ['list']
 
 - __Debian__: my primary OS, also my favorite
 - __Android__: for all my mobile needs
-- __fish__: compared to mighty Bash, it is far more pretty,
-   and has a far better command completion system
+- __fish__:
+  compared to mighty Bash, it is far more pretty,
+  and has a far better command completion system
 - [zellij]: pleasant terminal multiplexer
 - [Alacritty]
 
@@ -44,10 +45,12 @@ tags = ['list']
 - [Sudo]: another duh!
 - [ripgrep]: a more pleasant `grep`
 - [exa]: a more pleasant, more pretty `ls`
-- [bat]: a more pleasant, more fancy `cat`, which also supplants `less`
+- [bat]:
+  a more pleasant, more fancy `cat`, which also supplants `less`
   (though it actually makes use of the latter for paging through long text)
 - __top__: a powerful and flexible process viewer, part of [procps suite]
-- [mdBook]: lightweight documentation system,
+- [mdBook]:
+  lightweight documentation system,
   using it for Cargo and [rustc-dev-guide] documentation
   (and always served with `mdbook serve`).
 - [zola]: for this blog, also always served (with `zola serve`)
