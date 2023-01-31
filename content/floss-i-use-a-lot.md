@@ -15,7 +15,6 @@ tags = ['list']
    and has a far better command completion system
 - [zellij]: pleasant terminal multiplexer
 - [Alacritty]
-- __nm-applet__: part of NetworkManager
 
 ### software development
 
@@ -30,6 +29,7 @@ tags = ['list']
 - [Transmission]: the only torrent client I ever used
 - __VLC__: user interface could be a lot better
 - [Nemo]: a fork of Nautilus
+- __nm-applet__: part of NetworkManager
 
 ### network diagnosis
 - [vnstat]: nifty network usage viewer
