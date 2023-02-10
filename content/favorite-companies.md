@@ -70,3 +70,4 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 [Embark Studios]: https://www.embark-studios.com
 [The Finals]: https://www.reachthefinals.com
 [Arc Raiders]: https://arcraiders.com
+[Igalia]: https://igalia.com
