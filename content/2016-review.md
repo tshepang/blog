@@ -1,6 +1,7 @@
 +++
 title = "2016 review"
-date = 2017-08-09
+date = 2023-02-11
+
 [taxonomies]
 tags = ['year-review', '2016']
 categories = ['movies']
@@ -19,8 +20,8 @@ Peregrine's Home for Peculiar Children].
 My __favorite performance__ is that of [Annalise Basso],
 due to the fierce and intense persona in _Captain Fantastic_.
 
-  [Deadpool]: @/deadpool.md
-  [Captain America: Civil War]: @/captain-america-civil-war.md
-  [Ghostbusters]: @/ghostbusters.md
-  [Florence Foster Jenkins]: @/florence-foster-jenkins.md
-  [Miss Peregrine's Home for Peculiar Children]: @/miss-peregrine-s-home-for-peculiar-children.md
+[Deadpool]: @/deadpool.md
+[Captain America: Civil War]: @/captain-america-civil-war.md
+[Ghostbusters]: @/ghostbusters.md
+[Florence Foster Jenkins]: @/florence-foster-jenkins.md
+[Miss Peregrine's Home for Peculiar Children]: @/miss-peregrine-s-home-for-peculiar-children.md
