@@ -25,3 +25,4 @@ due to the fierce and intense persona in _Captain Fantastic_.
 [Ghostbusters]: @/ghostbusters.md
 [Florence Foster Jenkins]: @/florence-foster-jenkins.md
 [Miss Peregrine's Home for Peculiar Children]: @/miss-peregrine-s-home-for-peculiar-children.md
+[Annalise Basso]: https://en.wikipedia.org/wiki/Annalise_Basso
