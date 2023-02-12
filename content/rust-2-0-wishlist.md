@@ -41,7 +41,7 @@ following are my favorite breaking things I want in Rust.
   ```rust
   fn main() {
       let square = |number: i32| {
-          num * num
+          number * number
       };
       println!("{}", square(4));
   }
