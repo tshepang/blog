@@ -51,7 +51,7 @@ following are my favorite breaking things I want in Rust.
 
   ```rust
   fn square(number: i32) -> i32 {
-      num * num
+      number * number
   }
 
   fn main() {
@@ -63,7 +63,7 @@ following are my favorite breaking things I want in Rust.
 
   ```rust
   let square: |number: i32| -> i32 = {
-      num * num
+      number * number
   }
 
   fn main() {
@@ -81,7 +81,7 @@ following are my favorite breaking things I want in Rust.
 
   ```rust
   let show_square: |number: i32| = {
-      println!("{}", num * num);
+      println!("{}", number * number);
   }
 
   fn main() {
