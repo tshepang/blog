@@ -1,6 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2023-01-28
+date = 2023-02-12
 
 [taxonomies]
 tags = ['Rust']
@@ -132,6 +132,11 @@ following are my favorite breaking things I want in Rust.
   Path::to_path_buf
   // ... in favor of
   Path::to_owned
+
+  // remove
+  Vec::append
+  // ... in favor of
+  Vec::extend
   ```
 
 - Remove all deprecated APIs, most notable being the `try!` macro
