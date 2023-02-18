@@ -6,6 +6,8 @@ date = 2022-12-01
 tags = ["Rust"]
 +++
 
+_(update: there is [a part 2])_
+
 I have been hoping for an alternative to Emacs:
 
 - The complexity of configuration (my `init.el` has over 200 lines)
@@ -36,3 +38,4 @@ to a point where I feel it takes modal editors to more mainstream audiences.
 [a proposal to fix this]: https://github.com/helix-editor/helix/pull/2377
 [a proposal to fix this as well]: https://github.com/helix-editor/helix/pull/2412
 [a proposal to fix this too]: https://github.com/helix-editor/helix/pull/3674
+[a part 2]: @/enjoying-helix-part-2.md
