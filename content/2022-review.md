@@ -1,6 +1,6 @@
 +++
 title = "2022 review"
-date = 2023-02-17
+date = 2023-02-19
 
 [taxonomies]
 tags = ["year-review", "2022"]
@@ -10,6 +10,8 @@ categories = ['movies']
 The greatest __spectacle__ is *Black Adam*,
 due to its fun action,
 especially the early sequences following the awakening of the lead character.
+The best __action sequence__ is the prison rescue in *The Bad Guys*...
+it does not feel original, but it was so kool, in an otherwise bland movie.
 
 My __favorite performance__ is that of [Stephanie Hsu]
 as a fun and colorful villain in
