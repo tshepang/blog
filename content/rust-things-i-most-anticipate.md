@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2023-01-15
+date = 2023-02-25
 
 [taxonomies]
 tags = ["Rust"]
@@ -8,14 +8,14 @@ tags = ["Rust"]
 
 The following are in progress:
 
-- Usage in production versions of Chromium,
-  though this would only be [for external dependencies]
 - Make alternative (to [LLVM]) codegen backends easily available in
   Rust toolchain (as in via `rustup`)
    - [rustc_codegen_cranelift] (for using [cranelift]),
      immediate benefit being fast debug compiles ([progress][cranelift PR])
    - [rustc_codegen_gcc],
      allowing Rust to run in more hardware platforms ([latest update])
+- Usage in production versions of Chromium,
+  though this would only be [for external dependencies]
 - Having Rust be certified for use in safety-critical systems,
   most visible example being [Ferrocene] ([latest update][ferrocense status])
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
@@ -29,7 +29,7 @@ The following are in progress:
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
-[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-19
+[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-20
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift PR]: https://github.com/rust-lang/rust/pull/81746
 [hyper]: https://github.com/hyperium/hyper
