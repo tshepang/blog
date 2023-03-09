@@ -165,22 +165,11 @@ following are my favorite breaking things I want in Rust.
 - Remove per-type methods where trait impls offer same functionality,
   for generality:
 
-  ```rust
-  // remove
-  PathBuf::as_path
-  // ... in favor of
-  PathBuf::as_ref
-
-  // remove
-  Path::to_path_buf
-  // ... in favor of
-  Path::to_owned
-
-  // remove
-  Vec::append
-  // ... in favor of
-  Vec::extend
-  ```
+  current | wish
+  ---     | ---
+  PathBuf::as_path | PathBuf::as_ref
+  Path::to_path_buf | Path::to_owned
+  Vec::append | Vec::extend
 
 - Remove all deprecated APIs, most notable being the `try!` macro
 
