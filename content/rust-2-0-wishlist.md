@@ -117,11 +117,11 @@ following are my favorite breaking things I want in Rust.
   type Kind = {
     Good,
     Bad,
-    Ugly(Detail),
+    Ugly(Detail), // looks like a struct with an unnamed field
   }
 
   type Detail; // implicitly a struct
-  type WithUnnamedFields(String, Kind);
+  type StructWithUnnamedFields(String, Kind);
 
   // and unions are a special case, so we use this new syntax...
   type SomeUnion = union {
