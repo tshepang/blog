@@ -71,7 +71,7 @@ following are my favorite breaking things I want in Rust.
   }
   ```
 
-  It a bit more heavy on tokens
+  It is a bit more heavy on tokens
   (there is an extra `:` and there is a `=`),
   but it also means one less keyword (`fn`),
   and less syntax to learn for new users.
