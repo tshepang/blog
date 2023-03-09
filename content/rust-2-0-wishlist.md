@@ -89,6 +89,49 @@ following are my favorite breaking things I want in Rust.
   }
   ```
 
+- Perhaps ridiculous,
+  but what if we got rid of `struct` and `enum` keywords,
+  where the structure of the types is instead inferred:
+
+  ```rust
+  // current
+  struct Character {
+    name: String,
+    kind: Kind,
+  }
+
+  enum Kind {
+    Good,
+    Bad,
+    Ugly(Detail),
+  }
+
+  struct Detail;
+
+  // wish
+  type Character = {
+    name: String,
+    kind: Kind,
+  }
+
+  type Kind = {
+    Good,
+    Bad,
+    Ugly(Detail),
+  }
+
+  type Detail; // implicitly a struct
+  type WithUnnamedFields(String, Kind);
+
+  // and unions are a special case, so we use this new syntax...
+  type SomeUnion = union {
+      integer: u32,
+      float: f32,
+  }
+  ```
+
+  This brings the syntax close to type aliases.
+
 ### std
 
 - All collections types removed, except these basic ones: Vec,
