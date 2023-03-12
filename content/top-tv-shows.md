@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2021-04-07
+date = 2023-03-13
 
 [taxonomies]
 tags = ['tv']
@@ -19,6 +19,7 @@ watched them.
 - The Knick
 - Barry (season 1)
 - Atlanta (season 1)
+- Succession (season 1)
 
 **honorable mentions**
 
