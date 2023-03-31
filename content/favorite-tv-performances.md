@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2023-03-16
+date = 2023-03-31
 
 [taxonomies]
 tags = ["tv"]
@@ -17,5 +17,7 @@ tags = ["tv"]
 1. Jason Jamal Ligon (*Atlanta*)
 
 1. Nicoye Banks (*Atlanta*)
+
+1. Ayo Edebiri and Lionel Boyce (*The Bear*)
 
 [Anjana Vasan]: https://en.wikipedia.org/wiki/Anjana_Vasan
