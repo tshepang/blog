@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2023-03-31
+date = 2023-04-04
 
 [taxonomies]
 tags = ["tv"]
@@ -15,6 +15,8 @@ tags = ["tv"]
 1. Rob Yang (*Succession*)
 
 1. Jason Jamal Ligon (*Atlanta*)
+
+1. Ashley Romans (*Y: The Last Man*)
 
 1. Nicoye Banks (*Atlanta*)
 
