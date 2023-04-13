@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2023-04-04
+date = 2023-04-13
 
 [taxonomies]
 tags = ["tv"]
@@ -21,5 +21,7 @@ tags = ["tv"]
 1. Nicoye Banks (*Atlanta*)
 
 1. Ayo Edebiri and Lionel Boyce (*The Bear*)
+
+1. Benjamin Bratt (*Poker Face*)
 
 [Anjana Vasan]: https://en.wikipedia.org/wiki/Anjana_Vasan
