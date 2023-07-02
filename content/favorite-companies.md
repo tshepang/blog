@@ -1,6 +1,6 @@
 +++
 title = "favorite companies"
-date = 2023-01-29
+date = 2023-07-02
 
 [taxonomies]
 tags = ["Rust"]
@@ -25,8 +25,8 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 
 - [Ferrous Systems], which offers Rust consulting and training,
   also does a lot for the language in the embedded domain by running [Oxidize].
-  That, combined with having Jonathan Pallant in their employ
-  (and previously Jorge Aparicio and James Munns),
+  That, combined with having Jonathan Pallant and Jorge Aparicio in their employ
+  (and James Munns previously),
   makes them the most visible name in that domain for Rust.
   I am also excited for [Ferrocene],
   which is their effort in getting Rust to be used in
