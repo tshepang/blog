@@ -27,7 +27,7 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
   also does a lot for the language in the embedded domain by running [Oxidize].
   That, combined with having Jonathan Pallant and Jorge Aparicio in their employ
   (and James Munns previously),
-  makes them the most visible name in that domain for Rust.
+  makes the company the most visible name in that domain for Rust.
   I am also excited for [Ferrocene],
   which is their effort in getting Rust to be used in
   "Safety-critical sectors, such as automotive, railway, and aerospace".
