@@ -22,7 +22,7 @@ In terms of money, I previously fooled around with [flattr] too, but
 stopped along the way for some reason (after a few months), so will see
 how long this one relationship lasts.
 
-  [Why I'm signing up for Gittip]: http://sayspy.blogspot.com/2013/04/why-im-signing-up-for-gittip.html
+  [Why I'm signing up for Gittip]: https://sayspy.blogspot.com/2013/04/why-im-signing-up-for-gittip.html
   [Gittip]: https://www.gittip.com
   [I decided to participate]: https://www.gittip.com/tshepang
   [flattr]: http://flattr.com
