@@ -6,6 +6,8 @@ date = 2023-02-18
 tags = ["Rust"]
 +++
 
+_(update: there is [a part 3])_
+
 It has been [over 2 months] since I started using Helix heavily,
 and it continues to impress:
 
@@ -37,8 +39,9 @@ I do, however, have some unfulfilled desires:
   and it's still not clear how things fit together...
   I have struggled too much to setup nice things like syntax highlighting and code completion.
 
-- Too many of themes are immature, such that I still haven't found one I could settle on.
+- Too many of the themes are immature, such that I still haven't found one I could settle on.
 
 [over 2 months]: @/enjoying-helix.md
 [things like exact matching]: https://github.com/helix-editor/helix/pull/5114
 [automatic saving of yanks]: https://github.com/helix-editor/helix/issues/5783
+[a part 3]: @/enjoying-helix-part-3.md
