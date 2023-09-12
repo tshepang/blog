@@ -132,6 +132,20 @@ following are my favorite breaking things I want in Rust.
 
   This brings the syntax close to type aliases.
 
+- Replace underscores (_) with dashes (-) in bindings/identifers:
+
+  ```rust
+  // current
+  let we_dream;
+
+  // wish
+  let we-dream;
+  ```
+
+  That is a lot more pretty,
+  but would disallow math operations without spaces,
+  like `one-number - another-number`.
+
 ### std
 
 - All collections types removed, except these basic ones: Vec,
