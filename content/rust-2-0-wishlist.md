@@ -157,9 +157,6 @@ following are my favorite breaking things I want in Rust.
   | fs path   | Path     | Path (same)   |
   |           | PathBuf  | PathOwned     |
 
-
-  Not exactly happy with above, but much better than the current 'mess'.
-
 - Remove `std::sync::mpsc` from stdlib, making it available
   externally... it does not feel general enough. ([more issues])
 
