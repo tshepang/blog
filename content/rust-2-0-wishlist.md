@@ -171,7 +171,7 @@ following are my favorite breaking things I want in Rust.
 
 - Remove all deprecated APIs, most notable being the `try!` macro
 
-- Renames of panick methods ([inspiration])
+- Renames of panic methods ([inspiration])
 
   current | wish
     ---   | ---
