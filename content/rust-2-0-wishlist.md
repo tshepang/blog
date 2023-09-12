@@ -191,7 +191,7 @@ following are my favorite breaking things I want in Rust.
     ---   | ---
   foo.unwrap | (remove)
   foo.expect("message") | foo.or_panic("message")
-  foo.unwrap_ord | foo.or
+  foo.unwrap_or | foo.or
   foo.unwrap_or_default | foo.or_default
   foo.unwrap_or_else | foo.or_else
 
