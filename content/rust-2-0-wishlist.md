@@ -1,6 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2023-09-12
+date = 2023-09-15
 
 [taxonomies]
 tags = ['Rust']
@@ -33,9 +33,8 @@ following are my favorite breaking things I want in Rust
 
   This would be consistent with the rest of the language.
 
-- Minor one, but saw something like this [suggested somewhere]...
-  would be nice to make the language a little smaller by unifying syntax for
-  functions and closures.
+- It would be nice to make the language a little smaller by unifying syntax for
+  functions and closures ([inspiration][unified fn inspiration]).
 
   A closure syntax looks like this:
 
@@ -77,7 +76,7 @@ following are my favorite breaking things I want in Rust
   but it also means one less keyword (`fn`),
   and less syntax to learn for new users.
 
-  As a final note on this one,
+  As an additional example,
   this is what a function would look like if it returned nothing:
 
   ```rust
@@ -89,6 +88,17 @@ following are my favorite breaking things I want in Rust
       show_square(4);
   }
   ```
+
+  As a final note on this one,
+  this is what an async function would look like
+  ([inspiration][async fn inspiration]):
+
+  ```rust
+  let show_square: |number: i32| -> i32 = async {
+      ...
+  }
+  ```
+
 
 - Perhaps ridiculous,
   but what if we got rid of `struct` and `enum` keywords,
@@ -186,7 +196,7 @@ following are my favorite breaking things I want in Rust
 
 - Remove all deprecated APIs, most notable being the `try!` macro
 
-- Renames of panic methods ([inspiration])
+- Renames of panic methods ([inspiration][panic method inspiration])
 
   current | wish
     ---   | ---
@@ -195,6 +205,8 @@ following are my favorite breaking things I want in Rust
   foo.unwrap_or | foo.or
   foo.unwrap_or_default | foo.or_default
   foo.unwrap_or_else | foo.or_else
+
+  It feels somewhat implicit, but maybe not so bad.
 
  ### cargo
 
@@ -207,5 +219,6 @@ following are my favorite breaking things I want in Rust
 
 [more issues]: https://github.com/rust-lang/rust/pull/42397#issuecomment-315867774
 [Editions]: https://doc.rust-lang.org/edition-guide/editions
-[suggested somewhere]: https://twitter.com/brundolfsmith/status/1610431400209158144
-[inspiration]: https://github.com/rust-lang/rfcs/pull/3218#issuecomment-1010084722
+[panic method inspiration]: https://github.com/rust-lang/rfcs/pull/3218#issuecomment-1010084722
+[unified fn inspiration]: https://twitter.com/brundolfsmith/status/1610431400209158144
+[async fn inspiration]: https://hachyderm.io/@kevinmehall/111065682919309293
