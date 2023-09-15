@@ -16,7 +16,8 @@ and the pain of such a breaking change could be relieved/eliminated with
 careful planning and migration tooling.
 
 That said,
-following are my favorite breaking things I want in Rust.
+following are my favorite breaking things I want in Rust
+(and many are much too outrageous to ever be seriously considered).
 
 ### lang
 
