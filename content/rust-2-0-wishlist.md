@@ -10,7 +10,7 @@ There is a strong commitment for Rust not to break backwards compatibility,
 meaning that all code that compiled with Rust v1.0 should compile with all
 future Rust versions, all but for exceptional circumstances.
 The effort is commendable, and results in kool things like [Editions],
-but mistakes/cruft/poor choices are bound to happen that cannot be fixed with such.
+but mistakes are bound to happen that cannot be fixed with such.
 That is, I wish we will have a breaking release at some point,
 and the pain of such a breaking change could be relieved/eliminated with
 careful planning and migration tooling.
