@@ -16,6 +16,7 @@ tags = ['list']
   and has a far better command completion system
 - [zellij]: pleasant terminal multiplexer
 - [Alacritty]
+- [wezterm] (only on work machine)
 
 ### software development
 
@@ -73,3 +74,4 @@ tags = ['list']
 [zellij]: https://github.com/zellij-org/zellij
 [mdBook]: https://github.com/rust-lang/mdBook
 [Nemo]: https://github.com/linuxmint/nemo
+[wezterm]: https://github.com/wez/wezterm
