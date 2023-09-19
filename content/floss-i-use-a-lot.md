@@ -35,7 +35,7 @@ tags = ['list']
 - [vnstat]: nifty network usage viewer
 - __ping__: checks general reachability
 - __mtr__: interactive traceroute tool
-- __trippy__: another traceroute tool (only on work machine)
+- [trippy]: another traceroute tool (only on work machine)
 
 ### miscellaneous tools
 
