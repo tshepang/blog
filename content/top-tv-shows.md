@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2023-03-13
+date = 2023-09-19
 
 [taxonomies]
 tags = ['tv']
@@ -23,7 +23,6 @@ watched them.
 
 **honorable mentions**
 
-- Alphas
 - Breaking Bad
 - The Americans
 - Bodyguard (season 1)
