@@ -35,6 +35,7 @@ tags = ['list']
 - [vnstat]: nifty network usage viewer
 - __ping__: checks general reachability
 - __mtr__: interactive traceroute tool
+- __trippy__: another traceroute tool (only on work machine)
 
 ### miscellaneous tools
 
@@ -48,6 +49,7 @@ tags = ['list']
   a more pleasant, more fancy `cat`, which also supplants `less`
   (though it actually makes use of the latter for paging through long text)
 - __top__: a powerful and flexible process viewer, part of [procps suite]
+- [bottom]: an alternative to `top` (only on work machine)
 - [mdBook]:
   lightweight documentation system,
   using it for Cargo and [rustc-dev-guide] documentation
@@ -73,3 +75,5 @@ tags = ['list']
 [mdBook]: https://github.com/rust-lang/mdBook
 [Nemo]: https://github.com/linuxmint/nemo
 [wezterm]: https://github.com/wez/wezterm
+[trippy]: https://github.com/fujiapple852/trippy
+[bottom]: https://github.com/clementtsang/bottom
