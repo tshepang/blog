@@ -11,9 +11,7 @@ tags = ['list']
 
 - __Debian__: my primary OS, also my favorite
 - __Android__: for all my mobile needs
-- __fish__:
-  compared to mighty Bash, it is far more pretty,
-  and has a far better command completion system
+- __fish__: a superior command completion system, and overall better usability
 - [zellij]: pleasant terminal multiplexer
 - [Alacritty]
 - [wezterm] (only on work machine)
