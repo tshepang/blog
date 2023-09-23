@@ -1,6 +1,6 @@
 +++
 title = "favorite companies"
-date = 2023-07-02
+date = 2023-09-23
 
 [taxonomies]
 tags = ["Rust"]
