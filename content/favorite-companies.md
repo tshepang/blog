@@ -49,7 +49,7 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
   Reading through their site leaves me impressed about how
   serious they are about security and privacy.
 
-- [Oxide], which builds servers (early stage, nothing shipping yet),
+- [Oxide], which builds server racks,
   also makes heavy use of Rust as well as open source firmware.
   Best of all, [all workers get the same pay]!
 
