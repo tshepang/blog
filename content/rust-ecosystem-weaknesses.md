@@ -6,16 +6,15 @@ date = 2022-08-04
 tags = ["Rust"]
 +++
 
-These are problems Rust face that have nothing to do with its
-capabilities as a tool,
+These are problems Rust users face that have nothing to do with capabilities of the compiler,
 but rather requiring work on libraries, tooling, and advocacy:
 
 - iOS: Rust is not tier 1 on this major platform
   (installations number in the 100s of millions),
-  which would help it be an alternative to Swift (and Objective-C)
+  which would help make it an important alternative to Swift and Objective-C
 - Android: Rust is not tier 1 on this major platform
   (installations number in the billions),
-  which would help it be an alternative to Kotlin and Java
+  which would help make it an importatnt alternative to Kotlin and Java
   ([discussion])
 - regulated industries, like safety critical systems:
   the compiler is not certified, leaving C and Ada as the only allowed languages
