@@ -21,11 +21,11 @@ Here are some small project ideas:
   Looking further in the future,
   Git should be discarded in favor of a [Pijul].
 
-- Maintnenance of [sd],
+- Maintenance of [sd],
   a kool sed replacement.
   It not had a release in over 2 years.
 
-- Maintnenance of [tokei],
+- Maintenance of [tokei],
   a kool code stats tool that cares for accuracy.
   Like [sd], it also not had a release in over 2 years.
 
