@@ -10,7 +10,7 @@ My fantasy is having $1m for each of these,
 in order of importance:
 
 - [Pijul], for I want a better VCS than Git
-- [Mustang] / [Eyre], for I want C off my dependencies
+- [Mustang] / [Eyra], for I want C off my dependencies
 - [Theseus], for I want C off my kernel
   (and because it's the most exciting project written in Rust at the moment)
 - [rustc_codegen_cranelift], for I want C++ off my tooling
@@ -19,4 +19,4 @@ in order of importance:
 [Pijul]: https://pijul.org
 [Theseus]: https://github.com/theseus-os/Theseus
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
-[Eyre]: https://github.com/sunfishcode/eyra
+[Eyra]: https://github.com/sunfishcode/eyra
