@@ -24,4 +24,4 @@ I also enjoyed all performances,
 and as mentioned in the older review,
 the aftermath of the damage is amazing,
 among the best ever,
-much of it set in gorgeous scenery.
+and much of it set in gorgeous scenery.
