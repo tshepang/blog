@@ -1,5 +1,5 @@
 +++
-title = "favorite Rust libs (crates)"
+title = "favorite Rust libs"
 date = 2022-12-01
 
 [taxonomies]
