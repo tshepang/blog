@@ -1,6 +1,6 @@
 +++
 title = "Rust things I would fund if were able"
-date = 2022-08-14
+date = 2023-10-01
 
 [taxonomies]
 tags = ["Rust"]
