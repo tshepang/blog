@@ -16,9 +16,5 @@ but rather requiring work on libraries, tooling, and advocacy:
   (installations number in the billions),
   which would help make it an importatnt alternative to Kotlin and Java
   ([discussion])
-- regulated industries, like safety critical systems:
-  the compiler is not certified, leaving C and Ada as the only allowed languages
-  ([example initiative])
 
-[example initiative]: https://ferrous-systems.com/blog/ferrocene-language-specification
 [discussion]: https://github.com/android/ndk/issues/1742
