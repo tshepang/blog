@@ -19,7 +19,7 @@ tags = ["Rust"]
   especially with its derive API (as is the case with clap).
 
 - [anyhow]:
-  The default Rust error crate in the ecosystem,
+  The most popular error crate in the ecosystem,
   it offers very easy error handling,
   and also comes with some nice conveniences,
   like [`bail!`], [`ensure!`], and [`Context`].
