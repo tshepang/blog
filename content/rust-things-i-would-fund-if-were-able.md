@@ -14,12 +14,9 @@ in order of importance:
 - [Theseus], for I want C off my kernel
   (and because it's the most exciting project written in Rust at the moment)
 - [rustc_codegen_cranelift], for I want C++ off my tooling
-- reviving the effort to [parallelize the Rust compiler],
-  for I want it more performant
 
 [Mustang]: https://github.com/sunfishcode/mustang
 [Pijul]: https://pijul.org
 [Theseus]: https://github.com/theseus-os/Theseus
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
-[parallelize the Rust compiler]: https://github.com/rust-lang/rust/issues/48685
 [Eyre]: https://github.com/sunfishcode/eyra
