@@ -14,7 +14,7 @@ but rather requiring work on libraries, tooling, and advocacy:
   which would help make it an important alternative to Swift and Objective-C
 - Android: Rust is not tier 1 on this major platform
   (installations number in the billions),
-  which would help make it an importatnt alternative to Kotlin and Java
+  which would help make it an important alternative to Kotlin and Java
   ([discussion])
 
 [discussion]: https://github.com/android/ndk/issues/1742
