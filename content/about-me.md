@@ -13,8 +13,8 @@ Among my profiles on the web:
 
 - [Hachyderm] and [Twitter] (social)
 - [GitHub] (software)
-- [Stack Exchange] (help)
 - [Rust Zulip] (chat)
+- [Stack Exchange] (help)
 
 The sources for this blog can be found [on GitHub].
 
