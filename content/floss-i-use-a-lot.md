@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2023-09-19
+date = 2023-10-10
 
 [taxonomies]
 tags = ['list']
@@ -15,6 +15,11 @@ tags = ['list']
 - [zellij]: pleasant terminal multiplexer
 - [Alacritty]
 - [wezterm] (only on work machine)
+
+## info/comms
+
+- [Zulip], which is (luckily!) used both at work and in the Rust project
+- [Mastodon], to get informed, interact, and share
 
 ### software development
 
@@ -77,3 +82,5 @@ tags = ['list']
 [wezterm]: https://github.com/wez/wezterm
 [trippy]: https://github.com/fujiapple852/trippy
 [bottom]: https://github.com/clementtsang/bottom
+[Zulip]: https://zulip.com
+[Mastodon]: https://joinmastodon.org
