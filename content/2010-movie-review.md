@@ -15,8 +15,7 @@ and [Somewhere].
 
 ## visuals
 
-The best **cinematography** can be seen in
-[The Social Network]. The best **visual effects** can be seen in
+The best **visual effects** can be seen in
 [Inception], and the best **production design** can be seen in *Death At
 A Funeral*... the interior of that home is wonderful. The best
 **editing** can be seen in [The Kite Runner][Inception]. The best
@@ -30,10 +29,9 @@ Magdalene Sisters*. The **funniest** is *Get Smart*, and most
 **enchanting** is *Alice In Wonderland*. The best **action direction**
 is in [Takers][Inception].
 
-The best **script/dialogue** is found in [The Social Network],
-and the best **narration** can be found in
-the most **bizarre** movie of the year, *Sita Sings the Blues*. There
-was nothing more **moody** than *Anamorph*.
+The best **narration** can be found in
+the most **bizarre** movie of the year, *Sita Sings the Blues*,
+and there was nothing more **moody** than *Anamorph*.
 
 The best **sound** is a tie between *Up in the Air* and [Somewhere].
 
@@ -42,8 +40,7 @@ The best **sound** is a tie between *Up in the Air* and [Somewhere].
 There were so many enjoyable performances this year that I could not
 clearly decide who was better than who, and here's an attempt:
 
-The year's most **favorite performance** is that of Jesse Eisenberg in
-([The Social Network]), followed by:
+The year's most **favorite performance**:
 
 1.  a tie between Stanley Tucci & Patricia Clarkson (*Easy A*)
 2.  Ron Perlman ([The Job])
@@ -90,8 +87,7 @@ years ago.
 The most **perfect gentleman** is the oh-so-perfect groom character
 in *Our Family Wedding*.
 
-The **koolest guy** is Mark Wahlberg's in *Date Night*, followed by
-Justin Timberlake's in [The Social Network].
+The **koolest guy** is Mark Wahlberg's in *Date Night*.
 
 Here's a list of most **painful/touching scene**:
 
@@ -141,7 +137,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 [Somewhere]: @/somewhere-2010.md
 [Inception]: @/many-many-recent-movies.md
 [The A-Team]: @/recent-movies-2010-09-15.md
-[The Social Network]: @/the-social-network-2010.md
 [The Job]: @/recent-movies-2010-11-19.md
 [Clash of the Titans]: @/clash-of-the-titans-2010.md
 [Iron Man 2]: @/iron-man-2.md
