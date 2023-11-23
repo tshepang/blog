@@ -46,6 +46,7 @@ tags = ['list']
 
 - __apt__: Debian package management
 - __tail__: included in GNU coreutils suite of tools
+- __[fd-find]__: a more pleasant `find`
 - __[Sudo]__: another duh!
 - __[ripgrep]__: a more pleasant `grep`
 - __[exa]__: a more pleasant, more pretty `ls`
@@ -81,3 +82,4 @@ tags = ['list']
 [bottom]: https://github.com/clementtsang/bottom
 [Zulip]: https://zulip.com
 [Mastodon]: https://joinmastodon.org
+[fd-find]: https://github.com/sharkdp/fd
