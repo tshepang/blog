@@ -47,7 +47,7 @@ tags = ['list']
 - __apt__: Debian package management
 - __tail__: included in GNU coreutils suite of tools
 - __[fd-find]__: a more pleasant `find`
-- __[Sudo]__: another duh!
+- __[Sudo]__
 - __[ripgrep]__: a more pleasant `grep`
 - __[exa]__: a more pleasant, more pretty `ls`
 - __[bat]__:
