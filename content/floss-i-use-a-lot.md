@@ -45,7 +45,7 @@ tags = ['list']
 ### miscellaneous tools
 
 - __apt__: Debian package management
-- __head__ and __tail__: included in GNU coreutils suite of tools
+- __tail__: included in GNU coreutils suite of tools
 - __OpenSSH__: duh!
 - __[Sudo]__: another duh!
 - __[ripgrep]__: a more pleasant `grep`
