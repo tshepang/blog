@@ -9,8 +9,8 @@ tags = ['list']
 
 ### environment
 
-- __Debian__: my primary OS, also my favorite
-- __Android__: for all my mobile needs
+- __Debian__: my favorite OS
+- __Android__, for nearly all my mobile needs
 - __Firefox__ (on Debian and on Android)
 - __fish__: a superior command completion system, and overall better usability
 - [zellij]: pleasant terminal multiplexer
