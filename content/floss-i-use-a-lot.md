@@ -11,6 +11,7 @@ tags = ['list']
 
 - __Debian__: my primary OS, also my favorite
 - __Android__: for all my mobile needs
+- __Firefox__ (on Debian and on Android)
 - __fish__: a superior command completion system, and overall better usability
 - [zellij]: pleasant terminal multiplexer
 - [Alacritty]
@@ -29,7 +30,6 @@ tags = ['list']
 
 ### GUI applications
 
-- __Firefox__ (on Debian and on Android)
 - [AntennaPod]: for listening to podcasts (on Android)
 - [Transmission]: the only torrent client I ever used
 - __VLC__: user interface could be a lot better
