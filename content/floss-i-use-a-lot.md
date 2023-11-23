@@ -57,9 +57,8 @@ tags = ['list']
 - __[bottom]__: an alternative to `top` (only on work machine)
 - __[mdBook]__:
   lightweight documentation system,
-  using it for Cargo and [rustc-dev-guide] documentation
-  (and always served with `mdbook serve`).
-- __[zola]__: for this blog, also always served (with `zola serve`)
+  using it to serve a number of books (with `mdbook serve`)
+- __[zola]__: for this blog, and served with `zola serve`
 
 [I used to maintain it]: http://tshepang.github.io/tags/wajig
 [Transmission]: http://www.transmissionbt.com
@@ -75,7 +74,6 @@ tags = ['list']
 [openfortivpn]: https://github.com/adrienverge/openfortivpn
 [AntennaPod]: https://antennapod.org
 [zola]: https://github.com/getzola/zola
-[rustc-dev-guide]: https://github.com/rust-lang/rustc-dev-guide
 [zellij]: https://github.com/zellij-org/zellij
 [mdBook]: https://github.com/rust-lang/mdBook
 [Nemo]: https://github.com/linuxmint/nemo
