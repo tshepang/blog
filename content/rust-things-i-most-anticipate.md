@@ -31,7 +31,7 @@ The following are in progress:
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
-[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-21
+[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-27
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift update]: https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html
 [hyper]: https://github.com/hyperium/hyper
