@@ -11,7 +11,7 @@ The following are in progress:
 - A driver written in Rust in the official Linux kernel,
   most promising ones being:
   - [Binder] (for Android IPC)
-  - Apple GPU driver ([latest update](apple gpu driver update)),
+  - Apple GPU driver ([latest update][apple gpu driver update]),
     which seems to be one that has attracted the most attention
 - Use of Rust in safety-critical systems,
   [Ferrocene] being the most likely candidate,
