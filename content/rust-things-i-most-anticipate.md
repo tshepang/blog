@@ -8,6 +8,11 @@ tags = ["Rust"]
 
 The following are in progress:
 
+- A driver written in Rust in the official Linux kernel,
+  most promising ones being:
+  - [Binder] (for Android IPC)
+  - Apple GPU driver ([latest update](apple gpu driver update)),
+    which seems to be one that has attracted the most attention
 - Use of Rust in safety-critical systems,
   [Ferrocene] being the most likely candidate,
   due to being the first (and only) Rust toolchain [qualified for the domain]
@@ -45,3 +50,5 @@ The following are in progress:
 [LLVM]: https://github.com/llvm/llvm-project
 [typst]: https://github.com/typst/typst
 [qualified for the domain]: https://ferrous-systems.com/blog/officially-qualified-ferrocene
+[Binder]: https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com
+[apple gpu driver update]: https://asahilinux.org/blog
