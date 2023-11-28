@@ -8,6 +8,7 @@ tags = ["Rust"]
 
 The following are in progress:
 
+- Wide use of [typst], a more pleasant alternative to latex
 - Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
    - [rustc_codegen_cranelift],
      which uses [cranelift] for codegen,
@@ -42,3 +43,4 @@ The following are in progress:
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
 [LLVM]: https://github.com/llvm/llvm-project
+[typst]: https://github.com/typst/typst
