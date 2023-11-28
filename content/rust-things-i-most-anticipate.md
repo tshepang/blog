@@ -8,10 +8,12 @@ tags = ["Rust"]
 
 The following are in progress:
 
-- Make alternative (to [LLVM]) codegen backends easily available in
-  Rust toolchain (as in via `rustup`)
-   - [rustc_codegen_cranelift] (for using [cranelift]),
-     immediate benefit being fast debug compiles ([progress][cranelift PR])
+- Make alternative (to [LLVM]) codegen backends available in
+  a Rust stable toolchain:
+   - [rustc_codegen_cranelift],
+     which uses [cranelift] for codegen,
+     is already available via `rustup` on nightly toolchains,
+     and the immediate benefit is fast debug compiles ([latest update][cranelift update])
    - [rustc_codegen_gcc],
      allowing Rust to run in more hardware platforms ([latest update])
 - Usage in production versions of Chromium,
@@ -31,7 +33,7 @@ The following are in progress:
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
 [latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-21
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
-[cranelift PR]: https://github.com/rust-lang/rust/pull/81746
+[cranelift update]: https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html
 [hyper]: https://github.com/hyperium/hyper
 [Hyper progress tracker]: https://github.com/orgs/hyperium/projects/2/views/1
 [cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
