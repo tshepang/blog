@@ -51,4 +51,4 @@ The following are in progress:
 [typst]: https://github.com/typst/typst
 [qualified for the domain]: https://ferrous-systems.com/blog/officially-qualified-ferrocene
 [Binder]: https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com
-[apple gpu driver update]: https://asahilinux.org/blog
+[apple gpu driver update]: https://asahilinux.org/2023/03/road-to-vulkan
