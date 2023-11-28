@@ -8,8 +8,7 @@ tags = ["Rust"]
 
 The following are in progress:
 
-- Make alternative (to [LLVM]) codegen backends available in
-  a Rust stable toolchain:
+- Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
    - [rustc_codegen_cranelift],
      which uses [cranelift] for codegen,
      is already available via `rustup` on nightly toolchains,
