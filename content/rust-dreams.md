@@ -1,6 +1,6 @@
 +++
 title = "Rust dreams"
-date = 2023-11-23
+date = 2023-11-29
 
 [taxonomies]
 tags = ["Rust"]
@@ -16,7 +16,6 @@ My ideal computing environment, for all device types (from servers to embedded):
     which would require the least effort of the options above
 - [rustix] (and [Mustang] / [Eyra]) are used to help run POSIX apps
 - [Cranelift] is used to generate machine code, for I want C++ (LLVM) off my tooling
-- [Pijul], for I want a better VCS than Git
 
 [RISC-V]: https://riscv.org/risc-v-isa
 [Theseus]: https://github.com/theseus-os/Theseus

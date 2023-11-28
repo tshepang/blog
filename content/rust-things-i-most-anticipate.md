@@ -30,7 +30,7 @@ The following are in progress:
   tracker] and [cURL progress tracker]),
   because the latter has billions of installations
 - Removing libc dependency for Linux-based systems ([mustang] and [rustix])
-- Wide use of [Pijul], a superior alternative to Git
+- Wide use of [Pijul], for I want a better VCS than Git
   ([latest update](https://pijul.org/posts/2022-01-08-beta))
 
 [mustang]: https://github.com/sunfishcode/mustang
