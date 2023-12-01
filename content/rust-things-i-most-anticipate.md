@@ -6,8 +6,6 @@ date = 2023-11-28
 tags = ["Rust"]
 +++
 
-The following are in progress:
-
 - A driver written in Rust in the official Linux kernel,
   most promising ones being:
   - [Binder] (for Android IPC)
