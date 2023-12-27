@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2023-09-19
+date = 2023-12-27
 
 [taxonomies]
 tags = ['tv']
@@ -28,3 +28,4 @@ watched them.
 - Bodyguard (season 1)
 - Mr. Robot
 - The Boys (season 1)
+- The Fall of the House of Usher
