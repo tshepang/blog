@@ -25,7 +25,7 @@ watched them.
 
 - Breaking Bad
 - The Americans
-- Bodyguard (season 1)
+- Bodyguard
 - Mr. Robot
 - The Boys (season 1)
 - The Fall of the House of Usher
