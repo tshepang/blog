@@ -14,7 +14,7 @@ tags = ["Rust"]
 - Use of Rust in safety-critical systems,
   [Ferrocene] being the most likely candidate,
   due to being the first (and only) Rust toolchain [qualified for the domain]
-- Wide use of [typst], a more pleasant alternative to latex
+- Wide use of [typst], a more pleasant alternative to LaTeX
 - Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
    - [rustc_codegen_cranelift],
      which uses [cranelift] for codegen,
