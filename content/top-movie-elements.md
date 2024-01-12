@@ -87,9 +87,6 @@ categories = ['movies']
 - *The Matrix Reloaded*
 - *Bad Boys 2*
 
-## most intense couple quarrel
-- [Children of the Corn]
-
 ## most beautiful suicide scene
 - *Wanted*
 
@@ -110,7 +107,6 @@ categories = ['movies']
 [Yellow Earth]: @/yellow-earth-1984.md
 [Kinsey]: @/kinsey-2004.md
 [Irréversible]: @/irreversible-2002.md
-[Children of the Corn]: @/children-of-the-corn-2009.md
 [The Insider]: @/the-insider-1999.md
 [The Firm]: @/the-firm-1993.md
 [Erin Brockovich]: @/erin-brockovich-2000.md
