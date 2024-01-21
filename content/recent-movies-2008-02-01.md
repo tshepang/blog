@@ -9,8 +9,9 @@ I don't remember seeing vampires as well-realised as in *30 Days of
 Night*, and the heroic and suicidal scene, where a secondary character
 saves the lead's life (for the second time actually), is tough to beat.
 
-Taraji Hanson won [2007 performance of the year] and repeats her sass in
-*Talk To Me* in a much bigger role, though not with as much impact,
-though remaining impressive still.
+In _Talk To Me_,
+Taraji Hanson repeats the sass she displayed in [Smokin' Aces],
+but in a much bigger role, though not with as much impact.
 
-  [2007 performance of the year]: @/2007-movie-review.md
+[2007 performance of the year]: @/2007-movie-review.md
+[Smokin' Aces]: @/smokin-aces.md
