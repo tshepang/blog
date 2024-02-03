@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2023-12-27
+date = 2024-02-03
 
 [taxonomies]
 tags = ['tv']
@@ -29,3 +29,4 @@ watched them.
 - Mr. Robot
 - The Boys (season 1)
 - The Fall of the House of Usher
+- The Good Place (season 2 and 3)
