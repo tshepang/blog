@@ -17,4 +17,4 @@ an interesting story that's spoiled by some plot holes:
 
 Anyways, back to the good stuff: The environment where the human
 sacrifices take place is among the richest ever committed to screen, and
-the silly traditions aren't embarassingly executed.
+the silly traditions aren't embarrassingly executed.
