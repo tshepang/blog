@@ -1,6 +1,6 @@
 +++
 title = "favorite companies"
-date = 2023-09-23
+date = 2024-03-18
 
 [taxonomies]
 tags = ["Rust"]
@@ -12,16 +12,6 @@ Here are some reasons why I like some companies a lot:
 - their Rust embrace
 
 Here goes, and they need not show strongly in all of the 3 reasons above...
-
-- [Embark Studios],
-  a gamedev company,
-  is probably the most kool of companies that embrace Rust...
-  they care deeply about the Rust ecosystem,
-  which includes developing open source tooling for it,
-  and helping to funding many open source contributors and projects.
-  Adding to the koolnes is the games they develop...
-  they got some mouth-watering teasers and concept art
-  (for the upcoming 2 games, [The Finals] and [Arc Raiders]).
 
 - [Ferrous Systems], which offers Rust consulting and training,
   also does a lot for the language in the embedded domain by running [Oxidize].
@@ -67,7 +57,4 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 [Fastly]: https://www.fastly.com
 [Alex Crichton]: https://github.com/alexcrichton
 [Dan Gohman]: https://github.com/sunfishcode
-[Embark Studios]: https://www.embark-studios.com
-[The Finals]: https://www.reachthefinals.com
-[Arc Raiders]: https://arcraiders.com
 [Igalia]: https://igalia.com
