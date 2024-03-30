@@ -9,7 +9,7 @@ categories = ['movies']
 
 The **best movie** I have seen this year is
 [Somewhere]. The year's **greatest spectacle**, however, is
-[Inception], followed by [The A-Team]. The best **direction** is
+[Inception]. The best **direction** is
 a tie between [Brooklyn's Finest][Inception]
 and [Somewhere].
 
@@ -63,8 +63,7 @@ The best **cast** is that of *Calendar Girls*.
 
 The best **cast of children** can be found in *Spud*, while the year's
 best **villain** is that played by Hades in [Clash of the Titans]
-(also the year's most **fearsome character**),
-followed by the tough and smart shooter in [The A-Team].
+(also the year's most **fearsome character**).
 
 The most **desirable character** list follows:
 
@@ -136,7 +135,6 @@ For a complete list of the movies I reviewed for the year, visit [this tag].
 
 [Somewhere]: @/somewhere-2010.md
 [Inception]: @/many-many-recent-movies.md
-[The A-Team]: @/recent-movies-2010-09-15.md
 [The Job]: @/recent-movies-2010-11-19.md
 [Clash of the Titans]: @/clash-of-the-titans-2010.md
 [Iron Man 2]: @/iron-man-2.md

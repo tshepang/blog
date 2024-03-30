@@ -95,11 +95,6 @@ excessively unconventional style was rather unbearable, and is barely
 helped by the attractive storyline of pretty assassin who kills without
 flinching.
 
-It's amazing how little (none) chemistry exists between the 4 lead
-characters of *A-Team*. Liam Neeson and the agent lady are badly
-miscast; the guy playing B-A lacks the charisma that Mr T. had in the TV
-series, even if he's a better actor.
-
 "...phew!"
 
   [the movie's director got someone to re-write the script due to it
