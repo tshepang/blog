@@ -16,9 +16,4 @@ filled with superb and never-before-seen action, interesting characters
 (my favorite is the smart, tough, and villainous gunman), and good
 storyline. [[update]]
 
-*Knight & Day*, a half-serious secret agent story with a romantic touch,
-is similar to *Mr. & Mrs Smith* (but not nearly as good). It's got nice
-action and an uninteresting Tom Cruise, but Cameron Diaz is a
-what-a-doll!
-
   [update]: @/many-many-recent-movies.md
