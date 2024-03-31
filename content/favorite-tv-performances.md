@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2023-04-13
+date = 2024-03-31
 
 [taxonomies]
 tags = ["tv"]
@@ -11,6 +11,8 @@ tags = ["tv"]
 1. Lars Mikkelsen (*Sherlock*)
 
 1. [Anjana Vasan] (*Killing Eve*)
+
+1. [Maya Erskine] (Mr. & Mrs. Smith)
 
 1. Rob Yang (*Succession*)
 
@@ -25,3 +27,4 @@ tags = ["tv"]
 1. Benjamin Bratt (*Poker Face*)
 
 [Anjana Vasan]: https://en.wikipedia.org/wiki/Anjana_Vasan
+[Maya Erskine]: https://en.wikipedia.org/wiki/Maya_Erskine

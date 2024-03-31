@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2024-02-03
+date = 2024-03-31
 
 [taxonomies]
 tags = ['tv']
@@ -20,6 +20,7 @@ watched them.
 - Barry (season 1)
 - Atlanta (season 1)
 - Succession (season 1)
+- Mr. & Mrs. Smith
 
 **honorable mentions**
 
