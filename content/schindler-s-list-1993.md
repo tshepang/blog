@@ -19,9 +19,6 @@ watch the cartoonish portrayal of the guy making a hinge.
 Luckily, the movie is bearable throughout it's entire 180+ min running
 time. Also, stories of heroism are ever so appealing.
 
-Comparison with other movies set around the Holocaust:
-
--   *Sophie's Choice* did a better job, even though the coverage of the
-    subject material was very brief.
--   *Life is Beautiful* offered a far more moving experience, even
-    though it was partly a comedy.
+Compared with another movie set around the Holocaust,
+*Sophie's Choice* did a better job,
+even though the coverage of the subject material was very brief.

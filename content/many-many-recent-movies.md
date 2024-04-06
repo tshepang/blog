@@ -59,12 +59,6 @@ hyper-powered Spartans. Rocks! As a sidenote, I spent an untold number
 of hours playing and loving the game series, most especially [the first
 one]... among the most significant of gaming experiences in my life.
 
-*Life is Beautiful* helped me shed a few tears, due to the touching
-efforts of a man creating a make-believe world for his son, with whom
-he's imprisoned in a Nazi concentration camp. It's a beautiful
-fantasy, and is driven very well by Roberto Benigni (both the movie's
-director and the father character), as well as the boy playing the son.
-
 *Human Nature* has moments which make me wanna call it a masterpiece,
 but it loses steam along the way. Patricia Arquette makes me wanna fuck
 a hairy woman, and the ape boy is given a very entertaining performance.

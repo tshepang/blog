@@ -52,9 +52,8 @@ categories = ['movies']
 5. *Next* - treatment of the concept of being able to see the future
 
 ## touching
-1. [Life is Beautiful]
 2. [Yellow Earth]
-3. [The Kite Runner][Life is Beautiful]
+3. [The Kite Runner]
 
 ## touching moments
 1. an interview with a woman whose life was improved by Kinsey's work
@@ -103,7 +102,7 @@ categories = ['movies']
 [Sucker Punch]: @/sucker-punch-2011.md
 [Haywire]: @/haywire.md
 [Groundhog Day]: @/groundhog-day-1993.md
-[Life is Beautiful]: @/many-many-recent-movies.md
+[The Kite Runner]: @/many-many-recent-movies.md
 [Yellow Earth]: @/yellow-earth-1984.md
 [Kinsey]: @/kinsey-2004.md
 [Irréversible]: @/irreversible-2002.md
