@@ -50,15 +50,6 @@ concept is very attrative, and the idea of shifting gravity was
 well-executed (see the battle on the hallway). The conman is given a
 wonderful performance.
 
-*Halo Legends* is a collection of animated short films set in the Halo
-universe (equivalent of The Animatrix). I was not going to mention it
-here, until I got massively impressed by the superb action direction on
-it's last short, *The Package*. It's intense and well-animated, and
-what makes it even nicer is that all participants are the heroic,
-hyper-powered Spartans. Rocks! As a sidenote, I spent an untold number
-of hours playing and loving the game series, most especially [the first
-one]... among the most significant of gaming experiences in my life.
-
 *Human Nature* has moments which make me wanna call it a masterpiece,
 but it loses steam along the way. Patricia Arquette makes me wanna fuck
 a hairy woman, and the ape boy is given a very entertaining performance.
@@ -93,4 +84,3 @@ flinching.
 
   [the movie's director got someone to re-write the script due to it
   being too campy]: http://en.wikipedia.org/wiki/Superman_(film)
-  [the first one]: http://en.wikipedia.org/wiki/Halo:_Combat_Evolved
