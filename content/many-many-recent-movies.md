@@ -50,10 +50,6 @@ concept is very attrative, and the idea of shifting gravity was
 well-executed (see the battle on the hallway). The conman is given a
 wonderful performance.
 
-*Human Nature* has moments which make me wanna call it a masterpiece,
-but it loses steam along the way. Patricia Arquette makes me wanna fuck
-a hairy woman, and the ape boy is given a very entertaining performance.
-
 Another movie that runs out of steam, though rather too soon, and also
 becomes unbearably dull and lame is *Shane* (1953), which I watched only
 because I once read the novel it's based on some time ago. It's too

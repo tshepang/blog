@@ -119,7 +119,6 @@ The **fall from glory** award goes to:
 
 1.  [Se7en] - lost its juice on this revisit
 2.  [Malcolm X][The Job] - I considered this a masterpiece at some point
-3.  [Human Nature][Inception] - same as above
 
 ## unpleasantries
 
