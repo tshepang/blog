@@ -102,7 +102,7 @@ master-critic, Jonathan Rosenbaum.
 ## cinematography
 
 *Man on Fire*, with excellent, grainy touches and handheld camerawork,
-is followed by *Constantine*'s gorgeous shots, *Delicatessen*'s
+is followed by *Delicatessen*'s
 ultra-polished images and, to a lesser extent, *Tsotsi*'s shots of
 SA's less pleasant living conditions.
 
@@ -118,14 +118,14 @@ warfare, distorted as it may be.
 
 ## production design
 
-Tough competition sees *Constantine*, *Man on Fire*, *Spiderman 2*, and
+Tough competition sees *Man on Fire*, *Spiderman 2*, and
 *Tsotsi* battling without a clear winner.
 
 ## visual effects
 
 *Pirates of the Caribbean* is up there with *King Kong* among the
 greatest ever visual spectacles. An honorable mention goes to *SpiderMan
-2* and another to the lower-budget entrant, *Constantine*.
+2*.
 
 ## sound
 

@@ -60,9 +60,7 @@ I always celebrate:
 4. The Missionary ([Silent Hill: Revelation])
 5. Nurses ([Silent Hill: Revelation])
 6. Dementors ([Harry Potter and the Prisoner of Azkaban])
-7. Half-headed demons (*Constantine*)
 8. The Kraken ([Clash of the Titans])
-9. Bug on the street (*Constantine*)
 
 ## character design
 
@@ -71,9 +69,7 @@ I always celebrate:
 3. Samurai Warriors ([Sucker Punch])
 4. The Missionary ([Silent Hill: Revelation])
 5. lead villain ([9])
-6. Half-headed demons (*Constantine*)
 8. living humans beings (*A Corpse Bride*)
-9. Bug on the street (*Constantine*)
 10. chess pieces ([Harry Potter and the Sorcerer's Stone])
 
 

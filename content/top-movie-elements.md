@@ -62,9 +62,6 @@ categories = ['movies']
 ## heaven portrayal
 - *What Dreams May Come*
 
-## hell portrayal
-- *Constantine*
-
 ## romantic moment
 - "the definition of beauty" (*Next*)
 
