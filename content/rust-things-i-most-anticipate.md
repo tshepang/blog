@@ -14,7 +14,7 @@ tags = ["Rust"]
 - Use of Rust in safety-critical systems,
   [Ferrocene] being the most likely candidate,
   due to being the first (and only) Rust toolchain [qualified for the domain]
-- Wide use of [typst], a more pleasant alternative to LaTeX
+- Wide use of [Typst], a more pleasant alternative to LaTeX
 - Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
    - [rustc_codegen_cranelift],
      which uses [cranelift] for codegen,
@@ -46,7 +46,7 @@ tags = ["Rust"]
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
 [LLVM]: https://github.com/llvm/llvm-project
-[typst]: https://github.com/typst/typst
+[Typst]: https://github.com/typst/typst
 [qualified for the domain]: https://ferrous-systems.com/blog/officially-qualified-ferrocene
 [Binder]: https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com
 [apple gpu driver update]: https://asahilinux.org/2023/03/road-to-vulkan
