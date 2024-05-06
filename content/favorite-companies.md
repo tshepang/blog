@@ -45,7 +45,8 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 
 - [Fastly], which offers various internet services,
   is a key player in the Wasm ecosystem,
-  as evidenced by employing giants such as [Alex Crichton] and [Dan Gohman].
+  as evidenced by employing giants such as [Dan Gohman],
+  or heavily sponsoring work on important projects such as [Wasmtime].
 
 [Ferrous Systems]: https://ferrous-systems.com
 [Oxidize]: https://oxidizeconf.com
@@ -55,6 +56,6 @@ Here goes, and they need not show strongly in all of the 3 reasons above...
 [all workers get the same pay]: https://oxide.computer/blog/compensation-as-a-reflection-of-values
 [in public]: https://github.com/mullvad
 [Fastly]: https://www.fastly.com
-[Alex Crichton]: https://github.com/alexcrichton
 [Dan Gohman]: https://github.com/sunfishcode
 [Igalia]: https://igalia.com
+[Wasmtime]: https://github.com/bytecodealliance/wasmtime
