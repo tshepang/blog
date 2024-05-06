@@ -1,11 +1,18 @@
 +++
 title = "Rust things I most anticipate"
-date = 2023-11-28
+date = 2024-05-06
 
 [taxonomies]
 tags = ["Rust"]
 +++
 
+- Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
+   - [rustc_codegen_cranelift],
+     which uses [cranelift] for codegen,
+     is already available via `rustup` on nightly toolchains,
+     and the immediate benefit is fast debug compiles ([latest update][cranelift update])
+   - [rustc_codegen_gcc],
+     allowing Rust to run in more hardware platforms ([latest update])
 - A driver written in Rust in the official Linux kernel,
   most promising ones being:
   - [Binder] (for Android IPC)
@@ -15,13 +22,6 @@ tags = ["Rust"]
   [Ferrocene] being the most likely candidate,
   due to being the first (and only) Rust toolchain [qualified for the domain]
 - Wide use of [Typst], a more pleasant alternative to LaTeX
-- Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
-   - [rustc_codegen_cranelift],
-     which uses [cranelift] for codegen,
-     is already available via `rustup` on nightly toolchains,
-     and the immediate benefit is fast debug compiles ([latest update][cranelift update])
-   - [rustc_codegen_gcc],
-     allowing Rust to run in more hardware platforms ([latest update])
 - Usage in production versions of Chromium,
   though this would only be [for external dependencies]
 - [hyper] being used as default HTTP backend of cURL ([Hyper progress
@@ -35,9 +35,9 @@ tags = ["Rust"]
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
-[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-27
+[latest update]: https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
-[cranelift update]: https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html
+[cranelift update]: https://bjorn3.github.io/2024/04/06/progress-report-april-2024.html
 [hyper]: https://github.com/hyperium/hyper
 [Hyper progress tracker]: https://github.com/orgs/hyperium/projects/2/views/1
 [cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
