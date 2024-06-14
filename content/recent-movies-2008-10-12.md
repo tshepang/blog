@@ -36,7 +36,7 @@ premise could have been explained better.
 creature extravaganza only last seen in the *Star Wars* series. Its
 central concept is similar to that of *The Mummy 3* (awakening an
 ancient and near-indestructible army) and I wonder if the writers were
-aware. Luckily the material received better treament in this *Hellboy
+aware. Luckily the material received better treatment in this *Hellboy
 2*. And it's also amazing that you can get such amazing martial arts
 choreography in Yuen Woo Ping's absence. Oh, and I couldn't help but
 notice that the walking fish is modeled after that talkative robot in

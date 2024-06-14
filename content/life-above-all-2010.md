@@ -6,7 +6,7 @@ tags = ['2011-movie', 'decent']
 categories = ['movies']
 +++
 
-There is much authenticity and freshness in the treament of poor South
+There is much authenticity and freshness in the treatment of poor South
 African township experience, but there is also a lack of those since the
 behaviour of some of the people is such that I've never witnessed (or
 heard of, given the demographics of the setting) as a citizen of that
