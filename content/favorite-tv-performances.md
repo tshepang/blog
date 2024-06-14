@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2024-03-31
+date = 2024-06-14
 
 [taxonomies]
 tags = ["tv"]
@@ -14,7 +14,7 @@ tags = ["tv"]
 
 1. [Maya Erskine] (Mr. & Mrs. Smith)
 
-1. Rob Yang (*Succession*)
+1. Rob Yang (*Succession* and *Rabbit Hole*)
 
 1. Jason Jamal Ligon (*Atlanta*)
 
