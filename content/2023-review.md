@@ -1,6 +1,6 @@
 +++
 title = "2023 review"
-date = 2024-01-21
+date = 2024-06-15
 
 [taxonomies]
 tags = ["year-review", "2023"]
@@ -21,6 +21,9 @@ but the best __performance__ is by [Paula Luchsinger] in _El Conde_.
 
 The best __dialogue__ is in _Anatomy of a Fall_.
 The quarrel of the married couple is particularly notable.
+
+The best __combat__ is the final one in _Boy Meets World_...
+so intense, so brutal.
 
 [Huang Bo]: https://en.wikipedia.org/wiki/Huang_Bo
 [Paula Luchsinger]: https://en.wikipedia.org/wiki/Paula_Luchsinger
