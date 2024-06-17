@@ -1,6 +1,6 @@
 +++
 title = "Rust search tools to watch"
-date = 2022-08-11
+date = 2024-06-17
 
 [taxonomies]
 tags = ["Rust"]
@@ -16,11 +16,6 @@ These are all maintained well:
 
 - [Meilisearch]
   - uses LMDB as backing store
-
-- [BonsaiDb]
-
-  - "document store"
-  - used [Nebari] as backing store ([update])
 
 - [Spyglass]: search engine that crawls websites and stores them locally
 
