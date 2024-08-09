@@ -21,7 +21,7 @@ On the negative side:
 - None of [the issues I had over 8 months ago] have been fixed.
 - I would still like to have [automatic saving of historical yanks].
 - I would love to have [searchable Prompt history],
-  because it's a pain to access it via scrolling when there is lots of it
+  because it's a pain to access it via scrolling when there is lots of it.
 - And on that Prompt history topic,
   there is also no support for [Persistent command history].
 
