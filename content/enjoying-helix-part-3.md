@@ -13,7 +13,7 @@ In addition to the joys expressed in [that earlier post][part 2]:
 - One positive change from my previous complaints is that I have settled on a theme,
   the gorgeous Kanagawa.
 - I also used `:pipe` command,
-  a wonderful workdaround for when an operation is not supported by the editor.
+  a wonderful workaround for when an operation is not supported by the editor.
   In my case,
   I used it for formatting JSON output (with `:pipe jaq`).
 
