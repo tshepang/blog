@@ -29,7 +29,7 @@ There is [a separate post] for those.
 
 - __[Helix]__: acts as a decent IDE, and is a fantastic text editor
 - __Git__: hard to avoid
-- __Cargo__: central tool for Rust development
+- __Rust toolchain__
 
 ### GUI applications
 

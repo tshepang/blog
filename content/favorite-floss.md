@@ -14,7 +14,7 @@ __web browser__: Firefox (laptop and mobile)
 
 __text editor__: [Helix]
 
-__development__: [Helix], [Cargo]
+__development__: [Helix], Rust toolchain (cargo, rustfmt, rustdoc, rust-analyzer)
 
 __chat__: [Zulip]
 
@@ -35,6 +35,5 @@ __documentation__: [mdBook]
 [NewPipe]: https://newpipe.net
 [AntennaPod]: https://antennapod.org
 [VLC]: https://www.videolan.org
-[Cargo]: https://doc.rust-lang.org/stable/cargo
 [Transmission]: http://www.transmissionbt.com
 [mdBook]: https://rust-lang.github.io/mdBook
