@@ -1,7 +1,7 @@
 title = "Tshepang logs"
 base_url = "https://tshepang.github.io"
 theme = "after-dark"
-generate_feed = true
+generate_feeds = false # currently broken
 build_search_index = true
 markdown.highlight_code = true
 
