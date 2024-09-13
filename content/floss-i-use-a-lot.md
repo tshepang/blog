@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2023-11-23
+date = 2024-09-13
 
 [taxonomies]
 tags = ['list']
@@ -36,6 +36,7 @@ There is [a separate post] for those.
 - __[AntennaPod]__: for listening to podcasts (on Android)
 - __[Transmission]__: the only torrent client I ever used
 - __VLC__: user interface could be a lot better
+- __[NewPipe]__: alternative viewer for YouTube (on Android)
 - __[Nemo]__: a fork of Nautilus
 - __nm-applet__: part of NetworkManager
 
@@ -87,3 +88,4 @@ There is [a separate post] for those.
 [Mastodon]: https://joinmastodon.org
 [fd-find]: https://github.com/sharkdp/fd
 [a separate post]: @/favorite-floss.md
+[NewPipe]: https://newpipe.net
