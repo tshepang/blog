@@ -7,6 +7,9 @@ tags = ['list']
 +++
 
 
+Following are tools I use a lot, but am not necessarily loving...
+There is [a separate post] for those.
+
 ### environment
 
 - __Debian__: my favorite OS
@@ -83,3 +86,4 @@ tags = ['list']
 [Zulip]: https://zulip.com
 [Mastodon]: https://joinmastodon.org
 [fd-find]: https://github.com/sharkdp/fd
+[a separate post]: @/favorite-floss.md
