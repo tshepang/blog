@@ -35,8 +35,6 @@ Hill: Revelation].
 
 ## miscellaneous
 
-The most **bizarre** movie is [Cloud Atlas].
-
 The most **innovative** movie is the satirical [Goodbye Uncle Tom]:
 it's shot like a documentary in which the makers travel to a
 particularly horrid moment in United States history, yet treating it
@@ -51,5 +49,4 @@ with humor... very daring.
 [Django Unchained]: @/django-unchained-2012.md
 [Chiwetel Ejiofor]: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
 [Silent Hill: Revelation]: @/silent-hill-revelation-2012.md
-[Cloud Atlas]: @/cloud-atlas-2012.md
 [Goodbye Uncle Tom]: @/goodbye-uncle-tom-1971.md
