@@ -11,7 +11,8 @@ listed in the chronology of feeling the admiration:
 
 - [Cornel West], for being on the race to become US president, on a convincingly moral platform
 - [Jill Stein], for the same reason as West, only with a lot more electoral experience
-- [Briahna Joy Gray], for speaking strongly against immoral acts of US government as a journalist
+- [Briahna Joy Gray], for speaking strongly against immoral acts of US government as a journalist.
+  She happens to have interviewed both West and Stein.
 
 [Briahna Joy Gray]: https://en.wikipedia.org/wiki/Briahna_Joy_Gray
 [Jill Stein]: https://en.wikipedia.org/wiki/Jill_Stein
