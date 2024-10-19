@@ -9,8 +9,8 @@ tags = ["politics"]
 There is a number of people I did fall in love with in the recent past (about 2 years),
 listed in the chronology of feeling the admiration:
 
-- [Cornel West], for being on the race to become US president, on a convincingly moral platform
-- [Jill Stein], for the same reason as West, only with a lot more electoral experience
+- [Cornel West], for being on the race to become US president, on a convincingly moral platform.
+- [Jill Stein], for the same reason as West, only with a lot more electoral experience.
 - [Briahna Joy Gray], for speaking strongly against immoral acts of US government as a journalist.
   She happens to have interviewed both West and Stein.
 
