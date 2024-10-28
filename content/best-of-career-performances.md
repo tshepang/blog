@@ -1,6 +1,6 @@
 +++
 title = "best-of-career performances"
-date = 2015-04-01
+date = 2024-10-28
 
 [taxonomies]
 tags = ['list']
@@ -8,6 +8,7 @@ categories = ['movies']
 +++
 
 - Brat Pitt ([The Counselor])
+- Channing Tatum (*Blink Twice*)
 - Clive Owen (*Closer*)
 - Colin Firth ([The King's Speech])
 - David Straithairn ([Good Night, and Good Luck])
