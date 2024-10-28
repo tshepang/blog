@@ -1,6 +1,6 @@
 +++
 title = "2023 review"
-date = 2024-06-15
+date = 2024-10-28
 
 [taxonomies]
 tags = ["year-review", "2023"]
@@ -24,6 +24,8 @@ The quarrel of the married couple is particularly notable.
 
 The best __combat__ is the final one in _Boy Meets World_...
 so intense, so brutal.
+
+The __best twist__ is in *Strange Darling*... so surprising!
 
 [Huang Bo]: https://en.wikipedia.org/wiki/Huang_Bo
 [Paula Luchsinger]: https://en.wikipedia.org/wiki/Paula_Luchsinger
