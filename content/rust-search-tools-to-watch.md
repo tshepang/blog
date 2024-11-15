@@ -10,7 +10,7 @@ These are all maintained well:
 
 - [Quickwit]
 
-  - "search engine for log management"
+  - "search engine for observability"
   - built on [Tantivy], an equivalent of [Lucene]
   - search API compatible with that of Elasticsearch
 
