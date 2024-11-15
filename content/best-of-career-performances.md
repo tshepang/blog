@@ -1,6 +1,6 @@
 +++
 title = "best-of-career performances"
-date = 2024-10-28
+date = 2024-11-16
 
 [taxonomies]
 tags = ['list']
@@ -25,6 +25,7 @@ categories = ['movies']
 - Laurence Fishburne (*Mystic River*)
 - Mickey Rourke (*The Wrestler*)
 - Morgan Freeman (*Million Dollar Baby*)
+- Natalie Portman (*May December*)
 - Nicole Kidman ([Birth]); also [favorite-of-career]; honorable mention ([Rabbit Hole])
 - Penélope Cruz ([Vicky Cristina Barcelona])
 - Rosario Dawson (*Seven Pounds*)
