@@ -1,6 +1,6 @@
 +++
 title = "Rust search tools to watch"
-date = 2024-06-17
+date = 2024-11-16
 
 [taxonomies]
 tags = ["Rust"]
@@ -19,10 +19,6 @@ These are all maintained well:
 
 - [Spyglass]: search engine that crawls websites and stores them locally
 
-- [Sonic]
-
-  - "a schema-less search backend"
-  - uses [RocksDB] as backing store
 
 [Quickwit]: https://github.com/quickwit-oss/quickwit
 [Tantivy]: https://github.com/quickwit-oss/tantivy
@@ -31,6 +27,4 @@ These are all maintained well:
 [BonsaiDb]: https://github.com/khonsulabs/bonsaidb
 [Nebari]: https://github.com/khonsulabs/nebari
 [update]: https://bonsaidb.io/blog/durable-writes
-[Sonic]: https://github.com/valeriansaliou/sonic
-[RocksDB]: https://github.com/facebook/rocksdb
 [Spyglass]: https://github.com/a5huynh/spyglass
