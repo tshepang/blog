@@ -1,6 +1,6 @@
 +++
 title = "best-of-career performances"
-date = 2024-11-16
+date = 2024-11-22
 
 [taxonomies]
 tags = ['list']
@@ -17,6 +17,7 @@ categories = ['movies']
 - Hugh Jackman ([Prisoners])
 - Jake Gyllenhaal ([Nightcrawler])
 - Jet Li ([The Warlords])
+- Joaquin Phoenix (_Joker: Folie à Deux_)
 - John Carroll Lynch (*Zodiac*)
 - John Malkovich ([Changeling])
 - Jon Voigt ([The Rainmaker])
