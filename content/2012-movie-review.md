@@ -35,7 +35,7 @@ followed by those from [The Girl With the Dragon Tattoo]. As for best
 **ending credits sequence/visuals**, the honor goes to [Harry Potter and
 the Half-Blood Prince].
 
-Although I hate the movie, I have to admit that **best production
+Although I hate the movie, I have to admit that best **production
 design** is found in [J. Edgar].
 
 ## performances
