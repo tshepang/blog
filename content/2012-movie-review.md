@@ -26,7 +26,7 @@ The best **action** is offered by [The Avengers], while
 the best **hand-to-hand combat sequence** is the fight that takes place
 in a diner in [Haywire].
 
-The best **animation** is, interestingly, an insert in ([Harry Potter
+The best **animation** is, interestingly, an insert (in [Harry Potter
 and the Deathly Hallows, Part 1]), which tells the story of the Deathly
 Hallows.
 
