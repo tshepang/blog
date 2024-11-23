@@ -55,8 +55,7 @@ Rises]), even though it's hard to hear at times.
 
 ## characters
 
-My **favorite character** is however the son ([Dakota Goyo])
-in [Real Steel],
+My **favorite character** is the son ([Dakota Goyo]) in [Real Steel],
 while my **favorite villain** is Bane (Tom Hardy) in [The Dark Knight Rises].
 
 The most **desirable character** is Charlotte Gainsbourg as main love interest
