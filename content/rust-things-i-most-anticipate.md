@@ -12,7 +12,7 @@ tags = ["Rust"]
      is already available via `rustup` on nightly toolchains,
      and the immediate benefit is fast debug compiles ([latest update][cranelift update])
    - [rustc_codegen_gcc],
-     allowing Rust to run in more hardware platforms ([latest update][]rustc_codegen_gcc update])
+     allowing Rust to run in more hardware platforms ([latest update][rustc_codegen_gcc update])
 - A driver written in Rust in the official Linux kernel,
   most promising ones being:
   - [Binder] (for Android IPC)
