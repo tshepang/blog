@@ -12,7 +12,7 @@ tags = ["Rust"]
      is already available via `rustup` on nightly toolchains,
      and the immediate benefit is fast debug compiles ([latest update][cranelift update])
    - [rustc_codegen_gcc],
-     allowing Rust to run in more hardware platforms ([latest update])
+     allowing Rust to run in more hardware platforms ([latest update][]rustc_codegen_gcc update])
 - A driver written in Rust in the official Linux kernel,
   most promising ones being:
   - [Binder] (for Android IPC)
@@ -35,7 +35,7 @@ tags = ["Rust"]
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
-[latest update]: https://blog.antoyo.xyz/development-rustc_codegen_gcc
+[rustc_codegen_gcc update]: https://blog.antoyo.xyz/development-rustc_codegen_gcc
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift update]: https://bjorn3.github.io/2024/11/14/progress-report-nov-2024.html
 [hyper]: https://github.com/hyperium/hyper
