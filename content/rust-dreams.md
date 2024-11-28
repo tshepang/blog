@@ -10,7 +10,7 @@ My ideal computing environment, for all device types (from servers to embedded):
 
 - processors are [RISC-V]
 - OS is [Theseus]
-  (the most exciting project written in Rust at the moment)
+  (excluding some embedded systems where there is only a single application)
   - the next best thing is having [Redox OS] reach mainstream usage
   - the next best thing after that is having [Rust in Linux kernel],
     which would require the least effort of the options above
@@ -25,4 +25,3 @@ My ideal computing environment, for all device types (from servers to embedded):
 [Eyra]: https://github.com/sunfishcode/eyra
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [Rust in Linux kernel]: https://www.memorysafety.org/blog/memory-safety-in-linux-kernel
-[Pijul]: https://pijul.org
