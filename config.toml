@@ -3,6 +3,8 @@ base_url = "https://tshepang.github.io"
 theme = "after-dark"
 generate_feeds = true
 build_search_index = true
+search.index_format = "elasticlunr_json"
+extra.enable_search = true
 markdown.highlight_code = true
 
 [[taxonomies]]
