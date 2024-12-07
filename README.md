@@ -8,7 +8,7 @@ flow pre-requisite:
 
 - get theme
 
-      cd ~/blog
+      cd blog
       mkdir themes && cd themes
       git clone --recursive https://github.com/tshepang/after-dark --branch custom
 
