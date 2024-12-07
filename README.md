@@ -2,7 +2,7 @@ flow pre-requisite:
 
 - [install Rust toolchain]
 
-- install post, a helper for creating new blog posts:
+- install `post`, a helper for creating new blog posts:
 
       cargo install --git https://github.com/tshepang/post
 
