@@ -1,6 +1,6 @@
 +++
 title = "best-of-career performances"
-date = 2024-11-22
+date = 2024-12-08
 
 [taxonomies]
 tags = ['list']
@@ -18,6 +18,7 @@ categories = ['movies']
 - Jake Gyllenhaal ([Nightcrawler])
 - Jet Li ([The Warlords])
 - Joaquin Phoenix (_Joker: Folie à Deux_)
+- Jonathan Pryce (_The Wife_)
 - John Carroll Lynch (*Zodiac*)
 - John Malkovich ([Changeling])
 - Jon Voigt ([The Rainmaker])
