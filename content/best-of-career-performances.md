@@ -8,8 +8,8 @@ categories = ['movies']
 +++
 
 - Brat Pitt ([The Counselor])
-- Channing Tatum (*Blink Twice*)
-- Clive Owen (*Closer*)
+- Channing Tatum (_Blink Twice_)
+- Clive Owen (_Closer_)
 - Colin Firth ([The King's Speech])
 - David Straithairn ([Good Night, and Good Luck])
 - Forest Whitaker ([The Last King of Scotland])
@@ -19,23 +19,23 @@ categories = ['movies']
 - Jet Li ([The Warlords])
 - Joaquin Phoenix (_Joker: Folie à Deux_)
 - Jonathan Pryce (_The Wife_)
-- John Carroll Lynch (*Zodiac*)
+- John Carroll Lynch (_Zodiac_)
 - John Malkovich ([Changeling])
 - Jon Voigt ([The Rainmaker])
-- Kerry Washington (*I Think I Love My Wife*)
-- Kirsten Dunst (*Eternal Sunshine of the Spotless Mind*)
-- Laurence Fishburne (*Mystic River*)
-- Mickey Rourke (*The Wrestler*)
-- Morgan Freeman (*Million Dollar Baby*)
-- Natalie Portman (*May December*)
+- Kerry Washington (_I Think I Love My Wife_)
+- Kirsten Dunst (_Eternal Sunshine of the Spotless Mind_)
+- Laurence Fishburne (_Mystic River_)
+- Mickey Rourke (_The Wrestler_)
+- Morgan Freeman (_Million Dollar Baby_)
+- Natalie Portman (_May December_)
 - Nicole Kidman ([Birth]); also [favorite-of-career]; honorable mention ([Rabbit Hole])
 - Penélope Cruz ([Vicky Cristina Barcelona])
-- Rosario Dawson (*Seven Pounds*)
-- Samuel L. Jackson (*Pulp Fiction*)
+- Rosario Dawson (_Seven Pounds_)
+- Samuel L. Jackson (_Pulp Fiction_)
 - Sandra Oh ([Rabbit Hole])
-- Tom Wilkinson (*Good People*)
-- Will Smith (*Ali*); also [favorite-of-career]
-- Woody Harrelson (*Seven Pounds*)
+- Tom Wilkinson (_Good People_)
+- Will Smith (_Ali_); also [favorite-of-career]
+- Woody Harrelson (_Seven Pounds_)
 
 ---
 
