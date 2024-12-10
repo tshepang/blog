@@ -21,7 +21,7 @@ __chat__: [Zulip]
 
 __social__: [Phanpy] (on mobile)
 
-__search__: [ripgrep]
+__search__: [ripgrep], [fd-find]
 
 __audio/video__: [AntennaPod], [VLC], [Transmission]
 
@@ -41,3 +41,4 @@ __documentation__: [mdBook]
 [Transmission]: http://www.transmissionbt.com
 [mdBook]: https://rust-lang.github.io/mdBook
 [Phanpy]: https://phanpy.social
+[fd-find]: https://github.com/sharkdp/fd
