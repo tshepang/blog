@@ -1,6 +1,6 @@
 +++
 title = "FLOSS I use a-lot"
-date = 2024-09-13
+date = 2024-12-10
 
 [taxonomies]
 tags = ['list']
@@ -23,7 +23,7 @@ There is [a separate post] for those.
 ## info/comms
 
 - __[Zulip]__ (use both by work and by the Rust project)
-- __[Mastodon]__
+- __[Mastodon]__ (primarily via [Phanpy])
 
 ### software development
 
@@ -89,3 +89,4 @@ There is [a separate post] for those.
 [fd-find]: https://github.com/sharkdp/fd
 [a separate post]: @/favorite-floss.md
 [NewPipe]: https://newpipe.net
+[Phanpy]: https://phanpy.social

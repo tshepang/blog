@@ -1,6 +1,7 @@
 +++
 title = "favorite FLOSS"
-date = 2024-09-13
+date = 2024-12-10
+
 [taxonomies]
 tags = ['list']
 +++
@@ -17,6 +18,8 @@ __text editor__: [Helix]
 __development__: [Helix], Rust toolchain (cargo, rustfmt, rustdoc, rust-analyzer)
 
 __chat__: [Zulip]
+
+__social__: [Phanpy] (on mobile)
 
 __search__: [ripgrep]
 
@@ -37,3 +40,4 @@ __documentation__: [mdBook]
 [VLC]: https://www.videolan.org
 [Transmission]: http://www.transmissionbt.com
 [mdBook]: https://rust-lang.github.io/mdBook
+[Phanpy]: https://phanpy.social
