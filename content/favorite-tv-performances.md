@@ -6,27 +6,27 @@ date = 2024-12-21
 tags = ["tv"]
 +++
 
-1. Craig Tate (*Snowfall*)
+1. Craig Tate (_Snowfall_)
 
-1. Lars Mikkelsen (*Sherlock*)
+1. Lars Mikkelsen (_Sherlock_)
 
-1. [Anjana Vasan] (*Killing Eve*)
+1. [Anjana Vasan] (_Killing Eve_)
 
 1. [Maya Erskine] (Mr. & Mrs. Smith)
 
-1. Rob Yang (*Succession* and *Rabbit Hole*)
+1. Rob Yang (_Succession_ and _Rabbit Hole_)
 
-1. Jason Jamal Ligon (*Atlanta*)
+1. Jason Jamal Ligon (_Atlanta_)
 
-1. Ashley Romans (*Y: The Last Man*)
+1. Ashley Romans (_Y: The Last Man_)
 
-1. Nicoye Banks (*Atlanta*)
+1. Nicoye Banks (_Atlanta_)
 
-1. Ayo Edebiri and Lionel Boyce (*The Bear*)
+1. Ayo Edebiri and Lionel Boyce (_The Bear_)
 
-1. Benjamin Bratt (*Poker Face*)
+1. Benjamin Bratt (_Poker Face_)
 
-1. [Timothy Webber] (*See*)
+1. [Timothy Webber] (_See_)
 
 1. [Katherine Waterston] (_Slow Horses_)
 
