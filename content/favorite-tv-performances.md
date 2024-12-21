@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2024-08-16
+date = 2024-12-21
 
 [taxonomies]
 tags = ["tv"]
@@ -28,6 +28,9 @@ tags = ["tv"]
 
 1. [Timothy Webber] (*See*)
 
+1. [Katherine Waterston] (_Slow Horses_)
+
 [Anjana Vasan]: https://en.wikipedia.org/wiki/Anjana_Vasan
 [Maya Erskine]: https://en.wikipedia.org/wiki/Maya_Erskine
 [Timothy Webber]: https://en.wikipedia.org/wiki/Timothy_Webber
+[Katherine Waterston]: https://en.wikipedia.org/wiki/Katherine_Waterston
