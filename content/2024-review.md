@@ -1,11 +1,18 @@
 +++
 title = "2024 review"
-date = 2024-12-07
+date = 2024-12-25
 
 [taxonomies]
 tags = ["year-review", "2024"]
 categories = ["movies"]
 +++
+
+_Anora_ is __movie of the year__,
+due to its exciting direction,
+fresh writing,
+and a story that highlights extreme inequality and the suffering that results.
+An example of such suffering is of those doing exotic dancing,
+which has never been portrayed with such a level of skill and realism.
 
 The __spectacle of the year__ is *A Quiet Place: Day One*,
 complete with incredible creatures and setting,
