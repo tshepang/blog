@@ -19,6 +19,10 @@ complete with incredible creatures and setting,
 and very entertaining,
 even though none of it is new.
 
+_Flow_ is the most __enchanting__ movie,
+with a very touching and mesmerizing story of vertebrates trying to survive some supernatural event,
+while also helping (and threatening) each other.
+
 The best __direction__ is that of _Rumours_,
 followed by _Joker: Folie à Deux_.
 
