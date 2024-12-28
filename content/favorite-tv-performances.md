@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2024-12-21
+date = 2024-12-28
 
 [taxonomies]
 tags = ["tv"]
@@ -25,6 +25,8 @@ tags = ["tv"]
 1. Ayo Edebiri and Lionel Boyce (_The Bear_)
 
 1. Benjamin Bratt (_Poker Face_)
+
+1. Onahoua Rodriguez (_Mad Dogs_)
 
 1. [Timothy Webber] (_See_)
 
