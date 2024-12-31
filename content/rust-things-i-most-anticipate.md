@@ -1,11 +1,13 @@
 +++
 title = "Rust things I most anticipate"
-date = 2024-11-28
+date = 2024-12-31
 
 [taxonomies]
 tags = ["Rust"]
 +++
 
+- Wide use of [Radicle],
+  an alternative to GitHub that is peer-to-peer ([latest update][radicle update])
 - Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
    - [rustc_codegen_cranelift],
      which uses [cranelift] for codegen,
@@ -50,3 +52,5 @@ tags = ["Rust"]
 [qualified for the domain]: https://ferrous-systems.com/blog/officially-qualified-ferrocene
 [Binder]: https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com
 [apple gpu driver update]: https://asahilinux.org/2023/03/road-to-vulkan
+[Radicle]: https://radicle.xyz
+[radicle update]: https://radicle.xyz/2024/12/05/radicle-1.1.html
