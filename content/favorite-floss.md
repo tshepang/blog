@@ -17,7 +17,7 @@ __text editor__: [Helix]
 
 __development__: [Helix], Rust toolchain (cargo, rustfmt, rustdoc, rust-analyzer)
 
-__chat__: [Zulip]
+__chat__: [Zulip] (used by [Rust], [Bytecode Alliance], and [Servo] projects)
 
 __social__: [Phanpy] (on mobile)
 
@@ -42,3 +42,7 @@ __documentation__: [mdBook]
 [mdBook]: https://rust-lang.github.io/mdBook
 [Phanpy]: https://phanpy.social
 [fd-find]: https://github.com/sharkdp/fd
+
+[Bytecode Alliance]: https://bytecodealliance.zulipchat.com
+[Servo]: https://servo.zulipchat.com
+[Rust]: https://rust-lang.zulipchat.com
