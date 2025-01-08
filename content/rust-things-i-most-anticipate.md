@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2024-12-31
+date = 2025-01-08
 
 [taxonomies]
 tags = ["Rust"]
@@ -26,9 +26,6 @@ tags = ["Rust"]
 - Wide use of [Typst], a more pleasant alternative to LaTeX
 - Usage in production versions of Chromium,
   though this would only be [for external dependencies]
-- [hyper] being used as default HTTP backend of cURL ([Hyper progress
-  tracker] and [cURL progress tracker]),
-  because the latter has billions of installations
 - Removing libc dependency for Linux-based systems ([mustang] and [rustix])
 - Wide use of [Pijul], for I want a better VCS than Git
   ([latest update](https://pijul.org/posts/2022-01-08-beta))
@@ -40,9 +37,6 @@ tags = ["Rust"]
 [rustc_codegen_gcc update]: https://blog.antoyo.xyz/development-rustc_codegen_gcc
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [cranelift update]: https://bjorn3.github.io/2024/11/14/progress-report-nov-2024.html
-[hyper]: https://github.com/hyperium/hyper
-[Hyper progress tracker]: https://github.com/orgs/hyperium/projects/2/views/1
-[cURL progress tracker]: https://github.com/curl/curl/wiki/Hyper
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [for external dependencies]: https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html
 [Pijul]: https://pijul.org
