@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2025-01-08
+date = 2025-01-11
 
 [taxonomies]
 tags = ["Rust"]
@@ -15,7 +15,7 @@ tags = ["Rust"]
      and the immediate benefit is fast debug compiles ([latest update][cranelift update])
    - [rustc_codegen_gcc],
      allowing Rust to run in more hardware platforms ([latest update][rustc_codegen_gcc update])
-- A driver written in Rust in the official Linux kernel,
+- More drivers written in Rust in the official Linux kernel,
   most promising ones being:
   - [Binder] (for Android IPC)
   - Apple GPU driver ([latest update][apple gpu driver update]),
@@ -29,6 +29,12 @@ tags = ["Rust"]
 - Removing libc dependency for Linux-based systems ([mustang] and [rustix])
 - Wide use of [Pijul], for I want a better VCS than Git
   ([latest update](https://pijul.org/posts/2022-01-08-beta))
+
+### achieved
+
+- A driver written in Rust in the official Linux kernel:
+  - [Asix PHYs driver](https://github.com/torvalds/linux/blob/master/drivers/net/phy/ax88796b_rust.rs)
+    is the first, released early 2024
 
 [mustang]: https://github.com/sunfishcode/mustang
 [rustix]: https://github.com/bytecodealliance/rsix
