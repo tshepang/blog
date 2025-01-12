@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2025-01-11
+date = 2025-01-12
 
 [taxonomies]
 tags = ["Rust"]
@@ -12,9 +12,9 @@ tags = ["Rust"]
    - [rustc_codegen_cranelift],
      which uses [cranelift] for codegen,
      is already available via `rustup` on nightly toolchains,
-     and the immediate benefit is fast debug compiles ([latest update][cranelift update])
+     and the immediate benefit is fast debug compiles ([updates][cranelift updates])
    - [rustc_codegen_gcc],
-     allowing Rust to run in more hardware platforms ([latest update][rustc_codegen_gcc update])
+     allowing Rust to run in more hardware platforms ([updates][rustc_codegen_gcc updates])
 - More drivers written in Rust in the official Linux kernel,
   most promising ones being:
   - [Binder] (for Android IPC)
@@ -40,9 +40,9 @@ tags = ["Rust"]
 [rustix]: https://github.com/bytecodealliance/rsix
 [cranelift]: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
-[rustc_codegen_gcc update]: https://blog.antoyo.xyz/development-rustc_codegen_gcc
+[rustc_codegen_gcc updates]: https://blog.antoyo.xyz
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
-[cranelift update]: https://bjorn3.github.io/2024/11/14/progress-report-nov-2024.html
+[cranelift updates]: https://bjorn3.github.io
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [for external dependencies]: https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html
 [Pijul]: https://pijul.org
