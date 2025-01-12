@@ -12,7 +12,7 @@ tags = ["Rust"]
    - [rustc_codegen_cranelift],
      which uses [cranelift] for codegen,
      is already available via `rustup` on nightly toolchains,
-     and the immediate benefit is fast debug compiles ([updates][cranelift updates])
+     and the immediate benefit is fast debug compiles ([updates][rustc_codegen_cranelift updates])
    - [rustc_codegen_gcc],
      allowing Rust to run in more hardware platforms ([updates][rustc_codegen_gcc updates])
 - More drivers written in Rust in the official Linux kernel,
@@ -42,7 +42,7 @@ tags = ["Rust"]
 [rustc_codegen_gcc]: https://github.com/rust-lang/rustc_codegen_gcc
 [rustc_codegen_gcc updates]: https://blog.antoyo.xyz
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
-[cranelift updates]: https://bjorn3.github.io
+[rustc_codegen_cranelift updates]: https://bjorn3.github.io
 [Ferrocene]: https://ferrous-systems.com/ferrocene
 [for external dependencies]: https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html
 [Pijul]: https://pijul.org
