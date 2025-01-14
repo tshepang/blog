@@ -1,6 +1,6 @@
 +++
 title = "favorite tv performances"
-date = 2024-12-28
+date = 2025-01-14
 
 [taxonomies]
 tags = ["tv"]
@@ -30,9 +30,12 @@ tags = ["tv"]
 
 1. [Timothy Webber] (_See_)
 
+1. [Wunmi Mosaku] (_Black Mirror_)
+
 1. [Katherine Waterston] (_Slow Horses_)
 
 [Anjana Vasan]: https://en.wikipedia.org/wiki/Anjana_Vasan
 [Maya Erskine]: https://en.wikipedia.org/wiki/Maya_Erskine
 [Timothy Webber]: https://en.wikipedia.org/wiki/Timothy_Webber
 [Katherine Waterston]: https://en.wikipedia.org/wiki/Katherine_Waterston
+[Wunmi Mosaku]: https://en.wikipedia.org/wiki/Wunmi_Mosaku
