@@ -1,11 +1,16 @@
 +++
 title = "2018 review"
-date = 2022-08-24
+date = 2025-01-15
 
 [taxonomies]
 tags = ["2018", "year-review"]
 categories = ['movies']
 +++
+
+_Happy as Lazzaro_ is __movie of the year__,
+due to its powerful portrayal of poverty,
+especially that the victims live worse lives in the modern world compared to when peasants.
+There is also no movie of this year as __touching__.
 
 The greatest __spectacle__ is *Ready Player One*:
 - it has the best __animation__
