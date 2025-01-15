@@ -13,7 +13,7 @@ The best __sound__ can be found in _Arrival_,
 one used to represent alien verbal communication.
 
 My __favorite character__ is Black Panther ([Captain America: Civil War]),
-and runner-up is Leslie Jones in [Ghostbusters].
+followed by that of Leslie Jones in [Ghostbusters].
 The __best performance__ is by Simon Helberg in [Florence Foster Jenkins],
 while the best __character design__ is that of the Hollows of
 [Miss Peregrine's Home for Peculiar Children].
