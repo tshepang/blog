@@ -16,7 +16,7 @@ but I don't remember it being captured in this fresh a manner.
 
 My __favorite performance__ is that of [Amy Madigan] in _The Hunt_,
 a movie that also has the most __surprising plot__.
-The most __desirable character__ is that of [Cristin Milioti] in *Palm Springs*.
+The most __desirable character__ is that of [Cristin Milioti] in _Palm Springs_.
 
 [Cristin Milioti]: https://en.wikipedia.org/wiki/Cristin_Milioti
 [Amy Madigan]: https://en.wikipedia.org/wiki/Amy_Madigan
