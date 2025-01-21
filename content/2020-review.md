@@ -1,6 +1,6 @@
 +++
 title = "2020 review"
-date = 2025-01-13
+date = 2025-01-17
 
 [taxonomies]
 tags = ["year-review", "2020"]
@@ -16,7 +16,12 @@ but I don't remember it being captured in this fresh a manner.
 
 My __favorite performance__ is that of [Amy Madigan] in _The Hunt_,
 a movie that also has the most __surprising plot__.
-The most __desirable character__ is that of [Cristin Milioti] in _Palm Springs_.
+
+The most __desirable character__ is a tie between those of...
+- [Cristin Milioti] in _Palm Springs_
+- [Mahtab Servati] in _There is No Evil_
+  (in the _Birthday_ segment, a segment which also has the most __beautiful settings__)
 
 [Cristin Milioti]: https://en.wikipedia.org/wiki/Cristin_Milioti
 [Amy Madigan]: https://en.wikipedia.org/wiki/Amy_Madigan
+[Mahtab Servati]: https://en.wikipedia.org/wiki/Mahtab_Servati
