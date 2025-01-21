@@ -1,6 +1,7 @@
 +++
-date = 2012-12-22
 title = "Intimacy (2001)"
+date = 2012-12-22
+
 [taxonomies]
 tags = ['good']
 categories = ['movies']
@@ -30,6 +31,6 @@ humorless and dull, and full of pain, and disturbed characters.
 
 [a quality review]
 
-  [Kerry Fox]: http://en.wikipedia.org/wiki/Kerry_Fox
-  [Timothy Spall]: http://en.wikipedia.org/wiki/Timothy_Spall
-  [a quality review]: http://www.slantmagazine.com/film/review/intimacy/161
+[Kerry Fox]: http://en.wikipedia.org/wiki/Kerry_Fox
+[Timothy Spall]: http://en.wikipedia.org/wiki/Timothy_Spall
+[a quality review]: http://www.slantmagazine.com/film/review/intimacy/161
