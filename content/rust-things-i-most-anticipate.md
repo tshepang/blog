@@ -22,7 +22,7 @@ tags = ["Rust"]
     which seems to be one that has attracted the most attention
 - Use of Rust in safety-critical systems,
   [Ferrocene] being the most likely candidate,
-  due to being the first (and only) Rust toolchain [qualified for the domain]
+  due to being the first Rust toolchain [qualified for the domain]
 - Wide use of [Typst], a more pleasant alternative to LaTeX
 - Usage in production versions of Chromium,
   though this would only be [for external dependencies]
