@@ -13,7 +13,7 @@ listed in the chronology of feeling the admiration:
 - [Jill Stein], for the same reason as West, only with a lot more electoral experience.
 - [Briahna Joy Gray], for speaking strongly against immoral acts of US government as a journalist.
   She happens to have interviewed both West and Stein.
-- [Aslı Bâli], for teaching me how the world works, her being a scholar of international law
+- [Aslı Bâli], for teaching me how the world works, her being a scholar of international law.
 - [Rania Khalek], for teaching me about Syria.
   She happens to have been interviewed by Briahna Joy Gray.
 
