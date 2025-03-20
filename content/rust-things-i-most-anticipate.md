@@ -1,6 +1,6 @@
 +++
 title = "Rust things I most anticipate"
-date = 2025-01-12
+date = 2025-03-20
 
 [taxonomies]
 tags = ["Rust"]
@@ -24,14 +24,14 @@ tags = ["Rust"]
   [Ferrocene] being the most likely candidate,
   due to being the first Rust toolchain [qualified for the domain]
 - Wide use of [Typst], a more pleasant alternative to LaTeX
-- Usage in production versions of Chromium,
-  though this would only be [for external dependencies]
 - Removing libc dependency for Linux-based systems ([mustang] and [rustix])
 - Wide use of [Pijul], for I want a better VCS than Git
   ([latest update](https://pijul.org/posts/2022-01-08-beta))
 
 ### achieved
 
+- Usage in production versions of Chromium,
+  [released in mid 2024](https://developer.chrome.com/blog/memory-safety-fonts)
 - A driver written in Rust in the official Linux kernel:
   - [Asix PHYs driver](https://github.com/torvalds/linux/blob/master/drivers/net/phy/ax88796b_rust.rs)
     is the first, released early 2024
@@ -44,7 +44,7 @@ tags = ["Rust"]
 [rustc_codegen_cranelift]: https://github.com/bjorn3/rustc_codegen_cranelift
 [rustc_codegen_cranelift updates]: https://bjorn3.github.io
 [Ferrocene]: https://ferrous-systems.com/ferrocene
-[for external dependencies]: https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html
+[released in mid 2024]: https://developer.chrome.com/blog/memory-safety-fonts
 [Pijul]: https://pijul.org
 [reaching stability]: https://pijul.org/posts/2020-11-07-towards-1.0
 [LLVM]: https://github.com/llvm/llvm-project
