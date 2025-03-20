@@ -25,8 +25,7 @@ tags = ["Rust"]
   due to being the first Rust toolchain [qualified for the domain]
 - Wide use of [Typst], a more pleasant alternative to LaTeX
 - Removing libc dependency for Linux-based systems ([mustang] and [rustix])
-- Wide use of [Pijul], for I want a better VCS than Git
-  ([latest update](https://pijul.org/posts/2022-01-08-beta))
+- Wide use of [Pijul], for I want a better VCS than Git ([latest update][pijul update])
 
 ### achieved
 
@@ -54,3 +53,4 @@ tags = ["Rust"]
 [apple gpu driver update]: https://asahilinux.org/2023/03/road-to-vulkan
 [Radicle]: https://radicle.xyz
 [radicle update]: https://radicle.xyz/2024/12/05/radicle-1.1.html
+[pijul update]: https://pijul.org/posts/2022-01-08-beta
