@@ -1,6 +1,6 @@
 +++
 title = "a deep admiration"
-date = 2025-02-22
+date = 2025-03-20
 
 [taxonomies]
 tags = ["politics"]
@@ -20,6 +20,8 @@ listed in the chronology of feeling the admiration:
   He also happens to have been interviewed by Briahna Joy Gray.
 - [Mark Z. Jacobson], for showing that green technology (solar, wind, water)
   of today are all that is needed to urgently combat climate change.
+- [Thea Riofrancos], for teaching me about the harms of mining,
+  while linking it to environmental activism.
 
 [Briahna Joy Gray]: https://en.wikipedia.org/wiki/Briahna_Joy_Gray
 [Jill Stein]: https://en.wikipedia.org/wiki/Jill_Stein
@@ -28,3 +30,4 @@ listed in the chronology of feeling the admiration:
 [Rania Khalek]: https://en.wikipedia.org/wiki/Rania_Khalek
 [Fadhel Kaboub]: https://denison.edu/people/fadhel-kaboub
 [Mark Z. Jacobson]: https://en.wikipedia.org/wiki/Mark_Z._Jacobson
+[Thea Riofrancos]: https://www.theariofrancos.com
