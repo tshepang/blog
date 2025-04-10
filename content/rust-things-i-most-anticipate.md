@@ -1,11 +1,17 @@
 +++
 title = "Rust things I most anticipate"
-date = 2025-03-20
+date = 2025-04-10
 
 [taxonomies]
 tags = ["Rust"]
 +++
 
+- More drivers written in Rust in the official Linux kernel,
+  most promising ones being:
+  - NVIDIA GPU driver ([latest update][nvidia update])
+  - [Binder] (for Android IPC)
+  - Apple GPU driver ([latest update][apple gpu driver update]),
+    which seems to be one that has attracted the most attention
 - Wide use of [Radicle],
   an alternative to GitHub that is peer-to-peer ([latest update][radicle update])
 - Make alternative (to [LLVM]) codegen backends available in a Rust stable toolchain:
@@ -15,11 +21,6 @@ tags = ["Rust"]
      and the immediate benefit is fast debug compiles ([updates][rustc_codegen_cranelift updates])
    - [rustc_codegen_gcc],
      allowing Rust to run in more hardware platforms ([updates][rustc_codegen_gcc updates])
-- More drivers written in Rust in the official Linux kernel,
-  most promising ones being:
-  - [Binder] (for Android IPC)
-  - Apple GPU driver ([latest update][apple gpu driver update]),
-    which seems to be one that has attracted the most attention
 - Use of Rust in safety-critical systems,
   [Ferrocene] being the most likely candidate,
   due to being the first Rust toolchain [qualified for the domain]
@@ -54,3 +55,4 @@ tags = ["Rust"]
 [Radicle]: https://radicle.xyz
 [radicle update]: https://radicle.xyz/2024/12/05/radicle-1.1.html
 [pijul update]: https://pijul.org/posts/2022-01-08-beta
+[nvidia update]: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=54e6baf123fde089cfa9f609b0b39b40abe41e94
