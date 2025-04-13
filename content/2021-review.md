@@ -1,11 +1,15 @@
 +++
 title = "2021 review"
-date = 2024-03-31
+date = 2025-04-13
 
 [taxonomies]
 tags = ["year-review", "2021"]
 categories = ["movies"]
 +++
+
+The most __fresh movie__ is _Locked Down_, such a delight.
+The story, the dialog, the direction, the acting.
+Also, Anne Hathaway creates the most __desirable character__ of the year.
 
 My __favorite cast__ is in _Stowaway_,
 all the 4 performances,
