@@ -1,6 +1,6 @@
 +++
 title = "2017 review"
-date = 2024-12-08
+date = 2025-04-13
 
 [taxonomies]
 tags = ["2017", "year-review"]
@@ -13,3 +13,6 @@ Both offer beautiful and unusual humor.
 The __best performance__, however, is that of Jonathan Pryce in _The Wife_.
 
 _Good Time_ has best __cast__ and best __dialog__.
+
+_The Foreigner_ is the __most surprising movie__,
+mixing political drama, terrorism, and martial arts, all in an unusual setting that is UK.
