@@ -12,4 +12,4 @@ between Tilda Swinton (playing head of a powerful company) and Byun Hee-bong (pl
 Both offer beautiful and unusual humor.
 The __best performance__, however, is that of Jonathan Pryce in _The Wife_.
 
-Good Time_ has best __cast__ and best __dialog__.
+_Good Time_ has best __cast__ and best __dialog__.
