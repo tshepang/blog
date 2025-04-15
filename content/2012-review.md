@@ -25,7 +25,7 @@ He is followed by...
 My **favorite performance** is by [Gregory D. Gadson] in *Battleship*,
 by far the most interesting in the movie.
 
-Most **desitable woman** is [Dana Delany] in *Freelancers*,
+Most **desirable woman** is [Dana Delany] in *Freelancers*,
 followed by April Hernandez Castillo in *The History of Future Folk*.
 
 The best **visual effects** are in *Battleship*...
