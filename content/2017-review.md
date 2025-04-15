@@ -14,5 +14,5 @@ The __best performance__, however, is that of Jonathan Pryce in _The Wife_.
 
 _Good Time_ has best __cast__ and best __dialog__.
 
-_The Foreigner_ is the __most surprising movie__,
+_The Foreigner_ is the most __surprising__ movie,
 mixing political drama, terrorism, and martial arts, all in an unusual setting that is UK.
