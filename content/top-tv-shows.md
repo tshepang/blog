@@ -1,6 +1,6 @@
 +++
 title = "top tv shows"
-date = 2024-05-06
+date = 2025-04-21
 
 [taxonomies]
 tags = ['tv']
@@ -21,6 +21,7 @@ watched them.
 - Atlanta (season 1)
 - Succession (season 1)
 - Mr. & Mrs. Smith
+- The Curse
 
 **honorable mentions**
 
