@@ -164,10 +164,10 @@ following are my favorite breaking things I want in Rust
 
 ### std
 
-- All collections types removed, except these basic ones: Vec,
-  HashMap, and HashSet. Also, they would also be available from
-  top-level (i.e. `std::{Vec, HashMap, HashSet}`), resulting in
-  `std::collections` removal.
+- Remove `std`, and retain `alloc` without any of the types in `collections` module.
+
+  That removed code can have official status (to retain trust),
+  maybe even distributed with rustup (to retain convenience).
 
 - Rename `Vec` to `Array`, a more clear/obvious name.
   An alternative is `List`,
