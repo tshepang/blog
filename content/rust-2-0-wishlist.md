@@ -99,7 +99,6 @@ following are my favorite breaking things I want in Rust
   }
   ```
 
-
 - Perhaps ridiculous,
   but what if we got rid of `struct` and `enum` keywords,
   where the structure of the types is instead inferred:
