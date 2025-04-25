@@ -1,6 +1,6 @@
 +++
 title = "Rust 2.0 wishlist"
-date = 2023-09-15
+date = 2025-04-25
 
 [taxonomies]
 tags = ['Rust']
@@ -156,6 +156,12 @@ following are my favorite breaking things I want in Rust
   but would disallow math operations without spaces,
   like `one-number - another-number`.
 
+- Remove re-exports ([inspiration][re-export inspiration])
+
+  This would make it more clear where functionality comes from.
+  Not sure the convenience of not having to explicitly manage a dependency
+  is worth the feature.
+
 ### std
 
 - All collections types removed, except these basic ones: Vec,
@@ -221,3 +227,4 @@ following are my favorite breaking things I want in Rust
 [panic method inspiration]: https://github.com/rust-lang/rfcs/pull/3218#issuecomment-1010084722
 [unified fn inspiration]: https://twitter.com/brundolfsmith/status/1610431400209158144
 [async fn inspiration]: https://hachyderm.io/@kevinmehall/111065682919309293
+[re-export inspiration]: https://phanpy.social/#/hachyderm.io/s/114360667953868210
