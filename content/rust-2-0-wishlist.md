@@ -187,8 +187,8 @@ following are my favorite breaking things I want in Rust
   | fs path   | Path     | Path (same)   |
   |           | PathBuf  | PathOwned     |
 
-- Remove `std::sync::mpsc` from stdlib, making it available
-  externally... it does not feel general enough. ([more issues])
+- Remove `std::sync::mpsc` from stdlib, making it available externally...
+  it does not feel general enough. ([more issues])
 
 - Remove per-type methods where trait impls offer same functionality,
   for generality:
