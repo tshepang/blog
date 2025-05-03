@@ -1,6 +1,7 @@
 +++
-date = 2011-04-02
 title = "Antichrist (2009)"
+date = 2011-04-02
+
 [taxonomies]
 tags = ['2011-movie', 'decent']
 categories = ['movies']
@@ -18,4 +19,4 @@ given is really good performance. The dialog is quite good as well. The
 title is misleading, and is based on [a removed concept] that was in an
 earlier script.
 
-  [a removed concept]: http://en.wikipedia.org/wiki/Antichrist_(film)#Development
+[a removed concept]: http://en.wikipedia.org/wiki/Antichrist_(film)#Development

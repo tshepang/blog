@@ -1,7 +1,7 @@
 +++
-
-date = 2012-09-16
 title = "Harry Potter and the Goblet of Fire (2005)"
+date = 2012-09-16
+
 [taxonomies]
 tags = ['decent']
 categories = ['movies']
@@ -20,4 +20,4 @@ the attention, while those of his competitors are totally ignored.
 One performance that I enjoyed a lot, a new character, is the super-tall
 lady.
 
-  [the one immediately preceding it]: @/harry-potter-and-the-prisoner-of-azkaban-2004.md
+[the one immediately preceding it]: @/harry-potter-and-the-prisoner-of-azkaban-2004.md
