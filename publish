@@ -10,3 +10,4 @@ git commit --message "build"
 git push origin main
 cd -
 git push
+git push HEAD:refs/patches
