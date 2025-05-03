@@ -1,11 +1,13 @@
 +++
 title = "Rust things I most anticipate"
-date = 2025-04-10
+date = 2025-05-03
 
 [taxonomies]
 tags = ["Rust"]
 +++
 
+- Wide use of [Tantivy], a full-text search engine
+  ([latest Quickwit update][quickwit update], a product built on it)
 - More drivers written in Rust in the official Linux kernel,
   most promising ones being:
   - NVIDIA GPU driver ([latest update][nvidia update])
@@ -56,3 +58,5 @@ tags = ["Rust"]
 [radicle update]: https://radicle.xyz/2024/12/05/radicle-1.1.html
 [pijul update]: https://pijul.org/posts/2022-01-08-beta
 [nvidia update]: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=54e6baf123fde089cfa9f609b0b39b40abe41e94
+[Tantivy]: https://github.com/quickwit-oss/tantivy
+[quickwit update]: https://quickwit.io/blog/quickwit-binance-story
