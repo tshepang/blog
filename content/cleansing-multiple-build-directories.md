@@ -14,7 +14,7 @@ runs `make clean` on the modules), testimony to the weakness ofthe GNOME
 build infrastructure (autotools, ...). This means that I need to run
 `make distclean` or better still (where applicable) `git clean -dfx`.
 Note that I sometimes even have to uninstall one or two modules (on
-JHBuild path) to get a build failure fixe
+JHBuild path) to get a build failure fixed
 (`jhbuild uninstall modulename`). This is laborious work, so I sometimes
 just wipe out the entire installation.
 

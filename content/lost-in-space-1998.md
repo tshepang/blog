@@ -6,7 +6,7 @@ tags = ['average']
 categories = ['movies']
 +++
 
-I remember this beeing far more fascinating and the visual effects and
+I remember this being far more fascinating and the visual effects and
 design great, but what's left now is just a few interesting
 performances (the 2 kids and Heather Graham) and some midly decent story
 elements.

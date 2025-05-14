@@ -19,7 +19,7 @@ and it continues to impress:
   in addition to fuzzy matching (the default).
 
 - Another I love is the __jumplist__,
-  which allows moving forward (`C-i`) and backward (`C-o`) through the motions that occured.
+  which allows moving forward (`C-i`) and backward (`C-o`) through the motions that occurred.
   It's extra kool in that this spans not just the current buffer,
   but others as well,
   allowing easy navigation between buffer locations reached with __Go to definition__ (`g d`).

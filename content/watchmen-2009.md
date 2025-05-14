@@ -23,7 +23,7 @@ attacked by some oriental guys, is stupid. Either that, or it is some
 sort of parody, as is the case with the War Room thing, parodying a
 (great) satire, [Dr. Strangelove]).
 
-This is one werid movie that I just don't know how to place, so will
+This is one weird movie that I just don't know how to place, so will
 leave it here.
 
   [Dr. Strangelove]: @/dr-strangelove-1964.md

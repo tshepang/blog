@@ -8,5 +8,5 @@ categories = ['movies']
 
 This was much more engaging when I was a kid, and it hasn't aged well
 at all. It's an uninteresting and pointless story about two cops
-patroling some dingy neighbourhood, and about the gangsters they come
+patrolling some dingy neighbourhood, and about the gangsters they come
 across. The direction is dry and... ah, boring.

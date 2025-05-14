@@ -12,7 +12,7 @@ The level of fantasy should have a limit, depending on the situation.
 There's good acting from the two leads of *Vacancy*, a well-made horror
 movie about sickos murdering motel visitors on camera.
 
-A revisit of *Robots* didn't do much to diminish the genious creativity
+A revisit of *Robots* didn't do much to diminish the genius creativity
 behind it.
 
   [Final Fantasy VII]: @/final-fantasy-vii-advent-children-2005.md
