@@ -6,7 +6,7 @@ date = 2025-05-14
 tags = ["tv"]
 +++
 
-minor performances
+minor roles
 
 - Craig Tate (_Snowfall_)
 
@@ -20,7 +20,7 @@ minor performances
 
 - [Timothy Webber] (_See_)
 
-medium performances
+medium roles
 
 - Lars Mikkelsen (_Sherlock_)
 
@@ -32,7 +32,7 @@ medium performances
 
 - [Katherine Waterston] (_Slow Horses_)
 
-major performances
+major roles
 
 - [Maya Erskine] (Mr. & Mrs. Smith)
 
