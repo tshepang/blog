@@ -4,7 +4,7 @@ date = 2023-10-10
 
 +++
 
-I am Tshepang Mbambo (<tshepang@gmail.com>),
+I am Tshepang Mbambo,
 and I do software development [for a living] and as a hobby.
 My favorite language (and ecosystem) is [Rust],
 and my OS of choice is [Debian].
