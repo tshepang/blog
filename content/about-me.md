@@ -14,7 +14,6 @@ Among my profiles on the web:
 - [Hachyderm] and [Twitter] (social)
 - [GitHub] (software)
 - [Rust Zulip] (chat)
-- [Stack Exchange] (help)
 
 The sources for this blog can be found [on GitHub].
 
@@ -23,7 +22,6 @@ The sources for this blog can be found [on GitHub].
 [Rust]: https://rust-lang.org
 [Debian]: https://debian.org
 [GitHub]: https://github.com/tshepang
-[Stack Exchange]: https://stackexchange.com/users/125744
 [Hachyderm]: https://hachyderm.io/@tshepang
 [Twitter]: https://twitter.com/tshepang_dev
 [on GitHub]: https://github.com/tshepang/blog
