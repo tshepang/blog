@@ -17,7 +17,6 @@ Among my profiles on the web:
 
 The sources for this blog can be found [on GitHub].
 
-[South Africa]: https://en.wikipedia.org/wiki/South_Africa
 [for a living]: https://ferrous-systems.com
 [Rust]: https://rust-lang.org
 [Debian]: https://debian.org
