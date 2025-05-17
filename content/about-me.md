@@ -11,7 +11,7 @@ and my OS of choice is [Debian].
 
 Among my profiles on the web:
 
-- [Hachyderm] and [Twitter] (social)
+- [Hachyderm] (social)
 - [GitHub] (software)
 - [Rust Zulip] (chat)
 
@@ -22,6 +22,5 @@ The sources for this blog can be found [on GitHub].
 [Debian]: https://debian.org
 [GitHub]: https://github.com/tshepang
 [Hachyderm]: https://hachyderm.io/@tshepang
-[Twitter]: https://twitter.com/tshepang_dev
 [on GitHub]: https://github.com/tshepang/blog
 [Rust Zulip]: https://rust-lang.zulipchat.com
