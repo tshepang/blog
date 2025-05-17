@@ -8,7 +8,7 @@ categories = ['movies']
 
 A very enjoyable story with some very interesting performances, most
 notably that of [Tom Towles], who plays a rather disgusting character,
-Otis. AFAIR, this is the only one of his performances I ever enjoyed,
+Otis. This is the only one of his performances I remember ever enjoying,
 and he's just perfect. [Michael Rooker] is also a joy to watch, and
 despite his incredible cruelty, remains a guy we all care for, perhaps
 due to his care for the (delightful) leading lady.
