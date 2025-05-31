@@ -23,4 +23,4 @@ The sources for this blog can be found [on GitHub].
 [GitHub]: https://github.com/tshepang
 [Hachyderm]: https://hachyderm.io/@tshepang
 [on GitHub]: https://github.com/tshepang/blog
-[Rust Zulip]: https://rust-lang.zulipchat.com
+[Rust Zulip]: https://rust-lang.zulipchat.com/#user/119529
