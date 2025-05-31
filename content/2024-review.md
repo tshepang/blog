@@ -1,6 +1,6 @@
 +++
 title = "2024 review"
-date = 2024-12-25
+date = 2025-05-18
 
 [taxonomies]
 tags = ["year-review", "2024"]
@@ -29,5 +29,7 @@ followed by _Joker: Folie à Deux_.
 Similarly,
 the __best performance__ is by [Nikki Amuka-Bird] in _Rumours_,
 followed by Joaquin Phoenix in _Joker: Folie à Deux_.
+
+My __favorite performance__ is that of black former soldier in _No Chains No Masters_.
 
 [Nikki Amuka-Bird]: https://en.wikipedia.org/wiki/Nikki_Amuka-Bird
