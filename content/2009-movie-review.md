@@ -14,7 +14,7 @@ early period represented some of the best movie years in recent memory.
 
 The year's best movie is [Baise-moi], whose unflinching and unsettling
 violence has the raw intensity of [Bamboozled]'s climax and the
-harshness of *Natural Born Killers*, without the humor.
+harshness of _Natural Born Killers_, without the humor.
 
 ## performances
 
@@ -28,10 +28,10 @@ Daniel-Day Lewis' near-flawless performances as oil miner in [There
 Will Be Blood]. Here's the runner-ups:
 
 2.  John Malkovich as activist in [Changeling]
-3.  Jack Nicholson as grumpy tycoon in *Bucket List*
+3.  Jack Nicholson as grumpy tycoon in _Bucket List_
 4.  Woody Harrelson as blind man in [Seven Pounds]
 
-The year's **best female performance** is a tie between that Rosario
+The year's __best female performance__ is a tie between that Rosario
 Dawson's as the love interest in [Seven Pounds], and Tilda Swinton's
 as fleeting lover in [The Curious Case of Benjamin Button].
 
@@ -42,7 +42,7 @@ gals where Golshifteh Farahani ([Body of Lies][Seven Pounds]) and husky
 voice (likely Brenda Vaccaro) in [Midnight Cowboy] take the crown.
 In second place is
 the warrior girl in [Avatar], who/which also happens to be year's
-**best creature**.
+__best creature__.
 
 Character design goes to the talking toys of [Small Soldiers].
 
@@ -56,29 +56,29 @@ The runner-ups:
 
 ## misc elements
 
-[There Will Be Blood] has the year's **best direction**. [Changeling]
-has **best production design**, and its runner-up is [Shoot 'Em Up],
-which however gets **best cinematography**. [Changeling] also has **best
-costume design** and **best cast**.
+[There Will Be Blood] has the year's __best direction__. [Changeling]
+has __best production design__, and its runner-up is [Shoot 'Em Up],
+which however gets __best cinematography__. [Changeling] also has __best
+costume design__ and __best cast__.
 
-The year's greatest spectacles are *2012* and [Avatar]; best thriller
+The year's greatest spectacles are _2012_ and [Avatar]; best thriller
 is [Law-Abiding Citizen]; best comedy is [You Don't Mess With the Zohan]; the most
 enchanting/delightful is [Wall-E][You Don't Mess With the Zohan],
 followed up by [Sponge Bob].
 
-The year's **best action** movie is [Quantum of Solace], followed by
+The year's __best action__ movie is [Quantum of Solace], followed by
 [Avatar]; the most bizarre is [Ghost Dog], followed by [Watchmen]; the
-**funniest** is *You Don't Mess With the Zohan*, followed by *Yes Man*.
+__funniest__ is _You Don't Mess With the Zohan_, followed by _Yes Man_.
 
-The **most touching** movie (overall) is [Yellow Earth], a sad
+The __most touching__ movie (overall) is [Yellow Earth], a sad
 exploration of a hopeless yearning for freedom, which presents itself in
-a form of Communist soldier with a weird mission. The **most touching
-moments** is the relationship between the Chinese and Russian lady in
+a form of Communist soldier with a weird mission. The __most touching
+moments__ is the relationship between the Chinese and Russian lady in
 [The World], followed by a childish romance between silly tent
-constructor and sweet servant in *Monsoon Wedding*.
+constructor and sweet servant in _Monsoon Wedding_.
 
-The **best opening credits sequence** is in [Rock 'n Rolla][Shoot 'Em
-Up]. The **worst humiliation** is in near the end of [There Will Be
+The __best opening credits sequence__ is in [Rock 'n Rolla][Shoot 'Em
+Up]. The __worst humiliation__ is in near the end of [There Will Be
 Blood].
 
 
