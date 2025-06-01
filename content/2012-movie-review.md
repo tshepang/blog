@@ -42,7 +42,7 @@ design** is found in [J. Edgar].
 
 My **favorite performance** is that of Charlotte Gainsbourg ([The Science of Sleep]).
 
-The **best female performance** is a tie between Annette Bening &
+The **best performance** is a tie between Annette Bening &
 Julianne Moore in [The Kids Are All Right]. Runner-up is Charlotte
 Gainsbourg in [The Science of Sleep], who is just about the movie's
 saving grace.
