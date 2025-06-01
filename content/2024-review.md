@@ -30,6 +30,8 @@ Similarly,
 the __best performance__ is by [Nikki Amuka-Bird] in _Rumours_,
 followed by Joaquin Phoenix in _Joker: Folie à Deux_.
 
-My __favorite performance__ is that of black former soldier in _No Chains No Masters_.
+My __favorite performance__ is that of [Lazare Minoungou],
+playing a formerly decorated soldier in _No Chains No Masters_.
 
 [Nikki Amuka-Bird]: https://en.wikipedia.org/wiki/Nikki_Amuka-Bird
+[Lazare Minoungou]: https://fr.wikipedia.org/wiki/Lazare_Minoungou
