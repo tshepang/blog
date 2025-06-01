@@ -1,6 +1,6 @@
 +++
 title = "2009 review"
-date = 2022-06-24
+date = 2025-06-01
 
 [taxonomies]
 tags = ["year-review", "2009"]
@@ -28,6 +28,9 @@ Also, why do people have to look and be like her. Damn!
 
 My __favorite performance__ is that of Rosalind Pike,
 who plays a mentally challenged lover in _An Education_.
+
+The best __character design__ is that of the gymnast in _Coraline_,
+complete with incredible animation.
 
 [District 9]: @/district-9.md
 [Inglourious Basterds]: @/inglourious-basterds.md
