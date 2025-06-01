@@ -7,7 +7,7 @@ tags = ['year-review', '2011']
 categories = ['movies']
 +++
 
-The best movie of the year is _Contagion_,
+The __best movie of the year__ is _Contagion_,
 boasting __best direction__ (so realistic, also fast-paced),
 __best dialog__ (so fresh),
 __best cast__ (it has several big actors, all of whom went beyond their famous personas),
