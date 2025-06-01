@@ -1,6 +1,6 @@
 +++
 title = "2011 review"
-date = 2021-12-23
+date = 2025-06-01
 
 [taxonomies]
 tags = ['year-review', '2011']
@@ -12,6 +12,11 @@ boasting __best direction__ (so realistic, also fast-paced),
 __best dialog__ (so fresh),
 __best cast__ (it has several big actors, all of whom went beyond their famous personas),
 and __best editing__ (so smooth).
+
+The movie is followed by _The Invader_,
+really due to telling a very compelling story,
+and one I hardly ever see,
+while also feeling so real it feels like a peek into the lives of characters that actually exist.
 
 My __favorite performance__ is that of [Andrew Howard] as the Russian
 gangster in _Limitless_, followed by...
