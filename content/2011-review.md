@@ -7,26 +7,26 @@ tags = ['year-review', '2011']
 categories = ['movies']
 +++
 
-The best movie of the year is *Contagion*,
-boasting **best direction** (so realistic, also fast-paced),
-**best dialog** (so fresh),
-**best cast** (it has several big actors, all of whom went beyond their famous personas),
-and **best editing** (so smooth).
+The best movie of the year is _Contagion_,
+boasting __best direction__ (so realistic, also fast-paced),
+__best dialog__ (so fresh),
+__best cast__ (it has several big actors, all of whom went beyond their famous personas),
+and __best editing__ (so smooth).
 
-My **favorite performance** is that of [Andrew Howard] as the Russian
-gangster in *Limitless*, followed by...
+My __favorite performance__ is that of [Andrew Howard] as the Russian
+gangster in _Limitless_, followed by...
 
-- Cuba Gooding, jnr. in *The Hit List*
-- Stephen Fry in *Sherlock Holmes: A Game of Shadows*
-- Jared Harris, also in *Sherlock Holmes: A Game of Shadows*
-- Jeff Chase, in *The Mechanic*
+- Cuba Gooding, jnr. in _The Hit List_
+- Stephen Fry in _Sherlock Holmes: A Game of Shadows_
+- Jared Harris, also in _Sherlock Holmes: A Game of Shadows_
+- Jeff Chase, in _The Mechanic_
 
-*Limitless* also has my most **favorite story
-concept**, that of a drug that vastly improves mental performance.
+_Limitless_ also has my most __favorite story
+concept__, that of a drug that vastly improves mental performance.
 
-*Sherlock Holmes: A Game of Shadows* itself also has
-the most **desirable character** in [Kelly Reilly].
-She is followed by [Marion Cotillard] in *Contagion*.
+_Sherlock Holmes: A Game of Shadows_ itself also has
+the most __desirable character__ in [Kelly Reilly].
+She is followed by [Marion Cotillard] in _Contagion_.
 
 [Marion Cotillard]: https://en.wikipedia.org/wiki/Marion_Cotillard
 [Kelly Reilly]: http://en.wikipedia.org/wiki/Kelly_Reilly
