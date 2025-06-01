@@ -22,7 +22,7 @@ movie also has the best **visual effects**.
 My **favorite performance** is that of Tom Towles playing Otis in
 [Henry: Portrait of a Serial Killer]. Runner-up is the hypnotized lady
 in [Now You See Me], followed by [Michael Parks] in [Django Unchained].
-The **best male performance** is by [Chiwetel Ejiofor] as an instructor
+The **best performance** is by [Chiwetel Ejiofor] as an instructor
 in [Redbelt].
 
 ## characters
