@@ -16,24 +16,24 @@ at the top, [Megamind].
 Here's the rest (ranked alphabetically):
 
 -   [Downfall]
--   [Kung Fu Panda 2] (also happens to be the year's **greatest
-    spectacle**)
+-   [Kung Fu Panda 2] (also happens to be the year's __greatest
+    spectacle__)
 -   [Rabbit Hole]
 -   [Sex, Lies, and Videotape]
 -   [Tangled]
 
 ## visuals
 
-A ranking of the year's **best cinematography**:
+A ranking of the year's __best cinematography__:
 
 1.  [The Seventh Seal]
 2.  [The Kings's Speech]
 4.  [Orphan]
 
-As for the year's **best production design**,
+As for the year's __best production design__,
 nothing is better than [The Kings's Speech].
 
-The year's **best visual effects (overall)**:
+The year's __best visual effects (overall)__:
 
 1.  [The Chronicles of Narnia: The Voyage of the Dawn Treader]
 2.  [Sucker Punch]
@@ -43,7 +43,7 @@ The year's **best visual effects (overall)**:
     even though it's pretty much the same offering as the 2 previous
     ones in the franchise.
 
-The year's **best visual effects (specific moments)**:
+The year's __best visual effects (specific moments)__:
 
 1.  train crash ([Super 8])
 2.  river-god ([The Chronicles of Narnia: Prince Caspian])
@@ -56,46 +56,46 @@ The year's **best visual effects (specific moments)**:
 7.  trash in the recycling plant ([Toy Story 3]) +++ maybe a cheat since
     this is animation, but I needed to mention it
 
-The year's **best animation** is a tie between [Rango] and [Legend of
+The year's __best animation__ is a tie between [Rango] and [Legend of
 the Guardians]. Both offer lengthy moments of hyper-realistic imagery.
 The runner-up is [9] with it's wonderful action sequences.
 
-Although the **best action** is offered by [9], the **best action
-sequence** is the [exoskeleton][exoskeletons] chase in [G.I. Joe: The
-Rise of Cobra]. However, there **most innovative sequence** is the
+Although the __best action__ is offered by [9], the __best action
+sequence__ is the [exoskeleton][exoskeletons] chase in [G.I. Joe: The
+Rise of Cobra]. However, there __most innovative sequence__ is the
 split-screen bounty hunter scene found in [The Green Hornet].
 
 ## performances
 
-My **favorite performance** is that of [Andie MacDowell] when playing
+My __favorite performance__ is that of [Andie MacDowell] when playing
 the sweet love interest in [Sex, Lies, and Videotape]. First runner-up
 is a tie between Vera Farmica as sad mother ([Orphan]) and [Jon de
 Lancie] as lead of pathology ([Pathology]). 2nd runner-up is Sandra Oh
 ([Rabbit Hole]).
 
-The **best male performance** is by Geoffrey Rush when playing a
+The __best male performance__ is by Geoffrey Rush when playing a
 therapist in [The Kings's Speech].
 The runner-up is [Miles Teller] in [Rabbit Hole].
 
-The **best female performance** is by Nicole Kidman in [Rabbit Hole],
-and the **best cast** is from the same movie. Maybe it's a distant
-second, but the runner-up on that category is [Pathology]. The **best
-voice talent** is that of [Rango].
+The __best female performance__ is by Nicole Kidman in [Rabbit Hole],
+and the __best cast__ is from the same movie. Maybe it's a distant
+second, but the runner-up on that category is [Pathology]. The __best
+voice talent__ is that of [Rango].
 
 ## characters
 
-As regards the **best character development**, James Spader's
+As regards the __best character development__, James Spader's
 free-spirited character in [Sex, Lies, and Videotape] ties with Nicole
 Kidman's grieving asshole in [Rabbit Hole]. Runner-up is the evil
 peacock in [Kung Fu Panda 2], the same peacock that happens to be the
-year's **best villain**. Despite his cruelty, his oft-humorous demeanor
+year's __best villain__. Despite his cruelty, his oft-humorous demeanor
 made me care about him, which is the sort of quality I find exceptional
 in terms of character development of villains.
 
-The **best character design** is that of the main villain in [9],
+The __best character design__ is that of the main villain in [9],
 followed by the ninjas in [The Warrior's Way].
 
-The year's **most desirable character** is by [Sandra Oh] in [Rabbit Hole],
+The year's __most desirable character__ is by [Sandra Oh] in [Rabbit Hole],
 playing a small role as the love interest. Watching this has changed my
 view of her... I want her, now! Here's the runner-ups:
 
@@ -103,53 +103,53 @@ view of her... I want her, now! Here's the runner-ups:
 2.  [Teri Hatcher] ([Tango & Cash])
 3.  [Jill Schoelen] ([The Stepfather])
 
-[According to Greta] boasts both the **most perfect gentleman** (the
-lead's boyfriend) and the **most perfect father** (the lead's
+[According to Greta] boasts both the __most perfect gentleman__ (the
+lead's boyfriend) and the __most perfect father__ (the lead's
 grandpa).
 
-The **best comic character** is the fat guy in [She's Out of My
+The __best comic character__ is the fat guy in [She's Out of My
 League], followed by a tie between Jack Black's partner in [Nacho
 Libre] and the fat oversexed woman in [Nanny McPhee And The Big Bang].
 
 ## miscellaneous
 
-The category of **most important movie** exists in order to recognize
+The category of __most important movie__ exists in order to recognize
 movies that deliver certain ideas/messages I find extremely important.
 [Fair Game],
 which is about harmful suppression of truth by powerful government officials,
 wins this one.
 
 Each repeat of a movie is a different experience, hence this category of
-**best first-time viewing experience**. It's won by [Megamind] (it blew
+__best first-time viewing experience__. It's won by [Megamind] (it blew
 my mind away due to its seeming perfection) and the runner-up is [Shrek
 Forever After], which sadly couldn't survive a revisit.
 
-The **worst revisit** was [Shrek Forever After]. I deemed it a
+The __worst revisit__ was [Shrek Forever After]. I deemed it a
 masterpiece on first viewing, but it seemed a different (and worse)
 movie on a revisit. Not that it was trash. It was just not very good.
 The runner-up is [The Warrior's Way].
 
-As for the year's **best script/dialog**, we have [Sex, Lies, and Videotape].
+As for the year's __best script/dialog__, we have [Sex, Lies, and Videotape].
 
-The year's **funniest movie** is
+The year's __funniest movie__ is
 [Being There], followed by a tie between
 [Brewster's Millions] (surprising entrant) and [Semi-Pro].
 
-The year's **most enchanting** movie is [Megamind], followed by
+The year's __most enchanting__ movie is [Megamind], followed by
 [Tangled].
 
-The year's **most original story** is that of **The Idiots** (the
+The year's __most original story__ is that of __The Idiots__ (the
 subject matter of conmen is fairly popular yes, but in here is the added
 twist of the perpetrators not having any material gain out of it). The
-runner-up is [Dark Matter], followed by [Pathology]. The **best story
-concept** can be seen in [Groundhog Day], where the lead character
+runner-up is [Dark Matter], followed by [Pathology]. The __best story
+concept__ can be seen in [Groundhog Day], where the lead character
 experiences the same day over and over again.
 
 I don't really pay much attention to this one, but I'll give the
-**best make-up** honor to [Pathology] for making corpses look so
+__best make-up__ honor to [Pathology] for making corpses look so
 convincing.
 
-The **most overrated** movie is [Sunset Boulevard] followed by [All
+The __most overrated__ movie is [Sunset Boulevard] followed by [All
 About Eve]. The former is substandard while the second is quite decent.
 
 ## 'old' movies
