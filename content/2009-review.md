@@ -17,7 +17,7 @@ The movie is named [District 9].
 The best __visual effects artefact__ is the battle suit of [District 9],
 followed by the killer bikes of _Terminator Salvation_.
 
-The __best male performance__ is that of Christoph Waltz as Nazi officer
+The __best performance__ is that of Christoph Waltz as Nazi officer
 in [Inglourious Basterds].
 He plays a very fearsome Nazi officer that is so damn easy to hate.
 
