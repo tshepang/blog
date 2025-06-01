@@ -13,7 +13,7 @@ This does not mean there was nothing to celebrate of course.
 
 ## visuals
 
-The best **visual effects (overall)**:
+The best __visual effects (overall)__:
 
 1.  [The Avengers]
 3.  [Harry Potter and the Order of the Phoenix]
@@ -22,50 +22,50 @@ In terms of specifics, there was nothing better than the battle between
 Voldermort and Dumbledore in that last listing, and the climactic battle
 in [The Avengers] is runner-up.
 
-The best **action** is offered by [The Avengers], while
-the best **hand-to-hand combat sequence** is the fight that takes place
+The best __action__ is offered by [The Avengers], while
+the best __hand-to-hand combat sequence__ is the fight that takes place
 in a diner in [Haywire].
 
-The best **animation** is, interestingly, an insert (in [Harry Potter
+The best __animation__ is, interestingly, an insert (in [Harry Potter
 and the Deathly Hallows, Part 1]), which tells the story of the Deathly
 Hallows.
 
-The best **opening credits sequence/visuals** are from [True Legend],
+The best __opening credits sequence/visuals__ are from [True Legend],
 followed by those from [The Girl With the Dragon Tattoo]. As for best
-**ending credits sequence/visuals**, the honor goes to [Harry Potter and
+__ending credits sequence/visuals__, the honor goes to [Harry Potter and
 the Half-Blood Prince].
 
-Although I hate the movie, I have to admit that best **production
-design** is found in [J. Edgar].
+Although I hate the movie, I have to admit that best __production
+design__ is found in [J. Edgar].
 
 ## performances
 
-My **favorite performance** is that of Charlotte Gainsbourg ([The Science of Sleep]).
+My __favorite performance__ is that of Charlotte Gainsbourg ([The Science of Sleep]).
 
-The **best performance** is a tie between Annette Bening &
+The __best performance__ is a tie between Annette Bening &
 Julianne Moore in [The Kids Are All Right]. Runner-up is Charlotte
 Gainsbourg in [The Science of Sleep], who is just about the movie's
 saving grace.
 
-The best **child performance** is by Dakota Goyo, the son in [Real
-Steel], while the best **cast** is in [The Iron Lady].
+The best __child performance__ is by Dakota Goyo, the son in [Real
+Steel], while the best __cast__ is in [The Iron Lady].
 
-My favorite **voice acting** is Tom Hardy (Bane) ([The Dark Knight
+My favorite __voice acting__ is Tom Hardy (Bane) ([The Dark Knight
 Rises]), even though it's hard to hear at times.
 
 ## characters
 
-My **favorite character** is the son ([Dakota Goyo]) in [Real Steel],
-while my **favorite villain** is Bane (Tom Hardy) in [The Dark Knight Rises].
+My __favorite character__ is the son ([Dakota Goyo]) in [Real Steel],
+while my __favorite villain__ is Bane (Tom Hardy) in [The Dark Knight Rises].
 
-The most **desirable character** is Charlotte Gainsbourg as main love interest
+The most __desirable character__ is Charlotte Gainsbourg as main love interest
 in [The Science of Sleep]... so hard to resist! She is followed by
 Brooke White as wife and new mother in [Change of Plans].
 
-The **best character design** is the Chitauri, the alien race in [The
+The __best character design__ is the Chitauri, the alien race in [The
 Avengers].
 
-The best **comic characters**:
+The best __comic characters__:
 
 1.  Ken Jeong ([The Hangover Part II])
 2.  Lucy Punch ([Bad Teacher])
@@ -73,30 +73,30 @@ The best **comic characters**:
     Butler])
 4.  Ben Stiller ([Zoolander])
 
-The **worst asshole** was Marlon Brando's character in [A Streetcar
+The __worst asshole__ was Marlon Brando's character in [A Streetcar
 Named Desire].
 
 ## miscellaneous
 
-The most **funny** movies:
+The most __funny__ movies:
 
 2.  [Horrible Bosses]
 3.  [The Hangover Part II]
 4.  [Zoolander]
 
 Each repeat of a movie is a different experience, hence the category,
-**best first-time viewing experience**. This year, it's won by the
-year's **greatest spectacle**, [The Avengers]. Runner-up is [Gone Baby
+__best first-time viewing experience__. This year, it's won by the
+year's __greatest spectacle__, [The Avengers]. Runner-up is [Gone Baby
 Gone], and that's because it was so gripping that I thought it would be
 a great contender for best movie of the year. A revisit was not so
 great.
 
-The most **bizarre** movie is [Battle In Heaven], and the **false
-promise** award goes to [Zombieland]. It wins for being so exciting and
+The most __bizarre__ movie is [Battle In Heaven], and the __false
+promise__ award goes to [Zombieland]. It wins for being so exciting and
 sorta fresh when it starts, but screwing up with lack of content later
 on.
 
-The most **overrated** movie is [A Nightmare on Elm Street], followed by
+The most __overrated__ movie is [A Nightmare on Elm Street], followed by
 [A Streetcar Named Desire]. That second is hailed a masterpiece by weird
 people.
 
@@ -105,11 +105,11 @@ people.
 This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
 
-Of those, the **best experience** was offered by *Being John Malkovich*,
+Of those, the __best experience__ was offered by _Being John Malkovich_,
 which led me to elevate it to a [masterpiece]. Runner-up is [Taken],
 which remains as intense and exciting as ever.
 
-The **fall from glory** award goes to:
+The __fall from glory__ award goes to:
 
 -   [Vicky Cristina Barcelona]: I enjoyed this massively first time I
     watched it 2 years ago; it now feels pretentious and cheap/shallow,
