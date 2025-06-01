@@ -14,28 +14,28 @@ excellent movie, [Redbelt].
 ## visuals
 
 [Man of Steel] has the best
-**action sequence**, the first battle with second-in-command of Zod. The
-movie also has the best **visual effects**.
+__action sequence__, the first battle with second-in-command of Zod. The
+movie also has the best __visual effects__.
 
 ## performances
 
-My **favorite performance** is that of Tom Towles playing Otis in
+My __favorite performance__ is that of Tom Towles playing Otis in
 [Henry: Portrait of a Serial Killer]. Runner-up is the hypnotized lady
 in [Now You See Me], followed by [Michael Parks] in [Django Unchained].
-The **best performance** is by [Chiwetel Ejiofor] as an instructor
+The __best performance__ is by [Chiwetel Ejiofor] as an instructor
 in [Redbelt].
 
 ## characters
 
-My **favorite character** is the honorable martial arts instructor in
+My __favorite character__ is the honorable martial arts instructor in
 [Redbelt], played by Chiwetel Ejiofor.
 
-The best **character design** is the fearsome The Missionary in [Silent
+The best __character design__ is the fearsome The Missionary in [Silent
 Hill: Revelation].
 
 ## miscellaneous
 
-The most **innovative** movie is the satirical [Goodbye Uncle Tom]:
+The most __innovative__ movie is the satirical [Goodbye Uncle Tom]:
 it's shot like a documentary in which the makers travel to a
 particularly horrid moment in United States history, yet treating it
 with humor... very daring.
