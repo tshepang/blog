@@ -1,6 +1,7 @@
 +++
-date = 2012-07-22
 title = "Change of Plans (2011)"
+date = 2012-07-22
+
 [taxonomies]
 tags = ['2012-movie', 'good']
 categories = ['movies']
@@ -15,4 +16,4 @@ actor should have been in the place of the government lady). The
 attitude the older girl shows is also just too common, but it's a
 decent performance.
 
-  [Brooke White]: http://en.wikipedia.org/wiki/Brooke_White
+[Brooke White]: http://en.wikipedia.org/wiki/Brooke_White
