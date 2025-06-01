@@ -8,46 +8,46 @@ categories = ['movies']
 +++
 
 This year was rather sad: I didn't see any fresh movie (movies I saw
-first time) above **good** rating (5/7). That is, there wasn't anything
+first time) above __good__ rating (5/7). That is, there wasn't anything
 at the excellent level (6/7), never mind a masterpiece (7/7). That also
-means nothing stood out enough to be labeled **best movie of the year**.
+means nothing stood out enough to be labeled __best movie of the year__.
 Regardless, there was still much to celebrate. Let's see.
 
 ## visuals
 
-The best **visual design** is in [The Hunger Games: Catching Fire].
+The best __visual design__ is in [The Hunger Games: Catching Fire].
 
-The best **visual effects** are in [Thor: The Dark World], followed by
+The best __visual effects__ are in [Thor: The Dark World], followed by
 [Transformers: Age of Extinction].
 
 ## performances
 
-Following is the ranking of the **best male performances**:
+Following is the ranking of the __best male performances__:
 
 2.  Anthony Hopkins in [Red 2]
 4.  Geoffrey Rush in [The Book Thief]
 5.  [Michael Shannon] in [Premium Rush]
 6.  Brad Pitt in [The Counselor]
 
-The **best female performance** was given by Emily Watson in [The Book Thief].
+The __best female performance__ was given by Emily Watson in [The Book Thief].
 
 ## characters
 
-My **favorite character** is the adoptive father in [The Book Thief],
+My __favorite character__ is the adoptive father in [The Book Thief],
 played by Geoffrey Rush. He's followed by the charming China Doll in
-*Oz the Great and Powerful*, which is about as cute and lovable as
+_Oz the Great and Powerful_, which is about as cute and lovable as
 characters get. In third place is Valka, the mother of the lead
 character in [How To Train Your Dragon 2].
 
-The most **desirable character** is that of [Dania Ramirez] in [Premium Rush]
+The most __desirable character__ is that of [Dania Ramirez] in [Premium Rush]
 
-There was no better **character design** than the giant samurai robot in
+There was no better __character design__ than the giant samurai robot in
 [The Wolverine]. In second place is the Alpha dragon from [How To Train
 Your Dragon 2].
 
 ## miscellaneous
 
-The following have the best **story concept**:
+The following have the best __story concept__:
 
 2.  [In Time]
 4.  [Her]
