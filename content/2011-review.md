@@ -21,8 +21,8 @@ gangster in _Limitless_, followed by...
 - Jared Harris, also in _Sherlock Holmes: A Game of Shadows_
 - Jeff Chase, in _The Mechanic_
 
-_Limitless_ also has my most favorite __story
-concept__, that of a drug that vastly improves mental performance.
+_Limitless_ also has my most favorite __story concept__,
+that of a drug that vastly improves mental performance.
 
 _Sherlock Holmes: A Game of Shadows_ itself also has
 the most __desirable character__ in [Kelly Reilly].
