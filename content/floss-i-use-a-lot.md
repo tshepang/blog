@@ -78,7 +78,7 @@ There is [a separate post] for those.
 [openfortivpn]: https://github.com/adrienverge/openfortivpn
 [AntennaPod]: https://antennapod.org
 [zola]: https://github.com/getzola/zola
-[zellij]: https://github.com/zellij-org/zellij
+[zellij]: @/nifty-zellij.md
 [mdBook]: https://github.com/rust-lang/mdBook
 [Nemo]: https://github.com/linuxmint/nemo
 [wezterm]: https://github.com/wez/wezterm

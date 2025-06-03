@@ -34,7 +34,7 @@ __documentation__: [mdBook]
 [Helix]: https://helix-editor.com
 [Zulip]: https://zulip.com
 [fish]: https://fishshell.com
-[zellij]: https://github.com/zellij-org/zellij
+[zellij]: @/nifty-zellij.md
 [NewPipe]: https://newpipe.net
 [AntennaPod]: https://antennapod.org
 [VLC]: https://www.videolan.org
