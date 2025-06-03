@@ -9,7 +9,7 @@ tags = ['list']
 For a piece of [FLOSS] (free/libre and open source software) to be here,
 it has to both be personally useful and I have to like it a-lot:
 
-__environment__: Debian, [zellij], [fish]
+__environment__: Debian, [Zellij], [fish]
 
 __web browser__: Firefox (laptop and mobile)
 
@@ -34,7 +34,7 @@ __documentation__: [mdBook]
 [Helix]: https://helix-editor.com
 [Zulip]: https://zulip.com
 [fish]: https://fishshell.com
-[zellij]: @/nifty-zellij.md
+[Zellij]: @/nifty-zellij.md
 [NewPipe]: https://newpipe.net
 [AntennaPod]: https://antennapod.org
 [VLC]: https://www.videolan.org

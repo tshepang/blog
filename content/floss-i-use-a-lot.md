@@ -16,7 +16,7 @@ There is [a separate post] for those.
 - __Android__, for nearly all my mobile needs
 - __Firefox__ (on Debian and on Android)
 - __fish__: has a superior command completion system, and overall better usability
-- __[zellij]__: pleasant terminal multiplexer
+- __[Zellij]__: pleasant terminal multiplexer
 - __[Alacritty]__
 - __[wezterm]__ (only on work machine)
 
@@ -78,7 +78,7 @@ There is [a separate post] for those.
 [openfortivpn]: https://github.com/adrienverge/openfortivpn
 [AntennaPod]: https://antennapod.org
 [zola]: https://github.com/getzola/zola
-[zellij]: @/nifty-zellij.md
+[Zellij]: @/nifty-zellij.md
 [mdBook]: https://github.com/rust-lang/mdBook
 [Nemo]: https://github.com/linuxmint/nemo
 [wezterm]: https://github.com/wez/wezterm
