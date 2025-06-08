@@ -1,39 +1,9 @@
-flow pre-requisite:
+> NOTE:
+> This is now developed [on Radicle].
+> See [this website] for more info on what that is.
 
-- [install Rust toolchain]
-
-- install `post`, a helper for creating new blog posts:
-
-      cargo install --git https://github.com/tshepang/post
-
-- get theme
-
-      cd blog
-      mkdir themes && cd themes
-      git clone --recursive https://github.com/tshepang/after-dark --branch custom
-
-flow:
-
-- `post some-title --tags some-tag some-other-tag`
-
-  + I'm then transported to the open post, with my favorite editor
-
-- `./publish`
-
-demo:
-
-```
-❯ post 'Rust ecosystem weaknesses' --tags Rust
-
-❯ cat "~/blog/content/rust-ecosystem-weaknesses.md"
-+++
-title = "Rust ecosystem weaknesses"
-date = 2022-06-24
-
-[taxonomies]
-tags = ["Rust"]
-+++
-```
+[on Radicle]: https://app.radicle.at/nodes/seed.radicle.at/rad:z495gX4yCu5U8PmWBNiGHWEn9wBuz
+[the website]: https://radicle.xyz
 
 ---
 
