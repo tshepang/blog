@@ -3,7 +3,7 @@
 > See [this website] for more info on what that is.
 
 [on Radicle]: https://app.radicle.at/nodes/seed.radicle.at/rad:z495gX4yCu5U8PmWBNiGHWEn9wBuz
-[the website]: https://radicle.xyz
+[this website]: https://radicle.xyz
 
 ---
 
