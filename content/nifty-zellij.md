@@ -18,7 +18,7 @@ particularly ones I only recently started using:
 
   > __C-p w__ (press a Ctrl+p combo, then press w)
 
-  Doing the same key sequence hide them from view.
+  Doing the same key sequence hides it from view.
 
 - You can create additional floating windows, which get stacked on top of the previous ones:
 
