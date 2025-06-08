@@ -1,6 +1,6 @@
 > NOTE:
 > This is now developed [on Radicle].
-> See [this website] for more info on what that is.
+> See [this website] for more on what that is.
 
 [on Radicle]: https://app.radicle.at/nodes/seed.radicle.at/rad:z495gX4yCu5U8PmWBNiGHWEn9wBuz
 [this website]: https://radicle.xyz
